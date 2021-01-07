@@ -1,0 +1,64 @@
+C:\Users\timar.bence\Desktop\2015.05.19-1\2015.05.19-1\bin\Debug\2015.05.19-1.exe.config
+C:\Users\timar.bence\Desktop\2015.05.19-1\2015.05.19-1\bin\Debug\2015.05.19-1.exe
+C:\Users\timar.bence\Desktop\2015.05.19-1\2015.05.19-1\bin\Debug\2015.05.19-1.pdb
+C:\Users\timar.bence\Desktop\2015.05.19-1\2015.05.19-1\obj\Debug\2015.05.19-1.csprojResolveAssemblyReference.cache
+C:\Users\timar.bence\Desktop\2015.05.19-1\2015.05.19-1\obj\Debug\_2015._05._19_1.Form1.resources
+C:\Users\timar.bence\Desktop\2015.05.19-1\2015.05.19-1\obj\Debug\_2015._05._19_1.Properties.Resources.resources
+C:\Users\timar.bence\Desktop\2015.05.19-1\2015.05.19-1\obj\Debug\2015.05.19-1.csproj.GenerateResource.Cache
+C:\Users\timar.bence\Desktop\2015.05.19-1\2015.05.19-1\obj\Debug\2015.05.19-1.exe
+C:\Users\timar.bence\Desktop\2015.05.19-1\2015.05.19-1\obj\Debug\2015.05.19-1.pdb
+M:\Krucsay\2014-2015\12.C-3.h-ProgGy\OraiMunka-Diak\TimarBence\2015.05.19-1\2015.05.19-1\bin\Debug\2015.05.19-1.exe.config
+M:\Krucsay\2014-2015\12.C-3.h-ProgGy\OraiMunka-Diak\TimarBence\2015.05.19-1\2015.05.19-1\obj\Debug\2015.05.19-1.exe
+M:\Krucsay\2014-2015\12.C-3.h-ProgGy\OraiMunka-Diak\TimarBence\2015.05.19-1\2015.05.19-1\obj\Debug\2015.05.19-1.pdb
+h:\00-Blathy-2016-2017\06-Tantárgyak\02-EstiABSZF\TanariMunka\2015.05.19-1\2015.05.19-1\bin\Debug\2015.05.19-1.exe.config
+h:\00-Blathy-2016-2017\06-Tantárgyak\02-EstiABSZF\TanariMunka\2015.05.19-1\2015.05.19-1\obj\Debug\2015.05.19-1.exe
+h:\00-Blathy-2016-2017\06-Tantárgyak\02-EstiABSZF\TanariMunka\2015.05.19-1\2015.05.19-1\obj\Debug\2015.05.19-1.pdb
+h:\00-Blathy-2016-2017\06-Tantárgyak\02-EstiABSZF\TanariMunka\2015.11.17\2015.05.19-1\bin\Debug\2015.05.19-1.exe.config
+h:\00-Blathy-2016-2017\06-Tantárgyak\02-EstiABSZF\TanariMunka\2015.11.17\2015.05.19-1\obj\Debug\2015.05.19-1.exe
+h:\00-Blathy-2016-2017\06-Tantárgyak\02-EstiABSZF\TanariMunka\2015.11.17\2015.05.19-1\obj\Debug\2015.05.19-1.pdb
+c:\Users\mogyorosi.attila\Documents\C#_!Krucsay_Attila\2016.11.17\2015.05.19-1\bin\Debug\2015.05.19-1.exe.config
+c:\Users\mogyorosi.attila\Documents\C#_!Krucsay_Attila\2016.11.17\2015.05.19-1\obj\Debug\2015.05.19-1.exe
+c:\Users\mogyorosi.attila\Documents\C#_!Krucsay_Attila\2016.11.17\2015.05.19-1\obj\Debug\2015.05.19-1.pdb
+c:\Users\mogyorosi.attila\Documents\C#_!Krucsay_Attila\2016.11.17\2015.05.19-1\bin\Debug\2015.05.19-1.exe
+c:\Users\mogyorosi.attila\Documents\C#_!Krucsay_Attila\2016.11.17\2015.05.19-1\bin\Debug\2015.05.19-1.pdb
+c:\Users\mogyorosi.attila\Documents\C#_!Krucsay_Attila\2016.11.17\2015.05.19-1\obj\Debug\2015.05.19-1.csprojResolveAssemblyReference.cache
+c:\Users\mogyorosi.attila\Documents\C#_!Krucsay_Attila\2016.11.17\2015.05.19-1\obj\Debug\_2015._05._19_1.Form1.resources
+c:\Users\mogyorosi.attila\Documents\C#_!Krucsay_Attila\2016.11.17\2015.05.19-1\obj\Debug\_2015._05._19_1.Properties.Resources.resources
+c:\Users\mogyorosi.attila\Documents\C#_!Krucsay_Attila\2016.11.17\2015.05.19-1\obj\Debug\2015.05.19-1.csproj.GenerateResource.Cache
+e:\!\!Bláthy\C#_!Krucsay_Attila\2016.11.17\2015.05.19-1\bin\Debug\2015.05.19-1.exe.config
+e:\!\!Bláthy\C#_!Krucsay_Attila\2016.11.17\2015.05.19-1\obj\Debug\2015.05.19-1.exe
+e:\!\!Bláthy\C#_!Krucsay_Attila\2016.11.17\2015.05.19-1\obj\Debug\2015.05.19-1.pdb
+c:\Users\mogyorosi.attila\Documents\C#_!Krucsay_Attila\20161124\2015.05.19-1\bin\Debug\2015.05.19-1.exe.config
+c:\Users\mogyorosi.attila\Documents\C#_!Krucsay_Attila\20161124\2015.05.19-1\obj\Debug\2015.05.19-1.exe
+c:\Users\mogyorosi.attila\Documents\C#_!Krucsay_Attila\20161124\2015.05.19-1\obj\Debug\2015.05.19-1.pdb
+c:\Users\mogyorosi.attila\Documents\C#_!Krucsay_Attila\20161124\2015.05.19-1\bin\Debug\2015.05.19-1.exe
+c:\Users\mogyorosi.attila\Documents\C#_!Krucsay_Attila\20161124\2015.05.19-1\bin\Debug\2015.05.19-1.pdb
+c:\Users\mogyorosi.attila\Documents\C#_!Krucsay_Attila\20161124\2015.05.19-1\obj\Debug\_2015._05._19_1.Form1.resources
+c:\Users\mogyorosi.attila\Documents\C#_!Krucsay_Attila\20161124\2015.05.19-1\obj\Debug\_2015._05._19_1.Properties.Resources.resources
+c:\Users\mogyorosi.attila\Documents\C#_!Krucsay_Attila\20161124\2015.05.19-1\obj\Debug\2015.05.19-1.csproj.GenerateResource.Cache
+c:\Users\mogyorosi.attila\Documents\C#_!Krucsay_Attila\20161124\2015.05.19-1\obj\Debug\2015.05.19-1.csprojResolveAssemblyReference.cache
+h:\00-Blathy-2016-2017\10-Esti\Feladat\2016.12.01\2015.05.19-1\bin\Debug\2015.05.19-1.exe.config
+h:\00-Blathy-2016-2017\10-Esti\Feladat\2016.12.01\2015.05.19-1\obj\Debug\2015.05.19-1.exe
+h:\00-Blathy-2016-2017\10-Esti\Feladat\2016.12.01\2015.05.19-1\obj\Debug\2015.05.19-1.pdb
+h:\00-Blathy-2016-2017\10-Esti\Feladat\2016.12.01\2015.05.19-1\bin\Debug\2015.05.19-1.exe
+h:\00-Blathy-2016-2017\10-Esti\Feladat\2016.12.01\2015.05.19-1\bin\Debug\2015.05.19-1.pdb
+h:\00-Blathy-2016-2017\10-Esti\Feladat\2016.12.01\2015.05.19-1\obj\Debug\2015.05.19-1.csprojResolveAssemblyReference.cache
+h:\00-Blathy-2016-2017\10-Esti\Feladat\2016.12.01\2015.05.19-1\obj\Debug\_2015._05._19_1.Form1.resources
+h:\00-Blathy-2016-2017\10-Esti\Feladat\2016.12.01\2015.05.19-1\obj\Debug\_2015._05._19_1.Properties.Resources.resources
+h:\00-Blathy-2016-2017\10-Esti\Feladat\2016.12.01\2015.05.19-1\obj\Debug\2015.05.19-1.csproj.GenerateResource.Cache
+M:\Krucsay\2016-2017\1-13.E\TanariProgramok\2016.12.01\2015.05.19-1\bin\Debug\2015.05.19-1.exe.config
+M:\Krucsay\2016-2017\1-13.E\TanariProgramok\2016.12.01\2015.05.19-1\obj\Debug\2015.05.19-1.exe
+M:\Krucsay\2016-2017\1-13.E\TanariProgramok\2016.12.01\2015.05.19-1\obj\Debug\2015.05.19-1.pdb
+C:\Users\ACS.MARCELL\Desktop\krucsay programok\2016.12.01\2015.05.19-1\bin\Debug\2015.05.19-1.exe.config
+C:\Users\ACS.MARCELL\Desktop\krucsay programok\2016.12.01\2015.05.19-1\obj\Debug\2015.05.19-1.exe
+C:\Users\ACS.MARCELL\Desktop\krucsay programok\2016.12.01\2015.05.19-1\obj\Debug\2015.05.19-1.pdb
+C:\Users\AlizHumayer\Desktop\C sharp_mix\Krucsay_2016.12.01\2016.12.01\2015.05.19-1\bin\Debug\2015.05.19-1.exe.config
+C:\Users\AlizHumayer\Desktop\C sharp_mix\Krucsay_2016.12.01\2016.12.01\2015.05.19-1\bin\Debug\2015.05.19-1.exe
+C:\Users\AlizHumayer\Desktop\C sharp_mix\Krucsay_2016.12.01\2016.12.01\2015.05.19-1\bin\Debug\2015.05.19-1.pdb
+C:\Users\AlizHumayer\Desktop\C sharp_mix\Krucsay_2016.12.01\2016.12.01\2015.05.19-1\obj\Debug\2015.05.19-1.csprojAssemblyReference.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\Krucsay_2016.12.01\2016.12.01\2015.05.19-1\obj\Debug\_2015._05._19_1.Form1.resources
+C:\Users\AlizHumayer\Desktop\C sharp_mix\Krucsay_2016.12.01\2016.12.01\2015.05.19-1\obj\Debug\_2015._05._19_1.Properties.Resources.resources
+C:\Users\AlizHumayer\Desktop\C sharp_mix\Krucsay_2016.12.01\2016.12.01\2015.05.19-1\obj\Debug\2015.05.19-1.csproj.GenerateResource.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\Krucsay_2016.12.01\2016.12.01\2015.05.19-1\obj\Debug\2015.05.19-1.csproj.CoreCompileInputs.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\Krucsay_2016.12.01\2016.12.01\2015.05.19-1\obj\Debug\2015.05.19-1.exe
+C:\Users\AlizHumayer\Desktop\C sharp_mix\Krucsay_2016.12.01\2016.12.01\2015.05.19-1\obj\Debug\2015.05.19-1.pdb

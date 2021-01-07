@@ -1,0 +1,7 @@
+H:\abszf\masodikora\masodikora\masodikora\bin\Debug\masodikora.exe.config
+H:\abszf\masodikora\masodikora\bin\Debug\masodikora.exe.config
+H:\abszf\masodikora\masodikora\obj\Debug\masodikora.csprojResolveAssemblyReference.cache
+H:\abszf\masodikora\masodikora\bin\Debug\masodikora.exe
+H:\abszf\masodikora\masodikora\bin\Debug\masodikora.pdb
+H:\abszf\masodikora\masodikora\obj\Debug\masodikora.exe
+H:\abszf\masodikora\masodikora\obj\Debug\masodikora.pdb

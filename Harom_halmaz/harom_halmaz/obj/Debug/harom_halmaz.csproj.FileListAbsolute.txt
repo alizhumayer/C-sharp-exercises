@@ -1,0 +1,18 @@
+c:\users\acs.marcell\documents\visual studio 2015\Projects\harom_halmaz\harom_halmaz\bin\Debug\harom_halmaz.exe.config
+c:\users\acs.marcell\documents\visual studio 2015\Projects\harom_halmaz\harom_halmaz\bin\Debug\harom_halmaz.exe
+c:\users\acs.marcell\documents\visual studio 2015\Projects\harom_halmaz\harom_halmaz\bin\Debug\harom_halmaz.pdb
+c:\users\acs.marcell\documents\visual studio 2015\Projects\harom_halmaz\harom_halmaz\obj\Debug\harom_halmaz.Form1.resources
+c:\users\acs.marcell\documents\visual studio 2015\Projects\harom_halmaz\harom_halmaz\obj\Debug\harom_halmaz.Properties.Resources.resources
+c:\users\acs.marcell\documents\visual studio 2015\Projects\harom_halmaz\harom_halmaz\obj\Debug\harom_halmaz.csproj.GenerateResource.Cache
+c:\users\acs.marcell\documents\visual studio 2015\Projects\harom_halmaz\harom_halmaz\obj\Debug\harom_halmaz.exe
+c:\users\acs.marcell\documents\visual studio 2015\Projects\harom_halmaz\harom_halmaz\obj\Debug\harom_halmaz.pdb
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20161123_harom_halmaz\20161123_harom_halmaz\harom_halmaz\bin\Debug\harom_halmaz.exe.config
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20161123_harom_halmaz\20161123_harom_halmaz\harom_halmaz\bin\Debug\harom_halmaz.exe
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20161123_harom_halmaz\20161123_harom_halmaz\harom_halmaz\bin\Debug\harom_halmaz.pdb
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20161123_harom_halmaz\20161123_harom_halmaz\harom_halmaz\obj\Debug\harom_halmaz.csprojAssemblyReference.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20161123_harom_halmaz\20161123_harom_halmaz\harom_halmaz\obj\Debug\harom_halmaz.Form1.resources
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20161123_harom_halmaz\20161123_harom_halmaz\harom_halmaz\obj\Debug\harom_halmaz.Properties.Resources.resources
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20161123_harom_halmaz\20161123_harom_halmaz\harom_halmaz\obj\Debug\harom_halmaz.csproj.GenerateResource.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20161123_harom_halmaz\20161123_harom_halmaz\harom_halmaz\obj\Debug\harom_halmaz.csproj.CoreCompileInputs.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20161123_harom_halmaz\20161123_harom_halmaz\harom_halmaz\obj\Debug\harom_halmaz.exe
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20161123_harom_halmaz\20161123_harom_halmaz\harom_halmaz\obj\Debug\harom_halmaz.pdb

@@ -1,0 +1,44 @@
+C:\Users\r.daniella\Desktop\4felev_1207\4felev_1207\4felev_1207\bin\Debug\4felev_1207.exe.config
+C:\Users\r.daniella\Desktop\4felev_1207\4felev_1207\4felev_1207\bin\Debug\4felev_1207.exe
+C:\Users\r.daniella\Desktop\4felev_1207\4felev_1207\4felev_1207\bin\Debug\4felev_1207.pdb
+C:\Users\r.daniella\Desktop\4felev_1207\4felev_1207\4felev_1207\bin\Debug\mysql.data.dll
+C:\Users\r.daniella\Desktop\4felev_1207\4felev_1207\4felev_1207\obj\Debug\4felev_1207.csprojResolveAssemblyReference.cache
+C:\Users\r.daniella\Desktop\4felev_1207\4felev_1207\4felev_1207\obj\Debug\_4felev_1207.Form1.resources
+C:\Users\r.daniella\Desktop\4felev_1207\4felev_1207\4felev_1207\obj\Debug\_4felev_1207.Properties.Resources.resources
+C:\Users\r.daniella\Desktop\4felev_1207\4felev_1207\4felev_1207\obj\Debug\4felev_1207.csproj.GenerateResource.Cache
+C:\Users\r.daniella\Desktop\4felev_1207\4felev_1207\4felev_1207\obj\Debug\4felev_1207.exe
+C:\Users\r.daniella\Desktop\4felev_1207\4felev_1207\4felev_1207\obj\Debug\4felev_1207.pdb
+E:\szoftverfejlesztő\4felev\4felev_1207\4felev_1207\4felev_1207\bin\Debug\4felev_1207.exe.config
+E:\szoftverfejlesztő\4felev\4felev_1207\4felev_1207\4felev_1207\obj\Debug\4felev_1207.exe
+E:\szoftverfejlesztő\4felev\4felev_1207\4felev_1207\4felev_1207\obj\Debug\4felev_1207.pdb
+E:\szoftverfejlesztő\4felev\4felev_1207\4felev_1207\4felev_1207\bin\Debug\4felev_1207.exe
+E:\szoftverfejlesztő\4felev\4felev_1207\4felev_1207\4felev_1207\bin\Debug\4felev_1207.pdb
+E:\szoftverfejlesztő\4felev\4felev_1207\4felev_1207\4felev_1207\bin\Debug\mysql.data.dll
+E:\szoftverfejlesztő\4felev\4felev_1207\4felev_1207\4felev_1207\obj\Debug\4felev_1207.csprojResolveAssemblyReference.cache
+E:\szoftverfejlesztő\4felev\4felev_1207\4felev_1207\4felev_1207\obj\Debug\_4felev_1207.Form1.resources
+E:\szoftverfejlesztő\4felev\4felev_1207\4felev_1207\4felev_1207\obj\Debug\_4felev_1207.Properties.Resources.resources
+E:\szoftverfejlesztő\4felev\4felev_1207\4felev_1207\4felev_1207\obj\Debug\4felev_1207.csproj.GenerateResource.Cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\tagdijDB\4felev_1207\4felev_1207\4felev_1207\bin\Debug\4felev_1207.exe.config
+C:\Users\AlizHumayer\Desktop\C sharp_mix\tagdijDB\4felev_1207\4felev_1207\4felev_1207\bin\Debug\4felev_1207.exe
+C:\Users\AlizHumayer\Desktop\C sharp_mix\tagdijDB\4felev_1207\4felev_1207\4felev_1207\bin\Debug\4felev_1207.pdb
+C:\Users\AlizHumayer\Desktop\C sharp_mix\tagdijDB\4felev_1207\4felev_1207\4felev_1207\bin\Debug\mysql.data.dll
+C:\Users\AlizHumayer\Desktop\C sharp_mix\tagdijDB\4felev_1207\4felev_1207\4felev_1207\obj\Debug\4felev_1207.csprojAssemblyReference.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\tagdijDB\4felev_1207\4felev_1207\4felev_1207\obj\Debug\_4felev_1207.Form1.resources
+C:\Users\AlizHumayer\Desktop\C sharp_mix\tagdijDB\4felev_1207\4felev_1207\4felev_1207\obj\Debug\_4felev_1207.Properties.Resources.resources
+C:\Users\AlizHumayer\Desktop\C sharp_mix\tagdijDB\4felev_1207\4felev_1207\4felev_1207\obj\Debug\4felev_1207.csproj.GenerateResource.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\tagdijDB\4felev_1207\4felev_1207\4felev_1207\obj\Debug\4felev_1207.csproj.CoreCompileInputs.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\tagdijDB\4felev_1207\4felev_1207\4felev_1207\obj\Debug\4felev_1207.csproj.CopyComplete
+C:\Users\AlizHumayer\Desktop\C sharp_mix\tagdijDB\4felev_1207\4felev_1207\4felev_1207\obj\Debug\4felev_1207.exe
+C:\Users\AlizHumayer\Desktop\C sharp_mix\tagdijDB\4felev_1207\4felev_1207\4felev_1207\obj\Debug\4felev_1207.pdb
+C:\Users\AlizHumayer\Desktop\C sharp new programs Githubra\4felev_1207\4felev_1207\4felev_1207\bin\Debug\4felev_1207.exe.config
+C:\Users\AlizHumayer\Desktop\C sharp new programs Githubra\4felev_1207\4felev_1207\4felev_1207\bin\Debug\4felev_1207.exe
+C:\Users\AlizHumayer\Desktop\C sharp new programs Githubra\4felev_1207\4felev_1207\4felev_1207\bin\Debug\4felev_1207.pdb
+C:\Users\AlizHumayer\Desktop\C sharp new programs Githubra\4felev_1207\4felev_1207\4felev_1207\bin\Debug\mysql.data.dll
+C:\Users\AlizHumayer\Desktop\C sharp new programs Githubra\4felev_1207\4felev_1207\4felev_1207\obj\Debug\4felev_1207.csprojAssemblyReference.cache
+C:\Users\AlizHumayer\Desktop\C sharp new programs Githubra\4felev_1207\4felev_1207\4felev_1207\obj\Debug\_4felev_1207.Form1.resources
+C:\Users\AlizHumayer\Desktop\C sharp new programs Githubra\4felev_1207\4felev_1207\4felev_1207\obj\Debug\_4felev_1207.Properties.Resources.resources
+C:\Users\AlizHumayer\Desktop\C sharp new programs Githubra\4felev_1207\4felev_1207\4felev_1207\obj\Debug\4felev_1207.csproj.GenerateResource.cache
+C:\Users\AlizHumayer\Desktop\C sharp new programs Githubra\4felev_1207\4felev_1207\4felev_1207\obj\Debug\4felev_1207.csproj.CoreCompileInputs.cache
+C:\Users\AlizHumayer\Desktop\C sharp new programs Githubra\4felev_1207\4felev_1207\4felev_1207\obj\Debug\4felev_1207.csproj.CopyComplete
+C:\Users\AlizHumayer\Desktop\C sharp new programs Githubra\4felev_1207\4felev_1207\4felev_1207\obj\Debug\4felev_1207.exe
+C:\Users\AlizHumayer\Desktop\C sharp new programs Githubra\4felev_1207\4felev_1207\4felev_1207\obj\Debug\4felev_1207.pdb

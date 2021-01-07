@@ -1,0 +1,25 @@
+D:\Szoftverfejlesztés\C win form gyak\szetvalogato\szetvalogato\bin\Debug\szetvalogato.exe.config
+D:\Szoftverfejlesztés\C win form gyak\szetvalogato\szetvalogato\bin\Debug\szetvalogato.exe
+D:\Szoftverfejlesztés\C win form gyak\szetvalogato\szetvalogato\bin\Debug\szetvalogato.pdb
+D:\Szoftverfejlesztés\C win form gyak\szetvalogato\szetvalogato\bin\Debug\fo\szetvalogato.resources.dll
+D:\Szoftverfejlesztés\C win form gyak\szetvalogato\szetvalogato\obj\Debug\szetvalogato.csprojResolveAssemblyReference.cache
+D:\Szoftverfejlesztés\C win form gyak\szetvalogato\szetvalogato\obj\Debug\szetvalogato.Form1.resources
+D:\Szoftverfejlesztés\C win form gyak\szetvalogato\szetvalogato\obj\Debug\szetvalogato.Properties.Resources.resources
+D:\Szoftverfejlesztés\C win form gyak\szetvalogato\szetvalogato\obj\Debug\szetvalogato.Form1.fo.resources
+D:\Szoftverfejlesztés\C win form gyak\szetvalogato\szetvalogato\obj\Debug\szetvalogato.csproj.GenerateResource.Cache
+D:\Szoftverfejlesztés\C win form gyak\szetvalogato\szetvalogato\obj\Debug\fo\szetvalogato.resources.dll
+D:\Szoftverfejlesztés\C win form gyak\szetvalogato\szetvalogato\obj\Debug\szetvalogato.exe
+D:\Szoftverfejlesztés\C win form gyak\szetvalogato\szetvalogato\obj\Debug\szetvalogato.pdb
+C:\Users\AlizHumayer\Desktop\C sharp_mix\szetvalogato\szetvalogato\szetvalogato\bin\Debug\szetvalogato.exe.config
+C:\Users\AlizHumayer\Desktop\C sharp_mix\szetvalogato\szetvalogato\szetvalogato\bin\Debug\szetvalogato.exe
+C:\Users\AlizHumayer\Desktop\C sharp_mix\szetvalogato\szetvalogato\szetvalogato\bin\Debug\szetvalogato.pdb
+C:\Users\AlizHumayer\Desktop\C sharp_mix\szetvalogato\szetvalogato\szetvalogato\bin\Debug\fo\szetvalogato.resources.dll
+C:\Users\AlizHumayer\Desktop\C sharp_mix\szetvalogato\szetvalogato\szetvalogato\obj\Debug\szetvalogato.csprojAssemblyReference.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\szetvalogato\szetvalogato\szetvalogato\obj\Debug\szetvalogato.Form1.resources
+C:\Users\AlizHumayer\Desktop\C sharp_mix\szetvalogato\szetvalogato\szetvalogato\obj\Debug\szetvalogato.Properties.Resources.resources
+C:\Users\AlizHumayer\Desktop\C sharp_mix\szetvalogato\szetvalogato\szetvalogato\obj\Debug\szetvalogato.Form1.fo.resources
+C:\Users\AlizHumayer\Desktop\C sharp_mix\szetvalogato\szetvalogato\szetvalogato\obj\Debug\szetvalogato.csproj.GenerateResource.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\szetvalogato\szetvalogato\szetvalogato\obj\Debug\szetvalogato.csproj.CoreCompileInputs.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\szetvalogato\szetvalogato\szetvalogato\obj\Debug\fo\szetvalogato.resources.dll
+C:\Users\AlizHumayer\Desktop\C sharp_mix\szetvalogato\szetvalogato\szetvalogato\obj\Debug\szetvalogato.exe
+C:\Users\AlizHumayer\Desktop\C sharp_mix\szetvalogato\szetvalogato\szetvalogato\obj\Debug\szetvalogato.pdb

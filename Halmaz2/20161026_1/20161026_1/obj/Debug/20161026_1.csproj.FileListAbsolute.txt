@@ -1,0 +1,6 @@
+C:\Users\ACS.MARCELL\Desktop\20161026_1\20161026_1\bin\Debug\20161026_1.exe.config
+C:\Users\ACS.MARCELL\Desktop\20161026_1\20161026_1\obj\Debug\20161026_1.csprojResolveAssemblyReference.cache
+C:\Users\ACS.MARCELL\Desktop\20161026_1\20161026_1\bin\Debug\20161026_1.exe
+C:\Users\ACS.MARCELL\Desktop\20161026_1\20161026_1\bin\Debug\20161026_1.pdb
+C:\Users\ACS.MARCELL\Desktop\20161026_1\20161026_1\obj\Debug\20161026_1.exe
+C:\Users\ACS.MARCELL\Desktop\20161026_1\20161026_1\obj\Debug\20161026_1.pdb

@@ -1,0 +1,18 @@
+D:\Szoftverfejlesztés\C win form gyak\Lista_keszito\Lista_keszito\bin\Debug\Lista_keszito.exe.config
+D:\Szoftverfejlesztés\C win form gyak\Lista_keszito\Lista_keszito\bin\Debug\Lista_keszito.exe
+D:\Szoftverfejlesztés\C win form gyak\Lista_keszito\Lista_keszito\bin\Debug\Lista_keszito.pdb
+D:\Szoftverfejlesztés\C win form gyak\Lista_keszito\Lista_keszito\obj\Debug\Lista_keszito.Form1.resources
+D:\Szoftverfejlesztés\C win form gyak\Lista_keszito\Lista_keszito\obj\Debug\Lista_keszito.Properties.Resources.resources
+D:\Szoftverfejlesztés\C win form gyak\Lista_keszito\Lista_keszito\obj\Debug\Lista_keszito.csproj.GenerateResource.Cache
+D:\Szoftverfejlesztés\C win form gyak\Lista_keszito\Lista_keszito\obj\Debug\Lista_keszito.exe
+D:\Szoftverfejlesztés\C win form gyak\Lista_keszito\Lista_keszito\obj\Debug\Lista_keszito.pdb
+C:\Users\AlizHumayer\Desktop\C sharp_mix\Lista_keszito\Lista_keszito\Lista_keszito\bin\Debug\Lista_keszito.exe.config
+C:\Users\AlizHumayer\Desktop\C sharp_mix\Lista_keszito\Lista_keszito\Lista_keszito\bin\Debug\Lista_keszito.exe
+C:\Users\AlizHumayer\Desktop\C sharp_mix\Lista_keszito\Lista_keszito\Lista_keszito\bin\Debug\Lista_keszito.pdb
+C:\Users\AlizHumayer\Desktop\C sharp_mix\Lista_keszito\Lista_keszito\Lista_keszito\obj\Debug\Lista_keszito.csprojAssemblyReference.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\Lista_keszito\Lista_keszito\Lista_keszito\obj\Debug\Lista_keszito.Form1.resources
+C:\Users\AlizHumayer\Desktop\C sharp_mix\Lista_keszito\Lista_keszito\Lista_keszito\obj\Debug\Lista_keszito.Properties.Resources.resources
+C:\Users\AlizHumayer\Desktop\C sharp_mix\Lista_keszito\Lista_keszito\Lista_keszito\obj\Debug\Lista_keszito.csproj.GenerateResource.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\Lista_keszito\Lista_keszito\Lista_keszito\obj\Debug\Lista_keszito.csproj.CoreCompileInputs.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\Lista_keszito\Lista_keszito\Lista_keszito\obj\Debug\Lista_keszito.exe
+C:\Users\AlizHumayer\Desktop\C sharp_mix\Lista_keszito\Lista_keszito\Lista_keszito\obj\Debug\Lista_keszito.pdb

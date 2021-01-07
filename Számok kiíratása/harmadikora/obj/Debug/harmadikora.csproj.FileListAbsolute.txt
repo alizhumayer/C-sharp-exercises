@@ -1,0 +1,6 @@
+H:\C#\harmadikora\harmadikora\bin\Debug\harmadikora.exe.config
+H:\C#\harmadikora\harmadikora\obj\Debug\harmadikora.csprojResolveAssemblyReference.cache
+H:\C#\harmadikora\harmadikora\bin\Debug\harmadikora.exe
+H:\C#\harmadikora\harmadikora\bin\Debug\harmadikora.pdb
+H:\C#\harmadikora\harmadikora\obj\Debug\harmadikora.exe
+H:\C#\harmadikora\harmadikora\obj\Debug\harmadikora.pdb

@@ -1,0 +1,20 @@
+C:\Users\Tanár\Downloads\cukraszdaGUI\cukraszdagui\cukraszdagui\bin\Debug\cukraszdagui.exe.config
+C:\Users\Tanár\Downloads\cukraszdaGUI\cukraszdagui\cukraszdagui\bin\Debug\cukraszdagui.exe
+C:\Users\Tanár\Downloads\cukraszdaGUI\cukraszdagui\cukraszdagui\bin\Debug\cukraszdagui.pdb
+C:\Users\Tanár\Downloads\cukraszdaGUI\cukraszdagui\cukraszdagui\obj\Debug\cukraszdagui.csprojAssemblyReference.cache
+C:\Users\Tanár\Downloads\cukraszdaGUI\cukraszdagui\cukraszdagui\obj\Debug\cukraszdagui.Form1.resources
+C:\Users\Tanár\Downloads\cukraszdaGUI\cukraszdagui\cukraszdagui\obj\Debug\cukraszdagui.Properties.Resources.resources
+C:\Users\Tanár\Downloads\cukraszdaGUI\cukraszdagui\cukraszdagui\obj\Debug\cukraszdagui.csproj.GenerateResource.cache
+C:\Users\Tanár\Downloads\cukraszdaGUI\cukraszdagui\cukraszdagui\obj\Debug\cukraszdagui.exe
+C:\Users\Tanár\Downloads\cukraszdaGUI\cukraszdagui\cukraszdagui\obj\Debug\cukraszdagui.pdb
+c:\Users\Tanár\Downloads\cukraszdaGUI\cukraszdagui\cukraszdagui\obj\Debug\cukraszdagui.csproj.CoreCompileInputs.cache
+C:\Users\AlizHumayer\Desktop\PROGRAMOZÁS_VIZSGA FELADATOK\Cukrászda\cukraszdaGUI\cukraszdaGUI\cukraszdagui\cukraszdagui\bin\Debug\cukraszdagui.exe.config
+C:\Users\AlizHumayer\Desktop\PROGRAMOZÁS_VIZSGA FELADATOK\Cukrászda\cukraszdaGUI\cukraszdaGUI\cukraszdagui\cukraszdagui\bin\Debug\cukraszdagui.exe
+C:\Users\AlizHumayer\Desktop\PROGRAMOZÁS_VIZSGA FELADATOK\Cukrászda\cukraszdaGUI\cukraszdaGUI\cukraszdagui\cukraszdagui\bin\Debug\cukraszdagui.pdb
+C:\Users\AlizHumayer\Desktop\PROGRAMOZÁS_VIZSGA FELADATOK\Cukrászda\cukraszdaGUI\cukraszdaGUI\cukraszdagui\cukraszdagui\obj\Debug\cukraszdagui.csprojAssemblyReference.cache
+C:\Users\AlizHumayer\Desktop\PROGRAMOZÁS_VIZSGA FELADATOK\Cukrászda\cukraszdaGUI\cukraszdaGUI\cukraszdagui\cukraszdagui\obj\Debug\cukraszdagui.Form1.resources
+C:\Users\AlizHumayer\Desktop\PROGRAMOZÁS_VIZSGA FELADATOK\Cukrászda\cukraszdaGUI\cukraszdaGUI\cukraszdagui\cukraszdagui\obj\Debug\cukraszdagui.Properties.Resources.resources
+C:\Users\AlizHumayer\Desktop\PROGRAMOZÁS_VIZSGA FELADATOK\Cukrászda\cukraszdaGUI\cukraszdaGUI\cukraszdagui\cukraszdagui\obj\Debug\cukraszdagui.csproj.GenerateResource.cache
+C:\Users\AlizHumayer\Desktop\PROGRAMOZÁS_VIZSGA FELADATOK\Cukrászda\cukraszdaGUI\cukraszdaGUI\cukraszdagui\cukraszdagui\obj\Debug\cukraszdagui.csproj.CoreCompileInputs.cache
+C:\Users\AlizHumayer\Desktop\PROGRAMOZÁS_VIZSGA FELADATOK\Cukrászda\cukraszdaGUI\cukraszdaGUI\cukraszdagui\cukraszdagui\obj\Debug\cukraszdagui.exe
+C:\Users\AlizHumayer\Desktop\PROGRAMOZÁS_VIZSGA FELADATOK\Cukrászda\cukraszdaGUI\cukraszdaGUI\cukraszdagui\cukraszdagui\obj\Debug\cukraszdagui.pdb

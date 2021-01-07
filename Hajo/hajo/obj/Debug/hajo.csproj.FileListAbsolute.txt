@@ -1,0 +1,10 @@
+C:\Users\Tanár\Downloads\hajoGUI\hajo\hajo\bin\Debug\hajo.exe.config
+C:\Users\Tanár\Downloads\hajoGUI\hajo\hajo\bin\Debug\hajo.exe
+C:\Users\Tanár\Downloads\hajoGUI\hajo\hajo\bin\Debug\hajo.pdb
+C:\Users\Tanár\Downloads\hajoGUI\hajo\hajo\obj\Debug\hajo.csprojAssemblyReference.cache
+C:\Users\Tanár\Downloads\hajoGUI\hajo\hajo\obj\Debug\hajo.Form1.resources
+C:\Users\Tanár\Downloads\hajoGUI\hajo\hajo\obj\Debug\hajo.Properties.Resources.resources
+C:\Users\Tanár\Downloads\hajoGUI\hajo\hajo\obj\Debug\hajo.csproj.GenerateResource.cache
+C:\Users\Tanár\Downloads\hajoGUI\hajo\hajo\obj\Debug\hajo.exe
+C:\Users\Tanár\Downloads\hajoGUI\hajo\hajo\obj\Debug\hajo.pdb
+c:\Users\Tanár\Downloads\hajoGUI\hajo\hajo\obj\Debug\hajo.csproj.CoreCompileInputs.cache

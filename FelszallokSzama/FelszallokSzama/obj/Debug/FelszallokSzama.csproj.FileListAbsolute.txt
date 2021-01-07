@@ -1,0 +1,19 @@
+C:\Users\ACS.MARCELL\Desktop\csharp\FelszallokSzama\FelszallokSzama\bin\Debug\FelszallokSzama.exe.config
+C:\Users\ACS.MARCELL\Desktop\csharp\FelszallokSzama\FelszallokSzama\bin\Debug\FelszallokSzama.exe
+C:\Users\ACS.MARCELL\Desktop\csharp\FelszallokSzama\FelszallokSzama\bin\Debug\FelszallokSzama.pdb
+C:\Users\ACS.MARCELL\Desktop\csharp\FelszallokSzama\FelszallokSzama\obj\Debug\FelszallokSzama.csprojResolveAssemblyReference.cache
+C:\Users\ACS.MARCELL\Desktop\csharp\FelszallokSzama\FelszallokSzama\obj\Debug\FelszallokSzama.Form1.resources
+C:\Users\ACS.MARCELL\Desktop\csharp\FelszallokSzama\FelszallokSzama\obj\Debug\FelszallokSzama.Properties.Resources.resources
+C:\Users\ACS.MARCELL\Desktop\csharp\FelszallokSzama\FelszallokSzama\obj\Debug\FelszallokSzama.csproj.GenerateResource.Cache
+C:\Users\ACS.MARCELL\Desktop\csharp\FelszallokSzama\FelszallokSzama\obj\Debug\FelszallokSzama.exe
+C:\Users\ACS.MARCELL\Desktop\csharp\FelszallokSzama\FelszallokSzama\obj\Debug\FelszallokSzama.pdb
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20171016_FelszallokSzama\20171016_FelszallokSzama\FelszallokSzama\bin\Debug\FelszallokSzama.exe.config
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20171016_FelszallokSzama\20171016_FelszallokSzama\FelszallokSzama\bin\Debug\FelszallokSzama.exe
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20171016_FelszallokSzama\20171016_FelszallokSzama\FelszallokSzama\bin\Debug\FelszallokSzama.pdb
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20171016_FelszallokSzama\20171016_FelszallokSzama\FelszallokSzama\obj\Debug\FelszallokSzama.csprojAssemblyReference.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20171016_FelszallokSzama\20171016_FelszallokSzama\FelszallokSzama\obj\Debug\FelszallokSzama.Form1.resources
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20171016_FelszallokSzama\20171016_FelszallokSzama\FelszallokSzama\obj\Debug\FelszallokSzama.Properties.Resources.resources
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20171016_FelszallokSzama\20171016_FelszallokSzama\FelszallokSzama\obj\Debug\FelszallokSzama.csproj.GenerateResource.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20171016_FelszallokSzama\20171016_FelszallokSzama\FelszallokSzama\obj\Debug\FelszallokSzama.csproj.CoreCompileInputs.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20171016_FelszallokSzama\20171016_FelszallokSzama\FelszallokSzama\obj\Debug\FelszallokSzama.exe
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20171016_FelszallokSzama\20171016_FelszallokSzama\FelszallokSzama\obj\Debug\FelszallokSzama.pdb

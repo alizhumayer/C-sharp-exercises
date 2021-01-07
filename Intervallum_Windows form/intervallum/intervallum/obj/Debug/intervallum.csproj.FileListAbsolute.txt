@@ -1,0 +1,10 @@
+C:\Users\AlizHumayer\Desktop\Visual Studio_ZIP files\intervallum\intervallum\intervallum\bin\Debug\intervallum.exe.config
+C:\Users\AlizHumayer\Desktop\Visual Studio_ZIP files\intervallum\intervallum\intervallum\bin\Debug\intervallum.exe
+C:\Users\AlizHumayer\Desktop\Visual Studio_ZIP files\intervallum\intervallum\intervallum\bin\Debug\intervallum.pdb
+C:\Users\AlizHumayer\Desktop\Visual Studio_ZIP files\intervallum\intervallum\intervallum\obj\Debug\intervallum.csprojAssemblyReference.cache
+C:\Users\AlizHumayer\Desktop\Visual Studio_ZIP files\intervallum\intervallum\intervallum\obj\Debug\intervallum.Form1.resources
+C:\Users\AlizHumayer\Desktop\Visual Studio_ZIP files\intervallum\intervallum\intervallum\obj\Debug\intervallum.Properties.Resources.resources
+C:\Users\AlizHumayer\Desktop\Visual Studio_ZIP files\intervallum\intervallum\intervallum\obj\Debug\intervallum.csproj.GenerateResource.cache
+C:\Users\AlizHumayer\Desktop\Visual Studio_ZIP files\intervallum\intervallum\intervallum\obj\Debug\intervallum.csproj.CoreCompileInputs.cache
+C:\Users\AlizHumayer\Desktop\Visual Studio_ZIP files\intervallum\intervallum\intervallum\obj\Debug\intervallum.exe
+C:\Users\AlizHumayer\Desktop\Visual Studio_ZIP files\intervallum\intervallum\intervallum\obj\Debug\intervallum.pdb

@@ -1,0 +1,19 @@
+Z:\C#\2017_11_13\SHA_256\SHA_256\bin\Debug\SHA_256.exe.config
+Z:\C#\2017_11_13\SHA_256\SHA_256\bin\Debug\SHA_256.exe
+Z:\C#\2017_11_13\SHA_256\SHA_256\bin\Debug\SHA_256.pdb
+Z:\C#\2017_11_13\SHA_256\SHA_256\obj\Debug\SHA_256.csprojResolveAssemblyReference.cache
+Z:\C#\2017_11_13\SHA_256\SHA_256\obj\Debug\SHA_256.Form1.resources
+Z:\C#\2017_11_13\SHA_256\SHA_256\obj\Debug\SHA_256.Properties.Resources.resources
+Z:\C#\2017_11_13\SHA_256\SHA_256\obj\Debug\SHA_256.csproj.GenerateResource.Cache
+Z:\C#\2017_11_13\SHA_256\SHA_256\obj\Debug\SHA_256.exe
+Z:\C#\2017_11_13\SHA_256\SHA_256\obj\Debug\SHA_256.pdb
+C:\Users\AlizHumayer\Desktop\C sharp_mix\zoliCSharp\zoliCSharp\2017_11_13\SHA_256\SHA_256\bin\Debug\SHA_256.exe.config
+C:\Users\AlizHumayer\Desktop\C sharp_mix\zoliCSharp\zoliCSharp\2017_11_13\SHA_256\SHA_256\bin\Debug\SHA_256.exe
+C:\Users\AlizHumayer\Desktop\C sharp_mix\zoliCSharp\zoliCSharp\2017_11_13\SHA_256\SHA_256\bin\Debug\SHA_256.pdb
+C:\Users\AlizHumayer\Desktop\C sharp_mix\zoliCSharp\zoliCSharp\2017_11_13\SHA_256\SHA_256\obj\Debug\SHA_256.csprojAssemblyReference.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\zoliCSharp\zoliCSharp\2017_11_13\SHA_256\SHA_256\obj\Debug\SHA_256.Form1.resources
+C:\Users\AlizHumayer\Desktop\C sharp_mix\zoliCSharp\zoliCSharp\2017_11_13\SHA_256\SHA_256\obj\Debug\SHA_256.Properties.Resources.resources
+C:\Users\AlizHumayer\Desktop\C sharp_mix\zoliCSharp\zoliCSharp\2017_11_13\SHA_256\SHA_256\obj\Debug\SHA_256.csproj.GenerateResource.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\zoliCSharp\zoliCSharp\2017_11_13\SHA_256\SHA_256\obj\Debug\SHA_256.csproj.CoreCompileInputs.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\zoliCSharp\zoliCSharp\2017_11_13\SHA_256\SHA_256\obj\Debug\SHA_256.exe
+C:\Users\AlizHumayer\Desktop\C sharp_mix\zoliCSharp\zoliCSharp\2017_11_13\SHA_256\SHA_256\obj\Debug\SHA_256.pdb

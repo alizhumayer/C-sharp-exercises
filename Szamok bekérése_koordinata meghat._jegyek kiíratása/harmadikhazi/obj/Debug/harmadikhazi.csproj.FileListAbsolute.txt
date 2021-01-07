@@ -1,0 +1,15 @@
+C:\Users\marcusek\Desktop\Szoftverfejlesztés\projects\harmadikhazi\harmadikhazi\bin\Debug\harmadikhazi.exe.config
+C:\Users\marcusek\Desktop\Szoftverfejlesztés\projects\harmadikhazi\harmadikhazi\bin\Debug\harmadikhazi.exe
+C:\Users\marcusek\Desktop\Szoftverfejlesztés\projects\harmadikhazi\harmadikhazi\bin\Debug\harmadikhazi.pdb
+C:\Users\marcusek\Desktop\Szoftverfejlesztés\projects\harmadikhazi\harmadikhazi\obj\Debug\harmadikhazi.csprojResolveAssemblyReference.cache
+C:\Users\marcusek\Desktop\Szoftverfejlesztés\projects\harmadikhazi\harmadikhazi\obj\Debug\harmadikhazi.exe
+C:\Users\marcusek\Desktop\Szoftverfejlesztés\projects\harmadikhazi\harmadikhazi\obj\Debug\harmadikhazi.pdb
+H:\harmadikhazi\harmadikhazi\bin\Debug\harmadikhazi.exe.config
+H:\harmadikhazi\harmadikhazi\obj\Debug\harmadikhazi.exe
+H:\harmadikhazi\harmadikhazi\obj\Debug\harmadikhazi.pdb
+H:\harmadikhazi\harmadikhazi\obj\Debug\harmadikhazi.csprojResolveAssemblyReference.cache
+H:\harmadikhazi\harmadikhazi\bin\Debug\harmadikhazi.exe
+H:\harmadikhazi\harmadikhazi\bin\Debug\harmadikhazi.pdb
+H:\abszf\harmadikhazi\harmadikhazi\bin\Debug\harmadikhazi.exe.config
+H:\abszf\harmadikhazi\harmadikhazi\obj\Debug\harmadikhazi.exe
+H:\abszf\harmadikhazi\harmadikhazi\obj\Debug\harmadikhazi.pdb

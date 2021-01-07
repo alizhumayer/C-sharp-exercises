@@ -1,0 +1,6 @@
+H:\abszf\hatodikora\hatodikora\bin\Debug\hatodikora.exe.config
+H:\abszf\hatodikora\hatodikora\obj\Debug\hatodikora.csprojResolveAssemblyReference.cache
+H:\abszf\hatodikora\hatodikora\bin\Debug\hatodikora.exe
+H:\abszf\hatodikora\hatodikora\bin\Debug\hatodikora.pdb
+H:\abszf\hatodikora\hatodikora\obj\Debug\hatodikora.exe
+H:\abszf\hatodikora\hatodikora\obj\Debug\hatodikora.pdb

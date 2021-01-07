@@ -1,0 +1,26 @@
+C:\Users\Eszti\source\matrixok_dec3\matrixok_dec3\bin\Debug\netcoreapp3.1\matrixok_dec3.exe
+C:\Users\Eszti\source\matrixok_dec3\matrixok_dec3\bin\Debug\netcoreapp3.1\matrixok_dec3.deps.json
+C:\Users\Eszti\source\matrixok_dec3\matrixok_dec3\bin\Debug\netcoreapp3.1\matrixok_dec3.runtimeconfig.json
+C:\Users\Eszti\source\matrixok_dec3\matrixok_dec3\bin\Debug\netcoreapp3.1\matrixok_dec3.runtimeconfig.dev.json
+C:\Users\Eszti\source\matrixok_dec3\matrixok_dec3\bin\Debug\netcoreapp3.1\matrixok_dec3.dll
+C:\Users\Eszti\source\matrixok_dec3\matrixok_dec3\bin\Debug\netcoreapp3.1\matrixok_dec3.pdb
+C:\Users\Eszti\source\matrixok_dec3\matrixok_dec3\obj\Debug\netcoreapp3.1\matrixok_dec3.csprojAssemblyReference.cache
+C:\Users\Eszti\source\matrixok_dec3\matrixok_dec3\obj\Debug\netcoreapp3.1\matrixok_dec3.AssemblyInfoInputs.cache
+C:\Users\Eszti\source\matrixok_dec3\matrixok_dec3\obj\Debug\netcoreapp3.1\matrixok_dec3.AssemblyInfo.cs
+C:\Users\Eszti\source\matrixok_dec3\matrixok_dec3\obj\Debug\netcoreapp3.1\matrixok_dec3.csproj.CoreCompileInputs.cache
+C:\Users\Eszti\source\matrixok_dec3\matrixok_dec3\obj\Debug\netcoreapp3.1\matrixok_dec3.dll
+C:\Users\Eszti\source\matrixok_dec3\matrixok_dec3\obj\Debug\netcoreapp3.1\matrixok_dec3.pdb
+C:\Users\Eszti\source\matrixok_dec3\matrixok_dec3\obj\Debug\netcoreapp3.1\matrixok_dec3.genruntimeconfig.cache
+C:\Users\AlizHumayer\Desktop\C sharp órai programok\matrixok_dec3\matrixok_dec3\matrixok_dec3\bin\Debug\netcoreapp3.1\matrixok_dec3.exe
+C:\Users\AlizHumayer\Desktop\C sharp órai programok\matrixok_dec3\matrixok_dec3\matrixok_dec3\bin\Debug\netcoreapp3.1\matrixok_dec3.deps.json
+C:\Users\AlizHumayer\Desktop\C sharp órai programok\matrixok_dec3\matrixok_dec3\matrixok_dec3\bin\Debug\netcoreapp3.1\matrixok_dec3.runtimeconfig.json
+C:\Users\AlizHumayer\Desktop\C sharp órai programok\matrixok_dec3\matrixok_dec3\matrixok_dec3\bin\Debug\netcoreapp3.1\matrixok_dec3.runtimeconfig.dev.json
+C:\Users\AlizHumayer\Desktop\C sharp órai programok\matrixok_dec3\matrixok_dec3\matrixok_dec3\bin\Debug\netcoreapp3.1\matrixok_dec3.dll
+C:\Users\AlizHumayer\Desktop\C sharp órai programok\matrixok_dec3\matrixok_dec3\matrixok_dec3\bin\Debug\netcoreapp3.1\matrixok_dec3.pdb
+C:\Users\AlizHumayer\Desktop\C sharp órai programok\matrixok_dec3\matrixok_dec3\matrixok_dec3\obj\Debug\netcoreapp3.1\matrixok_dec3.csprojAssemblyReference.cache
+C:\Users\AlizHumayer\Desktop\C sharp órai programok\matrixok_dec3\matrixok_dec3\matrixok_dec3\obj\Debug\netcoreapp3.1\matrixok_dec3.AssemblyInfoInputs.cache
+C:\Users\AlizHumayer\Desktop\C sharp órai programok\matrixok_dec3\matrixok_dec3\matrixok_dec3\obj\Debug\netcoreapp3.1\matrixok_dec3.AssemblyInfo.cs
+C:\Users\AlizHumayer\Desktop\C sharp órai programok\matrixok_dec3\matrixok_dec3\matrixok_dec3\obj\Debug\netcoreapp3.1\matrixok_dec3.csproj.CoreCompileInputs.cache
+C:\Users\AlizHumayer\Desktop\C sharp órai programok\matrixok_dec3\matrixok_dec3\matrixok_dec3\obj\Debug\netcoreapp3.1\matrixok_dec3.dll
+C:\Users\AlizHumayer\Desktop\C sharp órai programok\matrixok_dec3\matrixok_dec3\matrixok_dec3\obj\Debug\netcoreapp3.1\matrixok_dec3.pdb
+C:\Users\AlizHumayer\Desktop\C sharp órai programok\matrixok_dec3\matrixok_dec3\matrixok_dec3\obj\Debug\netcoreapp3.1\matrixok_dec3.genruntimeconfig.cache

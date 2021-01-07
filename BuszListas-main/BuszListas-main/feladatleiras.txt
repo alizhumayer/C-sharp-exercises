@@ -1,0 +1,9 @@
+1. BUSZJÁRAT
+Szeptember hónapban (30 nap) feljegyeztük, hogy egy adott buszjáraton naponta hányan utaztak, ezt tartalmazza a busz.txt fájl.
+Készíts programot, amely eltárolja az adatokat az utasok nevű listában.
+A program a lista elemeit írja a képernyőre sorfolytonosan, szóközzel elválasztva, majd válaszoljon a következő kérdésekre!
+a) Hány nap adatait rögzítették a fájlban? (Count)
+b) Összesen hány utas utazott az adott buszjáraton a vizsgált időszakban? (sum)
+c) Hány olyan nap volt, amikor az utasszám meghaladta a 200-at? (megszámlálás)
+d) Melyik napon és mennyi volt a maximális napi utasszám? (maximum-keresés)
+e) Volt-e olyan nap, amikor az utasszám éppen 200 volt? (eldöntés)

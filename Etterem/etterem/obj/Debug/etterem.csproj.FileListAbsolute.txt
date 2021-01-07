@@ -1,0 +1,6 @@
+C:\Users\Tanár\Downloads\etterem-program-konzolos\etterem\etterem\bin\Debug\etterem.exe.config
+C:\Users\Tanár\Downloads\etterem-program-konzolos\etterem\etterem\bin\Debug\etterem.exe
+C:\Users\Tanár\Downloads\etterem-program-konzolos\etterem\etterem\bin\Debug\etterem.pdb
+C:\Users\Tanár\Downloads\etterem-program-konzolos\etterem\etterem\obj\Debug\etterem.csprojAssemblyReference.cache
+C:\Users\Tanár\Downloads\etterem-program-konzolos\etterem\etterem\obj\Debug\etterem.exe
+C:\Users\Tanár\Downloads\etterem-program-konzolos\etterem\etterem\obj\Debug\etterem.pdb

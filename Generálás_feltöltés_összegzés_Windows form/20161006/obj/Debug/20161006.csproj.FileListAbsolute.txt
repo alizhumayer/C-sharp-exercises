@@ -1,0 +1,19 @@
+D:\esti_szoftfejl\2_1\csharp\20161006\20161006\bin\Debug\20161006.exe.config
+D:\esti_szoftfejl\2_1\csharp\20161006\20161006\bin\Debug\20161006.exe
+D:\esti_szoftfejl\2_1\csharp\20161006\20161006\bin\Debug\20161006.pdb
+D:\esti_szoftfejl\2_1\csharp\20161006\20161006\obj\Debug\20161006.csprojResolveAssemblyReference.cache
+D:\esti_szoftfejl\2_1\csharp\20161006\20161006\obj\Debug\_20161006.Form1.resources
+D:\esti_szoftfejl\2_1\csharp\20161006\20161006\obj\Debug\_20161006.Properties.Resources.resources
+D:\esti_szoftfejl\2_1\csharp\20161006\20161006\obj\Debug\20161006.csproj.GenerateResource.Cache
+D:\esti_szoftfejl\2_1\csharp\20161006\20161006\obj\Debug\20161006.exe
+D:\esti_szoftfejl\2_1\csharp\20161006\20161006\obj\Debug\20161006.pdb
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20161006\20161006\bin\Debug\20161006.exe.config
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20161006\20161006\bin\Debug\20161006.exe
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20161006\20161006\bin\Debug\20161006.pdb
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20161006\20161006\obj\Debug\20161006.csprojAssemblyReference.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20161006\20161006\obj\Debug\_20161006.Form1.resources
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20161006\20161006\obj\Debug\_20161006.Properties.Resources.resources
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20161006\20161006\obj\Debug\20161006.csproj.GenerateResource.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20161006\20161006\obj\Debug\20161006.csproj.CoreCompileInputs.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20161006\20161006\obj\Debug\20161006.exe
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20161006\20161006\obj\Debug\20161006.pdb

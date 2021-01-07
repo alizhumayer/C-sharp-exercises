@@ -1,0 +1,24 @@
+Z:\C#\2017_11_16\belepteto\belepteto\bin\Debug\belepteto.exe.config
+Z:\C#\2017_11_16\belepteto\belepteto\bin\Debug\belepteto.exe
+Z:\C#\2017_11_16\belepteto\belepteto\bin\Debug\belepteto.pdb
+Z:\C#\2017_11_16\belepteto\belepteto\bin\Debug\mysql.data.dll
+Z:\C#\2017_11_16\belepteto\belepteto\obj\Debug\belepteto.csprojResolveAssemblyReference.cache
+Z:\C#\2017_11_16\belepteto\belepteto\obj\Debug\belepteto.Form1.resources
+Z:\C#\2017_11_16\belepteto\belepteto\obj\Debug\belepteto.Properties.Resources.resources
+Z:\C#\2017_11_16\belepteto\belepteto\obj\Debug\belepteto.csproj.GenerateResource.Cache
+Z:\C#\2017_11_16\belepteto\belepteto\obj\Debug\belepteto.exe
+Z:\C#\2017_11_16\belepteto\belepteto\obj\Debug\belepteto.pdb
+Z:\C#\2017_11_16\belepteto\belepteto\obj\Debug\belepteto.reg.resources
+C:\Users\AlizHumayer\Desktop\C sharp_mix\zoliCSharp\zoliCSharp\2017_11_16\belepteto\belepteto\bin\Debug\belepteto.exe.config
+C:\Users\AlizHumayer\Desktop\C sharp_mix\zoliCSharp\zoliCSharp\2017_11_16\belepteto\belepteto\bin\Debug\belepteto.exe
+C:\Users\AlizHumayer\Desktop\C sharp_mix\zoliCSharp\zoliCSharp\2017_11_16\belepteto\belepteto\bin\Debug\belepteto.pdb
+C:\Users\AlizHumayer\Desktop\C sharp_mix\zoliCSharp\zoliCSharp\2017_11_16\belepteto\belepteto\bin\Debug\mysql.data.dll
+C:\Users\AlizHumayer\Desktop\C sharp_mix\zoliCSharp\zoliCSharp\2017_11_16\belepteto\belepteto\obj\Debug\belepteto.csprojAssemblyReference.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\zoliCSharp\zoliCSharp\2017_11_16\belepteto\belepteto\obj\Debug\belepteto.Form1.resources
+C:\Users\AlizHumayer\Desktop\C sharp_mix\zoliCSharp\zoliCSharp\2017_11_16\belepteto\belepteto\obj\Debug\belepteto.Properties.Resources.resources
+C:\Users\AlizHumayer\Desktop\C sharp_mix\zoliCSharp\zoliCSharp\2017_11_16\belepteto\belepteto\obj\Debug\belepteto.reg.resources
+C:\Users\AlizHumayer\Desktop\C sharp_mix\zoliCSharp\zoliCSharp\2017_11_16\belepteto\belepteto\obj\Debug\belepteto.csproj.GenerateResource.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\zoliCSharp\zoliCSharp\2017_11_16\belepteto\belepteto\obj\Debug\belepteto.csproj.CoreCompileInputs.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\zoliCSharp\zoliCSharp\2017_11_16\belepteto\belepteto\obj\Debug\belepteto.csproj.CopyComplete
+C:\Users\AlizHumayer\Desktop\C sharp_mix\zoliCSharp\zoliCSharp\2017_11_16\belepteto\belepteto\obj\Debug\belepteto.exe
+C:\Users\AlizHumayer\Desktop\C sharp_mix\zoliCSharp\zoliCSharp\2017_11_16\belepteto\belepteto\obj\Debug\belepteto.pdb

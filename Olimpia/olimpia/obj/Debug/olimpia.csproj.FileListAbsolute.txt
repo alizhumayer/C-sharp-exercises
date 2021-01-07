@@ -1,0 +1,6 @@
+C:\Users\Borsos Lajos\Downloads\téli olimpia\olimpia\olimpia\bin\Debug\olimpia.exe.config
+C:\Users\Borsos Lajos\Downloads\téli olimpia\olimpia\olimpia\bin\Debug\olimpia.exe
+C:\Users\Borsos Lajos\Downloads\téli olimpia\olimpia\olimpia\bin\Debug\olimpia.pdb
+C:\Users\Borsos Lajos\Downloads\téli olimpia\olimpia\olimpia\obj\Debug\olimpia.csprojResolveAssemblyReference.cache
+C:\Users\Borsos Lajos\Downloads\téli olimpia\olimpia\olimpia\obj\Debug\olimpia.exe
+C:\Users\Borsos Lajos\Downloads\téli olimpia\olimpia\olimpia\obj\Debug\olimpia.pdb

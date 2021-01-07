@@ -1,0 +1,6 @@
+C:\Users\Borsos Lajos\Downloads\_helsiki 1952\helsinki1952\helsinki1952\bin\Debug\helsinki1952.exe.config
+C:\Users\Borsos Lajos\Downloads\_helsiki 1952\helsinki1952\helsinki1952\obj\Debug\helsinki1952.csprojResolveAssemblyReference.cache
+C:\Users\Borsos Lajos\Downloads\_helsiki 1952\helsinki1952\helsinki1952\bin\Debug\helsinki1952.exe
+C:\Users\Borsos Lajos\Downloads\_helsiki 1952\helsinki1952\helsinki1952\bin\Debug\helsinki1952.pdb
+C:\Users\Borsos Lajos\Downloads\_helsiki 1952\helsinki1952\helsinki1952\obj\Debug\helsinki1952.exe
+C:\Users\Borsos Lajos\Downloads\_helsiki 1952\helsinki1952\helsinki1952\obj\Debug\helsinki1952.pdb

@@ -1,0 +1,19 @@
+c:\users\acs.marcell\documents\visual studio 2015\Projects\jelzolampa\jelzolampa\bin\Debug\jelzolampa.exe.config
+c:\users\acs.marcell\documents\visual studio 2015\Projects\jelzolampa\jelzolampa\bin\Debug\jelzolampa.exe
+c:\users\acs.marcell\documents\visual studio 2015\Projects\jelzolampa\jelzolampa\bin\Debug\jelzolampa.pdb
+c:\users\acs.marcell\documents\visual studio 2015\Projects\jelzolampa\jelzolampa\obj\Debug\jelzolampa.csprojResolveAssemblyReference.cache
+c:\users\acs.marcell\documents\visual studio 2015\Projects\jelzolampa\jelzolampa\obj\Debug\jelzolampa.Form1.resources
+c:\users\acs.marcell\documents\visual studio 2015\Projects\jelzolampa\jelzolampa\obj\Debug\jelzolampa.Properties.Resources.resources
+c:\users\acs.marcell\documents\visual studio 2015\Projects\jelzolampa\jelzolampa\obj\Debug\jelzolampa.csproj.GenerateResource.Cache
+c:\users\acs.marcell\documents\visual studio 2015\Projects\jelzolampa\jelzolampa\obj\Debug\jelzolampa.exe
+c:\users\acs.marcell\documents\visual studio 2015\Projects\jelzolampa\jelzolampa\obj\Debug\jelzolampa.pdb
+C:\Users\AlizHumayer\Desktop\C sharp_mix\jelzolampa\jelzolampa\jelzolampa\bin\Debug\jelzolampa.exe.config
+C:\Users\AlizHumayer\Desktop\C sharp_mix\jelzolampa\jelzolampa\jelzolampa\bin\Debug\jelzolampa.exe
+C:\Users\AlizHumayer\Desktop\C sharp_mix\jelzolampa\jelzolampa\jelzolampa\bin\Debug\jelzolampa.pdb
+C:\Users\AlizHumayer\Desktop\C sharp_mix\jelzolampa\jelzolampa\jelzolampa\obj\Debug\jelzolampa.csprojAssemblyReference.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\jelzolampa\jelzolampa\jelzolampa\obj\Debug\jelzolampa.Form1.resources
+C:\Users\AlizHumayer\Desktop\C sharp_mix\jelzolampa\jelzolampa\jelzolampa\obj\Debug\jelzolampa.Properties.Resources.resources
+C:\Users\AlizHumayer\Desktop\C sharp_mix\jelzolampa\jelzolampa\jelzolampa\obj\Debug\jelzolampa.csproj.GenerateResource.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\jelzolampa\jelzolampa\jelzolampa\obj\Debug\jelzolampa.csproj.CoreCompileInputs.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\jelzolampa\jelzolampa\jelzolampa\obj\Debug\jelzolampa.exe
+C:\Users\AlizHumayer\Desktop\C sharp_mix\jelzolampa\jelzolampa\jelzolampa\obj\Debug\jelzolampa.pdb

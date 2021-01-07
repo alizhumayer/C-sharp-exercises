@@ -1,0 +1,7 @@
+C:\Users\Tanár\Downloads\köridők autóverseny\autoverseny\autoverseny\bin\Debug\autoverseny.exe.config
+C:\Users\Tanár\Downloads\köridők autóverseny\autoverseny\autoverseny\bin\Debug\autoverseny.exe
+C:\Users\Tanár\Downloads\köridők autóverseny\autoverseny\autoverseny\bin\Debug\autoverseny.pdb
+C:\Users\Tanár\Downloads\köridők autóverseny\autoverseny\autoverseny\obj\Debug\autoverseny.csprojAssemblyReference.cache
+C:\Users\Tanár\Downloads\köridők autóverseny\autoverseny\autoverseny\obj\Debug\autoverseny.csproj.CoreCompileInputs.cache
+C:\Users\Tanár\Downloads\köridők autóverseny\autoverseny\autoverseny\obj\Debug\autoverseny.exe
+C:\Users\Tanár\Downloads\köridők autóverseny\autoverseny\autoverseny\obj\Debug\autoverseny.pdb

@@ -1,0 +1,7 @@
+C:\Users\Tanár\Downloads\52 481 02 Irodai informatikus\varosok\varosok\varosok\bin\Debug\varosok.exe.config
+C:\Users\Tanár\Downloads\52 481 02 Irodai informatikus\varosok\varosok\varosok\bin\Debug\varosok.exe
+C:\Users\Tanár\Downloads\52 481 02 Irodai informatikus\varosok\varosok\varosok\bin\Debug\varosok.pdb
+C:\Users\Tanár\Downloads\52 481 02 Irodai informatikus\varosok\varosok\varosok\obj\Debug\varosok.csprojAssemblyReference.cache
+C:\Users\Tanár\Downloads\52 481 02 Irodai informatikus\varosok\varosok\varosok\obj\Debug\varosok.csproj.CoreCompileInputs.cache
+C:\Users\Tanár\Downloads\52 481 02 Irodai informatikus\varosok\varosok\varosok\obj\Debug\varosok.exe
+C:\Users\Tanár\Downloads\52 481 02 Irodai informatikus\varosok\varosok\varosok\obj\Debug\varosok.pdb

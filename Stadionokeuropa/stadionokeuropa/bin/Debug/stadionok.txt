@@ -1,0 +1,354 @@
+﻿1;Camp Nou;99354;Barcelona;1957
+2;Wembley Stadium;90000;London;2007
+3;Croke Park;82300;Dublin;1884
+4;Twickenham Stadium;82000;London;1909
+5;Westfalenstadion aka Signal Iduna Park);81359;Dortmund;1974
+6;Stade de France;65829;Saint-Denis;1998
+7;Santiago Bernabéu Stadium;81338;Madrid;1947
+8;Luzhniki Stadium;81044;Moscow;1956
+9;San Siro;81000;Milan;1926
+10;Atatürk Olympic Stadium;80018;Istanbul;2001
+11;Old Trafford;76092;Manchester;1910
+12;Allianz Arena;75635;Munich;2005
+13;Olympiastadion;75000;Berlin;1936
+14;Millennium Stadium;70000;Cardiff;1999
+15;Stadio Olimpico;74649;Rome;1930
+16;Olimpiyskiy National Sports Complex;74500;Kiev;2012
+17;Baku National Stadium;72698;Baku;2015
+18;Spyros Louis Olympic Stadium;70050;Athens;1982
+19;Olympiastadion;69870;Munich;1972
+20;Krestovsky Stadium;69618;Saint Petersburg;2017
+21;Wanda Metropolitano;69250;Madrid;2017
+22;Stade Vélodrome;68134;Marseille;1937
+23;Murrayfield Stadium;68000;Edinburgh;1925
+24;Estádio da Luz;67371;Lisbon;2003
+25;Veltins-Arena;67144;Gelsenkirchen;2001
+26;Estadio Benito Villamarín;64642;Seville;1929
+27;Mercedes-Benz Arena aka Neckarstadion);62271;Stuttgart;1933
+28;Celtic Park;54142;Glasgow;1892
+29;Emirates Stadium;60720;London;2006
+30;Stadio San Paolo;60469;Naples;1959
+31;London Stadium;54906;London;2012
+32;Parc Olympique Lyonnais;60355;Lyon/Décines;2016
+33;PGE Narodowy;60338;Warsaw;2011
+34;Stadio San Nicola;60240;Bari;1990
+35;Estadio Olímpico de Sevilla;60000;Seville;1999
+36;Volksparkstadion;54000;Hamburg;1953
+37;Stadium Puskás Ferenc;59186;Budapest;1953
+38;Estadi Olímpic Lluís Companys;58585;Barcelona;1927
+39;Arena Na?ionala;58248;Bucharest;2011
+40;Stadium Rajko Mitia;57619;Belgrade;1963
+41;Silesian Stadium;57274;Chorzów/Katowice;1959
+42;Etihad Stadium;56000;Manchester;2002
+43;Estadi de Mestalla;56000;Valencia;1923
+44;Esprit Arena;55634;Düsseldorf;2004
+45;Vicente Calderón Stadium;55538;Madrid;1966
+46;Boris Paichadze Dinamo Arena;55477;Tbilisi;1976
+47;Friends Arena;55000;Stockholm;2012
+48;Hrazdan Stadium;55000;Yerevan;1971
+49;Anfield;54600;Liverpool;1884
+50;Borussia-Park;54851;Mönchengladbach;2004
+51;Amsterdam Arena;54549;Amsterdam;1996
+52;Semple Stadium;54329;Thurles;1910
+53;San Mamés;54208;Bilbao;2013
+54;Ernst Happel Stadion;54074;Vienna;1931
+55;Türk Telekom Arena;54067;Istanbul;2011
+56;St James Park;54033;Newcastle upon Tyne;1886
+57;Donbass Arena;53500;Donetsk;2009
+58;Hampden Park;53332;Glasgow;1903
+59;Aviva Stadium;53008;Dublin;1872
+60;De Kuip;52652;Rotterdam;1937
+61;Commerzbank-Arena;52387;Frankfurt;1925
+62;Izmir Atatürk Stadium;52187;Izmir;1971
+63;Ibrox Stadium;52103;Glasgow;1899
+64;Sükrü Saracoglu Stadium;51700;Istanbul;2006
+65;RheinEnergieStadion;51577;Cologne;2004
+66;Stade Pierre-Mauroy;51500;Lille;2012
+67;Estádio José Alvalade;51295;Lisbon;2003
+68;King Baudouin Stadium;50817;Brussels;1930
+69;Estádio do Dragao;50509;Porto;2003
+70;Max-Morlock-Stadion;50374;Nuremberg;1928
+71;Gaelic Grounds;50186;Limerick;1928
+72;Fritz-Walter-Stadion;50095;Kaiserslautern;1920
+73;AWD-Arena;50093;Hanover;1954
+74;Stadium of Light;50033;Sunderland;1997
+75;Stadio Artemio Franchi;50000;Florence;1931
+76;Parc des Princes;49866;Paris;1897
+77;Otkrytie Arena;49780;Moscow;2014
+78;Kazan Arena;49000;Kazan;2013
+79;Panathinaiko Stadium;49000;Athens;1869
+80;Páirc Uí Chaoimh;47282;Cork City;1976
+81;Red Bull Arena;46480;Leipzig;1954
+82;Stadion Energa Gdansk;45360;Gdansk;2011
+83;Vasil Levski National Stadium;45105;Sofia;1953
+84;Timsah Arena aka Bursa Büyükoehir Stadyumu);45000;Bursa;2015
+85;INEA Stadion;45000;Poznan;1980
+86;Fitzgerald Stadium;44345;Killarney;1936
+87;Ullevi;43615;Gothenburg;1958
+88;Villa Park;43530;Birmingham;1897
+89;Wroc3aw City Stadium;43331;Wroc3aw;2011
+90;Estadio Ramón Sánchez Pizjuán;43269;Seville;1957
+91;Weserstadion;43180;Bremen;1923
+92;Torku Arena;43000;Konya;2014
+93;Matmut Atlantique;42788;Bordeaux;2015
+94;MacHale Park;42771;Castlebar;1931
+95;Stade Geoffroy-Guichard;42714;Saint-Étienne;1931
+96;Vodafone Arena;42500;Istanbul;2016
+97;Stamford Bridge stadium);42276;London;1877
+98;Ramat Gan Stadium;42115;Ramat Gan;1951
+99;Senol Günes Stadium aka Akyazi Stadium);42000;Trabzon;2016
+100;Juventus Stadium;42000;Turin;2011
+101;Stade Bollaert-Delelis;41903;Lens;1932
+102;Dinamo Stadium Minsk);41841;Minsk;1934
+103;Helsinki Olympic Stadium;41583;Helsinki;1938
+104;Estadi Cornella-El Prat;41513;Barcelona/Cornella;2009
+105;Stade Gerland;41507;Lyon;1926
+106;Stadio San Filippo;41233;Messina;2004
+107;Metalist Stadium;41040;Kharkiv;1926
+108;Fisht Olympic Stadium;40600;Sochi;2013
+109;Hillsborough Stadium;40500;Sheffield;1899
+110;Goodison Park;40494;Liverpool;1892
+111;Elland Road;40200;Leeds;1897
+112;Stadio Renato DallAra;40003;Bologna;1927
+113;Stadio Marcantonio Bentegodi;40000;Verona;1963
+114;Estadio Manuel Martínez Valero;39814;Elx;1976
+115;St Jakob-Park;39572;Basel;2001
+116;Stade de la Beaujoire;39460;Nantes;1984
+117;Telia Parken;39444;Copenhagen;1992
+118;Stadio Renzo Barbera;39211;Palermo;1932
+119;Estádio Nacional;38750;Oeiras Municipality;1944
+120;Stadio Arechi;38512;Salerno;1991
+121;Maksimir Stadium;38285;Zagreb;1912
+122;Kazhimukan Munaitpasov Stadium Shymkent);38065;Shymkent;1969
+123;Cebeci Inönü Stadium;37619;Ankara;1967
+124;Stadio Luigi Ferraris;37593;Genoa;1911
+125;Stadio Via del Mare;37245;Lecce;1966
+126;White Hart Lane;37168;London;1899
+127;St Tiernachs Park;37000;Clones;1944
+128;Asim Ferhatovia Hase Stadium;37000;Sarajevo;1947
+129;Allianz Riviera;36536;Nice;2013
+130;Gaziantep Arena;36285;Gaziantep;2017
+131;Stadium Municipal;36257;Toulouse;1937
+132;Ludwigspark Stadion;36000;Saarbrücken;1953
+133;Boleyn Ground;35630;London;1904
+134;Riverside Stadium;35624;Middlesbrough;1995
+135;Stadion Poljud;35558;Split;1979
+136;Olympic Stadium Wroc3aw);35472;Wroc3aw;1928
+137;Philips Stadion;35303;Eindhoven;1913
+138;New Eskioehir Stadium;35303;Eskioehir;2016
+139;Arena Lviv;35100;Lviv;2011
+140;Stade Jacques Chaban-Delmas;35000;Bordeaux;1924
+141;Samsun Stadium;35000;Samsun;2017
+142;Riazor;35000;A Coruna;1940
+143;La Romareda;34930;Zaragoza;1957
+144;Grotenburg-Stadion;34915;Krefeld;1927
+145;Chornomorets Stadium;34694;Odessa;2011
+146;Opel Arena;34658;Mainz;2011
+147;Gelredome;34600;Arnhem;1998
+148;Pride Park Stadium;34596;Derby;1997
+149;Karaiskakis Stadium;34500;Pireaus;2004
+150;Cardiff City Stadium;34164;Cardiff;2009
+151;Stadion Henryka Reymana;34034;Kraków;1953
+152;Metallurg Stadium;34000;Samara;1957
+153;Estadio Nueva Condomina;33597;Murcia;2006
+154;Krasnodar Stadium;33334;Krasnodar;2016
+155;Khimik Stadium Kemerovo);33280;Kemerovo;1947
+156;Tele2 Arena;33268;Stockholm;2013
+157;Antalya 100yel Stadium;33220;Antalya;2015
+158;Izmit Stadium;33045;Izmit;2017
+159;Dan Paltinioanu Stadium;33000;Timiooara;1964
+160;New Tivoli;33000;Aachen;2009
+161;Stade de la Mosson;33000;Montpellier;1972
+162;Kadir Has Stadium;33000;Kayseri;2009
+163;Estádio Municipal de Aveiro;33000;Aveiro;2003
+164;Partizan Stadium;32972;Belgrade;1949
+165;Bramall Lane;32960;Sheffield;1855
+166;St Marys Stadium;32939;Southampton;2001
+167;Ricoh Arena;32864;Coventry;2005
+168;Philip II Arena;32830;Skopje;1947
+169;Estadio Balaídos;32710;Vigo;1928
+170;Republican Spartak Stadium;32702;Vladikavkaz;1962
+171;Stadio Nereo Rocco;32689;Trieste;1992
+172;Estadio Gran Canaria;32602;Las Palmas;2003
+173;Rosenaustadion;32580;Augsburg;1951
+174;Stadio Euganeo;32500;Padova;1994
+175;King Power Stadium;32464;Leicester;2002
+176;Estadio Anoeta;32454;San Sebastián;1993
+177;Central Stadium Volgograd);32392;Volgograd;1964
+178;Glücksgas Stadium;32354;Dresden;1923
+179;Hypo-Arena;32336;Klagenfurt am Wörthersee;2007
+180;Casement Park;32262;Belfast;1953
+181;Breffni Park;32200;Cavan;1923
+182;Stadio Flaminio;32120;Rome;1959
+183;Stade de Suisse;32066;Bern;2005
+184;Lords Cricket Ground;32000;London;1814
+185;Ernest Pohl Stadium;32000;Zabrze;1934
+186;Tsentralnyi Profsoyuz Stadion Voronezh);32000;Voronezh;2003
+187;Teddy Stadium;32000;Jerusalem;1991
+188;Shakhtar Stadium;32000;Donetsk;1936
+189;Molineux Stadium;32000;Wolverhampton;1889
+190;Kuban Stadium;31871;Krasnodar;1960
+191;Schauinsland-Reisen-Arena;31743;Duisburg;2004
+192;Ewood Park;31733;Blackburn;1882
+193;Rewirpowerstadion;31718;Bochum;1921
+194;Tofiq Bahramov Stadium;31700;Baku;1951
+195;Roazhon Park;31654;Rennes;1912
+196;Polish Army Stadium;31500;Warsaw;1930
+197;Dnipro-Arena;31367;Dnipro;2008
+198;Stadionul Ion Oblemenco;31328;Craiova;2017
+199;Sammy Ofer Stadium;31200;Haifa;2014
+200;American Express Community Stadium;31127;Falmer;2011
+201;Impuls Arena;31103;Augsburg;2009
+202;City Ground;31003;Nottingham;1898
+203;Terek Stadium;30929;Grozni;2011
+204;Stadium MK;30870;Milton Keynes;2007
+205;Estadio Carlos Tartiere;30750;Oviedo;2000
+206;Cluj Arena;30660;Cluj Napoca;2011
+207;Portman Road;30602;Ipswich;1884
+208;Estádio Algarve;30597;Faro;2004
+209;Estádio Municipal de Braga;30500;Braga;2003
+210;BayArena;30500;Leverkusen;1932
+211;De Grolsch Veste;30335;Enschede;1998
+212;Rhein-Neckar Arena;30311;Sinsheim;2009
+213;Central Stadium Kazan);30305;Kazan;1960
+214;Volkswagen Arena;30286;Wolfsburg;2002
+215;Stade de Genive;30210;Geneva;2003
+216;Estadio La Rosaleda;30205;Málaga;1941
+217;Stade Maurice Dufrasne;30150;Liege;1909
+218;St Andrews stadium);30133;Birmingham;1906
+219;Estádio D Afonso Henriques;30122;Guimaries;1999
+220;CSKA Moscow Stadium;30084;Moscow;2016
+221;Anzhi-Arena;30044;Kaspiysk;2003
+222;Astana Arena;30023;Astana;2009
+223;Malmö Stadion;30009;Malmö;1958
+224;Estadio José Rico Pérez;30000;Alicante;1974
+225;Letzigrund;30000;Zürich;2007
+226;Tivoli-Neu;30000;Innsbruck;2000
+227;Red Bull Arena Salzburg);30000;Salzburg;2003
+228;Metalurh Stadium;30000;Kryvyi Rih;1970
+229;Wildparkstadion;30000;Karlsruhe;1955
+230;Estádio Cidade de Coimbra;30000;Coimbra;2003
+231;Stade de la Meinau;30000;Strasbourg;1914
+232;Millerntor-Stadion;30000;Hamburg;1961
+233;Jan Breydel Stadium;29783;Bruges;1975
+234;El Molinón;29699;Gijón;1908
+235;Bröndby Stadium;29622;Copenhagen;1965
+236;DKB-Arena;29230;Rostock;1954
+237;Sanliurfa GAP Stadium;29063;Sanliurfa;2009
+238;Lokomotiv Stadium Moscow);29042;Moscow;2002
+239;Macron Stadium;29029;Bolton;1997
+240;Sakarya Stadium;29000;Sakarya;2017
+241;Toumba Stadium;29000;Thessaloniki;1959
+242;Britannia Stadium;28965;Stoke-on-Trent;1997
+243;Stadionul Steaua;28800;Bucharest;1974
+244;Estádio do Bessa;28723;Porto;2003
+245;Constant Vanden Stock Stadium;28710;Brussels;1917
+246;Ukraina Stadium;28703;Lviv;1963
+247;Estádio 1? de Maio;28383;Braga;1950
+248;Allianz Stadion;28365;Vienna;2016
+249;Lefkosa Atatürk Stad;28263;Nicosia;1990
+250;Stadio Renato Curi;28063;Perugia;1974
+251;Ullevaal Stadion;28051;Oslo;1926
+252;Stadio Olimpico Grande Torino;28000;Turin;1933
+253;Stadio Ennio Tardini;28000;Parma;1923
+254;Stadio Oreste Granillo;28000;Reggio Calabria;1999
+255;Stadio Erasmo Iacovone;28000;Taranto;1965
+256;Stadio Mario Rigamonti;28000;Brescia;1959
+257;Odsal Stadium;27958;Bradford;1934
+258;SchücoArena;27906;Bielefeld;1926
+259;MDCC-Arena;27763;Magdeburg;2006
+260;Carrow Road;27584;Norwich;1935
+261;Mikheil Meskhi Stadium;27547;Tbilisi;2001
+262;The Valley London);27491;London;1919
+263;Malatya Stadium;27300;Malatya;2017
+264;Ashton Gate Stadium;27250;Bristol;1887
+265;Carl-Benz-Stadion;27244;Mannheim;1994
+266;Central Stadium Yekaterinburg);27223;Yekaterinburg;1957
+267;Central Stadium Krasnoyarsk);27111;Krasnoyarsk;1967
+268;OMoore Park;27044;Portlaoise;1888
+269;Pankritio Stadium;27000;Heraklio;2004
+270;Kaftanzoglio Stadium;27000;Thessaloniki;1960
+271;Stade Municipal Saint-Symphorien;27000;Metz;1923
+272;The Oval;27000;Belfast;1892
+273;Estadio José Zorrilla;27000;Valladolid;1982
+274;The Hawthorns;26840;West Bromwich;1900
+275;Selhurst Park;26712;London;1924
+276;Stadio Partenio;26700;Avellino;1973
+277;Pearse Stadium;26556;Galway;1957
+278;Ganja City Stadium;26512;Ganja;1963
+279;Stade Guy Boniface;26500;Mont-de-Marsan;1965
+280;Abe Lenstra Stadion;26309;Heerenveen;1994
+281;Stadio del Conero;26308;Ancona;1992
+282;Welford Road Stadium;26197;Leicester;1892
+283;Yuvileiny Stadium;26120;Sumy;2001
+284;Craven Cottage;26100;London;1896
+285;RSC Olimpiyskiy;26000;Donetsk;1958
+286;Thomond Park;26000;Limerick;1940
+287;Slavia Stadium;26000;Sofia;1932
+288;Mersin Arena;25830;Mersin;2013
+289;KC Stadium;25700;Kingston upon Hull;2002
+290;Estadi Ciutat de Valencia;25678;Valencia;1969
+291;Stade Océane;25600;Le Havre;2012
+292;Tsentralnyi Stadion Mykolaiv);25556;Mykolaiv;1965
+293;Stadio Friuli;25534;Udine;1976
+294;DW Stadium;25404;Wigan;1999
+295;Valley Parade;25354;Bradford;1886
+296;Edgbaston Cricket Ground;25178;Birmingham;1882
+297;Wexford Park;25175;Wexford;1892
+298;Stadio Pino Zaccheria;25144;Foggia;1925
+299;Stadion Rote Erde;25138;Dortmund;1926
+300;Skatbank-Arena;25136;Altenburg;1957
+301;Bijeli Brijeg Stadium;25000;Mostar;1971
+302;CSK Stadium;25000;Ryazan;1980
+303;Darlington Arena;25000;Darlington;2003
+304;MMArena;25000;Le Mans;2011
+305;Stade du Hainaut;25000;Valenciennes;2011
+306;Ay-Yaldiz Stadium;25000;Karabük;2014
+307;New 4 Eylül Stadium;25000;Sivas;2016
+308;Swedbank Stadion;24000;Malmö;2009
+309;Netanya Stadium;13800;Netanya;2012
+310;Groupama Aréna;23700;Budapest;2014
+311;Pittodrie Stadium;21421;Aberdeen;1903
+312;Lerkendal Stadion;21405;Trondheim;1947
+313;Eden Aréna;20800;Prague;2008
+314;Nagyerdei Stadion;20340;Debrecen;2014
+315;Generali Arena;19416;Prague;1917
+316;Štadión Antona Malatinského;19200;Trnava;1921
+317;Stade Louis II;18523;Fontvieille;1985
+318;Loro Borici Stadium;17022;Shkodër;2016
+319;Turner Stadium;16126;Beersheba;2015
+320;Apostolos Nikolaidis Stadium;16003;Athens;1922
+321;Podgorica City Stadium;15230;Podgorica;1945
+322;Bloomfield Stadium;14413;Tel Aviv;1962
+323;Borisov Arena;13126;Barysaw;2014
+324;Elbasan Arena [79];12800;Elbasan;2014
+325;Guldfögeln Arena;12182;Kalmar;2011
+326;Aker Stadion;11800;Molde;1998
+327;HaMoshava Stadium;11500;Petah Tikva;2011
+328;New Meadow;9875;Shrewsbury;2007
+329;Ferenc Puskás Stadion;67899;Budapest;2019
+330;Northumberland Development Project;61559;London;2018
+331;Nou Mestalla;61500;Valencia;2019
+332;Central Stadium Volgograd);45015;Volgograd;2017
+333;Mordovia-Arena;45015;Saransk;2017
+334;Cosmos Arena;44918;Samara;2017
+335;Strelka Stadium;44899;Nizhny Novgorod;2017
+336;Levberdon Arena;43702;Rostov-on-Don;2017
+337;Kaliningrad Stadium;35000;Kaliningrad;2018
+338;KozArena;33000;Adana;2017
+339;Diyarbakir Stadium;33000;Diyarbakir;2017
+340;U Arena;32000;Nanterre;2017
+341;VTB Arena;27000;Moscow;2017
+342;Lithuania National Stadium;25000;Vilnius;2019
+343;La Cerámica;23500;Vila-real;1923
+344;Vodafone Park;41903;Isztambul;2016
+345;3.Istanbul Basaksehir Fatih Terim;17300;Isztambul;2014
+346;Ghelamco Arena;19999;Gent;2013
+347;Luminus Arena Cristal Arena);24956;Genk;1990
+348;Sóstói Stadion;14300;Székesfehérvár;1967
+349;Pancho Aréna;3816;Felcsút;2014
+350;Illovszky Rudolf Stadion;9000;Budapest;1960
+351;Bozsik József Stadion;10000;Budapest;1938
+352;Szusza Ferenc Stadion;12670;Budapest;1922
+353;DVTK Stadion;11398;Miskolc;1938
+354;Rohonci úti Stadion;9500;Szombathely;1923

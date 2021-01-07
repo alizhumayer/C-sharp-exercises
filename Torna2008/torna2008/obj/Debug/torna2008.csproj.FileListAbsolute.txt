@@ -1,0 +1,6 @@
+C:\Users\Borsos Lajos\Downloads\Torna program\torna2008\torna2008\bin\Debug\torna2008.exe.config
+C:\Users\Borsos Lajos\Downloads\Torna program\torna2008\torna2008\bin\Debug\torna2008.exe
+C:\Users\Borsos Lajos\Downloads\Torna program\torna2008\torna2008\bin\Debug\torna2008.pdb
+C:\Users\Borsos Lajos\Downloads\Torna program\torna2008\torna2008\obj\Debug\torna2008.csprojResolveAssemblyReference.cache
+C:\Users\Borsos Lajos\Downloads\Torna program\torna2008\torna2008\obj\Debug\torna2008.exe
+C:\Users\Borsos Lajos\Downloads\Torna program\torna2008\torna2008\obj\Debug\torna2008.pdb

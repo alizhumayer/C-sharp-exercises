@@ -1,0 +1,18 @@
+E:\CSharp programok\kéktúra mintafeladat\kekturafeladat\kekturafeladat\bin\Debug\kekturafeladat.exe.config
+E:\CSharp programok\kéktúra mintafeladat\kekturafeladat\kekturafeladat\bin\Debug\kekturafeladat.exe
+E:\CSharp programok\kéktúra mintafeladat\kekturafeladat\kekturafeladat\bin\Debug\kekturafeladat.pdb
+E:\CSharp programok\kéktúra mintafeladat\kekturafeladat\kekturafeladat\obj\Debug\kekturafeladat.csprojResolveAssemblyReference.cache
+E:\CSharp programok\kéktúra mintafeladat\kekturafeladat\kekturafeladat\obj\Debug\kekturafeladat.exe
+E:\CSharp programok\kéktúra mintafeladat\kekturafeladat\kekturafeladat\obj\Debug\kekturafeladat.pdb
+e:\CSharp programok\kéktúra mintafeladat másolata\kekturafeladat\kekturafeladat\bin\Debug\kekturafeladat.exe.config
+e:\CSharp programok\kéktúra mintafeladat másolata\kekturafeladat\kekturafeladat\obj\Debug\kekturafeladat.exe
+e:\CSharp programok\kéktúra mintafeladat másolata\kekturafeladat\kekturafeladat\obj\Debug\kekturafeladat.pdb
+e:\CSharp programok\kéktúra mintafeladat másolata\kekturafeladat\kekturafeladat\bin\Debug\kekturafeladat.exe
+e:\CSharp programok\kéktúra mintafeladat másolata\kekturafeladat\kekturafeladat\bin\Debug\kekturafeladat.pdb
+e:\CSharp programok\kéktúra mintafeladat másolata\kekturafeladat\kekturafeladat\obj\Debug\kekturafeladat.csprojResolveAssemblyReference.cache
+e:\CSharp programok\kéktúra mintafeladat kész\kekturafeladat\kekturafeladat\bin\Debug\kekturafeladat.exe.config
+e:\CSharp programok\kéktúra mintafeladat kész\kekturafeladat\kekturafeladat\obj\Debug\kekturafeladat.exe
+e:\CSharp programok\kéktúra mintafeladat kész\kekturafeladat\kekturafeladat\obj\Debug\kekturafeladat.pdb
+e:\CSharp programok\kéktúra mintafeladat kész\kekturafeladat\kekturafeladat\bin\Debug\kekturafeladat.exe
+e:\CSharp programok\kéktúra mintafeladat kész\kekturafeladat\kekturafeladat\bin\Debug\kekturafeladat.pdb
+e:\CSharp programok\kéktúra mintafeladat kész\kekturafeladat\kekturafeladat\obj\Debug\kekturafeladat.csprojResolveAssemblyReference.cache

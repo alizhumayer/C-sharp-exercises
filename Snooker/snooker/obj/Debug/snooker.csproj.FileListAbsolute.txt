@@ -1,0 +1,14 @@
+C:\Users\Tanár\Downloads\_______Gyakoroló feladatok\_programozás feladatok\Snooker\snooker\snooker\bin\Debug\snooker.exe.config
+C:\Users\Tanár\Downloads\_______Gyakoroló feladatok\_programozás feladatok\Snooker\snooker\snooker\bin\Debug\snooker.exe
+C:\Users\Tanár\Downloads\_______Gyakoroló feladatok\_programozás feladatok\Snooker\snooker\snooker\bin\Debug\snooker.pdb
+C:\Users\Tanár\Downloads\_______Gyakoroló feladatok\_programozás feladatok\Snooker\snooker\snooker\obj\Debug\snooker.csprojAssemblyReference.cache
+C:\Users\Tanár\Downloads\_______Gyakoroló feladatok\_programozás feladatok\Snooker\snooker\snooker\obj\Debug\snooker.csproj.CoreCompileInputs.cache
+C:\Users\Tanár\Downloads\_______Gyakoroló feladatok\_programozás feladatok\Snooker\snooker\snooker\obj\Debug\snooker.exe
+C:\Users\Tanár\Downloads\_______Gyakoroló feladatok\_programozás feladatok\Snooker\snooker\snooker\obj\Debug\snooker.pdb
+c:\Users\Tanár\Downloads\_______Gyakoroló feladatok\_programozás feladatok\Snooker másolata másolata\snooker\snooker\bin\Debug\snooker.exe.config
+c:\Users\Tanár\Downloads\_______Gyakoroló feladatok\_programozás feladatok\Snooker másolata másolata\snooker\snooker\bin\Debug\snooker.exe
+c:\Users\Tanár\Downloads\_______Gyakoroló feladatok\_programozás feladatok\Snooker másolata másolata\snooker\snooker\bin\Debug\snooker.pdb
+c:\Users\Tanár\Downloads\_______Gyakoroló feladatok\_programozás feladatok\Snooker másolata másolata\snooker\snooker\obj\Debug\snooker.csprojAssemblyReference.cache
+c:\Users\Tanár\Downloads\_______Gyakoroló feladatok\_programozás feladatok\Snooker másolata másolata\snooker\snooker\obj\Debug\snooker.csproj.CoreCompileInputs.cache
+c:\Users\Tanár\Downloads\_______Gyakoroló feladatok\_programozás feladatok\Snooker másolata másolata\snooker\snooker\obj\Debug\snooker.exe
+c:\Users\Tanár\Downloads\_______Gyakoroló feladatok\_programozás feladatok\Snooker másolata másolata\snooker\snooker\obj\Debug\snooker.pdb

@@ -1,0 +1,6 @@
+C:\Users\Tanár\Downloads\valogatott-program-konzolos\valogatott\valogatott\bin\Debug\valogatott.exe.config
+C:\Users\Tanár\Downloads\valogatott-program-konzolos\valogatott\valogatott\bin\Debug\valogatott.exe
+C:\Users\Tanár\Downloads\valogatott-program-konzolos\valogatott\valogatott\bin\Debug\valogatott.pdb
+C:\Users\Tanár\Downloads\valogatott-program-konzolos\valogatott\valogatott\obj\Debug\valogatott.csprojAssemblyReference.cache
+C:\Users\Tanár\Downloads\valogatott-program-konzolos\valogatott\valogatott\obj\Debug\valogatott.exe
+C:\Users\Tanár\Downloads\valogatott-program-konzolos\valogatott\valogatott\obj\Debug\valogatott.pdb

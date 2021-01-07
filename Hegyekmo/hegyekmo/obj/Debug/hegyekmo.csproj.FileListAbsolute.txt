@@ -1,0 +1,10 @@
+C:\Users\Tanár\Downloads\Magyarország hegyei GUI\hegyekmo\hegyekmo\bin\Debug\hegyekmo.exe.config
+C:\Users\Tanár\Downloads\Magyarország hegyei GUI\hegyekmo\hegyekmo\bin\Debug\hegyekmo.exe
+C:\Users\Tanár\Downloads\Magyarország hegyei GUI\hegyekmo\hegyekmo\bin\Debug\hegyekmo.pdb
+C:\Users\Tanár\Downloads\Magyarország hegyei GUI\hegyekmo\hegyekmo\obj\Debug\hegyekmo.csprojAssemblyReference.cache
+C:\Users\Tanár\Downloads\Magyarország hegyei GUI\hegyekmo\hegyekmo\obj\Debug\hegyekmo.Form1.resources
+C:\Users\Tanár\Downloads\Magyarország hegyei GUI\hegyekmo\hegyekmo\obj\Debug\hegyekmo.Properties.Resources.resources
+C:\Users\Tanár\Downloads\Magyarország hegyei GUI\hegyekmo\hegyekmo\obj\Debug\hegyekmo.csproj.GenerateResource.cache
+C:\Users\Tanár\Downloads\Magyarország hegyei GUI\hegyekmo\hegyekmo\obj\Debug\hegyekmo.csproj.CoreCompileInputs.cache
+C:\Users\Tanár\Downloads\Magyarország hegyei GUI\hegyekmo\hegyekmo\obj\Debug\hegyekmo.exe
+C:\Users\Tanár\Downloads\Magyarország hegyei GUI\hegyekmo\hegyekmo\obj\Debug\hegyekmo.pdb

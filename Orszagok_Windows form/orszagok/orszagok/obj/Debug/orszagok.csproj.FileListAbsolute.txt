@@ -1,0 +1,20 @@
+C:\Users\Eszti\source\orszagok\orszagok\bin\Debug\orszagok.exe.config
+C:\Users\Eszti\source\orszagok\orszagok\bin\Debug\orszagok.exe
+C:\Users\Eszti\source\orszagok\orszagok\bin\Debug\orszagok.pdb
+C:\Users\Eszti\source\orszagok\orszagok\obj\Debug\orszagok.csprojAssemblyReference.cache
+C:\Users\Eszti\source\orszagok\orszagok\obj\Debug\orszagok.Form1.resources
+C:\Users\Eszti\source\orszagok\orszagok\obj\Debug\orszagok.Properties.Resources.resources
+C:\Users\Eszti\source\orszagok\orszagok\obj\Debug\orszagok.csproj.GenerateResource.cache
+C:\Users\Eszti\source\orszagok\orszagok\obj\Debug\orszagok.csproj.CoreCompileInputs.cache
+C:\Users\Eszti\source\orszagok\orszagok\obj\Debug\orszagok.exe
+C:\Users\Eszti\source\orszagok\orszagok\obj\Debug\orszagok.pdb
+C:\Users\AlizHumayer\Desktop\C Sharp\Visual Studio_ZIP files_windows form\orszagok\orszagok\orszagok\bin\Debug\orszagok.exe.config
+C:\Users\AlizHumayer\Desktop\C Sharp\Visual Studio_ZIP files_windows form\orszagok\orszagok\orszagok\bin\Debug\orszagok.exe
+C:\Users\AlizHumayer\Desktop\C Sharp\Visual Studio_ZIP files_windows form\orszagok\orszagok\orszagok\bin\Debug\orszagok.pdb
+C:\Users\AlizHumayer\Desktop\C Sharp\Visual Studio_ZIP files_windows form\orszagok\orszagok\orszagok\obj\Debug\orszagok.csprojAssemblyReference.cache
+C:\Users\AlizHumayer\Desktop\C Sharp\Visual Studio_ZIP files_windows form\orszagok\orszagok\orszagok\obj\Debug\orszagok.Form1.resources
+C:\Users\AlizHumayer\Desktop\C Sharp\Visual Studio_ZIP files_windows form\orszagok\orszagok\orszagok\obj\Debug\orszagok.Properties.Resources.resources
+C:\Users\AlizHumayer\Desktop\C Sharp\Visual Studio_ZIP files_windows form\orszagok\orszagok\orszagok\obj\Debug\orszagok.csproj.GenerateResource.cache
+C:\Users\AlizHumayer\Desktop\C Sharp\Visual Studio_ZIP files_windows form\orszagok\orszagok\orszagok\obj\Debug\orszagok.csproj.CoreCompileInputs.cache
+C:\Users\AlizHumayer\Desktop\C Sharp\Visual Studio_ZIP files_windows form\orszagok\orszagok\orszagok\obj\Debug\orszagok.exe
+C:\Users\AlizHumayer\Desktop\C Sharp\Visual Studio_ZIP files_windows form\orszagok\orszagok\orszagok\obj\Debug\orszagok.pdb

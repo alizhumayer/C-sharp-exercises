@@ -1,0 +1,7 @@
+C:\Users\Tanár\Downloads\telekocsi\telekocsi\telekocsi\bin\Debug\telekocsi.exe.config
+C:\Users\Tanár\Downloads\telekocsi\telekocsi\telekocsi\bin\Debug\telekocsi.exe
+C:\Users\Tanár\Downloads\telekocsi\telekocsi\telekocsi\bin\Debug\telekocsi.pdb
+C:\Users\Tanár\Downloads\telekocsi\telekocsi\telekocsi\obj\Debug\telekocsi.csprojAssemblyReference.cache
+C:\Users\Tanár\Downloads\telekocsi\telekocsi\telekocsi\obj\Debug\telekocsi.csproj.CoreCompileInputs.cache
+C:\Users\Tanár\Downloads\telekocsi\telekocsi\telekocsi\obj\Debug\telekocsi.exe
+C:\Users\Tanár\Downloads\telekocsi\telekocsi\telekocsi\obj\Debug\telekocsi.pdb

@@ -1,0 +1,6 @@
+C:\Users\Tanár\Downloads\rekordlista-konzolos\rekordlista\rekordlista\bin\Debug\rekordlista.exe.config
+C:\Users\Tanár\Downloads\rekordlista-konzolos\rekordlista\rekordlista\bin\Debug\rekordlista.exe
+C:\Users\Tanár\Downloads\rekordlista-konzolos\rekordlista\rekordlista\bin\Debug\rekordlista.pdb
+C:\Users\Tanár\Downloads\rekordlista-konzolos\rekordlista\rekordlista\obj\Debug\rekordlista.csprojAssemblyReference.cache
+C:\Users\Tanár\Downloads\rekordlista-konzolos\rekordlista\rekordlista\obj\Debug\rekordlista.exe
+C:\Users\Tanár\Downloads\rekordlista-konzolos\rekordlista\rekordlista\obj\Debug\rekordlista.pdb

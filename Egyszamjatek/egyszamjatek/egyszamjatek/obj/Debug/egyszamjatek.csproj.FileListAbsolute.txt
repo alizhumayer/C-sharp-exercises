@@ -1,0 +1,6 @@
+C:\Users\Borsos Lajos\Downloads\egyszamjatek\egyszamjatek\egyszamjatek\bin\Debug\egyszamjatek.exe.config
+C:\Users\Borsos Lajos\Downloads\egyszamjatek\egyszamjatek\egyszamjatek\bin\Debug\egyszamjatek.exe
+C:\Users\Borsos Lajos\Downloads\egyszamjatek\egyszamjatek\egyszamjatek\bin\Debug\egyszamjatek.pdb
+C:\Users\Borsos Lajos\Downloads\egyszamjatek\egyszamjatek\egyszamjatek\obj\Debug\egyszamjatek.csprojResolveAssemblyReference.cache
+C:\Users\Borsos Lajos\Downloads\egyszamjatek\egyszamjatek\egyszamjatek\obj\Debug\egyszamjatek.exe
+C:\Users\Borsos Lajos\Downloads\egyszamjatek\egyszamjatek\egyszamjatek\obj\Debug\egyszamjatek.pdb

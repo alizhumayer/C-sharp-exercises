@@ -1,0 +1,6 @@
+C:\Users\Tanár\Downloads\ackiado-konzolos\ackiado\ackiado\bin\Debug\ackiado.exe.config
+C:\Users\Tanár\Downloads\ackiado-konzolos\ackiado\ackiado\bin\Debug\ackiado.exe
+C:\Users\Tanár\Downloads\ackiado-konzolos\ackiado\ackiado\bin\Debug\ackiado.pdb
+C:\Users\Tanár\Downloads\ackiado-konzolos\ackiado\ackiado\obj\Debug\ackiado.csprojAssemblyReference.cache
+C:\Users\Tanár\Downloads\ackiado-konzolos\ackiado\ackiado\obj\Debug\ackiado.exe
+C:\Users\Tanár\Downloads\ackiado-konzolos\ackiado\ackiado\obj\Debug\ackiado.pdb

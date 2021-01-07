@@ -1,0 +1,6 @@
+H:\C#\otodikora\otodikora\bin\Debug\otodikora.exe.config
+H:\C#\otodikora\otodikora\obj\Debug\otodikora.csprojResolveAssemblyReference.cache
+H:\C#\otodikora\otodikora\bin\Debug\otodikora.exe
+H:\C#\otodikora\otodikora\bin\Debug\otodikora.pdb
+H:\C#\otodikora\otodikora\obj\Debug\otodikora.exe
+H:\C#\otodikora\otodikora\obj\Debug\otodikora.pdb

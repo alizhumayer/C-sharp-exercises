@@ -1,0 +1,13 @@
+C:\Users\Eszti\source\Nov26_matrixmuvelet\Nov26_matrixmuvelet\bin\Debug\netcoreapp3.1\Nov26_matrixmuvelet.exe
+C:\Users\Eszti\source\Nov26_matrixmuvelet\Nov26_matrixmuvelet\bin\Debug\netcoreapp3.1\Nov26_matrixmuvelet.deps.json
+C:\Users\Eszti\source\Nov26_matrixmuvelet\Nov26_matrixmuvelet\bin\Debug\netcoreapp3.1\Nov26_matrixmuvelet.runtimeconfig.json
+C:\Users\Eszti\source\Nov26_matrixmuvelet\Nov26_matrixmuvelet\bin\Debug\netcoreapp3.1\Nov26_matrixmuvelet.runtimeconfig.dev.json
+C:\Users\Eszti\source\Nov26_matrixmuvelet\Nov26_matrixmuvelet\bin\Debug\netcoreapp3.1\Nov26_matrixmuvelet.dll
+C:\Users\Eszti\source\Nov26_matrixmuvelet\Nov26_matrixmuvelet\bin\Debug\netcoreapp3.1\Nov26_matrixmuvelet.pdb
+C:\Users\Eszti\source\Nov26_matrixmuvelet\Nov26_matrixmuvelet\obj\Debug\netcoreapp3.1\Nov26_matrixmuvelet.csprojAssemblyReference.cache
+C:\Users\Eszti\source\Nov26_matrixmuvelet\Nov26_matrixmuvelet\obj\Debug\netcoreapp3.1\Nov26_matrixmuvelet.AssemblyInfoInputs.cache
+C:\Users\Eszti\source\Nov26_matrixmuvelet\Nov26_matrixmuvelet\obj\Debug\netcoreapp3.1\Nov26_matrixmuvelet.AssemblyInfo.cs
+C:\Users\Eszti\source\Nov26_matrixmuvelet\Nov26_matrixmuvelet\obj\Debug\netcoreapp3.1\Nov26_matrixmuvelet.csproj.CoreCompileInputs.cache
+C:\Users\Eszti\source\Nov26_matrixmuvelet\Nov26_matrixmuvelet\obj\Debug\netcoreapp3.1\Nov26_matrixmuvelet.dll
+C:\Users\Eszti\source\Nov26_matrixmuvelet\Nov26_matrixmuvelet\obj\Debug\netcoreapp3.1\Nov26_matrixmuvelet.pdb
+C:\Users\Eszti\source\Nov26_matrixmuvelet\Nov26_matrixmuvelet\obj\Debug\netcoreapp3.1\Nov26_matrixmuvelet.genruntimeconfig.cache

@@ -1,0 +1,19 @@
+C:\Users\Tanár\Downloads\kőpapirollójáték grafikus\kopapirollo\kopapirollo\bin\Debug\kopapirollo.exe.config
+c:\Users\Tanár\Downloads\kőpapirollójáték grafikus\kopapirollo\kopapirollo\bin\Debug\kopapirollo.exe
+c:\Users\Tanár\Downloads\kőpapirollójáték grafikus\kopapirollo\kopapirollo\bin\Debug\kopapirollo.pdb
+c:\Users\Tanár\Downloads\kőpapirollójáték grafikus\kopapirollo\kopapirollo\obj\Debug\kopapirollo.csprojResolveAssemblyReference.cache
+c:\Users\Tanár\Downloads\kőpapirollójáték grafikus\kopapirollo\kopapirollo\obj\Debug\kopapirollo.Form1.resources
+c:\Users\Tanár\Downloads\kőpapirollójáték grafikus\kopapirollo\kopapirollo\obj\Debug\kopapirollo.Properties.Resources.resources
+c:\Users\Tanár\Downloads\kőpapirollójáték grafikus\kopapirollo\kopapirollo\obj\Debug\kopapirollo.csproj.GenerateResource.Cache
+c:\Users\Tanár\Downloads\kőpapirollójáték grafikus\kopapirollo\kopapirollo\obj\Debug\kopapirollo.exe
+c:\Users\Tanár\Downloads\kőpapirollójáték grafikus\kopapirollo\kopapirollo\obj\Debug\kopapirollo.pdb
+c:\Users\Tanár\Downloads\csharp\CSharp programozás\kőpapirollójáték grafikus\kopapirollo\kopapirollo\bin\Debug\kopapirollo.exe.config
+c:\Users\Tanár\Downloads\csharp\CSharp programozás\kőpapirollójáték grafikus\kopapirollo\kopapirollo\bin\Debug\kopapirollo.exe
+c:\Users\Tanár\Downloads\csharp\CSharp programozás\kőpapirollójáték grafikus\kopapirollo\kopapirollo\bin\Debug\kopapirollo.pdb
+c:\Users\Tanár\Downloads\csharp\CSharp programozás\kőpapirollójáték grafikus\kopapirollo\kopapirollo\obj\Debug\kopapirollo.Form1.resources
+c:\Users\Tanár\Downloads\csharp\CSharp programozás\kőpapirollójáték grafikus\kopapirollo\kopapirollo\obj\Debug\kopapirollo.Properties.Resources.resources
+c:\Users\Tanár\Downloads\csharp\CSharp programozás\kőpapirollójáték grafikus\kopapirollo\kopapirollo\obj\Debug\kopapirollo.csproj.GenerateResource.Cache
+c:\Users\Tanár\Downloads\csharp\CSharp programozás\kőpapirollójáték grafikus\kopapirollo\kopapirollo\obj\Debug\kopapirollo.exe
+c:\Users\Tanár\Downloads\csharp\CSharp programozás\kőpapirollójáték grafikus\kopapirollo\kopapirollo\obj\Debug\kopapirollo.pdb
+c:\Users\Tanár\Downloads\csharp\CSharp programozás\kőpapirollójáték grafikus\kopapirollo\kopapirollo\obj\Debug\kopapirollo.csprojAssemblyReference.cache
+c:\Users\Tanár\Downloads\csharp\CSharp programozás\kőpapirollójáték grafikus\kopapirollo\kopapirollo\obj\Debug\kopapirollo.csproj.CoreCompileInputs.cache

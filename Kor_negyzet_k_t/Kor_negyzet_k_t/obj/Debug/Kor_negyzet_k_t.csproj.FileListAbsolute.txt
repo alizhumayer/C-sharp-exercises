@@ -1,0 +1,19 @@
+D:\Szoftverfejlesztés\C win form gyak\Kor_negyzet_k_t\Kor_negyzet_k_t\bin\Debug\Kor_negyzet_k_t.exe.config
+D:\Szoftverfejlesztés\C win form gyak\Kor_negyzet_k_t\Kor_negyzet_k_t\bin\Debug\Kor_negyzet_k_t.exe
+D:\Szoftverfejlesztés\C win form gyak\Kor_negyzet_k_t\Kor_negyzet_k_t\bin\Debug\Kor_negyzet_k_t.pdb
+D:\Szoftverfejlesztés\C win form gyak\Kor_negyzet_k_t\Kor_negyzet_k_t\obj\Debug\Kor_negyzet_k_t.csprojResolveAssemblyReference.cache
+D:\Szoftverfejlesztés\C win form gyak\Kor_negyzet_k_t\Kor_negyzet_k_t\obj\Debug\Kor_negyzet_k_t.Form1.resources
+D:\Szoftverfejlesztés\C win form gyak\Kor_negyzet_k_t\Kor_negyzet_k_t\obj\Debug\Kor_negyzet_k_t.Properties.Resources.resources
+D:\Szoftverfejlesztés\C win form gyak\Kor_negyzet_k_t\Kor_negyzet_k_t\obj\Debug\Kor_negyzet_k_t.csproj.GenerateResource.Cache
+D:\Szoftverfejlesztés\C win form gyak\Kor_negyzet_k_t\Kor_negyzet_k_t\obj\Debug\Kor_negyzet_k_t.exe
+D:\Szoftverfejlesztés\C win form gyak\Kor_negyzet_k_t\Kor_negyzet_k_t\obj\Debug\Kor_negyzet_k_t.pdb
+C:\Users\AlizHumayer\Desktop\C sharp_mix\Kor_negyzet_k_t\Kor_negyzet_k_t\Kor_negyzet_k_t\bin\Debug\Kor_negyzet_k_t.exe.config
+C:\Users\AlizHumayer\Desktop\C sharp_mix\Kor_negyzet_k_t\Kor_negyzet_k_t\Kor_negyzet_k_t\bin\Debug\Kor_negyzet_k_t.exe
+C:\Users\AlizHumayer\Desktop\C sharp_mix\Kor_negyzet_k_t\Kor_negyzet_k_t\Kor_negyzet_k_t\bin\Debug\Kor_negyzet_k_t.pdb
+C:\Users\AlizHumayer\Desktop\C sharp_mix\Kor_negyzet_k_t\Kor_negyzet_k_t\Kor_negyzet_k_t\obj\Debug\Kor_negyzet_k_t.csprojAssemblyReference.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\Kor_negyzet_k_t\Kor_negyzet_k_t\Kor_negyzet_k_t\obj\Debug\Kor_negyzet_k_t.Form1.resources
+C:\Users\AlizHumayer\Desktop\C sharp_mix\Kor_negyzet_k_t\Kor_negyzet_k_t\Kor_negyzet_k_t\obj\Debug\Kor_negyzet_k_t.Properties.Resources.resources
+C:\Users\AlizHumayer\Desktop\C sharp_mix\Kor_negyzet_k_t\Kor_negyzet_k_t\Kor_negyzet_k_t\obj\Debug\Kor_negyzet_k_t.csproj.GenerateResource.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\Kor_negyzet_k_t\Kor_negyzet_k_t\Kor_negyzet_k_t\obj\Debug\Kor_negyzet_k_t.csproj.CoreCompileInputs.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\Kor_negyzet_k_t\Kor_negyzet_k_t\Kor_negyzet_k_t\obj\Debug\Kor_negyzet_k_t.exe
+C:\Users\AlizHumayer\Desktop\C sharp_mix\Kor_negyzet_k_t\Kor_negyzet_k_t\Kor_negyzet_k_t\obj\Debug\Kor_negyzet_k_t.pdb

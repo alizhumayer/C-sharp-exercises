@@ -1,0 +1,6 @@
+C:\Users\Tanár\Downloads\elnokok-konzolos\elnokok\elnokok\bin\Debug\elnokok.exe.config
+C:\Users\Tanár\Downloads\elnokok-konzolos\elnokok\elnokok\bin\Debug\elnokok.exe
+C:\Users\Tanár\Downloads\elnokok-konzolos\elnokok\elnokok\bin\Debug\elnokok.pdb
+C:\Users\Tanár\Downloads\elnokok-konzolos\elnokok\elnokok\obj\Debug\elnokok.csprojAssemblyReference.cache
+C:\Users\Tanár\Downloads\elnokok-konzolos\elnokok\elnokok\obj\Debug\elnokok.exe
+C:\Users\Tanár\Downloads\elnokok-konzolos\elnokok\elnokok\obj\Debug\elnokok.pdb

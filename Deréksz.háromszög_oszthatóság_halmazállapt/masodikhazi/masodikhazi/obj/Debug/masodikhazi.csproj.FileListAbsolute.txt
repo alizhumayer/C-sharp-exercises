@@ -1,0 +1,6 @@
+C:\Users\marcusek\Desktop\Szoftverfejlesztés\projects\masodikhazi\masodikhazi\bin\Debug\masodikhazi.exe.config
+C:\Users\marcusek\Desktop\Szoftverfejlesztés\projects\masodikhazi\masodikhazi\bin\Debug\masodikhazi.exe
+C:\Users\marcusek\Desktop\Szoftverfejlesztés\projects\masodikhazi\masodikhazi\bin\Debug\masodikhazi.pdb
+C:\Users\marcusek\Desktop\Szoftverfejlesztés\projects\masodikhazi\masodikhazi\obj\Debug\masodikhazi.csprojResolveAssemblyReference.cache
+C:\Users\marcusek\Desktop\Szoftverfejlesztés\projects\masodikhazi\masodikhazi\obj\Debug\masodikhazi.exe
+C:\Users\marcusek\Desktop\Szoftverfejlesztés\projects\masodikhazi\masodikhazi\obj\Debug\masodikhazi.pdb

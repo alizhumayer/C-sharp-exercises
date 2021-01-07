@@ -1,0 +1,26 @@
+C:\Users\Eszti\source\elso_konzolos\elso_konzolos\bin\Debug\netcoreapp3.1\elso_konzolos.exe
+C:\Users\Eszti\source\elso_konzolos\elso_konzolos\bin\Debug\netcoreapp3.1\elso_konzolos.deps.json
+C:\Users\Eszti\source\elso_konzolos\elso_konzolos\bin\Debug\netcoreapp3.1\elso_konzolos.runtimeconfig.json
+C:\Users\Eszti\source\elso_konzolos\elso_konzolos\bin\Debug\netcoreapp3.1\elso_konzolos.runtimeconfig.dev.json
+C:\Users\Eszti\source\elso_konzolos\elso_konzolos\bin\Debug\netcoreapp3.1\elso_konzolos.dll
+C:\Users\Eszti\source\elso_konzolos\elso_konzolos\bin\Debug\netcoreapp3.1\elso_konzolos.pdb
+C:\Users\Eszti\source\elso_konzolos\elso_konzolos\obj\Debug\netcoreapp3.1\elso_konzolos.csprojAssemblyReference.cache
+C:\Users\Eszti\source\elso_konzolos\elso_konzolos\obj\Debug\netcoreapp3.1\elso_konzolos.AssemblyInfoInputs.cache
+C:\Users\Eszti\source\elso_konzolos\elso_konzolos\obj\Debug\netcoreapp3.1\elso_konzolos.AssemblyInfo.cs
+C:\Users\Eszti\source\elso_konzolos\elso_konzolos\obj\Debug\netcoreapp3.1\elso_konzolos.csproj.CoreCompileInputs.cache
+C:\Users\Eszti\source\elso_konzolos\elso_konzolos\obj\Debug\netcoreapp3.1\elso_konzolos.dll
+C:\Users\Eszti\source\elso_konzolos\elso_konzolos\obj\Debug\netcoreapp3.1\elso_konzolos.pdb
+C:\Users\Eszti\source\elso_konzolos\elso_konzolos\obj\Debug\netcoreapp3.1\elso_konzolos.genruntimeconfig.cache
+C:\Users\AlizHumayer\Desktop\C sharp órai programok\elso_konzolos\elso_konzolos\bin\Debug\netcoreapp3.1\elso_konzolos.exe
+C:\Users\AlizHumayer\Desktop\C sharp órai programok\elso_konzolos\elso_konzolos\bin\Debug\netcoreapp3.1\elso_konzolos.deps.json
+C:\Users\AlizHumayer\Desktop\C sharp órai programok\elso_konzolos\elso_konzolos\bin\Debug\netcoreapp3.1\elso_konzolos.runtimeconfig.json
+C:\Users\AlizHumayer\Desktop\C sharp órai programok\elso_konzolos\elso_konzolos\bin\Debug\netcoreapp3.1\elso_konzolos.runtimeconfig.dev.json
+C:\Users\AlizHumayer\Desktop\C sharp órai programok\elso_konzolos\elso_konzolos\bin\Debug\netcoreapp3.1\elso_konzolos.dll
+C:\Users\AlizHumayer\Desktop\C sharp órai programok\elso_konzolos\elso_konzolos\bin\Debug\netcoreapp3.1\elso_konzolos.pdb
+C:\Users\AlizHumayer\Desktop\C sharp órai programok\elso_konzolos\elso_konzolos\obj\Debug\netcoreapp3.1\elso_konzolos.csprojAssemblyReference.cache
+C:\Users\AlizHumayer\Desktop\C sharp órai programok\elso_konzolos\elso_konzolos\obj\Debug\netcoreapp3.1\elso_konzolos.AssemblyInfoInputs.cache
+C:\Users\AlizHumayer\Desktop\C sharp órai programok\elso_konzolos\elso_konzolos\obj\Debug\netcoreapp3.1\elso_konzolos.AssemblyInfo.cs
+C:\Users\AlizHumayer\Desktop\C sharp órai programok\elso_konzolos\elso_konzolos\obj\Debug\netcoreapp3.1\elso_konzolos.csproj.CoreCompileInputs.cache
+C:\Users\AlizHumayer\Desktop\C sharp órai programok\elso_konzolos\elso_konzolos\obj\Debug\netcoreapp3.1\elso_konzolos.dll
+C:\Users\AlizHumayer\Desktop\C sharp órai programok\elso_konzolos\elso_konzolos\obj\Debug\netcoreapp3.1\elso_konzolos.pdb
+C:\Users\AlizHumayer\Desktop\C sharp órai programok\elso_konzolos\elso_konzolos\obj\Debug\netcoreapp3.1\elso_konzolos.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Eszti\source\Buzatermes\Buzatermes\bin\Debug\netcoreapp3.1\Buzatermes.exe
+C:\Users\Eszti\source\Buzatermes\Buzatermes\bin\Debug\netcoreapp3.1\Buzatermes.deps.json
+C:\Users\Eszti\source\Buzatermes\Buzatermes\bin\Debug\netcoreapp3.1\Buzatermes.runtimeconfig.json
+C:\Users\Eszti\source\Buzatermes\Buzatermes\bin\Debug\netcoreapp3.1\Buzatermes.runtimeconfig.dev.json
+C:\Users\Eszti\source\Buzatermes\Buzatermes\bin\Debug\netcoreapp3.1\Buzatermes.dll
+C:\Users\Eszti\source\Buzatermes\Buzatermes\bin\Debug\netcoreapp3.1\Buzatermes.pdb
+C:\Users\Eszti\source\Buzatermes\Buzatermes\obj\Debug\netcoreapp3.1\Buzatermes.csprojAssemblyReference.cache
+C:\Users\Eszti\source\Buzatermes\Buzatermes\obj\Debug\netcoreapp3.1\Buzatermes.AssemblyInfoInputs.cache
+C:\Users\Eszti\source\Buzatermes\Buzatermes\obj\Debug\netcoreapp3.1\Buzatermes.AssemblyInfo.cs
+C:\Users\Eszti\source\Buzatermes\Buzatermes\obj\Debug\netcoreapp3.1\Buzatermes.csproj.CoreCompileInputs.cache
+C:\Users\Eszti\source\Buzatermes\Buzatermes\obj\Debug\netcoreapp3.1\Buzatermes.dll
+C:\Users\Eszti\source\Buzatermes\Buzatermes\obj\Debug\netcoreapp3.1\Buzatermes.pdb
+C:\Users\Eszti\source\Buzatermes\Buzatermes\obj\Debug\netcoreapp3.1\Buzatermes.genruntimeconfig.cache

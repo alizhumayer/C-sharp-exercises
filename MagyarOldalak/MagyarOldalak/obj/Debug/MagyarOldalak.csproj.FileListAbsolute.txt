@@ -1,0 +1,28 @@
+D:\Szoftverfejlesztés\C win form gyak\MagyarOldalak\MagyarOldalak\bin\Debug\MagyarOldalak.exe.config
+D:\Szoftverfejlesztés\C win form gyak\MagyarOldalak\MagyarOldalak\bin\Debug\MagyarOldalak.exe
+D:\Szoftverfejlesztés\C win form gyak\MagyarOldalak\MagyarOldalak\bin\Debug\MagyarOldalak.pdb
+D:\Szoftverfejlesztés\C win form gyak\MagyarOldalak\MagyarOldalak\obj\Debug\MagyarOldalak.csprojResolveAssemblyReference.cache
+D:\Szoftverfejlesztés\C win form gyak\MagyarOldalak\MagyarOldalak\obj\Debug\MagyarOldalak.Form1.resources
+D:\Szoftverfejlesztés\C win form gyak\MagyarOldalak\MagyarOldalak\obj\Debug\MagyarOldalak.Properties.Resources.resources
+D:\Szoftverfejlesztés\C win form gyak\MagyarOldalak\MagyarOldalak\obj\Debug\MagyarOldalak.csproj.GenerateResource.Cache
+D:\Szoftverfejlesztés\C win form gyak\MagyarOldalak\MagyarOldalak\obj\Debug\MagyarOldalak.exe
+D:\Szoftverfejlesztés\C win form gyak\MagyarOldalak\MagyarOldalak\obj\Debug\MagyarOldalak.pdb
+D:\Szoftverfejlesztés\C win form gyak\_3. félév\MagyarOldalak\MagyarOldalak\bin\Debug\MagyarOldalak.exe.config
+D:\Szoftverfejlesztés\C win form gyak\_3. félév\MagyarOldalak\MagyarOldalak\obj\Debug\MagyarOldalak.exe
+D:\Szoftverfejlesztés\C win form gyak\_3. félév\MagyarOldalak\MagyarOldalak\obj\Debug\MagyarOldalak.pdb
+D:\Szoftverfejlesztés\C win form gyak\_3. félév\MagyarOldalak\MagyarOldalak\bin\Debug\MagyarOldalak.exe
+D:\Szoftverfejlesztés\C win form gyak\_3. félév\MagyarOldalak\MagyarOldalak\bin\Debug\MagyarOldalak.pdb
+D:\Szoftverfejlesztés\C win form gyak\_3. félév\MagyarOldalak\MagyarOldalak\obj\Debug\MagyarOldalak.csprojResolveAssemblyReference.cache
+D:\Szoftverfejlesztés\C win form gyak\_3. félév\MagyarOldalak\MagyarOldalak\obj\Debug\MagyarOldalak.Form1.resources
+D:\Szoftverfejlesztés\C win form gyak\_3. félév\MagyarOldalak\MagyarOldalak\obj\Debug\MagyarOldalak.Properties.Resources.resources
+D:\Szoftverfejlesztés\C win form gyak\_3. félév\MagyarOldalak\MagyarOldalak\obj\Debug\MagyarOldalak.csproj.GenerateResource.Cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\MagyarOldalak\MagyarOldalak\MagyarOldalak\bin\Debug\MagyarOldalak.exe.config
+C:\Users\AlizHumayer\Desktop\C sharp_mix\MagyarOldalak\MagyarOldalak\MagyarOldalak\bin\Debug\MagyarOldalak.exe
+C:\Users\AlizHumayer\Desktop\C sharp_mix\MagyarOldalak\MagyarOldalak\MagyarOldalak\bin\Debug\MagyarOldalak.pdb
+C:\Users\AlizHumayer\Desktop\C sharp_mix\MagyarOldalak\MagyarOldalak\MagyarOldalak\obj\Debug\MagyarOldalak.csprojAssemblyReference.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\MagyarOldalak\MagyarOldalak\MagyarOldalak\obj\Debug\MagyarOldalak.Form1.resources
+C:\Users\AlizHumayer\Desktop\C sharp_mix\MagyarOldalak\MagyarOldalak\MagyarOldalak\obj\Debug\MagyarOldalak.Properties.Resources.resources
+C:\Users\AlizHumayer\Desktop\C sharp_mix\MagyarOldalak\MagyarOldalak\MagyarOldalak\obj\Debug\MagyarOldalak.csproj.GenerateResource.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\MagyarOldalak\MagyarOldalak\MagyarOldalak\obj\Debug\MagyarOldalak.csproj.CoreCompileInputs.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\MagyarOldalak\MagyarOldalak\MagyarOldalak\obj\Debug\MagyarOldalak.exe
+C:\Users\AlizHumayer\Desktop\C sharp_mix\MagyarOldalak\MagyarOldalak\MagyarOldalak\obj\Debug\MagyarOldalak.pdb

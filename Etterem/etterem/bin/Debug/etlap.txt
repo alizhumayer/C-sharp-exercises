@@ -1,0 +1,57 @@
+﻿Almaleves*130*9,8*550*L
+Fehérboros gombakrémleves*120*4,8*550*L
+Fokhagymakrémleves*360*8,1*550*L
+Gyümölcsleves*120*14,7*550*L
+Málnakrémleves*90*6,6*550*L
+Paradicsomleves*310*9,1*600*L
+Póréhagyma krémleves*360*8,6*550*L
+Szederkrémleves*110*5,9*550*L
+Szilvaleves*110*12,4*550*L
+Tárkonyos csirkeraguleves*290*9,9*600*L
+Kapros tökfőzelék vagdalttal*440*23,6*880*F
+Parajfőzelék vagdalttal*520*7,4*920*F
+Rántott csirkemell meggymártással*490*13,9*1040*F
+Sóskafőzelék tükörtojással*290*6,9*840*F
+Zöldbabfőzelék rántott csirkemellel*670*22,3*970*F
+Zöldborsófőzelék töltött csirkemellel*720*24,7*920*F
+Cordon Bleu csirkemell spárgapürével*700*12,4*1210*F
+Csirkepaprikás galuskával*520*8,7*1210*F
+Fehérboros csirkemell paradicsomsalátával*410*10,2*1210*F
+Gombás-tejszínes pulykamellszelet galuskával*470*17,6*970*F
+Joghurtos csirkecomb galuskával*600*9,9*1040*F
+Májjal töltött rántott pulykamell salátával*490*12,4*1090*F
+Mézes-mustáros csirkecomb párolt karfiollal*510*13,4*970*F
+Pirított pulykamell sopszka salátával*350*9,6*1210*F
+Pulykaragu pitában zöldsalátával és joghurtos öntettel*380*7,6*980*F
+Rántott csirkemell franciasalátával*570*18,8*1160*F
+Rántott csirkemell grillezett zöldségekkel*450*15,5*1090*F
+Rántott sajt salátával*570*13,7*1040*F
+Sült csirkecomb tejszínes gombamártással*590*5,4*970*F
+Sült csirkemell tojásos zöldsalátával*440*5,9*1080*F
+Sült csirkemellcsíkok almás salátával*470*14,6*1080*F
+Sült pulykacomb mozzarellás sült zöldségekkel*550*18,6*1160*F
+Vadas pulykatokány spagettivel*500*12,6*1040*F
+Vajban sült csirkemell paradicsomos gombasalátával*310*9,7*1210*F
+Csőben sült brokkoli sajttal*340*10,1*1210*F
+Rakott karalábé (pulykacombból)*500*25,8*1040*F
+Rakott sajtos patisszon*590*25,7*1000*F
+Rántott cukkini almás sajtsalátával*560*30,2*1000*F
+Székelykáposzta (pulykacombból)*390*15,8*1210*F
+Tojásos lecsó virslivel és galuskával*630*8,5*1000*F
+Töltött padlizsán tejfölös zöldmártással*470*21,6*1000*F
+Csirkés pizza*930*14,8*1470*F
+Juhtúrós sztrapacska*790*8,2*1040*F
+Milánói spagetti*470*14,2*1090*F
+Mustáros szűzpecsenye spagettivel*470*12,3*1210*F
+Négysajtos pizza*770*11,1*1210*F
+Sajtos-sonkás pizza*780*10,3*1210*F
+Almás-fahéjas palacsinta vaníliaöntettel*130*9,8*470*D
+Barackos lepény*190*6,6*480*D
+Császármorzsa*330*14,4*550*D
+Cseresznyés pite*220*10,5*480*D
+Máglyarakás*310*11,7*550*D
+Meggyes piskóta*330*18,6*480*D
+Somlói galuska*380*9,5*470*D
+Szilvás lepény*340*20,5*480*D
+Túrógombóc fahéjas öntettel*440*11,8*600*D
+Túrós palacsinta eperöntettel*240*9,9*480*D

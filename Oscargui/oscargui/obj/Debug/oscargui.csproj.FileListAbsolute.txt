@@ -1,0 +1,10 @@
+C:\Users\Tanár\Downloads\oscarGUI\oscargui\oscargui\bin\Debug\oscargui.exe.config
+C:\Users\Tanár\Downloads\oscarGUI\oscargui\oscargui\bin\Debug\oscargui.exe
+C:\Users\Tanár\Downloads\oscarGUI\oscargui\oscargui\bin\Debug\oscargui.pdb
+C:\Users\Tanár\Downloads\oscarGUI\oscargui\oscargui\obj\Debug\oscargui.csprojAssemblyReference.cache
+C:\Users\Tanár\Downloads\oscarGUI\oscargui\oscargui\obj\Debug\oscargui.Form1.resources
+C:\Users\Tanár\Downloads\oscarGUI\oscargui\oscargui\obj\Debug\oscargui.Properties.Resources.resources
+C:\Users\Tanár\Downloads\oscarGUI\oscargui\oscargui\obj\Debug\oscargui.csproj.GenerateResource.cache
+C:\Users\Tanár\Downloads\oscarGUI\oscargui\oscargui\obj\Debug\oscargui.exe
+C:\Users\Tanár\Downloads\oscarGUI\oscargui\oscargui\obj\Debug\oscargui.pdb
+c:\Users\Tanár\Downloads\oscarGUI\oscargui\oscargui\obj\Debug\oscargui.csproj.CoreCompileInputs.cache

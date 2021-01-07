@@ -1,0 +1,13 @@
+C:\Users\Eszti\source\Nov26_rendezes\Nov26_rendezes\bin\Debug\netcoreapp3.1\Nov26_rendezes.exe
+C:\Users\Eszti\source\Nov26_rendezes\Nov26_rendezes\bin\Debug\netcoreapp3.1\Nov26_rendezes.deps.json
+C:\Users\Eszti\source\Nov26_rendezes\Nov26_rendezes\bin\Debug\netcoreapp3.1\Nov26_rendezes.runtimeconfig.json
+C:\Users\Eszti\source\Nov26_rendezes\Nov26_rendezes\bin\Debug\netcoreapp3.1\Nov26_rendezes.runtimeconfig.dev.json
+C:\Users\Eszti\source\Nov26_rendezes\Nov26_rendezes\bin\Debug\netcoreapp3.1\Nov26_rendezes.dll
+C:\Users\Eszti\source\Nov26_rendezes\Nov26_rendezes\bin\Debug\netcoreapp3.1\Nov26_rendezes.pdb
+C:\Users\Eszti\source\Nov26_rendezes\Nov26_rendezes\obj\Debug\netcoreapp3.1\Nov26_rendezes.AssemblyInfoInputs.cache
+C:\Users\Eszti\source\Nov26_rendezes\Nov26_rendezes\obj\Debug\netcoreapp3.1\Nov26_rendezes.AssemblyInfo.cs
+C:\Users\Eszti\source\Nov26_rendezes\Nov26_rendezes\obj\Debug\netcoreapp3.1\Nov26_rendezes.csproj.CoreCompileInputs.cache
+C:\Users\Eszti\source\Nov26_rendezes\Nov26_rendezes\obj\Debug\netcoreapp3.1\Nov26_rendezes.dll
+C:\Users\Eszti\source\Nov26_rendezes\Nov26_rendezes\obj\Debug\netcoreapp3.1\Nov26_rendezes.pdb
+C:\Users\Eszti\source\Nov26_rendezes\Nov26_rendezes\obj\Debug\netcoreapp3.1\Nov26_rendezes.genruntimeconfig.cache
+C:\Users\Eszti\source\Nov26_rendezes\Nov26_rendezes\obj\Debug\netcoreapp3.1\Nov26_rendezes.csprojAssemblyReference.cache

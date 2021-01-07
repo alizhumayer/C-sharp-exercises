@@ -1,0 +1,33 @@
+﻿A vihar;The Tempest;1611;igen
+A két veronai nemes;The Two Gentlemen of Verona;1591;igen
+A windsori víg nők;The Merry Wives of Windsor;1597;igen
+Szeget szeggel;Measure for Measure;1604;igen
+Tévedések vígjátéka;Comedy of Errors;1594;igen
+Sok hűhó semmiért;Much Ado About Nothing;1599;igen
+A lóvá tett lovagok;Love's Labour's Lost;1595;igen
+Szentivánéji álom;A Midsummer Night's Dream;1595;igen
+A velencei kalmár;The Merchant of Venice;1597;igen
+Ahogy tetszik;As You Like It;1600;igen
+A makrancos hölgy;Taming of the Shrew;1591;igen
+Minden jó, ha vége jó;All's Well That Ends Well;1605;igen
+Vízkereszt, vagy amit akartok;Twelfth Night or What You Will;1601;igen
+Troilus és Cressida;Troilus and Cressida;1602;igen
+Téli rege;The Winter's Tale;1611;igen
+Pericles;Pericles, Prince of Tyre;1608;igen
+Coriolanus;Coriolanus;1608;nem
+Titus Andronicus;Titus Andronicus;1592;nem
+Rómeó és Júlia;Romeo and Juliet;1595;nem
+Julius Caesar;Julius Caesar;1599;nem
+Macbeth;Macbeth;1606;nem
+Hamlet;Hamlet;1601;nem
+Lear király;King Lear;1606;nem
+Othello;Othello;1604;nem
+Antonius és Kleopátra;Antony and Cleopatra;1606;nem
+Cymbeline;Cymbeline;1610;nem
+János király;The Life and Death of King John;1596;nem
+II. Richárd;Richard II;1595;nem
+IV. Henrik;Henry IV;1597;nem
+V. Henrik;Henry V;1599;nem
+VI. Henrik;Henry VI;1592;nem
+III. Richárd;Richard III;1593;nem
+VIII. Henrik;Henry VIII;1613;nem

@@ -1,0 +1,8 @@
+regiokod	regionev
+1	Közép-Magyarország
+2	Közép-Dunántúl
+3	Nyugat-Dunántúl
+4	Dél-Dunántúl
+5	Észak-Magyarország
+6	Észak-Alföld
+7	Dél-Alföld

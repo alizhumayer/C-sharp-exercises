@@ -1,0 +1,12 @@
+C:\Users\Borsos Lajos\Downloads\számológép\szamologep\szamologep\bin\Debug\szamologep.exe.config
+C:\Users\Borsos Lajos\Downloads\számológép\szamologep\szamologep\bin\Debug\szamologep.exe
+C:\Users\Borsos Lajos\Downloads\számológép\szamologep\szamologep\bin\Debug\szamologep.pdb
+C:\Users\Borsos Lajos\Downloads\számológép\szamologep\szamologep\obj\Debug\szamologep.csprojResolveAssemblyReference.cache
+C:\Users\Borsos Lajos\Downloads\számológép\szamologep\szamologep\obj\Debug\szamologep.Form1.resources
+C:\Users\Borsos Lajos\Downloads\számológép\szamologep\szamologep\obj\Debug\szamologep.Properties.Resources.resources
+C:\Users\Borsos Lajos\Downloads\számológép\szamologep\szamologep\obj\Debug\szamologep.csproj.GenerateResource.Cache
+C:\Users\Borsos Lajos\Downloads\számológép\szamologep\szamologep\obj\Debug\szamologep.exe
+C:\Users\Borsos Lajos\Downloads\számológép\szamologep\szamologep\obj\Debug\szamologep.pdb
+e:\_CSharp programok windows form\számológép\szamologep\szamologep\bin\Debug\szamologep.exe.config
+e:\_CSharp programok windows form\számológép\szamologep\szamologep\obj\Debug\szamologep.exe
+e:\_CSharp programok windows form\számológép\szamologep\szamologep\obj\Debug\szamologep.pdb

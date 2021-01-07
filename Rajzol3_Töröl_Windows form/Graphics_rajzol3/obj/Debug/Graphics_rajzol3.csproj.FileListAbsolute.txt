@@ -1,0 +1,19 @@
+c:\users\acs.marcell\documents\visual studio 2015\Projects\Graphics_rajzol3\Graphics_rajzol3\bin\Debug\Graphics_rajzol3.exe.config
+c:\users\acs.marcell\documents\visual studio 2015\Projects\Graphics_rajzol3\Graphics_rajzol3\bin\Debug\Graphics_rajzol3.exe
+c:\users\acs.marcell\documents\visual studio 2015\Projects\Graphics_rajzol3\Graphics_rajzol3\bin\Debug\Graphics_rajzol3.pdb
+c:\users\acs.marcell\documents\visual studio 2015\Projects\Graphics_rajzol3\Graphics_rajzol3\obj\Debug\Graphics_rajzol3.csprojResolveAssemblyReference.cache
+c:\users\acs.marcell\documents\visual studio 2015\Projects\Graphics_rajzol3\Graphics_rajzol3\obj\Debug\Graphics_rajzol3.Form1.resources
+c:\users\acs.marcell\documents\visual studio 2015\Projects\Graphics_rajzol3\Graphics_rajzol3\obj\Debug\Graphics_rajzol3.Properties.Resources.resources
+c:\users\acs.marcell\documents\visual studio 2015\Projects\Graphics_rajzol3\Graphics_rajzol3\obj\Debug\Graphics_rajzol3.csproj.GenerateResource.Cache
+c:\users\acs.marcell\documents\visual studio 2015\Projects\Graphics_rajzol3\Graphics_rajzol3\obj\Debug\Graphics_rajzol3.exe
+c:\users\acs.marcell\documents\visual studio 2015\Projects\Graphics_rajzol3\Graphics_rajzol3\obj\Debug\Graphics_rajzol3.pdb
+C:\Users\AlizHumayer\Desktop\C sharp_mix\Graphics_rajzol3\Graphics_rajzol3\bin\Debug\Graphics_rajzol3.exe.config
+C:\Users\AlizHumayer\Desktop\C sharp_mix\Graphics_rajzol3\Graphics_rajzol3\bin\Debug\Graphics_rajzol3.exe
+C:\Users\AlizHumayer\Desktop\C sharp_mix\Graphics_rajzol3\Graphics_rajzol3\bin\Debug\Graphics_rajzol3.pdb
+C:\Users\AlizHumayer\Desktop\C sharp_mix\Graphics_rajzol3\Graphics_rajzol3\obj\Debug\Graphics_rajzol3.csprojAssemblyReference.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\Graphics_rajzol3\Graphics_rajzol3\obj\Debug\Graphics_rajzol3.Form1.resources
+C:\Users\AlizHumayer\Desktop\C sharp_mix\Graphics_rajzol3\Graphics_rajzol3\obj\Debug\Graphics_rajzol3.Properties.Resources.resources
+C:\Users\AlizHumayer\Desktop\C sharp_mix\Graphics_rajzol3\Graphics_rajzol3\obj\Debug\Graphics_rajzol3.csproj.GenerateResource.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\Graphics_rajzol3\Graphics_rajzol3\obj\Debug\Graphics_rajzol3.csproj.CoreCompileInputs.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\Graphics_rajzol3\Graphics_rajzol3\obj\Debug\Graphics_rajzol3.exe
+C:\Users\AlizHumayer\Desktop\C sharp_mix\Graphics_rajzol3\Graphics_rajzol3\obj\Debug\Graphics_rajzol3.pdb

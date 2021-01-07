@@ -1,0 +1,12 @@
+﻿Január;2;5
+Február;2;6
+Március;10;17
+Április;15;21
+Május;20;30
+Június;21;42
+Július;25;43
+Augusztus;18;33
+Szeptember;12;19
+Október;8;15
+November;4;7
+December;3;6

@@ -1,0 +1,10 @@
+C:\Users\Tanár\Downloads\52 481 02 Irodai informatikus\varosok\foldlegnagyobbvarosai\foldlegnagyobbvarosai\foldlegnagyobbvarosai\bin\Debug\foldlegnagyobbvarosai.exe.config
+C:\Users\Tanár\Downloads\52 481 02 Irodai informatikus\varosok\foldlegnagyobbvarosai\foldlegnagyobbvarosai\foldlegnagyobbvarosai\bin\Debug\foldlegnagyobbvarosai.exe
+C:\Users\Tanár\Downloads\52 481 02 Irodai informatikus\varosok\foldlegnagyobbvarosai\foldlegnagyobbvarosai\foldlegnagyobbvarosai\bin\Debug\foldlegnagyobbvarosai.pdb
+C:\Users\Tanár\Downloads\52 481 02 Irodai informatikus\varosok\foldlegnagyobbvarosai\foldlegnagyobbvarosai\foldlegnagyobbvarosai\obj\Debug\foldlegnagyobbvarosai.csprojAssemblyReference.cache
+C:\Users\Tanár\Downloads\52 481 02 Irodai informatikus\varosok\foldlegnagyobbvarosai\foldlegnagyobbvarosai\foldlegnagyobbvarosai\obj\Debug\foldlegnagyobbvarosai.Form1.resources
+C:\Users\Tanár\Downloads\52 481 02 Irodai informatikus\varosok\foldlegnagyobbvarosai\foldlegnagyobbvarosai\foldlegnagyobbvarosai\obj\Debug\foldlegnagyobbvarosai.Properties.Resources.resources
+C:\Users\Tanár\Downloads\52 481 02 Irodai informatikus\varosok\foldlegnagyobbvarosai\foldlegnagyobbvarosai\foldlegnagyobbvarosai\obj\Debug\foldlegnagyobbvarosai.csproj.GenerateResource.cache
+C:\Users\Tanár\Downloads\52 481 02 Irodai informatikus\varosok\foldlegnagyobbvarosai\foldlegnagyobbvarosai\foldlegnagyobbvarosai\obj\Debug\foldlegnagyobbvarosai.csproj.CoreCompileInputs.cache
+C:\Users\Tanár\Downloads\52 481 02 Irodai informatikus\varosok\foldlegnagyobbvarosai\foldlegnagyobbvarosai\foldlegnagyobbvarosai\obj\Debug\foldlegnagyobbvarosai.exe
+C:\Users\Tanár\Downloads\52 481 02 Irodai informatikus\varosok\foldlegnagyobbvarosai\foldlegnagyobbvarosai\foldlegnagyobbvarosai\obj\Debug\foldlegnagyobbvarosai.pdb

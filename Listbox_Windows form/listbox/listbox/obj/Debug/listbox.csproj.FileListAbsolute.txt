@@ -1,0 +1,19 @@
+C:\Users\Eszti\source\listbox\listbox\bin\Debug\listbox.exe.config
+C:\Users\Eszti\source\listbox\listbox\bin\Debug\listbox.exe
+C:\Users\Eszti\source\listbox\listbox\bin\Debug\listbox.pdb
+C:\Users\Eszti\source\listbox\listbox\obj\Debug\listbox.Form1.resources
+C:\Users\Eszti\source\listbox\listbox\obj\Debug\listbox.Properties.Resources.resources
+C:\Users\Eszti\source\listbox\listbox\obj\Debug\listbox.csproj.GenerateResource.cache
+C:\Users\Eszti\source\listbox\listbox\obj\Debug\listbox.csproj.CoreCompileInputs.cache
+C:\Users\Eszti\source\listbox\listbox\obj\Debug\listbox.exe
+C:\Users\Eszti\source\listbox\listbox\obj\Debug\listbox.pdb
+C:\Users\AlizHumayer\Desktop\Visual Studio_ZIP files\listbox\listbox\listbox\bin\Debug\listbox.exe.config
+C:\Users\AlizHumayer\Desktop\Visual Studio_ZIP files\listbox\listbox\listbox\bin\Debug\listbox.exe
+C:\Users\AlizHumayer\Desktop\Visual Studio_ZIP files\listbox\listbox\listbox\bin\Debug\listbox.pdb
+C:\Users\AlizHumayer\Desktop\Visual Studio_ZIP files\listbox\listbox\listbox\obj\Debug\listbox.csprojAssemblyReference.cache
+C:\Users\AlizHumayer\Desktop\Visual Studio_ZIP files\listbox\listbox\listbox\obj\Debug\listbox.Form1.resources
+C:\Users\AlizHumayer\Desktop\Visual Studio_ZIP files\listbox\listbox\listbox\obj\Debug\listbox.Properties.Resources.resources
+C:\Users\AlizHumayer\Desktop\Visual Studio_ZIP files\listbox\listbox\listbox\obj\Debug\listbox.csproj.GenerateResource.cache
+C:\Users\AlizHumayer\Desktop\Visual Studio_ZIP files\listbox\listbox\listbox\obj\Debug\listbox.csproj.CoreCompileInputs.cache
+C:\Users\AlizHumayer\Desktop\Visual Studio_ZIP files\listbox\listbox\listbox\obj\Debug\listbox.exe
+C:\Users\AlizHumayer\Desktop\Visual Studio_ZIP files\listbox\listbox\listbox\obj\Debug\listbox.pdb

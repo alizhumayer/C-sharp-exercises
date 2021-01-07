@@ -1,0 +1,2 @@
+A I auto increment automatikusan növeli
+UNSIGNED pozitív számok

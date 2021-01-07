@@ -1,0 +1,22 @@
+Z:\C#\2017_11_09\adatb\adatb\bin\Debug\adatb.exe.config
+Z:\C#\2017_11_09\adatb\adatb\bin\Debug\adatb.exe
+Z:\C#\2017_11_09\adatb\adatb\bin\Debug\adatb.pdb
+Z:\C#\2017_11_09\adatb\adatb\bin\Debug\mysql.data.dll
+Z:\C#\2017_11_09\adatb\adatb\obj\Debug\adatb.csprojResolveAssemblyReference.cache
+Z:\C#\2017_11_09\adatb\adatb\obj\Debug\adatb.Form1.resources
+Z:\C#\2017_11_09\adatb\adatb\obj\Debug\adatb.Properties.Resources.resources
+Z:\C#\2017_11_09\adatb\adatb\obj\Debug\adatb.csproj.GenerateResource.Cache
+Z:\C#\2017_11_09\adatb\adatb\obj\Debug\adatb.exe
+Z:\C#\2017_11_09\adatb\adatb\obj\Debug\adatb.pdb
+C:\Users\AlizHumayer\Desktop\C sharp_mix\zoliCSharp\zoliCSharp\2017_11_09\adatb\adatb\bin\Debug\adatb.exe.config
+C:\Users\AlizHumayer\Desktop\C sharp_mix\zoliCSharp\zoliCSharp\2017_11_09\adatb\adatb\bin\Debug\adatb.exe
+C:\Users\AlizHumayer\Desktop\C sharp_mix\zoliCSharp\zoliCSharp\2017_11_09\adatb\adatb\bin\Debug\adatb.pdb
+C:\Users\AlizHumayer\Desktop\C sharp_mix\zoliCSharp\zoliCSharp\2017_11_09\adatb\adatb\bin\Debug\mysql.data.dll
+C:\Users\AlizHumayer\Desktop\C sharp_mix\zoliCSharp\zoliCSharp\2017_11_09\adatb\adatb\obj\Debug\adatb.csprojAssemblyReference.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\zoliCSharp\zoliCSharp\2017_11_09\adatb\adatb\obj\Debug\adatb.Form1.resources
+C:\Users\AlizHumayer\Desktop\C sharp_mix\zoliCSharp\zoliCSharp\2017_11_09\adatb\adatb\obj\Debug\adatb.Properties.Resources.resources
+C:\Users\AlizHumayer\Desktop\C sharp_mix\zoliCSharp\zoliCSharp\2017_11_09\adatb\adatb\obj\Debug\adatb.csproj.GenerateResource.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\zoliCSharp\zoliCSharp\2017_11_09\adatb\adatb\obj\Debug\adatb.csproj.CoreCompileInputs.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\zoliCSharp\zoliCSharp\2017_11_09\adatb\adatb\obj\Debug\adatb.csproj.CopyComplete
+C:\Users\AlizHumayer\Desktop\C sharp_mix\zoliCSharp\zoliCSharp\2017_11_09\adatb\adatb\obj\Debug\adatb.exe
+C:\Users\AlizHumayer\Desktop\C sharp_mix\zoliCSharp\zoliCSharp\2017_11_09\adatb\adatb\obj\Debug\adatb.pdb

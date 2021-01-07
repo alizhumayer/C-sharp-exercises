@@ -1,0 +1,19 @@
+C:\Users\Tanár\Downloads\dohányzás ára kalkulátor\dohanyzaskalulator\dohanyzaskalulator\bin\Debug\dohanyzaskalulator.exe.config
+C:\Users\Tanár\Downloads\dohányzás ára kalkulátor\dohanyzaskalulator\dohanyzaskalulator\bin\Debug\dohanyzaskalulator.exe
+C:\Users\Tanár\Downloads\dohányzás ára kalkulátor\dohanyzaskalulator\dohanyzaskalulator\bin\Debug\dohanyzaskalulator.pdb
+C:\Users\Tanár\Downloads\dohányzás ára kalkulátor\dohanyzaskalulator\dohanyzaskalulator\obj\Debug\dohanyzaskalulator.csprojResolveAssemblyReference.cache
+C:\Users\Tanár\Downloads\dohányzás ára kalkulátor\dohanyzaskalulator\dohanyzaskalulator\obj\Debug\dohanyzaskalulator.Form1.resources
+C:\Users\Tanár\Downloads\dohányzás ára kalkulátor\dohanyzaskalulator\dohanyzaskalulator\obj\Debug\dohanyzaskalulator.Properties.Resources.resources
+C:\Users\Tanár\Downloads\dohányzás ára kalkulátor\dohanyzaskalulator\dohanyzaskalulator\obj\Debug\dohanyzaskalulator.csproj.GenerateResource.Cache
+C:\Users\Tanár\Downloads\dohányzás ára kalkulátor\dohanyzaskalulator\dohanyzaskalulator\obj\Debug\dohanyzaskalulator.exe
+C:\Users\Tanár\Downloads\dohányzás ára kalkulátor\dohanyzaskalulator\dohanyzaskalulator\obj\Debug\dohanyzaskalulator.pdb
+c:\Users\Tanár\Downloads\csharp\CSharp programozás\dohányzás ára kalkulátor\dohanyzaskalulator\dohanyzaskalulator\bin\Debug\dohanyzaskalulator.exe.config
+c:\Users\Tanár\Downloads\csharp\CSharp programozás\dohányzás ára kalkulátor\dohanyzaskalulator\dohanyzaskalulator\bin\Debug\dohanyzaskalulator.exe
+c:\Users\Tanár\Downloads\csharp\CSharp programozás\dohányzás ára kalkulátor\dohanyzaskalulator\dohanyzaskalulator\bin\Debug\dohanyzaskalulator.pdb
+c:\Users\Tanár\Downloads\csharp\CSharp programozás\dohányzás ára kalkulátor\dohanyzaskalulator\dohanyzaskalulator\obj\Debug\dohanyzaskalulator.csprojAssemblyReference.cache
+c:\Users\Tanár\Downloads\csharp\CSharp programozás\dohányzás ára kalkulátor\dohanyzaskalulator\dohanyzaskalulator\obj\Debug\dohanyzaskalulator.Form1.resources
+c:\Users\Tanár\Downloads\csharp\CSharp programozás\dohányzás ára kalkulátor\dohanyzaskalulator\dohanyzaskalulator\obj\Debug\dohanyzaskalulator.Properties.Resources.resources
+c:\Users\Tanár\Downloads\csharp\CSharp programozás\dohányzás ára kalkulátor\dohanyzaskalulator\dohanyzaskalulator\obj\Debug\dohanyzaskalulator.csproj.GenerateResource.cache
+c:\Users\Tanár\Downloads\csharp\CSharp programozás\dohányzás ára kalkulátor\dohanyzaskalulator\dohanyzaskalulator\obj\Debug\dohanyzaskalulator.csproj.CoreCompileInputs.cache
+c:\Users\Tanár\Downloads\csharp\CSharp programozás\dohányzás ára kalkulátor\dohanyzaskalulator\dohanyzaskalulator\obj\Debug\dohanyzaskalulator.exe
+c:\Users\Tanár\Downloads\csharp\CSharp programozás\dohányzás ára kalkulátor\dohanyzaskalulator\dohanyzaskalulator\obj\Debug\dohanyzaskalulator.pdb

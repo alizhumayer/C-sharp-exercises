@@ -1,0 +1,9 @@
+E:\CSharp programok\_nev_magassag_testsuly\testtomegindex\testtomegindex\bin\Debug\testtomegindex.exe.config
+E:\CSharp programok\_nev_magassag_testsuly\testtomegindex\testtomegindex\bin\Debug\testtomegindex.exe
+E:\CSharp programok\_nev_magassag_testsuly\testtomegindex\testtomegindex\bin\Debug\testtomegindex.pdb
+E:\CSharp programok\_nev_magassag_testsuly\testtomegindex\testtomegindex\obj\Debug\testtomegindex.csprojResolveAssemblyReference.cache
+E:\CSharp programok\_nev_magassag_testsuly\testtomegindex\testtomegindex\obj\Debug\testtomegindex.exe
+E:\CSharp programok\_nev_magassag_testsuly\testtomegindex\testtomegindex\obj\Debug\testtomegindex.pdb
+c:\Users\Borsos Lajos\Downloads\12A C sharp feladatok\testtomegindex\testtomegindex\bin\Debug\testtomegindex.exe.config
+c:\Users\Borsos Lajos\Downloads\12A C sharp feladatok\testtomegindex\testtomegindex\obj\Debug\testtomegindex.exe
+c:\Users\Borsos Lajos\Downloads\12A C sharp feladatok\testtomegindex\testtomegindex\obj\Debug\testtomegindex.pdb

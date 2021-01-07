@@ -1,0 +1,19 @@
+D:\Szoftverfejlesztés\C win form gyak\_3. félév\Tortek_osztaly\Tortek_osztaly\bin\Debug\Tortek_osztaly.exe.config
+D:\Szoftverfejlesztés\C win form gyak\_3. félév\Tortek_osztaly\Tortek_osztaly\bin\Debug\Tortek_osztaly.exe
+D:\Szoftverfejlesztés\C win form gyak\_3. félév\Tortek_osztaly\Tortek_osztaly\bin\Debug\Tortek_osztaly.pdb
+D:\Szoftverfejlesztés\C win form gyak\_3. félév\Tortek_osztaly\Tortek_osztaly\obj\Debug\Tortek_osztaly.csprojResolveAssemblyReference.cache
+D:\Szoftverfejlesztés\C win form gyak\_3. félév\Tortek_osztaly\Tortek_osztaly\obj\Debug\Tortek_osztaly.Form1.resources
+D:\Szoftverfejlesztés\C win form gyak\_3. félév\Tortek_osztaly\Tortek_osztaly\obj\Debug\Tortek_osztaly.Properties.Resources.resources
+D:\Szoftverfejlesztés\C win form gyak\_3. félév\Tortek_osztaly\Tortek_osztaly\obj\Debug\Tortek_osztaly.csproj.GenerateResource.Cache
+D:\Szoftverfejlesztés\C win form gyak\_3. félév\Tortek_osztaly\Tortek_osztaly\obj\Debug\Tortek_osztaly.exe
+D:\Szoftverfejlesztés\C win form gyak\_3. félév\Tortek_osztaly\Tortek_osztaly\obj\Debug\Tortek_osztaly.pdb
+C:\Users\AlizHumayer\Desktop\C sharp_mix\Tortek_osztaly\Tortek_osztaly\Tortek_osztaly\bin\Debug\Tortek_osztaly.exe.config
+C:\Users\AlizHumayer\Desktop\C sharp_mix\Tortek_osztaly\Tortek_osztaly\Tortek_osztaly\bin\Debug\Tortek_osztaly.exe
+C:\Users\AlizHumayer\Desktop\C sharp_mix\Tortek_osztaly\Tortek_osztaly\Tortek_osztaly\bin\Debug\Tortek_osztaly.pdb
+C:\Users\AlizHumayer\Desktop\C sharp_mix\Tortek_osztaly\Tortek_osztaly\Tortek_osztaly\obj\Debug\Tortek_osztaly.csprojAssemblyReference.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\Tortek_osztaly\Tortek_osztaly\Tortek_osztaly\obj\Debug\Tortek_osztaly.Form1.resources
+C:\Users\AlizHumayer\Desktop\C sharp_mix\Tortek_osztaly\Tortek_osztaly\Tortek_osztaly\obj\Debug\Tortek_osztaly.Properties.Resources.resources
+C:\Users\AlizHumayer\Desktop\C sharp_mix\Tortek_osztaly\Tortek_osztaly\Tortek_osztaly\obj\Debug\Tortek_osztaly.csproj.GenerateResource.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\Tortek_osztaly\Tortek_osztaly\Tortek_osztaly\obj\Debug\Tortek_osztaly.csproj.CoreCompileInputs.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\Tortek_osztaly\Tortek_osztaly\Tortek_osztaly\obj\Debug\Tortek_osztaly.exe
+C:\Users\AlizHumayer\Desktop\C sharp_mix\Tortek_osztaly\Tortek_osztaly\Tortek_osztaly\obj\Debug\Tortek_osztaly.pdb

@@ -1,0 +1,12 @@
+C:\Users\Borsos Lajos\Downloads\egyenes\egyenes\egyenes\bin\Debug\egyenes.exe.config
+C:\Users\Borsos Lajos\Downloads\egyenes\egyenes\egyenes\bin\Debug\egyenes.exe
+C:\Users\Borsos Lajos\Downloads\egyenes\egyenes\egyenes\bin\Debug\egyenes.pdb
+C:\Users\Borsos Lajos\Downloads\egyenes\egyenes\egyenes\obj\Debug\egyenes.csprojResolveAssemblyReference.cache
+C:\Users\Borsos Lajos\Downloads\egyenes\egyenes\egyenes\obj\Debug\egyenes.Form1.resources
+C:\Users\Borsos Lajos\Downloads\egyenes\egyenes\egyenes\obj\Debug\egyenes.Properties.Resources.resources
+C:\Users\Borsos Lajos\Downloads\egyenes\egyenes\egyenes\obj\Debug\egyenes.csproj.GenerateResource.Cache
+C:\Users\Borsos Lajos\Downloads\egyenes\egyenes\egyenes\obj\Debug\egyenes.exe
+C:\Users\Borsos Lajos\Downloads\egyenes\egyenes\egyenes\obj\Debug\egyenes.pdb
+e:\_CSharp programok windows form\egyenes\egyenes\egyenes\bin\Debug\egyenes.exe.config
+e:\_CSharp programok windows form\egyenes\egyenes\egyenes\obj\Debug\egyenes.exe
+e:\_CSharp programok windows form\egyenes\egyenes\egyenes\obj\Debug\egyenes.pdb

@@ -1,0 +1,6 @@
+C:\Users\marcusek\Desktop\Szoftverfejlesztés\projects\elsohazi\elsohazi\bin\Debug\elsohazi.exe.config
+C:\Users\marcusek\Desktop\Szoftverfejlesztés\projects\elsohazi\elsohazi\bin\Debug\elsohazi.exe
+C:\Users\marcusek\Desktop\Szoftverfejlesztés\projects\elsohazi\elsohazi\bin\Debug\elsohazi.pdb
+C:\Users\marcusek\Desktop\Szoftverfejlesztés\projects\elsohazi\elsohazi\obj\Debug\elsohazi.csprojResolveAssemblyReference.cache
+C:\Users\marcusek\Desktop\Szoftverfejlesztés\projects\elsohazi\elsohazi\obj\Debug\elsohazi.exe
+C:\Users\marcusek\Desktop\Szoftverfejlesztés\projects\elsohazi\elsohazi\obj\Debug\elsohazi.pdb

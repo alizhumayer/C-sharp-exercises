@@ -1,0 +1,13 @@
+C:\Users\Eszti\source\Elagazasok\Elagazasok\bin\Debug\netcoreapp3.1\Elagazasok.exe
+C:\Users\Eszti\source\Elagazasok\Elagazasok\bin\Debug\netcoreapp3.1\Elagazasok.deps.json
+C:\Users\Eszti\source\Elagazasok\Elagazasok\bin\Debug\netcoreapp3.1\Elagazasok.runtimeconfig.json
+C:\Users\Eszti\source\Elagazasok\Elagazasok\bin\Debug\netcoreapp3.1\Elagazasok.runtimeconfig.dev.json
+C:\Users\Eszti\source\Elagazasok\Elagazasok\bin\Debug\netcoreapp3.1\Elagazasok.dll
+C:\Users\Eszti\source\Elagazasok\Elagazasok\bin\Debug\netcoreapp3.1\Elagazasok.pdb
+C:\Users\Eszti\source\Elagazasok\Elagazasok\obj\Debug\netcoreapp3.1\Elagazasok.AssemblyInfoInputs.cache
+C:\Users\Eszti\source\Elagazasok\Elagazasok\obj\Debug\netcoreapp3.1\Elagazasok.AssemblyInfo.cs
+C:\Users\Eszti\source\Elagazasok\Elagazasok\obj\Debug\netcoreapp3.1\Elagazasok.csproj.CoreCompileInputs.cache
+C:\Users\Eszti\source\Elagazasok\Elagazasok\obj\Debug\netcoreapp3.1\Elagazasok.dll
+C:\Users\Eszti\source\Elagazasok\Elagazasok\obj\Debug\netcoreapp3.1\Elagazasok.pdb
+C:\Users\Eszti\source\Elagazasok\Elagazasok\obj\Debug\netcoreapp3.1\Elagazasok.genruntimeconfig.cache
+C:\Users\Eszti\source\Elagazasok\Elagazasok\obj\Debug\netcoreapp3.1\Elagazasok.csprojAssemblyReference.cache

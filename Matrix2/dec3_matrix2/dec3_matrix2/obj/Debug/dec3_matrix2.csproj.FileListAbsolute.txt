@@ -1,0 +1,7 @@
+C:\Users\Eszti\source\repos\dec3_matrix2\dec3_matrix2\bin\Debug\dec3_matrix2.exe.config
+C:\Users\Eszti\source\repos\dec3_matrix2\dec3_matrix2\bin\Debug\dec3_matrix2.exe
+C:\Users\Eszti\source\repos\dec3_matrix2\dec3_matrix2\bin\Debug\dec3_matrix2.pdb
+C:\Users\Eszti\source\repos\dec3_matrix2\dec3_matrix2\obj\Debug\dec3_matrix2.csprojAssemblyReference.cache
+C:\Users\Eszti\source\repos\dec3_matrix2\dec3_matrix2\obj\Debug\dec3_matrix2.csproj.CoreCompileInputs.cache
+C:\Users\Eszti\source\repos\dec3_matrix2\dec3_matrix2\obj\Debug\dec3_matrix2.exe
+C:\Users\Eszti\source\repos\dec3_matrix2\dec3_matrix2\obj\Debug\dec3_matrix2.pdb

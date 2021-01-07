@@ -1,0 +1,18 @@
+E:\CSharp programok\_stadionok\stadionokeuropa\stadionokeuropa\bin\Debug\stadionokeuropa.exe.config
+E:\CSharp programok\_stadionok\stadionokeuropa\stadionokeuropa\bin\Debug\stadionokeuropa.exe
+E:\CSharp programok\_stadionok\stadionokeuropa\stadionokeuropa\bin\Debug\stadionokeuropa.pdb
+E:\CSharp programok\_stadionok\stadionokeuropa\stadionokeuropa\obj\Debug\stadionokeuropa.csprojResolveAssemblyReference.cache
+E:\CSharp programok\_stadionok\stadionokeuropa\stadionokeuropa\obj\Debug\stadionokeuropa.exe
+E:\CSharp programok\_stadionok\stadionokeuropa\stadionokeuropa\obj\Debug\stadionokeuropa.pdb
+e:\CSharp programok\_stadionok másolata\stadionokeuropa\stadionokeuropa\bin\Debug\stadionokeuropa.exe.config
+e:\CSharp programok\_stadionok másolata\stadionokeuropa\stadionokeuropa\obj\Debug\stadionokeuropa.exe
+e:\CSharp programok\_stadionok másolata\stadionokeuropa\stadionokeuropa\obj\Debug\stadionokeuropa.pdb
+e:\CSharp programok\_stadionok másolata\stadionokeuropa\stadionokeuropa\bin\Debug\stadionokeuropa.exe
+e:\CSharp programok\_stadionok másolata\stadionokeuropa\stadionokeuropa\bin\Debug\stadionokeuropa.pdb
+e:\CSharp programok\_stadionok másolata\stadionokeuropa\stadionokeuropa\obj\Debug\stadionokeuropa.csprojResolveAssemblyReference.cache
+c:\Users\Borsos Lajos\Downloads\12A C sharp feladatok\_stadionok másolata\stadionokeuropa\stadionokeuropa\bin\Debug\stadionokeuropa.exe.config
+c:\Users\Borsos Lajos\Downloads\12A C sharp feladatok\_stadionok másolata\stadionokeuropa\stadionokeuropa\obj\Debug\stadionokeuropa.exe
+c:\Users\Borsos Lajos\Downloads\12A C sharp feladatok\_stadionok másolata\stadionokeuropa\stadionokeuropa\obj\Debug\stadionokeuropa.pdb
+c:\Users\Borsos Lajos\Downloads\12A C sharp feladatok\_stadionok másolata\stadionokeuropa\stadionokeuropa\bin\Debug\stadionokeuropa.exe
+c:\Users\Borsos Lajos\Downloads\12A C sharp feladatok\_stadionok másolata\stadionokeuropa\stadionokeuropa\bin\Debug\stadionokeuropa.pdb
+c:\Users\Borsos Lajos\Downloads\12A C sharp feladatok\_stadionok másolata\stadionokeuropa\stadionokeuropa\obj\Debug\stadionokeuropa.csprojResolveAssemblyReference.cache

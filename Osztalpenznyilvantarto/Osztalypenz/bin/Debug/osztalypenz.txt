@@ -1,0 +1,8 @@
+3500
+1. tranzakció: Tamás befizetett 1000 Ft-ot.
+2. tranzakció: Lajos befizetett 2000 Ft-ot.
+3. tranzakció: 1500 Ft-ot kifizettünk osztályfőnök részére.
+4. tranzakció: Tamás befizetett 1000 Ft-ot.
+5. tranzakció: Lajos befizetett 1000 Ft-ot. 2019. 06. 27. 9:24:46
+6. tranzakció: Lajos befizetett 3000 Ft-ot. 2019. 06. 27. 9:26:17
+7. tranzakció: 3000 Ft-ot kifizettünk Lajos részére. 2019. 06. 27. 9:26:17

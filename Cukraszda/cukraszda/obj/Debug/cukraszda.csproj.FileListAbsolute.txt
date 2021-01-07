@@ -1,0 +1,6 @@
+C:\Users\Tanár\Downloads\cukraszda-konzolos\cukraszda\cukraszda\bin\Debug\cukraszda.exe.config
+C:\Users\Tanár\Downloads\cukraszda-konzolos\cukraszda\cukraszda\bin\Debug\cukraszda.exe
+C:\Users\Tanár\Downloads\cukraszda-konzolos\cukraszda\cukraszda\bin\Debug\cukraszda.pdb
+C:\Users\Tanár\Downloads\cukraszda-konzolos\cukraszda\cukraszda\obj\Debug\cukraszda.csprojAssemblyReference.cache
+C:\Users\Tanár\Downloads\cukraszda-konzolos\cukraszda\cukraszda\obj\Debug\cukraszda.exe
+C:\Users\Tanár\Downloads\cukraszda-konzolos\cukraszda\cukraszda\obj\Debug\cukraszda.pdb

@@ -1,0 +1,12 @@
+C:\Users\Eszti\source\Oszthatosag\Oszthatosag\bin\Debug\netcoreapp3.1\Oszthatosag.exe
+C:\Users\Eszti\source\Oszthatosag\Oszthatosag\bin\Debug\netcoreapp3.1\Oszthatosag.deps.json
+C:\Users\Eszti\source\Oszthatosag\Oszthatosag\bin\Debug\netcoreapp3.1\Oszthatosag.runtimeconfig.json
+C:\Users\Eszti\source\Oszthatosag\Oszthatosag\bin\Debug\netcoreapp3.1\Oszthatosag.runtimeconfig.dev.json
+C:\Users\Eszti\source\Oszthatosag\Oszthatosag\bin\Debug\netcoreapp3.1\Oszthatosag.dll
+C:\Users\Eszti\source\Oszthatosag\Oszthatosag\bin\Debug\netcoreapp3.1\Oszthatosag.pdb
+C:\Users\Eszti\source\Oszthatosag\Oszthatosag\obj\Debug\netcoreapp3.1\Oszthatosag.AssemblyInfoInputs.cache
+C:\Users\Eszti\source\Oszthatosag\Oszthatosag\obj\Debug\netcoreapp3.1\Oszthatosag.AssemblyInfo.cs
+C:\Users\Eszti\source\Oszthatosag\Oszthatosag\obj\Debug\netcoreapp3.1\Oszthatosag.csproj.CoreCompileInputs.cache
+C:\Users\Eszti\source\Oszthatosag\Oszthatosag\obj\Debug\netcoreapp3.1\Oszthatosag.dll
+C:\Users\Eszti\source\Oszthatosag\Oszthatosag\obj\Debug\netcoreapp3.1\Oszthatosag.pdb
+C:\Users\Eszti\source\Oszthatosag\Oszthatosag\obj\Debug\netcoreapp3.1\Oszthatosag.genruntimeconfig.cache

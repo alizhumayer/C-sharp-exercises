@@ -1,0 +1,19 @@
+c:\users\acs.marcell\documents\visual studio 2015\Projects\160322\160322\bin\Debug\160322.exe.config
+c:\users\acs.marcell\documents\visual studio 2015\Projects\160322\160322\bin\Debug\160322.exe
+c:\users\acs.marcell\documents\visual studio 2015\Projects\160322\160322\bin\Debug\160322.pdb
+c:\users\acs.marcell\documents\visual studio 2015\Projects\160322\160322\obj\Debug\160322.csprojResolveAssemblyReference.cache
+c:\users\acs.marcell\documents\visual studio 2015\Projects\160322\160322\obj\Debug\_160322.Form1.resources
+c:\users\acs.marcell\documents\visual studio 2015\Projects\160322\160322\obj\Debug\_160322.Properties.Resources.resources
+c:\users\acs.marcell\documents\visual studio 2015\Projects\160322\160322\obj\Debug\160322.csproj.GenerateResource.Cache
+c:\users\acs.marcell\documents\visual studio 2015\Projects\160322\160322\obj\Debug\160322.exe
+c:\users\acs.marcell\documents\visual studio 2015\Projects\160322\160322\obj\Debug\160322.pdb
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20160322\20160322\160322\160322\bin\Debug\160322.exe.config
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20160322\20160322\160322\160322\bin\Debug\160322.exe
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20160322\20160322\160322\160322\bin\Debug\160322.pdb
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20160322\20160322\160322\160322\obj\Debug\160322.csprojAssemblyReference.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20160322\20160322\160322\160322\obj\Debug\_160322.Form1.resources
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20160322\20160322\160322\160322\obj\Debug\_160322.Properties.Resources.resources
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20160322\20160322\160322\160322\obj\Debug\160322.csproj.GenerateResource.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20160322\20160322\160322\160322\obj\Debug\160322.csproj.CoreCompileInputs.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20160322\20160322\160322\160322\obj\Debug\160322.exe
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20160322\20160322\160322\160322\obj\Debug\160322.pdb

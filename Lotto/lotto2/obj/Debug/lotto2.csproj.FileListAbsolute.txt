@@ -1,0 +1,19 @@
+D:\Szoftverfejlesztés\C win form gyak\lotto2\lotto2\bin\Debug\lotto2.exe.config
+D:\Szoftverfejlesztés\C win form gyak\lotto2\lotto2\bin\Debug\lotto2.exe
+D:\Szoftverfejlesztés\C win form gyak\lotto2\lotto2\bin\Debug\lotto2.pdb
+D:\Szoftverfejlesztés\C win form gyak\lotto2\lotto2\obj\Debug\lotto2.csprojResolveAssemblyReference.cache
+D:\Szoftverfejlesztés\C win form gyak\lotto2\lotto2\obj\Debug\lotto2.Form1.resources
+D:\Szoftverfejlesztés\C win form gyak\lotto2\lotto2\obj\Debug\lotto2.Properties.Resources.resources
+D:\Szoftverfejlesztés\C win form gyak\lotto2\lotto2\obj\Debug\lotto2.csproj.GenerateResource.Cache
+D:\Szoftverfejlesztés\C win form gyak\lotto2\lotto2\obj\Debug\lotto2.exe
+D:\Szoftverfejlesztés\C win form gyak\lotto2\lotto2\obj\Debug\lotto2.pdb
+C:\Users\AlizHumayer\Desktop\C sharp_mix\lotto2\lotto2\lotto2\bin\Debug\lotto2.exe.config
+C:\Users\AlizHumayer\Desktop\C sharp_mix\lotto2\lotto2\lotto2\bin\Debug\lotto2.exe
+C:\Users\AlizHumayer\Desktop\C sharp_mix\lotto2\lotto2\lotto2\bin\Debug\lotto2.pdb
+C:\Users\AlizHumayer\Desktop\C sharp_mix\lotto2\lotto2\lotto2\obj\Debug\lotto2.csprojAssemblyReference.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\lotto2\lotto2\lotto2\obj\Debug\lotto2.Form1.resources
+C:\Users\AlizHumayer\Desktop\C sharp_mix\lotto2\lotto2\lotto2\obj\Debug\lotto2.Properties.Resources.resources
+C:\Users\AlizHumayer\Desktop\C sharp_mix\lotto2\lotto2\lotto2\obj\Debug\lotto2.csproj.GenerateResource.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\lotto2\lotto2\lotto2\obj\Debug\lotto2.csproj.CoreCompileInputs.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\lotto2\lotto2\lotto2\obj\Debug\lotto2.exe
+C:\Users\AlizHumayer\Desktop\C sharp_mix\lotto2\lotto2\lotto2\obj\Debug\lotto2.pdb

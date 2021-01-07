@@ -1,0 +1,19 @@
+H:\windows_form\2017_09_18\elso\elso\bin\Debug\elso.exe.config
+H:\windows_form\2017_09_18\elso\elso\bin\Debug\elso.exe
+H:\windows_form\2017_09_18\elso\elso\bin\Debug\elso.pdb
+H:\windows_form\2017_09_18\elso\elso\obj\Debug\elso.csprojResolveAssemblyReference.cache
+H:\windows_form\2017_09_18\elso\elso\obj\Debug\elso.Form1.resources
+H:\windows_form\2017_09_18\elso\elso\obj\Debug\elso.Properties.Resources.resources
+H:\windows_form\2017_09_18\elso\elso\obj\Debug\elso.csproj.GenerateResource.Cache
+H:\windows_form\2017_09_18\elso\elso\obj\Debug\elso.exe
+H:\windows_form\2017_09_18\elso\elso\obj\Debug\elso.pdb
+C:\Users\AlizHumayer\Desktop\C sharp_mix\zoliCSharp\zoliCSharp\2017_09_18\elso\elso\bin\Debug\elso.exe.config
+C:\Users\AlizHumayer\Desktop\C sharp_mix\zoliCSharp\zoliCSharp\2017_09_18\elso\elso\bin\Debug\elso.exe
+C:\Users\AlizHumayer\Desktop\C sharp_mix\zoliCSharp\zoliCSharp\2017_09_18\elso\elso\bin\Debug\elso.pdb
+C:\Users\AlizHumayer\Desktop\C sharp_mix\zoliCSharp\zoliCSharp\2017_09_18\elso\elso\obj\Debug\elso.csprojAssemblyReference.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\zoliCSharp\zoliCSharp\2017_09_18\elso\elso\obj\Debug\elso.Form1.resources
+C:\Users\AlizHumayer\Desktop\C sharp_mix\zoliCSharp\zoliCSharp\2017_09_18\elso\elso\obj\Debug\elso.Properties.Resources.resources
+C:\Users\AlizHumayer\Desktop\C sharp_mix\zoliCSharp\zoliCSharp\2017_09_18\elso\elso\obj\Debug\elso.csproj.GenerateResource.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\zoliCSharp\zoliCSharp\2017_09_18\elso\elso\obj\Debug\elso.csproj.CoreCompileInputs.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\zoliCSharp\zoliCSharp\2017_09_18\elso\elso\obj\Debug\elso.exe
+C:\Users\AlizHumayer\Desktop\C sharp_mix\zoliCSharp\zoliCSharp\2017_09_18\elso\elso\obj\Debug\elso.pdb

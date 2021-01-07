@@ -1,0 +1,21 @@
+C:\Users\Bálint\Downloads\csincsillák\csincsilla\csincsilla\bin\Debug\csincsilla.exe.config
+C:\Users\Bálint\Downloads\csincsillák\csincsilla\csincsilla\bin\Debug\csincsilla.exe
+C:\Users\Bálint\Downloads\csincsillák\csincsilla\csincsilla\bin\Debug\csincsilla.pdb
+C:\Users\Bálint\Downloads\csincsillák\csincsilla\csincsilla\obj\Debug\csincsilla.csprojResolveAssemblyReference.cache
+C:\Users\Bálint\Downloads\csincsillák\csincsilla\csincsilla\obj\Debug\csincsilla.exe
+C:\Users\Bálint\Downloads\csincsillák\csincsilla\csincsilla\obj\Debug\csincsilla.pdb
+e:\Tananyag 2018-2019\12A 2018-19\programozás 12A\Csincsillák feladat megoldás\csincsillák\csincsilla\csincsilla\bin\Debug\csincsilla.exe.config
+e:\Tananyag 2018-2019\12A 2018-19\programozás 12A\Csincsillák feladat megoldás\csincsillák\csincsilla\csincsilla\obj\Debug\csincsilla.exe
+e:\Tananyag 2018-2019\12A 2018-19\programozás 12A\Csincsillák feladat megoldás\csincsillák\csincsilla\csincsilla\obj\Debug\csincsilla.pdb
+e:\Tananyag 2018-2019\12A 2018-19\programozás 12A\Csincsillák feladat megoldás másolata\csincsillák\csincsilla\csincsilla\bin\Debug\csincsilla.exe.config
+e:\Tananyag 2018-2019\12A 2018-19\programozás 12A\Csincsillák feladat megoldás másolata\csincsillák\csincsilla\csincsilla\obj\Debug\csincsilla.exe
+e:\Tananyag 2018-2019\12A 2018-19\programozás 12A\Csincsillák feladat megoldás másolata\csincsillák\csincsilla\csincsilla\obj\Debug\csincsilla.pdb
+e:\Tananyag 2018-2019\12A 2018-19\programozás 12A\Csincsillák feladat megoldás másolata\csincsillák\csincsilla\csincsilla\bin\Debug\csincsilla.exe
+e:\Tananyag 2018-2019\12A 2018-19\programozás 12A\Csincsillák feladat megoldás másolata\csincsillák\csincsilla\csincsilla\bin\Debug\csincsilla.pdb
+e:\Tananyag 2018-2019\12A 2018-19\programozás 12A\Csincsillák feladat megoldás másolata\csincsillák\csincsilla\csincsilla\obj\Debug\csincsilla.csprojResolveAssemblyReference.cache
+d:\Tananyag 2018-2019\12A 2018-19\programozás 12A\Csincsillák feladat megoldás másolata\csincsillák\csincsilla\csincsilla\bin\Debug\csincsilla.exe.config
+d:\Tananyag 2018-2019\12A 2018-19\programozás 12A\Csincsillák feladat megoldás másolata\csincsillák\csincsilla\csincsilla\obj\Debug\csincsilla.exe
+d:\Tananyag 2018-2019\12A 2018-19\programozás 12A\Csincsillák feladat megoldás másolata\csincsillák\csincsilla\csincsilla\obj\Debug\csincsilla.pdb
+d:\Tananyag 2018-2019\12A 2018-19\programozás 12A\Csincsillák feladat megoldás másolata\csincsillák\csincsilla\csincsilla\bin\Debug\csincsilla.exe
+d:\Tananyag 2018-2019\12A 2018-19\programozás 12A\Csincsillák feladat megoldás másolata\csincsillák\csincsilla\csincsilla\bin\Debug\csincsilla.pdb
+d:\Tananyag 2018-2019\12A 2018-19\programozás 12A\Csincsillák feladat megoldás másolata\csincsillák\csincsilla\csincsilla\obj\Debug\csincsilla.csprojResolveAssemblyReference.cache

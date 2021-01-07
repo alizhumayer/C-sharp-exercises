@@ -1,0 +1,29 @@
+C:\Users\ACS.MARCELL\Desktop\csharp\Villamos\Villamos\bin\Debug\Villamos.exe.config
+C:\Users\ACS.MARCELL\Desktop\csharp\Villamos\Villamos\obj\Debug\Villamos.csprojResolveAssemblyReference.cache
+C:\Users\ACS.MARCELL\Desktop\csharp\Villamos\Villamos\obj\Debug\Villamos.Form1.resources
+C:\Users\ACS.MARCELL\Desktop\csharp\Villamos\Villamos\obj\Debug\Villamos.Properties.Resources.resources
+C:\Users\ACS.MARCELL\Desktop\csharp\Villamos\Villamos\obj\Debug\Villamos.csproj.GenerateResource.Cache
+C:\Users\ACS.MARCELL\Desktop\csharp\Villamos\Villamos\bin\Debug\Villamos.exe
+C:\Users\ACS.MARCELL\Desktop\csharp\Villamos\Villamos\bin\Debug\Villamos.pdb
+C:\Users\ACS.MARCELL\Desktop\csharp\Villamos\Villamos\obj\Debug\Villamos.exe
+C:\Users\ACS.MARCELL\Desktop\csharp\Villamos\Villamos\obj\Debug\Villamos.pdb
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20171016_Villamos\Villamos\Villamos\bin\Debug\Villamos.exe.config
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20171016_Villamos\Villamos\Villamos\bin\Debug\Villamos.exe
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20171016_Villamos\Villamos\Villamos\bin\Debug\Villamos.pdb
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20171016_Villamos\Villamos\Villamos\obj\Debug\Villamos.csprojAssemblyReference.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20171016_Villamos\Villamos\Villamos\obj\Debug\Villamos.Form1.resources
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20171016_Villamos\Villamos\Villamos\obj\Debug\Villamos.Properties.Resources.resources
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20171016_Villamos\Villamos\Villamos\obj\Debug\Villamos.csproj.GenerateResource.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20171016_Villamos\Villamos\Villamos\obj\Debug\Villamos.csproj.CoreCompileInputs.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20171016_Villamos\Villamos\Villamos\obj\Debug\Villamos.exe
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20171016_Villamos\Villamos\Villamos\obj\Debug\Villamos.pdb
+C:\Users\AlizHumayer\Desktop\PROGRAMOZÁS_VIZSGA FELADATOK\Villamos_Windows form\Villamos\Villamos\bin\Debug\Villamos.exe.config
+C:\Users\AlizHumayer\Desktop\PROGRAMOZÁS_VIZSGA FELADATOK\Villamos_Windows form\Villamos\Villamos\bin\Debug\Villamos.exe
+C:\Users\AlizHumayer\Desktop\PROGRAMOZÁS_VIZSGA FELADATOK\Villamos_Windows form\Villamos\Villamos\bin\Debug\Villamos.pdb
+C:\Users\AlizHumayer\Desktop\PROGRAMOZÁS_VIZSGA FELADATOK\Villamos_Windows form\Villamos\Villamos\obj\Debug\Villamos.csprojAssemblyReference.cache
+C:\Users\AlizHumayer\Desktop\PROGRAMOZÁS_VIZSGA FELADATOK\Villamos_Windows form\Villamos\Villamos\obj\Debug\Villamos.Form1.resources
+C:\Users\AlizHumayer\Desktop\PROGRAMOZÁS_VIZSGA FELADATOK\Villamos_Windows form\Villamos\Villamos\obj\Debug\Villamos.Properties.Resources.resources
+C:\Users\AlizHumayer\Desktop\PROGRAMOZÁS_VIZSGA FELADATOK\Villamos_Windows form\Villamos\Villamos\obj\Debug\Villamos.csproj.GenerateResource.cache
+C:\Users\AlizHumayer\Desktop\PROGRAMOZÁS_VIZSGA FELADATOK\Villamos_Windows form\Villamos\Villamos\obj\Debug\Villamos.csproj.CoreCompileInputs.cache
+C:\Users\AlizHumayer\Desktop\PROGRAMOZÁS_VIZSGA FELADATOK\Villamos_Windows form\Villamos\Villamos\obj\Debug\Villamos.exe
+C:\Users\AlizHumayer\Desktop\PROGRAMOZÁS_VIZSGA FELADATOK\Villamos_Windows form\Villamos\Villamos\obj\Debug\Villamos.pdb

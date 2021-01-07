@@ -1,0 +1,6 @@
+D:\Szoftverfejlesztés\C win form gyak\hegylancok\hegylancok\bin\Debug\hegylancok.exe.config
+D:\Szoftverfejlesztés\C win form gyak\hegylancok\hegylancok\bin\Debug\hegylancok.exe
+D:\Szoftverfejlesztés\C win form gyak\hegylancok\hegylancok\bin\Debug\hegylancok.pdb
+D:\Szoftverfejlesztés\C win form gyak\hegylancok\hegylancok\obj\Debug\hegylancok.csprojResolveAssemblyReference.cache
+D:\Szoftverfejlesztés\C win form gyak\hegylancok\hegylancok\obj\Debug\hegylancok.exe
+D:\Szoftverfejlesztés\C win form gyak\hegylancok\hegylancok\obj\Debug\hegylancok.pdb

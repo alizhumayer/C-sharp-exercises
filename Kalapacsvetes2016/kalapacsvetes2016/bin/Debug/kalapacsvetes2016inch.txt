@@ -1,0 +1,24 @@
+Wagner Domingos;Brazília;x;28,335;28,457;
+
+Ivan Cihan;Fehéroroszország;29,972;30,484;28,929;x;30,626;30,055;
+
+Szjarhej Kalamojec;Fehéroroszország;29,22;29,201;29,016;
+
+David Söderberg;Finnország;28,465;x;29,374;29,283;x;x;
+
+Amgad Elseify Ashraf;Katar;29,087;29,685;29,311;29,606;29,709;29,232;
+
+Jevhen Vinohradov;Ukrajna;28,894;x;29,177;
+
+Wojciech Nowicki;Lengyelország;x;29,504;29,516;x;x;30,602;
+
+Pars Krisztián;Magyarország;29,437;29,587;29,638;29,484;29,378;x;
+
+Diego del Real;Mexikó;28,878;28,969;29,941;x;27,886;28,965;
+
+Serghei Marghiev;Moldova;28,862;29,189;x;
+
+Marcel Lomnický;Szlovákia;28,87;28,602;29,512;29,563;29,909;29,386;
+
+Dilsod Nazarov;Tádzsikisztán;29,984;30,421;30,736;30,382;30,976;30,583;
+

@@ -1,0 +1,19 @@
+C:\Users\ACS.MARCELL\Desktop\Lottosorsolas\Lottosorsolas\bin\Debug\Lottosorsolas.exe.config
+C:\Users\ACS.MARCELL\Desktop\Lottosorsolas\Lottosorsolas\bin\Debug\Lottosorsolas.exe
+C:\Users\ACS.MARCELL\Desktop\Lottosorsolas\Lottosorsolas\bin\Debug\Lottosorsolas.pdb
+C:\Users\ACS.MARCELL\Desktop\Lottosorsolas\Lottosorsolas\obj\Debug\Lottosorsolas.csprojResolveAssemblyReference.cache
+C:\Users\ACS.MARCELL\Desktop\Lottosorsolas\Lottosorsolas\obj\Debug\Lottosorsolas.btn_sorsolas.resources
+C:\Users\ACS.MARCELL\Desktop\Lottosorsolas\Lottosorsolas\obj\Debug\Lottosorsolas.Properties.Resources.resources
+C:\Users\ACS.MARCELL\Desktop\Lottosorsolas\Lottosorsolas\obj\Debug\Lottosorsolas.csproj.GenerateResource.Cache
+C:\Users\ACS.MARCELL\Desktop\Lottosorsolas\Lottosorsolas\obj\Debug\Lottosorsolas.exe
+C:\Users\ACS.MARCELL\Desktop\Lottosorsolas\Lottosorsolas\obj\Debug\Lottosorsolas.pdb
+C:\Users\AlizHumayer\Desktop\C sharp_mix\Lottosorsolas\Lottosorsolas\bin\Debug\Lottosorsolas.exe.config
+C:\Users\AlizHumayer\Desktop\C sharp_mix\Lottosorsolas\Lottosorsolas\bin\Debug\Lottosorsolas.exe
+C:\Users\AlizHumayer\Desktop\C sharp_mix\Lottosorsolas\Lottosorsolas\bin\Debug\Lottosorsolas.pdb
+C:\Users\AlizHumayer\Desktop\C sharp_mix\Lottosorsolas\Lottosorsolas\obj\Debug\Lottosorsolas.csprojAssemblyReference.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\Lottosorsolas\Lottosorsolas\obj\Debug\Lottosorsolas.btn_sorsolas.resources
+C:\Users\AlizHumayer\Desktop\C sharp_mix\Lottosorsolas\Lottosorsolas\obj\Debug\Lottosorsolas.Properties.Resources.resources
+C:\Users\AlizHumayer\Desktop\C sharp_mix\Lottosorsolas\Lottosorsolas\obj\Debug\Lottosorsolas.csproj.GenerateResource.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\Lottosorsolas\Lottosorsolas\obj\Debug\Lottosorsolas.csproj.CoreCompileInputs.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\Lottosorsolas\Lottosorsolas\obj\Debug\Lottosorsolas.exe
+C:\Users\AlizHumayer\Desktop\C sharp_mix\Lottosorsolas\Lottosorsolas\obj\Debug\Lottosorsolas.pdb

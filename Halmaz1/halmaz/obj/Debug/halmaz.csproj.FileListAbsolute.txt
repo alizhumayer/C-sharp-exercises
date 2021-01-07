@@ -1,0 +1,19 @@
+Z:\C#\2017_09_21\halmaz\halmaz\bin\Debug\halmaz.exe.config
+Z:\C#\2017_09_21\halmaz\halmaz\bin\Debug\halmaz.exe
+Z:\C#\2017_09_21\halmaz\halmaz\bin\Debug\halmaz.pdb
+Z:\C#\2017_09_21\halmaz\halmaz\obj\Debug\halmaz.csprojResolveAssemblyReference.cache
+Z:\C#\2017_09_21\halmaz\halmaz\obj\Debug\halmaz.Form1.resources
+Z:\C#\2017_09_21\halmaz\halmaz\obj\Debug\halmaz.Properties.Resources.resources
+Z:\C#\2017_09_21\halmaz\halmaz\obj\Debug\halmaz.csproj.GenerateResource.Cache
+Z:\C#\2017_09_21\halmaz\halmaz\obj\Debug\halmaz.exe
+Z:\C#\2017_09_21\halmaz\halmaz\obj\Debug\halmaz.pdb
+C:\Users\AlizHumayer\Desktop\C sharp_mix\zoliCSharp\zoliCSharp\2017_09_21\halmaz\halmaz\bin\Debug\halmaz.exe.config
+C:\Users\AlizHumayer\Desktop\C sharp_mix\zoliCSharp\zoliCSharp\2017_09_21\halmaz\halmaz\bin\Debug\halmaz.exe
+C:\Users\AlizHumayer\Desktop\C sharp_mix\zoliCSharp\zoliCSharp\2017_09_21\halmaz\halmaz\bin\Debug\halmaz.pdb
+C:\Users\AlizHumayer\Desktop\C sharp_mix\zoliCSharp\zoliCSharp\2017_09_21\halmaz\halmaz\obj\Debug\halmaz.csprojAssemblyReference.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\zoliCSharp\zoliCSharp\2017_09_21\halmaz\halmaz\obj\Debug\halmaz.Form1.resources
+C:\Users\AlizHumayer\Desktop\C sharp_mix\zoliCSharp\zoliCSharp\2017_09_21\halmaz\halmaz\obj\Debug\halmaz.Properties.Resources.resources
+C:\Users\AlizHumayer\Desktop\C sharp_mix\zoliCSharp\zoliCSharp\2017_09_21\halmaz\halmaz\obj\Debug\halmaz.csproj.GenerateResource.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\zoliCSharp\zoliCSharp\2017_09_21\halmaz\halmaz\obj\Debug\halmaz.csproj.CoreCompileInputs.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\zoliCSharp\zoliCSharp\2017_09_21\halmaz\halmaz\obj\Debug\halmaz.exe
+C:\Users\AlizHumayer\Desktop\C sharp_mix\zoliCSharp\zoliCSharp\2017_09_21\halmaz\halmaz\obj\Debug\halmaz.pdb

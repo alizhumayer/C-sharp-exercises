@@ -1,0 +1,20 @@
+C:\Users\Eszti\source\repos\fajlkezeles1\fajlkezeles1\bin\Debug\fajlkezeles1.exe.config
+C:\Users\Eszti\source\repos\fajlkezeles1\fajlkezeles1\bin\Debug\fajlkezeles1.exe
+C:\Users\Eszti\source\repos\fajlkezeles1\fajlkezeles1\bin\Debug\fajlkezeles1.pdb
+C:\Users\Eszti\source\repos\fajlkezeles1\fajlkezeles1\obj\Debug\fajlkezeles1.csprojAssemblyReference.cache
+C:\Users\Eszti\source\repos\fajlkezeles1\fajlkezeles1\obj\Debug\fajlkezeles1.Form1.resources
+C:\Users\Eszti\source\repos\fajlkezeles1\fajlkezeles1\obj\Debug\fajlkezeles1.Properties.Resources.resources
+C:\Users\Eszti\source\repos\fajlkezeles1\fajlkezeles1\obj\Debug\fajlkezeles1.csproj.GenerateResource.cache
+C:\Users\Eszti\source\repos\fajlkezeles1\fajlkezeles1\obj\Debug\fajlkezeles1.csproj.CoreCompileInputs.cache
+C:\Users\Eszti\source\repos\fajlkezeles1\fajlkezeles1\obj\Debug\fajlkezeles1.exe
+C:\Users\Eszti\source\repos\fajlkezeles1\fajlkezeles1\obj\Debug\fajlkezeles1.pdb
+C:\Users\AlizHumayer\Desktop\C sharp órai programok\___ÓRAI_fajlkezeles1_Windows form\fajlkezeles1\bin\Debug\fajlkezeles1.exe.config
+C:\Users\AlizHumayer\Desktop\C sharp órai programok\___ÓRAI_fajlkezeles1_Windows form\fajlkezeles1\bin\Debug\fajlkezeles1.exe
+C:\Users\AlizHumayer\Desktop\C sharp órai programok\___ÓRAI_fajlkezeles1_Windows form\fajlkezeles1\bin\Debug\fajlkezeles1.pdb
+C:\Users\AlizHumayer\Desktop\C sharp órai programok\___ÓRAI_fajlkezeles1_Windows form\fajlkezeles1\obj\Debug\fajlkezeles1.csprojAssemblyReference.cache
+C:\Users\AlizHumayer\Desktop\C sharp órai programok\___ÓRAI_fajlkezeles1_Windows form\fajlkezeles1\obj\Debug\fajlkezeles1.Form1.resources
+C:\Users\AlizHumayer\Desktop\C sharp órai programok\___ÓRAI_fajlkezeles1_Windows form\fajlkezeles1\obj\Debug\fajlkezeles1.Properties.Resources.resources
+C:\Users\AlizHumayer\Desktop\C sharp órai programok\___ÓRAI_fajlkezeles1_Windows form\fajlkezeles1\obj\Debug\fajlkezeles1.csproj.GenerateResource.cache
+C:\Users\AlizHumayer\Desktop\C sharp órai programok\___ÓRAI_fajlkezeles1_Windows form\fajlkezeles1\obj\Debug\fajlkezeles1.csproj.CoreCompileInputs.cache
+C:\Users\AlizHumayer\Desktop\C sharp órai programok\___ÓRAI_fajlkezeles1_Windows form\fajlkezeles1\obj\Debug\fajlkezeles1.exe
+C:\Users\AlizHumayer\Desktop\C sharp órai programok\___ÓRAI_fajlkezeles1_Windows form\fajlkezeles1\obj\Debug\fajlkezeles1.pdb

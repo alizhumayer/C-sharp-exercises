@@ -1,0 +1,32 @@
+﻿Surányi Péter	2016. május 16. 20:40	Harcsa	70	186	Adácsi-tó (10-004-1-4) | Adács	-
+Győrfi András	2016. augusztus 28. 09:15	Busa	53,2	114	Lázbérci víztározó (05-018-1-1) | Dédesi oldal	-
+Kisfalusi Botond	2016. május 24. 20:15	Amur	20,8	102	Halásztelek holtág (04-170-1-4) | Szarvas, Nagyfoki holtág, 266-os stég	C&R
+Herczku Erik	2016. június 2. 11:50	Ponty	18,5	90	Harsányi víztározó (05-023-1-4) | Harsány	C&R
+Turbucz József	2016. július 9. 16:55	Itáliai tok	14,38	108	Maconkai víztározó (12-025-1-1) | Gáti szakasz	C&R
+Simon István	2016. április 16. 16:00	Lapátorrú tok	12,72	108	Maconkai víztározó (12-025-1-1) | Rekord-tó	C&R
+Karácsondi István	2016. szeptember 25. 16:22	Koi ponty	12,47	78	Maconkai víztározó (12-025-1-1) | Rekord- tó	C&R
+Horgász Egyesületek Csongrád M-i Szöv	2016. április 7. 11:23	Tükörponty	12,05	70	Atkai Holt-Tisza (06-031-1-1) | Mólósor	C&R
+Obornyik Zoltán	2016. június 29. 00:00	Nyurgaponty	11,88	79	Solti Holt-Duna (17-016-1-1) | Solti Kisduna	C&R
+Jaraba Branislav	2016. március 17. 17:10	Volgai tok	11,3	105	Maconkai víztározó (12-025-1-1) | Rekord- tó	C&R
+Léhner Gergő	2016. július 30. 10:35	Csuka	11,27	118	Inotai Nagybivalyos (Várpalota 0231/41 hrsz) (19-038-1-4) | Várpalota	-
+Ondrésik Tamás	2016. május 22. 07:23	Spanyol ponty	11,22	79	Maconkai víztározó (12-025-1-1) | Gáti szakasz	C&R
+Ducza Bálint	2016. augusztus 2. 10:25	Fekete amur	10,92	95	Maconkai víztározó (12-025-1-1) | Rekord-tó	C&R
+Polyák Csaba	2016. március 3. 15:00	Tőponty	10	0	Verba Tanya Horgásztó (15-102-1-4) | Nyíregyháza	C&R
+Tornyosi Lajos	2016. november 7. 18:00	Márna	6,48	69	Duna folyam 1657-1654 fkm és 1643-1630 - fkm Főváros felső és alsó (01-003-1-1) | Római-part	-
+Minkó Lajos	2018. augusztus 4. 15:30	Afrikai harcsa	6,05	87	Balaton (14-002-1-1) | Siófok, Csépány tó	-
+Balogh Péter	2016. július 14. 17:00	Balin	6	0	Búzásvölgyi-víztározó (10-023-1-5) | Recsk	C&R
+Kiss Péter	2016. február 27. 00:00	Süllő	5	0	Balaton (14-002-1-1) | Fonyód	C&R
+Almásy István	2016. július 5. 21:00	Pettyes harcsa	3,47	59	Maconkai víztározó (12-025-1-1) | Rekord-tó	C&R
+Jámbor Dávid	2017. július 2. 11:28	Dévérkeszeg	2,96	0	Szivárgó csatorna (08-226-1-1) | Dunakiliti Szivárgó csatorna	-
+Pusztai Gábor	2015. szeptember 18. 00:00	Pisztrángsügér	2,7	51	Délegyházi III. tó (13-071-1-5) | Délegyháza	C&R
+Koleszár-Varga Nikolett	2018. november 10. 14:50	Kecsege	2,65	60	Maconkai víztározó (12-025-1-1) | Rekord-tó	C&R
+Jakubecz Kálmán	2016. november 16. 19:00	Menyhal	2,51	61	Duna folyam 1657-1654 fkm és 1643-1630 - fkm Főváros felső és alsó (01-003-1-1) | Érdi szakasz	-
+Ignácz Olivér	2017. május 21. 09:54	Csíkos sügér	2,45	47	Maconkai víztározó (12-025-1-1) | Keresztgát	C&R
+Hliva Sándor	2017. szeptember 22. 00:00	Angolna	2,2	103	Peresi holtág (04-033-1-1)	-
+Bai Richárd	2016. június 20. 16:50	Compó	2,13	44	Halastó-Nagykálló (15-064-1-4) | Nagykálló	C&R
+Takács István	2016. április 6. 00:10	Ezüstkárász	1,66	34	Ráckevei (Soroksári) Dunaág Kvassay zsiliptől Tassi zsilipig	-
+Sarlós Dávid	2018. október 19. 00:00	Kősüllő	1,35	44	Duna folyam 1654-1643 fkm Főváros közép (01-005-1-1) | Fővárosi Duna szakasz	C&R
+Bódi Vilmos	2017. október 4. 15:39	Aranyhal	1,22	34	Maconkai víztározó (12-025-1-1) | Rekord-tó	C&R
+Takács Péter	2017. július 23. 06:58	Garda	1,1	45	Tisza folyó 758-638 fkm-ig (15-073-1-1) | Tisza folyó, Balsa-Gávavencsellő közötti szakasza	C&R
+Kovács Gábor	2017. május 1. 15:51	Csapó sügér	0,74	34	ALMÁS PATAK (02-031-1-1) | Domolosi tó	C&R
+Minkó Lajos	2017. augusztus 24. 23:30	Törpeharcsa	0,6	25	Balaton (14-002-1-1) | Siófok	-

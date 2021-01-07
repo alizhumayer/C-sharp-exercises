@@ -1,0 +1,9 @@
+C:\Users\Tanár\Downloads\shakespeareGUI\shakespeare\shakespeare\bin\Debug\shakespeare.exe.config
+C:\Users\Tanár\Downloads\shakespeareGUI\shakespeare\shakespeare\bin\Debug\shakespeare.exe
+C:\Users\Tanár\Downloads\shakespeareGUI\shakespeare\shakespeare\bin\Debug\shakespeare.pdb
+C:\Users\Tanár\Downloads\shakespeareGUI\shakespeare\shakespeare\obj\Debug\shakespeare.csprojAssemblyReference.cache
+C:\Users\Tanár\Downloads\shakespeareGUI\shakespeare\shakespeare\obj\Debug\shakespeare.Form1.resources
+C:\Users\Tanár\Downloads\shakespeareGUI\shakespeare\shakespeare\obj\Debug\shakespeare.Properties.Resources.resources
+C:\Users\Tanár\Downloads\shakespeareGUI\shakespeare\shakespeare\obj\Debug\shakespeare.csproj.GenerateResource.cache
+C:\Users\Tanár\Downloads\shakespeareGUI\shakespeare\shakespeare\obj\Debug\shakespeare.exe
+C:\Users\Tanár\Downloads\shakespeareGUI\shakespeare\shakespeare\obj\Debug\shakespeare.pdb

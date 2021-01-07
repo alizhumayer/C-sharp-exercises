@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErettsegiMegoldas", "ErettsegiMegoldas\ErettsegiMegoldas.csproj", "{FB31CA67-1A52-4398-BCF2-93B9786534EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FeladatValaszto", "FeladatValaszto\FeladatValaszto.csproj", "{3D82CBB7-BB14-4702-AA76-6DD5F817CAFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB31CA67-1A52-4398-BCF2-93B9786534EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB31CA67-1A52-4398-BCF2-93B9786534EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB31CA67-1A52-4398-BCF2-93B9786534EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB31CA67-1A52-4398-BCF2-93B9786534EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D82CBB7-BB14-4702-AA76-6DD5F817CAFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D82CBB7-BB14-4702-AA76-6DD5F817CAFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D82CBB7-BB14-4702-AA76-6DD5F817CAFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D82CBB7-BB14-4702-AA76-6DD5F817CAFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {276F4813-2ABF-4812-A15D-74533E97D037}
+	EndGlobalSection
+EndGlobal

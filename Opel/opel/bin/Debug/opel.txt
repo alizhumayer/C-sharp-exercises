@@ -1,0 +1,1901 @@
+﻿Admiral B 2.8	1969	5	2784	0	1495
+Admiral B 2.8 E Automatic	1969	5	2784	0	1530
+Admiral B 2.8 S	1969	5	2784	0	1475
+Admiral B 2.8	1975	5	2784	0	1495
+Admiral B 2.8 E Automatic	1975	5	2784	0	1530
+Admiral B 2.8 S	1975	5	2784	0	1475
+Agila II 1.0 EcoFLEX	2008	5	996	0	0
+Agila II 1.0 EcoFLEX Start/stop	2008	5	996	0	0
+Agila II 1.2 EcoFLEX Start/stop	2008	5	1242	0	0
+Agila II 1.2 Automatic	2008	5	1242	0	0
+Agila II 1.2	2008	5	1242	0	0
+Antara (facelift 2010) 2.2 CDTI Automatic	2010	5	2231	0	1967
+Antara (facelift 2010) 2.2 CDTI FWD	2010	5	2231	0	1967
+Antara (facelift 2010) 2.2 CDTI FWD Automatic	2010	5	2231	0	1967
+Antara (facelift 2010) 2.4 16V	2010	5	2384	0	1805
+Antara (facelift 2010) 2.4 16V Automatic	2010	5	2384	0	1805
+Ascona C 1.6 N	1981	5	1598	0	980
+Ascona C 1.6	1986	5	1598	0	0
+Ascona C 2.0i	1987	5	1979	0	0
+Astra F Caravan 1.8i 16V Automatic	1993	5	1798	0	1145
+Astra F CC 1.8i 16V Automatic	1993	5	1799	0	1125
+Astra F 1.8i 16V	1994	5	1796	0	985
+Astra F Caravan 1.6i	1996	5	1598	0	1030
+Astra G Coupe 1.6 16V	2000	2	1598	0	1200
+Astra G Caravan 1.2 16V	2002	5	1199	0	1050
+Astra H TwinTop 1.8i ECOTEC	2006	4	1796	0	1400
+Astra H 1.7 DTR	2008	5	1686	0	1471
+Astra H 1.6 (115/112 Hp) EcoFLEX LPG	2009	5	1598	0	1165
+Astra H 1.7 DTR EcoFLEX	2009	5	1686	0	1471
+Astra H Caravan 1.6 (115/112 Hp) EcoFLEX LPG	2009	5	1598	0	1278
+Astra H Caravan 1.7 CDTI EcoFLEX	2009	5	1686	0	1465
+Astra H Caravan 1.7 CDTI	2009	5	1686	0	1465
+Astra H Sedan 1.6 XER	2009	5	1598	0	1203
+Astra J 1.4 Turbo EcoFLEX Start/stop	2009	5	1364	0	1298
+Astra J 1.4 Turbo EcoFLEX Start/stop	2009	5	1364	0	1298
+Astra J (facelift 2012) 1.7 CDTI Ecotec	2012	5	1686	0	0
+Astra J Sedan 1.4 Ecotec LPG	2012	5	1362	0	0
+Astra J Sedan 2.0 CDTI Ecotec Start/stop	2012	5	1956	0	0
+Campo Double Cab 2.3 4x4	1991	5	2255	0	0
+Campo Double Cab 2.5 TD 4x4	1991	5	2499	0	0
+Campo Half Cab 2.3 4x4	1991	4	2255	0	0
+Campo Half Cab 2.3 4x4 Automatic	1991	4	2255	0	0
+Campo Half Cab 2.5 TD 4x4	1991	4	2499	0	0
+Campo Single Cab 2.3 4x4	1991	2	2255	0	0
+Campo Single Cab 2.5 TD 4x4	1991	2	2499	0	0
+Campo Double Cab 2.3 4x4	1994	5	2255	0	0
+Campo Double Cab 2.3	1994	5	2255	0	0
+Campo Half Cab 2.3	1994	4	2255	0	0
+Campo Half Cab 2.3 4x4	1994	4	2255	0	0
+Campo Half Cab 2.3 Automatic	1994	4	2255	0	0
+Campo Half Cab 2.3 4x4 Automatic	1994	4	2255	0	0
+Campo Single Cab 2.3	1994	2	2255	0	0
+Campo Single Cab 2.3 4x4	1994	2	2255	0	0
+Combo Tour B 1.2	1994	2	1195	0	1065
+Combo Tour B 1.4	1994	2	1389	0	0
+Combo Tour B 1.4i	1994	2	1389	0	0
+Combo Tour B 1.4i	1996	2	1388	0	0
+Combo Tour B 1.7 D	1996	2	1686	0	0
+Corsa A (facelift 1987) 1.4i	1989	5	1389	0	770
+Corsa A (facelift 1990) 1.4i	1990	5	1389	0	775
+Corsa D (Facelift 2011) 3-door 1.2 XER Automatic	2011	5	1229	0	1130
+Corsa D (Facelift 2011) 5-door 1.3 DTE Start/Stop	2011	5	1248	0	1160
+Insignia Sedan (facelift 2013) 2.0 Start/Stop	2013	5	1998	0	1150
+Kadett C 1.2	1973	5	1196	0	0
+Kadett E Cabrio 1.6i Automatic	1986	5	1598	0	1005
+Kadett E Cabrio 1.3 S	1987	5	1297	0	930
+Kadett E 1.4 S	1990	5	1389	0	901
+Kadett E Cabrio 1.4i	1990	5	1389	0	955
+Kadett E Caravan 1.4 S	1990	5	1389	0	944
+Kadett E Cabrio 1.6i Automatic	1992	5	1598	0	995
+Manta B 1.3 S	1975	4	1297	0	1065
+Movano A Kipper 2.8 DTI	1999	6	2799	0	0
+Movano B 2.3 CDTI Turbo	2010	3	2298	0	0
+Movano B 2.3 CDTI Turbo Start/stop	2010	3	2298	0	0
+Movano B 2.3 CDTI Turbo	2010	3	2298	0	0
+Movano B 2.3 CDTI Turbo Easytronic	2010	3	2298	0	0
+Movano B 2.3 BiTurbo Start/stop	2010	3	2298	0	0
+Movano B 2.3 CDTI Turbo Easytronic	2010	3	2298	0	0
+Movano B 2.3 BiTurbo Start/stop	2010	3	2298	0	0
+Movano B Combi 2.3 BiTurbo	2010	6	2298	0	0
+Movano B Combi 2.3 BiTurbo	2010	6	2298	0	0
+Omega A 2.0	1990	5	1998	0	0
+Omega A 2.0i CAT	1990	5	1998	0	1235
+Omega A Caravan 2.0i CAT	1990	5	1998	0	1265
+Rekord D 2.0 D	1974	5	1998	0	1210
+Rekord D Caravan 2.0 D	1974	5	1998	0	1255
+Rekord E Caravan 2.1 D	1977	5	2068	0	1270
+Rekord E Caravan 2.1 D Automatic	1977	5	2068	0	1290
+Rekord E Caravan 2.1 D Automatic	1977	5	2068	0	1290
+Senator A 2.5	1978	5	2490	0	1370
+Senator A 2.5 Automatic	1978	5	2490	0	1370
+Vectra A 1.6 S Automatic	1988	5	1598	0	0
+Vectra A 1.8 S	1988	5	1796	0	0
+Vectra A 1.8 S 4x4	1988	5	1796	0	0
+Vectra A 1.8 S Automatic	1988	5	1796	0	0
+Vectra A 2.0	1988	5	1998	0	0
+Vectra A 2.0i	1988	5	1998	0	1115
+Vectra A 2.0i 4x4	1988	5	1998	0	1245
+Vectra A 2.0 Automatic	1988	5	1998	0	0
+Vectra A CC 1.6 S Automatic	1988	5	1598	0	1035
+Vectra A CC 1.8 S	1988	5	1796	0	0
+Vectra A CC 1.8 S Automatic	1988	5	1796	0	0
+Vectra A CC 1.8 S 4×4	1988	5	1796	0	0
+Vectra A CC 2.0i	1988	5	1998	0	0
+Vectra A CC 2.0i GT	1988	5	1998	0	1245
+Vectra A CC 2.0i GT 4×4	1988	5	1998	0	1245
+Vivaro A Tour 2.5 CDTI	2003	9	2464	0	1927
+Vivaro A (facelift 2006) 2.0 CDTI DPF	2006	9	1995	0	1764
+Vivaro B 1.6 CDTI	2014	9	1598	0	1665
+Vivaro B 1.6 CDTI BiTurbo	2014	9	1598	0	1665
+Vivaro B 1.6 CDTI	2014	9	1598	0	1665
+Vivaro B 1.6 CDTI	2014	9	1598	0	1665
+Vivaro B 1.6 CDTI	2014	9	1598	0	1665
+Vivaro B 1.6 CDTI BiTurbo Start/stop	2014	9	1598	0	1665
+Vivaro B 1.6 CDTI BiTurbo	2014	9	1598	0	1665
+Zafira Tourer C 1.6 CDTI EcoFLEX Start/stop	2014	5	1598	0	0
+Speedster 2.0i 16V Turbo	2003	2	1998	4,9	930
+Omega A 3.6 24V Lotus	1990	5	3615	5,4	1690
+GT 2.0 GT	2006	2	1998	5,7	1406
+Speedster 2.2 16V Ecotec	2001	2	2198	5,9	870
+Astra J GTC 2.0 OPC Turbo Ecotec	2012	5	1998	6	1550
+Insignia Sedan OPC 2.8 V6 Turbo 4x4	2009	5	2792	6	1810
+Insignia Sports Tourer OPC 2.8 V6 Turbo 4x4	2009	5	2792	6	1810
+Insignia Hatchback (facelift 2013) OPC 2.8 V6 AWD Turbo Ecotec	2013	5	2792	6	1750
+Insignia Hatchback (facelift 2013) OPC 2.8 V6 AWD Turbo Ecotec Automatic	2013	5	2792	6	1765
+Insignia Hatchback (facelift 2013) OPC 2.8 V6 AWD Turbo Ecotec Unlimited	2013	5	2792	6	1750
+Insignia Hatchback (facelift 2013) OPC 2.8 V6 AWD Turbo Ecotec Automatic Unlimited	2013	5	2792	6	1765
+Insignia Sedan (facelift 2013) OPC 2.8 V6 AWD Turbo Ecotec	2013	5	2792	6	1735
+Insignia Sedan (facelift 2013) OPC 2.8 V6 AWD Turbo Ecotec Automatic	2013	5	2792	6	1760
+Insignia Sedan (facelift 2013) OPC 2.8 V6 AWD Turbo Ecotec Unlimited	2013	5	2792	6	1735
+Insignia Sedan (facelift 2013) OPC 2.8 V6 AWD Turbo Ecotec Automatic Unlimited	2013	5	2792	6	1760
+Insignia Sports Tourer (facelift 2013) OPC 2.8 V6 AWD Turbo Ecotec	2013	5	2792	6	1865
+Insignia Sports Tourer (facelift 2013) OPC 2.8 V6 AWD Turbo Ecotec Automatic	2013	5	2792	6	1878
+Insignia Sports Tourer (facelift 2013) OPC 2.8 V6 AWD Turbo Ecotec Unlimited	2013	5	2792	6	1865
+Insignia Sports Tourer (facelift 2013) OPC 2.8 V6 AWD Turbo Ecotec Automatic Unlimited	2013	5	2792	6	1878
+Astra H 2.0i 16V Turbo	2004	5	1998	6,4	1385
+Astra H GTC 2.0i 16V Turbo OPC	2006	5	1998	6,4	1293
+Manta B (facelift 1982) 2.0 200 Rallye Gruppe	1983	4	1979	6,5	990
+Vectra C CC (facelift 2005) OPC 2.8i V6 24V Turbo	2006	5	2792	6,5	1510
+Insignia Country Tourer OPC 2.8 V6 AWD Turbo Ecotec Automatic	2013	5	2792	6,6	0
+Calibra A 2.0i Turbo 4x4	1992	4	1998	6,8	1285
+Corsa E 3-door OPC 1.6 Turbo ECOTEC	2014	5	1598	6,8	1218
+Vectra A CC (facelift 1992) 2.0i 16V Turbo 4×4	1992	5	1998	6,8	1245
+Vectra A (facelift 1992) 2.0i Turbo 4x4	1994	5	1998	6,8	1245
+Insignia Hatchback 2.8 V6 Turbo 4x4	2008	5	2792	6,9	1825
+Insignia Sedan 2.8 V6 Turbo 4x4	2008	5	2792	6,9	1810
+Insignia Hatchback OPC 2.8 V6 Turbo 4x4	2009	5	2792	6,9	1810
+Insignia Hatchback OPC 2.8 V6 Turbo 4x4 Automatic	2009	5	2792	6,9	1810
+Insignia Sedan OPC 2.8 V6 Turbo 4x4 Automatic	2009	5	2792	6,9	1810
+Vectra C Caravan (facelift 2005) OPC 2.8i V6 24V Turbo	2005	5	2792	6,9	1545
+Vectra C CC (facelift 2005) OPC 2.8i V6 24V Turbo	2005	5	2792	6,9	1510
+Vectra C (facelift 2005) 2.8i V6 24V Turbo	2006	5	2792	6,9	1495
+Vectra C CC (facelift 2005) 2.8i V6 24V Turbo	2006	5	2792	6,9	1495
+Astra G Coupe 2.0 16V Turbo	2000	2	1998	7	1260
+Astra K 1.6 EcoTec Start&stop	2015	5	1598	7	1275
+Omega B (facelift 1999) 5.7i V8 Automatic	2000	5	5665	7	1650
+Omega B Caravan (facelift 1999) 5.7 V8	2000	5	5665	7	1690
+Astra G Coupe 2.0 16V Turbo	2000	2	1998	7,5	1345
+Astra G CC 2.0 16V Turbo OPC	2002	5	1998	7,5	1250
+Insignia Hatchback 2.0 Turbo 4x4	2011	5	1998	7,5	1733
+Insignia Sedan 2.0 Turbo 4x4	2011	5	1998	7,5	1655
+Insignia Hatchback (facelift 2013) 2.0 AWD Turbo Ecotec Start/Stop	2013	5	1998	7,5	0
+Insignia Sedan (facelift 2013) 2.0 AWD Turbo Ecotec Start/Stop	2013	5	1998	7,5	0
+Insignia Sports Tourer II 2.0 Turbo AWD Automatic	2017	5	1998	7,5	1608
+Manta B 2.4 400	1981	4	2410	7,5	1095
+Omega A 3.0 V6 24V Evolution 500	1991	5	2969	7,5	1465
+Vectra C 3.2i V6 24V	2003	5	3175	7,5	1523
+Vectra C 3.2i V6 24V Automatic	2003	5	3175	7,5	1523
+Vectra C CC 3.2i V6 ECOTEC	2003	5	3175	7,5	1455
+Vectra C Caravan (facelift 2005) 2.8i V6 24V Turbo	2005	5	2792	7,5	1545
+Ascona B 400 2.4	1980	4	2410	7,6	1030
+Insignia Hatchback 2.0 Turbo	2008	5	1998	7,6	1645
+Insignia Sedan 2.0 Turbo	2008	5	1998	7,6	1613
+Insignia Hatchback 2.0 Turbo	2011	5	1998	7,6	1733
+Insignia Sedan 2.0 Turbo	2011	5	1998	7,6	1503
+Omega A 3.0 V6 24V 3000	1989	5	2969	7,6	1450
+Signum (facelift 2005) 2.8i V6 24V Turbo	2005	5	2792	7,6	1580
+Signum (facelift 2005) 2.8i V6 24V Turbo Automatic	2006	5	2792	7,6	1580
+Astra K Sports Tourer 1.6 ECOTEC Start&stop	2015	5	1598	7,7	1318
+Insignia Hatchback 2.0 Turbo 4x4	2008	5	1998	7,7	1733
+Insignia Sedan 2.0 Turbo 4x4	2008	5	1998	7,7	1655
+Insignia Hatchback 2.0 Turbo 4x4 Automatic	2011	5	1998	7,7	1733
+Insignia Sedan 2.0 Turbo 4x4 Automatic	2011	5	1998	7,7	1503
+Insignia Hatchback (facelift 2013) 2.0 AWD Turbo Ecotec Automatic	2013	5	1998	7,7	0
+Insignia Sedan (facelift 2013) 2.0 AWD Turbo Ecotec Automatic	2013	5	1998	7,7	0
+Kadett E CC 2.0 GSI 16V	1987	5	1998	7,7	990
+Kadett E CC 2.0 GSI 16V	1988	5	1998	7,7	1030
+Vectra C (facelift 2005) 2.8i V6 24V Turbo Automatic	2005	5	2792	7,7	1495
+Astra G Caravan 2.0 16V T OPC	2002	5	1998	7,8	1340
+Astra H GTC 2.0i 16V Turbo	2005	5	1998	7,8	1265
+Astra J Sedan 2.0 BiTurbo CDTI Ecotec Start/stop	2012	5	1956	7,8	0
+Calibra A 2.5i V6	1993	4	2498	7,8	1355
+Insignia Hatchback 2.0 Turbo Automatic	2008	5	1998	7,8	1670
+Insignia Sedan 2.0 Turbo Automatic	2008	5	1998	7,8	1655
+Insignia Sports Tourer 2.0 Turbo 4x4 Automatic	2011	5	1998	7,8	1743
+Insignia Sports Tourer 2.0 Turbo 4x4	2011	5	1998	7,8	1743
+Insignia Sports Tourer (facelift 2013) 2.0 AWD Turbo Ecotec Start/stop	2013	5	1998	7,8	0
+Senator B 3.0i V6 24V	1989	5	2969	7,8	1455
+Vectra A (facelift 1992) 2.5 V6	1993	5	2489	7,8	1245
+Vectra A CC (facelift 1992) 2.5 V6	1993	5	2489	7,8	1285
+Zafira B OPC 2.0i 16V Turbo	2006	7	1998	7,8	1665
+Zafira B (facelift 2008) OPC 2.0i 16V Turbo	2008	5	1998	7,8	1665
+Astra F 2.0 GSI 16V	1993	5	1998	7,9	1100
+Astra J GTC 1.6 Turbo Ecotec	2014	5	1598	7,9	1503
+Insignia Hatchback 2.0 Turbo 4x4 Automatic	2008	5	1998	7,9	1785
+Insignia Sedan 2.0 Turbo 4x4 Automatic	2008	5	1998	7,9	1785
+Insignia Sports Tourer 2.0 Turbo	2009	5	1998	7,9	1725
+Insignia Sports Tourer 2.0 Turbo Ethanol	2009	5	1998	7,9	1625
+Insignia Country Tourer 2.0 AWD Turbo Ecotec Start/stop	2013	5	1998	7,9	0
+Signum 3.2i V6 24V ECOTEC	2003	5	3175	7,9	1610
+Astra F CC 2.0 GSI 16V	1991	5	1998	8	1100
+Astra G Cabrio 2.0i 16V Turbo	2001	4	1998	8	1385
+Astra G Cabrio 2.0i 16V Turbo	2002	4	1998	8	1385
+Insignia Sports Tourer 2.0 Turbo 4x4	2009	5	1998	8	1843
+Insignia Sports Tourer (facelift 2013) 2.0 AWD Turbo Ecotec Automatic	2013	5	1998	8	0
+Kadett E CC 2.0 GSI 16V CAT	1988	5	1998	8	1010
+Omega B Caravan 3.0i V6	1994	5	2962	8	1645
+Omega B Caravan (facelift 1999) 3.0i V6	1999	5	2962	8	1645
+Vectra B 2.5i V6	1995	5	2498	8	1355
+Vectra C CC 3.2i V6 ECOTEC Automatic	2003	5	3175	8	1455
+Astra H Caravan 2.0i 16V Turbo	2004	5	1998	8,4	1425
+Vectra C Caravan 3.2i V6 24V Automatic	2002	5	3175	8,4	1625
+Adam S 1.4 Turbo ECOFLEX	2015	4	1364	8,5	1103
+Adam Rocks S 1.4 Turbo ECOFLEX	2015	4	1364	8,5	1103
+Astra F Caravan 2.0i 16V	1993	5	1998	8,5	1175
+Astra H GTC 2.0i 16V Turbo	2005	5	1998	8,5	1265
+Astra J (facelift 2012) 1.6 Turbo Ecotec	2012	5	1598	8,5	0
+Astra K 1.4 EcoTec EcoFLEX Start&stop	2015	5	1399	8,5	1203
+Calibra A 2.0i 16V	1990	4	1998	8,5	1215
+Diplomat B 5.3 V8 Automatic	1969	5	5354	8,5	1690
+Kadett C Coupe 2.0 GT/E	1977	5	1979	8,5	920
+Kadett E CC 2.0 GSI	1986	5	1998	8,5	985
+Kadett E 2.0i	1987	5	1998	8,5	985
+Monza A1 3.0 GSE V6	1978	4	2969	8,5	1375
+Monza A2 3.0 E V6	1983	4	2969	8,5	1370
+Omega B 3.0i V6	1994	5	2962	8,5	1605
+Omega B (facelift 1999) 3.0i V6	1999	5	2962	8,5	1605
+Signum 3.2i V6 24V ECOTEC Automatic	2003	5	3175	8,5	1610
+Vectra A 2.0i 16V	1988	5	1998	8,5	1215
+Vectra A CC 2.0i 16V	1988	5	1998	8,5	1215
+Vectra A 2.0i 16v CAT	1990	5	1998	8,5	0
+Vectra A (facelift 1992) 2.0i 16V	1992	5	1998	8,5	1215
+Vectra A CC (facelift 1992) 2.0i 16V	1992	5	1998	8,5	1215
+Vectra B CC 2.5i V6	1995	5	2498	8,5	1370
+Vectra B CC (facelift 1999) 2.5i V6	1999	5	2498	8,5	1370
+Vectra B (facelift 1999) 2.6 V6	2000	5	2597	8,5	1423
+Vectra B (facelift 1999) 2.6 V6	2000	5	2597	8,5	1423
+Vectra B CC (facelift 1999) 2.6 V6	2000	5	2597	8,5	1380
+Astra J GTC 1.6 Turbo Ecotec Start/stop	2011	5	1598	8,6	0
+Astra K 1.6 CDTi EcoFLEX Start&stop	2015	5	1598	8,6	1275
+Astra J (facelift 2012) 1.6 Turbo Ecotec Start/stop	2012	5	1598	8,7	0
+Astra J Sedan 1.6 Turbo Ecotec	2012	5	1598	8,7	0
+Astra J Sedan 1.6 Turbo Ecotec Automatic	2012	5	1598	8,7	0
+Astra K Sports Tourer 1.4 ECOTEC	2015	5	1399	8,7	1247
+Insignia Hatchback (facelift 2013) 2.0 CDTI Ecotec Start/stop	2013	5	1956	8,7	0
+Insignia Sedan (facelift 2013) 2.0 CDTI Ecotec Start/stop	2013	5	1956	8,7	0
+Insignia Grand Sport 2.0 CDTI	2017	5	1956	8,7	1507
+Antara 3.2 I V6 24V ECOTEC	2006	5	3195	8,8	1865
+Astra G 2.2i 16V	2001	5	2198	8,8	1175
+Astra G CC 2.2 16 V	2002	5	2198	8,8	1175
+Astra J Sports Tourer 1.6 VVT Turbo	2010	5	1598	8,8	1390
+Astra J Sedan 1.6 Turbo Ecotec Start/stop	2012	5	1598	8,8	0
+Astra J Sports Tourer (facelift 2012) 1.6 Turbo Ecotec Start/stop	2012	5	1598	8,8	1390
+Astra J Sports Tourer (facelift 2012) 1.6 Turbo Ecotec	2012	5	1598	8,8	1370
+Calibra A 2.5i V6 Automatic	1993	4	2498	8,8	1350
+Insignia Hatchback 2.0 CDTI 4x4 DPF	2008	5	1956	8,8	0
+Insignia Sedan 2.0 CDTI 4x4 DPF	2008	5	1956	8,8	0
+Insignia Hatchback 2.0 BiTurbo CDTI Automatic	2011	5	1956	8,8	1503
+Insignia Sedan 2.0 BiTurbo CDTI Automatic	2011	5	1956	8,8	1503
+Insignia Hatchback (facelift 2013) 2.0 CDTI Ecotec Automatic	2013	5	1956	8,8	0
+Insignia Sedan (facelift 2013) 2.0 CDTI Ecotec Automatic	2013	5	1956	8,8	0
+Omega A 3.0 3000	1987	5	2969	8,8	1435
+Omega A 3.0 3000 V6 CAT	1988	5	2969	8,8	1410
+Senator B 3.0i V6 24V Automatic	1989	5	2969	8,8	1455
+Vectra A (facelift 1992) 2.5 V6 Automatic	1993	5	2489	8,8	1245
+Vectra A CC (facelift 1992) 2.5 V6 Automatic	1993	5	2489	8,8	1285
+Zafira Tourer C 1.6 Ecotec	2013	5	1598	8,8	0
+Zafira Tourer C (facelift 2016) 1.6 Turbo ECOTEC	2016	5	1598	8,8	1589
+Astra H 1.9 CDTI	2004	5	1910	8,9	1393
+Astra H 2.0i 16V Turbo	2004	5	1998	8,9	1285
+Astra H Caravan 2.0i 16V Turbo	2004	5	1998	8,9	1425
+Astra H GTC 1.9 CDTI	2005	5	1910	8,9	1305
+Astra H TwinTop 2.0i 16V Turbo ECOTEC	2006	4	1998	8,9	1505
+Astra J GTC 2.0 CDTI Ecotec Start/stop	2011	5	1956	8,9	1550
+Astra J (facelift 2012) 2.0 CDTI BiTurbo Ecotec Start/stop	2012	5	1956	8,9	1430
+Astra J Sports Tourer (facelift 2012) 2.0 CDTI BiTurbo Ecotec Start/stop	2012	5	1956	8,9	1440
+Astra K 1.4 EcoTec EcoFLEX Automatic Start&stop	2015	5	1399	8,9	1233
+Astra K Sports Tourer 1.4 ECOTEC EcoFLEX Start&stop	2015	5	1399	8,9	1247
+Astra K Sports Tourer 1.6 CDTi EcoFLEX Start&stop	2015	5	1598	8,9	1360
+Corsa E 5-door 1.4 Turbo ECOTEC Start/stop	2014	5	1364	8,9	1199
+Corsa E 3-door 1.4 Turbo ECOTEC Start/stop	2015	5	1364	8,9	1139
+Insignia Hatchback 1.6 Turbo	2008	5	1598	8,9	1503
+Insignia Sedan 1.6 Turbo	2008	5	1598	8,9	1570
+Insignia Hatchback 2.0 BiTurbo CDTI	2011	5	1956	8,9	1503
+Insignia Sedan 2.0 BiTurbo CDTI	2011	5	1956	8,9	1503
+Insignia Sports Tourer 2.0 BiTurbo CDTI	2011	5	1956	8,9	1503
+Insignia Country Tourer 2.0 CDTI Ecotec Start/stop	2013	5	1956	8,9	0
+Insignia Sports Tourer (facelift 2013) 2.0 CDTI Ecotec Start/stop	2013	5	1956	8,9	0
+Insignia Grand Sport 1.5 Turbo	2017	5	1490	8,9	1365
+Insignia Sports Tourer II 2.0 CDTI	2017	5	1956	8,9	1558
+Vectra C (facelift 2005) 3.0 CDTI	2006	5	2958	8,9	1565
+Vectra C CC (facelift 2005) 3.0 CDTI	2006	5	2958	8,9	1565
+Zafira Tourer C 2.0 CDTI Ecotec Start/stop	2013	5	1956	8,9	0
+Astra F CC 1.8 GSI 16V	1993	5	1799	9	1125
+Astra F 2.0i 16V	1995	5	1998	9	1170
+Astra F CC 2.0i 16V	1995	5	1998	9	1110
+Astra G 2.0 16V	1998	5	1998	9	1135
+Astra G Caravan 2.0 16V	1998	5	1998	9	1170
+Astra G CC 2.0 16V	1998	5	1998	9	1135
+Astra G Coupe 1.8 16V	2000	2	1796	9	1185
+Astra J 1.6 Turbo Automatic	2009	5	1598	9	1298
+Astra J 2.0 CDTI	2009	5	1956	9	1515
+Astra J Sports Tourer 1.6 VVT Turbo Automatic	2010	5	1598	9	1390
+Astra J (facelift 2012) 1.4 Turbo Ecotec Start/stop	2012	5	1364	9	1313
+Astra J (facelift 2012) 2.0 CDTI Ecotec	2012	5	1956	9	1373
+Astra J Sedan 2.0 CDTI Ecotec	2012	5	1956	9	0
+Corsa C 1.8 16V	2000	5	1796	9	1015
+Corsa C (facelift 2003) 1.8 16V	2003	5	1796	9	1015
+Insignia Hatchback 2.0 BiTurbo CDTI 4x4 Automatic	2011	5	1956	9	1503
+Insignia Sedan 2.0 BiTurbo CDTI 4x4 Automatic	2011	5	1956	9	1503
+Insignia Sports Tourer 2.0 BiTurbo CDTI Automatic	2011	5	1956	9	1525
+Insignia Country Tourer 2.0 CDTI Ecotec Automatic	2013	5	1956	9	0
+Insignia Hatchback (facelift 2013) 2.0 CDTI AWD Ecotec Automatic	2013	5	1956	9	0
+Insignia Sedan (facelift 2013) 2.0 CDTI AWD Ecotec Automatic	2013	5	1956	9	0
+Insignia Sports Tourer (facelift 2013) 2.0 CDTI Ecotec Automatic	2013	5	1956	9	0
+Kadett C Coupe 2.0 E Rallye	1977	5	1979	9	920
+Kadett E CC 1.8 GSI	1984	5	1796	9	950
+Kadett E CC 2.0 GSI	1986	5	1998	9	990
+Kadett E CC 2.0 GSI CAT	1986	5	1998	9	960
+Kadett E 2.0i	1987	5	1998	9	985
+Kadett E 2.0i CAT	1987	5	1998	9	985
+Omega B (facelift 1999) 3.2i V6 Automatic	2000	5	3175	9	1710
+Senator A 3.0 E V6	1978	5	2969	9	1370
+Senator A (facelift 1982) 3.0 E V6	1982	5	2969	9	1370
+Senator B 3.0i V6	1988	5	2969	9	1415
+Senator B 3.0i V6 CAT	1988	5	2969	9	1435
+Vectra B Caravan (facelift 1999) 2.5i V6	2000	5	2498	9	1397
+Zafira B 2.0i 16V Turbo	2006	7	1998	9	1610
+Zafira B (facelift 2008) 2.0i 16V Turbo	2008	5	1998	9	1610
+Astra K Sports Tourer 1.4 ECOTEC EcoFLEX Automatic Start&stop	2015	5	1399	9,4	1275
+Cascada 2.0 CDTI BiTurbo Ecotec Start/stop	2013	4	1956	9,4	1701
+Insignia Hatchback (facelift 2013) 2.0 CDTI Automatic	2015	5	1956	9,4	1589
+Insignia Hatchback (facelift 2013) 2.0 CDTI	2015	5	1956	9,4	1589
+Insignia Sedan (facelift 2013) 2.0 CDTI Automatic	2015	5	1956	9,4	1599
+Insignia Sedan (facelift 2013) 2.0 CDTI	2015	5	1956	9,4	1589
+Insignia Grand Sport 1.5 Turbo Automatic	2017	5	1490	9,4	1397
+Mokka 1.7 CDTI Ecotec Start/stop AWD	2012	5	1686	9,4	1490
+Signum 2.0i 16V Turbo ECOTEC	2003	5	1998	9,4	1560
+Signum 3.0 V6 CDTI	2003	5	2958	9,4	1670
+Signum (facelift 2005) 2.0i 16V Turbo ECOTEC	2005	5	1998	9,4	1560
+Tigra B TwinTop 1.8i 16V ECOTEC	2004	2	1796	9,4	1265
+Vectra C Caravan 2.0i 16V Turbo	2003	5	1998	9,4	1585
+Vectra C Caravan (facelift 2005) 2.0i 16V Turbo	2005	5	1998	9,4	1585
+Ascona C 2.0i	1986	5	1998	9,5	1049
+Astra F Caravan 2.0i	1991	5	1998	9,5	1020
+Astra F CC 2.0i	1991	5	1998	9,5	1040
+Astra F 2.0i	1992	5	1998	9,5	1070
+Astra F Cabrio 2.0i	1993	2	1998	9,5	1150
+Astra F CC 1.8i 16V	1994	5	1799	9,5	1110
+Astra F Caravan 2.0i 16V	1995	5	1998	9,5	1230
+Astra G Cabrio 2.2 16V	2000	4	2198	9,5	1393
+Astra G 1.8i 16V	2001	5	1796	9,5	1135
+Astra G CC 1.8 16V	2002	5	1796	9,5	1135
+Astra H TwinTop 1.6i 16V Turbo	2006	4	1598	9,5	1505
+Astra H TwinTop 2.0i 16V Turbo ECOTEC	2006	4	1998	9,5	1505
+Astra J Sports Tourer 2.0 CDTI	2010	5	1956	9,5	1393
+Astra J Sports Tourer (facelift 2012) 2.0 CDTI Ecotec	2012	5	1956	9,5	0
+Astra J Sports Tourer (facelift 2012) 2.0 CDTI Ecotec Start/stop	2012	5	1956	9,5	0
+Astra K 1.4 EcoTec EcoFLEX Start&stop	2015	5	1399	9,5	1203
+Calibra A 2.0i 16V 4x4	1990	4	1998	9,5	1300
+Calibra A 2.0i 16V	1994	4	1998	9,5	1250
+Commodore B 2.8 GS/E	1975	4	2784	9,5	1265
+Commodore B Coupe 2.8 GS/E	1977	5	2784	9,5	1240
+Corsa A (facelift 1987) 1.6 GSi	1988	5	1598	9,5	820
+Corsa A (facelift 1990) 1.6 GSi	1990	5	1598	9,5	845
+Corsa B 1.6i 16V GSI	1993	5	1598	9,5	975
+Corsa B 1.6i 16V	1994	5	1598	9,5	960
+Insignia Hatchback 2.0 CDTI DPF	2008	5	1956	9,5	1613
+Insignia Sedan 2.0 CDTI DPF	2008	5	1956	9,5	1613
+Insignia Sedan 2.0 CDTI DPF Automatic	2008	5	1956	9,5	1655
+Insignia Hatchback (facelift 2013) 2.0 CDTI Ecotec Start/Stop	2013	5	1956	9,5	0
+Insignia Sedan (facelift 2013) 2.0 CDTI Ecotec Start/Stop	2013	5	1956	9,5	0
+Kadett D 1.8 GT/E	1983	5	1796	9,5	980
+Manta B (facelift 1982) 2.0 200	1983	4	1979	9,5	1065
+Monza A1 3.0 V6	1978	4	2969	9,5	1375
+Monza A2 3.0 E V6	1985	4	2969	9,5	1370
+Omega A Caravan 3.0 3000 CAT V6	1987	5	2969	9,5	1460
+Omega B 2.5i V6	1994	5	2498	9,5	1530
+Omega B (facelift 1999) 2.5i V6	1999	5	2498	9,5	1530
+Omega B (facelift 1999) 2.6 V6	2000	5	2597	9,5	1610
+Omega B Caravan (facelift 1999) 3.2 V6 Automatic	2002	5	3175	9,5	1733
+Vectra A 2.0i 16V 4x4	1989	5	1998	9,5	1310
+Vectra A 2.0i 16v CAT 4x4	1990	5	1998	9,5	1310
+Vectra A (facelift 1992) 2.0i 16v CAT 4x4	1992	5	1998	9,5	1310
+Vectra A CC (facelift 1992) 2.0i 16V 4×4	1992	5	1998	9,5	1215
+Vectra A (facelift 1992) 2.0i 16V	1994	5	1998	9,5	1230
+Vectra A CC (facelift 1992) 2.0i 16V	1994	5	1998	9,5	1245
+Vectra B 2.5i V6 Automatic	1995	5	2498	9,5	1355
+Vectra B CC 2.0i 16V	1995	5	1998	9,5	1300
+Vectra B CC 2.5i V6 Automatic	1995	5	2498	9,5	1370
+Vectra B (facelift 1999) 2.2 16V	2000	5	2198	9,5	1420
+Vectra B (facelift 1999) 2.2 16 V Automatic	2000	5	2198	9,5	1420
+Vectra B CC (facelift 1999) 2.2 16V	2000	5	2198	9,5	1290
+Vectra B CC (facelift 1999) 2.2 16V	2000	5	2198	9,5	1290
+Vectra C 3.0 CDTI Automatic	2003	5	2958	9,5	1613
+Vectra C CC 3.0 CDTI Automatic	2003	5	2958	9,5	1650
+Vectra C (facelift 2005) 2.2i 16V DIRECT	2005	5	2198	9,5	1455
+Astra K 1.6 CDTi EcoFLEX Start&stop	2015	5	1598	9,6	1285
+Astra K Sports Tourer 1.4 ECOTEC	2015	5	1399	9,6	1247
+Cascada 1.6 Turbo Ecotec Start/stop	2013	4	1598	9,6	1701
+Insignia Hatchback 2.0 CDTI DPF Automatic	2008	5	1956	9,6	1613
+Insignia Hatchback (facelift 2013) 2.0 CDTI Ecotec Automatic	2013	5	1956	9,6	0
+Insignia Sedan (facelift 2013) 2.0 CDTI Ecotec Automatic	2013	5	1956	9,6	0
+Insignia Sports Tourer II 1.5 Turbo Automatic	2017	5	1490	9,6	1447
+Mokka 1.7 CDTI Ecotec Start/stop	2012	5	1686	9,6	1490
+Vectra C 2.2i 16V DIRECT	2003	5	2198	9,6	1455
+Vectra C CC 2.2i 16V DIRECT	2003	5	2198	9,6	1470
+Vectra C CC (facelift 2005) 2.2i 16V DIRECT	2005	5	2198	9,6	1390
+Zafira Tourer C 1.6 Turbo Ecotec Automatic	2012	5	1598	9,6	0
+Zafira Tourer C (facelift 2016) 1.6 Turbo ECOTEC Automatic	2016	5	1598	9,6	1626
+Antara (facelift 2010) 2.2 CDTI AWD Ecotec Start/stop	2010	5	2231	9,7	0
+Astra J 1.4 Turbo	2009	5	1364	9,7	1298
+Astra J 2.0 CDTI Automatic	2009	5	1956	9,7	1515
+Astra J Sports Tourer 2.0 CDTI Automatic	2010	5	1956	9,7	0
+Astra K 1.6 CDTi Automatic	2015	5	1598	9,7	1289
+Mokka X 1.4 ECOTEC AWD Automatic Start/Stop	2016	5	1399	9,7	1406
+Vectra C 3.0 CDTI Automatic	2006	5	2958	9,7	1565
+Vectra C CC (facelift 2005) 3.0 CDTI Automatic	2006	5	2958	9,7	1565
+Astra F 1.8i 16V	1993	5	1796	9,8	1060
+Astra F Caravan 1.8i 16V	1993	5	1798	9,8	1145
+Astra J Sports Tourer (facelift 2012) 2.0 CDTI Ecotec Automatic	2012	5	1956	9,8	0
+Corsa A (facelift 1987) 1.6 GSi	1988	5	1598	9,8	820
+Corsa A (facelift 1990) 1.6 GSi	1990	5	1598	9,8	845
+Insignia Country Tourer 1.6 Turbo Ecotec Start/stop	2013	5	1598	9,8	0
+Insignia Sports Tourer (facelift 2013) 1.6 Turbo Ecotec	2013	5	1598	9,8	0
+Mokka 1.4 Turbo Ecotec	2012	5	1364	9,8	1490
+Mokka 1.4 Turbo Ecotec Start/stop AWD	2012	5	1364	9,8	0
+Omega A 3.0 3000 V6 CAT	1987	5	2969	9,8	1390
+Omega A 3.0 3000 Automatic	1987	5	2969	9,8	1435
+Omega A 2.6i	1990	5	2594	9,8	1415
+Omega B 3.0i V6 Automatic	1994	5	2962	9,8	1605
+Omega B (facelift 1999) 3.0i V6 Automatic	1999	5	2962	9,8	1605
+Signum 2.2i 16V ECOTEC	2003	5	2198	9,8	1535
+Signum (facelift 2005) 2.2i 16V ECOTEC	2005	5	2198	9,8	1535
+Signum (facelift 2005) 3.0 V6 CDTI Automatic	2005	5	2958	9,8	1670
+Vectra C 1.9 CDTI	2003	5	1910	9,8	1523
+Vectra C Caravan 3.0i V6 24V CDTI	2003	5	2958	9,8	1705
+Vectra C CC 1.9 CDTI	2003	5	1910	9,8	1555
+Vectra C (facelift 2005) 1.9 CDTI	2005	5	1910	9,8	1523
+Zafira Tourer C 2.0 CDTI Ecotec	2011	5	1956	9,8	0
+Zafira Tourer C 2.0 CDTI EcoFLEX Start/stop	2015	5	1956	9,8	0
+Zafira Tourer C (facelift 2016) 2.0 CDTI EcoFLEX	2016	5	1956	9,8	1673
+Adam 1.0 ECOTEC	2014	4	999	9,9	1081
+Adam Rocks 1.0 ECOTEC	2014	4	999	9,9	1081
+Astra G 2.2 DTI	2002	5	2171	9,9	1255
+Astra G CC 2.2 DTI	2002	5	2171	9,9	1255
+Astra G Coupe 2.2 DTI	2002	2	2171	9,9	1385
+Astra J GTC 1.4 Turbo Ecotec	2011	5	1364	9,9	1437
+Astra J GTC 1.4 Turbo Ecotec Start/stop	2011	5	1364	9,9	1437
+Astra J (facelift 2012) 1.4 Turbo Ecotec	2012	5	1364	9,9	1315
+Astra K Sports Tourer 1.4 ECOTEC EcoFLEX Start&stop	2015	5	1399	9,9	1247
+Cascada 1.6 Turbo Ecotec Automatic	2013	4	1598	9,9	1701
+Insignia Country Tourer 2.0 CDTI Ecotec Start/Stop	2013	5	1956	9,9	0
+Insignia Country Tourer 2.0 CDTI AWD Ecotec Automatic	2013	5	1956	9,9	0
+Insignia Hatchback (facelift 2013) 1.6 Turbo Ecotec Automatic	2013	5	1598	9,9	0
+Insignia Sedan (facelift 2013) 1.6 Turbo Ecotec Automatic	2013	5	1598	9,9	0
+Insignia Sports Tourer (facelift 2013) 2.0 CDTI Ecotec Start/Stop	2013	5	1956	9,9	0
+Insignia Country Tourer 2.0 CDTI EcoFLEX	2015	5	1956	9,9	0
+Insignia Country Tourer 2.0 CDTI Automatic	2015	5	1956	9,9	0
+Insignia Hatchback (facelift 2013) 2.0 CDTI AWD Automatic	2015	5	1956	9,9	1589
+Insignia Hatchback (facelift 2013) 2.0 CDTI AWD	2015	5	1956	9,9	1658
+Insignia Sedan (facelift 2013) 2.0 CDTI AWD Automatic	2015	5	1956	9,9	1713
+Insignia Sedan (facelift 2013) 2.0 CDTI AWD	2015	5	1956	9,9	1713
+Insignia Sports Tourer (facelift 2013) 2.0 CDTI Automatic	2015	5	1956	9,9	1665
+Insignia Sports Tourer (facelift 2013) 2.0 CDTI	2015	5	1956	9,9	1658
+Insignia Grand Sport 1.5 Turbo	2017	5	1490	9,9	1365
+Insignia Grand Sport 1.5 EcoTEC Turbo	2017	5	1490	9,9	1381
+Meriva B 1.7 DTS	2010	5	1686	9,9	1428
+Meriva B 1.7 DTS Automatic	2010	5	1686	9,9	1428
+Meriva B (facelift 2014) 1.6 CDTI Ecotec Start/stop	2014	5	1598	9,9	0
+Mokka 1.4 Turbo Ecotec Start/stop	2012	5	1364	9,9	0
+Mokka 1.6 CDTI EcoFLEX Start/stop	2014	5	1598	9,9	0
+Mokka X 1.4 EcoFLEX Turbo Start/Stop	2016	5	1364	9,9	1319
+Mokka X 1.4 EcoFLEX Turbo Start/Stop	2016	5	1364	9,9	1370
+Mokka X 1.6 CDTI EcoFLEX Start/Stop	2016	5	1598	9,9	1374
+Signum 3.0 V6 CDTI Automatic	2003	5	2958	9,9	1670
+Zafira Tourer C 2.0 CDTI Ecotec Automatic	2011	5	1956	9,9	0
+Zafira Tourer C 2.0 CDTI Ecotec Start/stop	2011	5	1956	9,9	0
+Zafira Tourer C 2.0 CDTI Automatic	2015	5	1956	9,9	0
+Ampera 1.4 Hybrid	2011	5	1398	10	0
+Ascona B 2.0 E	1979	5	1979	10	980
+Ascona C 2.0i CAT	1986	5	1998	10	1049
+Ascona C CC 2.0i	1986	5	1998	10	1079
+Ascona C CC 2.0i CAT	1986	5	1998	10	1079
+Astra F Cabrio 1.8i 16V	1994	4	1796	10	1240
+Astra F Caravan 1.8i 16V	1994	5	1799	10	1245
+Astra G Caravan 1.8 16V	1998	5	1796	10	1150
+Astra G CC 1.8 16V	1998	5	1796	10	1095
+Astra G Coupe 1.8 16V	2000	2	1598	10	1145
+Astra G 2.2i 16V Automatic	2001	5	2198	10	1195
+Astra G Caravan 1.8 16V	2002	5	1796	10	1175
+Astra G CC 2.2 16 V Automatic	2002	5	2198	10	1195
+Calibra A 2.0i	1990	4	1998	10	1190
+Kadett C Coupe 1.9 GT/E	1975	5	1897	10	915
+Kadett E Cabrio 2.0i	1986	5	1998	10	1045
+Kadett E Cabrio 2.0i CAT	1986	5	1998	10	1055
+Kadett E Caravan 2.0i	1987	5	1998	10	1010
+Kadett E Caravan 2.0i CAT	1987	5	1998	10	1010
+Manta B 2.0 E	1977	4	1979	10	1000
+Manta B CC 2.0 E	1977	4	1979	10	1040
+Manta B (facelift 1982) 2.0 GSi	1984	4	1979	10	1065
+Manta B CC (facelift 1982) 2.0 GSi	1984	4	1979	10	1090
+Monza A1 2.8	1978	4	2784	10	1375
+Omega A 2.0i	1986	5	1998	10	1232
+Omega B Caravan 2.5i V6	1994	5	2498	10	1645
+Omega B Caravan (facelift 1999) 2.5i V6	1999	5	2498	10	1645
+Omega B Caravan (facelift 1999) 2.6 V6	2002	5	2597	10	1733
+Omega B Caravan (facelift 1999) 2.6 V6 Automatic	2002	5	2597	10	1733
+Senator A 3.0 V6	1978	5	2969	10	1370
+Senator A (facelift 1982) 3.0i V6 CAT	1985	5	2969	10	1370
+Senator B 3.0i V6 CAT	1987	5	2969	10	1435
+Tigra A 1.6 16V	1994	2	1598	10	1086
+Vectra B 2.0i 16V	1995	5	1998	10	1345
+Vectra B CC 2.0i 16V Automatic	1995	5	1998	10	1300
+Vectra B Caravan 2.0i 16V	1996	5	1998	10	1378
+Vectra B (facelift 1999) 2.0i 16V	1999	5	1998	10	1345
+Vectra B Caravan (facelift 1999) 2.0i 16V	1999	5	1998	10	1378
+Vectra B CC (facelift 1999) 2.0i 16V	1999	5	1998	10	1300
+Vectra B (facelift 1999) 2.2 DTI 16V	2000	5	2171	10	1450
+Vectra B Caravan 2.2 16V Automatic	2000	5	2198	10	1423
+Vectra B Caravan (facelift 1999) 2.2 16V	2000	5	2198	10	1423
+Vectra B Caravan (facelift 1999) 2.5i V6 Automatic	2000	5	2498	10	1397
+Vectra C 1.9 CDTI Automatic	2003	5	1910	10	1523
+Vectra C CC 1.9 CDTI Automatic	2003	5	1910	10	1555
+Vectra C (facelift 2005) 1.9 CDTI Automatic	2005	5	1910	10	1523
+Vita B 1.6i 16V	1994	5	1598	10	960
+Zafira A (T3000) 2.2 16V	2000	7	2198	10	1495
+Zafira A (facelift 2003) 2.2 16V	2003	7	2198	10	1495
+Astra G Caravan 2.2 DTI	2002	5	2171	10,4	1295
+Astra J Sports Tourer 1.4 VVT	2010	5	1398	10,4	1350
+Astra J Sedan 1.4 Turbo Ecotec Start/stop	2012	5	1364	10,4	1405
+Cascada 2.0 CDTI Ecotec Automatic	2013	4	1956	10,4	1701
+Insignia Country Tourer 1.6 Turbo Ecotec Automatic	2013	5	1598	10,4	0
+Insignia Sports Tourer (facelift 2013) 1.6 Turbo Ecotec Automatic	2013	5	1598	10,4	0
+Insignia Country Tourer 2.0 CDTI AWD Automatic	2015	5	1956	10,4	0
+Insignia Country Tourer 2.0 CDTI AWD EcoFLEX	2015	5	1956	10,4	0
+Insignia Sports Tourer (facelift 2013) 2.0 CDTI AWD Automatic	2015	5	1956	10,4	1826
+Insignia Sports Tourer (facelift 2013) 2.0 CDTI AWD	2015	5	1956	10,4	1790
+Zafira B 1.9 CDTI	2006	7	1910	10,4	1613
+Zafira B (facelift 2008) 1.9 CDTI	2008	5	1910	10,4	0
+Antara (facelift 2010) 2.4 AWD Ecotec Automatic	2010	5	2384	10,5	0
+Ascona C 1.8i	1982	5	1796	10,5	1010
+Ascona C CC 1.8i	1982	5	1796	10,5	1060
+Astra G 2.0 16V Automatic	1998	5	1998	10,5	1165
+Astra G CC 2.0 16V Automatic	1998	5	1998	10,5	1165
+Astra G Cabrio 1.8 16V	2000	4	1796	10,5	1280
+Astra G Caravan 2.2 16 V Automatic	2002	5	2198	10,5	1198
+Astra H 1.9 CDTI	2004	5	1910	10,5	1393
+Astra H Caravan 1.8i 16V	2004	5	1796	10,5	1225
+Astra J Sports Tourer (facelift 2012) 1.4 Turbo Ecotec	2012	5	1364	10,5	1350
+Astra J Sports Tourer (facelift 2012) 1.4 Turbo Ecotec Start/stop	2012	5	1364	10,5	0
+Commodore B 2.8 GS	1975	5	2784	10,5	1265
+Commodore B Coupe 2.8 GS	1975	5	2784	10,5	1240
+Corsa B (facelift 1997) 1.6i 16V	1997	5	1598	10,5	942
+Diplomat B 2.8 E	1969	5	2784	10,5	1530
+Insignia Hatchback 2.0 CDTI DPF 4x4 Automatic	2008	5	1956	10,5	1613
+Insignia Sedan 2.0 CDTI DPF 4x4 Automatic	2008	5	1956	10,5	1650
+Insignia Hatchback (facelift 2013) 2.0 CDTI AWD Ecotec Automatic	2013	5	1956	10,5	0
+Insignia Hatchback (facelift 2013) 2.0 CDTI Ecotec EcoFLEX Start/stop	2013	5	1956	10,5	0
+Insignia Sedan (facelift 2013) 2.0 CDTI AWD Ecotec Automatic	2013	5	1956	10,5	0
+Insignia Sedan (facelift 2013) 2.0 CDTI Ecotec EcoFLEX Start/stop	2013	5	1956	10,5	0
+Insignia Sports Tourer (facelift 2013) 2.0 CDTI AWD Ecotec Start/stop	2013	5	1956	10,5	0
+Insignia Grand Sport 1.6 CDTI	2017	5	1598	10,5	1428
+Kadett E 1.8i	1985	5	1796	10,5	960
+Kadett E CC 1.8 E	1985	5	1796	10,5	960
+Manta B 1.9 E	1975	4	1897	10,5	1000
+Mokka 1.7 CDTI Ecotec	2012	5	1686	10,5	1490
+Monza A2 2.5 E	1984	4	2490	10,5	1370
+Omega A Caravan 3.0 CAT V6 Automatic	1987	5	2969	10,5	1460
+Omega A Caravan 2.6i	1990	5	2594	10,5	1460
+Omega B 2.5i V6 Automatic	1994	5	2498	10,5	1605
+Omega B (facelift 1999) 2.2i	1999	5	2198	10,5	1535
+Omega B (facelift 1999) 2.5i V6 Automatic	1999	5	2498	10,5	1605
+Omega B (facelift 1999) 2.6 V6 Automatic	2000	5	2597	10,5	1635
+Omega B (facelift 1999) 2.5 V6 TDI	2001	5	2497	10,5	1610
+Rekord E (facelift 1982) 2.2 E	1984	5	2197	10,5	1125
+Senator A 2.8 S	1978	5	2784	10,5	1370
+Senator A 3.0 E V6 Automatic	1978	5	2969	10,5	1370
+Senator B 3.0i V6 Automatic	1988	5	2969	10,5	1435
+Signum 1.9 CDTI	2004	5	1910	10,5	1565
+Signum (facelift 2005) 1.9 CDTI	2005	5	1910	10,5	1565
+Vectra A 2.0i	1988	5	1998	10,5	1130
+Vectra A 2.0i CAT	1988	5	1998	10,5	1144
+Vectra A CC 2.0i	1988	5	1998	10,5	1130
+Vectra A CC 2.0i CAT	1988	5	1998	10,5	1159
+Vectra A 2.0i CAT 4x4	1989	5	1998	10,5	0
+Vectra A (facelift 1992) 2.0i	1992	5	1998	10,5	1130
+Vectra A CC (facelift 1992) 2.0i CAT	1992	5	1998	10,5	1159
+Vectra A (facelift 1992) 2.0i 16V 4×4	1994	5	1998	10,5	0
+Vectra A CC (facelift 1992) 2.0i 16V 4×4	1994	5	1998	10,5	1245
+Vectra B (facelift 1999) 1.8 16V	2000	5	1796	10,5	1345
+Vectra B (facelift 1999) 1.8 16V	2000	5	1796	10,5	1345
+Vectra B Caravan (facelift 1999) 2.2 DTI 16V	2000	5	2171	10,5	1495
+Vectra B CC (facelift 1999) 1.8 16V	2000	5	1796	10,5	1360
+Vectra B CC (facelift 1999) 2.2 DTI 16V	2000	5	2171	10,5	1495
+Vectra B CC 1.8 16V Automatic	2002	5	1796	10,5	1360
+Vectra C 2.2i 16V DIRECT Automatic	2003	5	2198	10,5	1455
+Vectra C CC 2.2i 16V DIRECT Automatic	2003	5	2198	10,5	1470
+Vectra C Caravan 1.9 CDTI	2004	5	1910	10,5	1625
+Vectra C (facelift 2005) 2.2i 16V DIRECT Automatic	2005	5	2198	10,5	1455
+Astra J Sports Tourer 1.4 VVT Automatic	2010	5	1398	10,6	1370
+Astra J (facelift 2012) 1.7 CDTI Ecotec	2012	5	1686	10,6	1370
+Astra J (facelift 2012) 1.7 CDTI Ecotec Start/stop	2012	5	1686	10,6	1370
+Astra J Sports Tourer (facelift 2012) 1.4 Ecotec	2012	5	1398	10,6	1333
+Crossland X 1.2 ECOTEC Turbo	2017	5	1199	10,6	1170
+Frontera B 3.2i V6 4x4 Automatic	2003	5	3165	10,6	1720
+Zafira B 2.2i 16V	2005	7	2198	10,6	1570
+Zafira B (facelift 2008) 2.2i 16V	2008	5	2198	10,6	1570
+Astra H GTC 1.8i 16V	2005	5	1796	10,7	1210
+Astra J GTC 1.8 Ecotec	2011	5	1796	10,7	0
+Corsa D 5-door 1.7 CDTI	2006	5	1686	10,7	1170
+Corsa D (Facelift 2011) 5-door 1.7 DTS	2011	5	1686	10,7	1160
+Mokka 1.4 Turbo Ecotec Automatic	2012	5	1364	10,7	1490
+Mokka X 1.4 Turbo Automatic	2016	5	1364	10,7	1334
+Rekord D Coupe 2.0	1975	5	1979	10,7	1195
+Signum 1.9 CDTI Automatic	2004	5	1910	10,7	1565
+Signum (facelift 2005) 1.9 CDTI Automatic	2005	5	1910	10,7	1565
+Vectra C CC (facelift 2005) 1.8i 16V	2005	5	1796	10,7	1375
+Zafira B 1.9 CDTI Automatic	2006	7	1910	10,7	1613
+Zafira B (facelift 2008) 1.9 CDTI Automatic	2008	5	1910	10,7	0
+Zafira Tourer C 1.4 Turbo Ecotec Start/stop	2011	5	1362	10,7	0
+Zafira Tourer C (facelift 2016) 1.4 EcoFLEX Turbo	2016	5	1364	10,7	1553
+Astra H 1.8i 16V	2004	5	1796	10,8	1278
+Astra H 1.9 CDTI Automatic	2004	5	1910	10,8	1393
+Astra H Caravan 1.9 CDTI	2004	5	1910	10,8	1350
+Astra H GTC 1.9 CDTI	2005	5	1910	10,8	1305
+Astra H 1.8i	2006	5	1796	10,8	1278
+Astra J 1.4 Turbo EcoFLEX LPG	2009	5	1364	10,8	1298
+Astra J GTC 1.7 CDTI Ecotec Start/stop	2011	5	1686	10,8	1430
+Astra J Sedan 1.7 CDTI Ecotec	2012	5	1686	10,8	1405
+Astra J Sedan 1.7 CDTI Ecotec Start/stop	2012	5	1686	10,8	1405
+Astra J Sports Tourer (facelift 2012) 1.4 Turbo Ecotec Automatic	2012	5	1364	10,8	1370
+Astra J Sports Tourer (facelift 2012) 1.4 LPG Ecotec	2012	5	1364	10,8	1410
+Insignia Sports Tourer (facelift 2013) 2.0 CDTI AWD Ecotec Automatic	2013	5	1956	10,8	0
+Omega A 3.0 3000 V6 CAT Automatic	1987	5	2969	10,8	1415
+Omega A 2.4i	1988	5	2410	10,8	1330
+Omega A 2.6i Automatic	1990	5	2594	10,8	1415
+Senator B 3.0i V6 CAT Automatic	1987	5	2969	10,8	1455
+Vectra C 2.2 DTI	2002	5	2171	10,8	1503
+Vectra C 2.2 ECOTEC Automatic	2002	5	2198	10,8	1455
+Vectra C CC 2.2 DTI ECOTEC	2003	5	2171	10,8	1430
+Zafira Tourer C 1.4 Turbo Ecotec	2011	5	1362	10,8	0
+Zafira Tourer C (facelift 2016) 1.4 Turbo	2016	5	1364	10,8	1553
+Astra G Cabrio 2.2 DTI	2002	4	2171	10,9	1435
+Astra J Sports Tourer (facelift 2012) 1.7 CDTI Ecotec	2012	5	1686	10,9	1400
+Astra J Sports Tourer (facelift 2012) 1.7 CDTI Ecotec Start/stop	2012	5	1686	10,9	0
+Cascada 1.4 Turbo Ecotec Start/stop	2013	4	1362	10,9	1701
+Insignia Sedan 1.4 Turbo EcoFLEX	2011	5	1364	10,9	1503
+Insignia Country Tourer 2.0 CDTI AWD Ecotec Start/stop	2013	5	1956	10,9	0
+Insignia Hatchback (facelift 2013) 1.4 Turbo Ecotec Start/Stop	2013	5	1364	10,9	1150
+Insignia Sedan (facelift 2013) 1.4 Turbo Ecotec Start/Stop	2013	5	1364	10,9	1150
+Insignia Hatchback (facelift 2013) 1.6 CDTI Automatic	2015	5	1598	10,9	1548
+Insignia Hatchback (facelift 2013) 1.6 CDTI	2015	5	1598	10,9	1496
+Insignia Sedan (facelift 2013) 1.6 CDTI	2015	5	1598	10,9	1496
+Insignia Sedan (facelift 2013) 1.6 CDTI Automatic	2015	5	1598	10,9	1548
+Insignia Grand Sport 1.6 CDTI Automatic	2017	5	1598	10,9	1447
+Meriva A (facelift 2006) 1.7 CDTI ECOTEC	2006	5	1686	10,9	1455
+Mokka 1.6 CDTI EcoFLEX Automatic	2014	5	1598	10,9	0
+Mokka X 1.6 CDTI Automatic	2016	5	1598	10,9	1387
+Sintra 3.0i 24V Automatic	1996	7	2962	10,9	1725
+Zafira Tourer C 1.4 Turbo Ecotec Automatic	2011	5	1362	10,9	0
+Zafira Tourer C 2.0 CDTI Automatic	2015	5	1956	10,9	0
+Zafira Tourer C (facelift 2016) 1.4 Turbo Automatic	2016	5	1364	10,9	1553
+Antara (facelift 2010) 2.2 CDTI AWD Ecotec Start/stop	2010	5	2231	11	0
+Antara (facelift 2010) 2.2 CDTI AWD Ecotec Automatic	2010	5	2231	11	0
+Astra F CC 1.6i	1991	5	1598	11	1010
+Astra F 1.6 Si	1992	5	1598	11	1030
+Astra F CC 1.6 Si	1992	5	1598	11	950
+Astra G Caravan 2.0 16V Automatic	1998	5	1998	11	1200
+Astra G CC 1.8 16V Automatic	1998	5	1796	11	1095
+Astra G Cabrio 2.2 16V Automatic	2000	4	2198	11	1313
+Astra G 1.8i 16V Automatic	2001	5	1796	11	1155
+Astra G CC 1.8 16V Automatic	2002	5	1796	11	1155
+Astra J GTC 1.4 Turbo Ecotec Start/stop	2011	5	1362	11	1437
+Astra J Sedan 1.4 Turbo Ecotec	2012	5	1362	11	0
+Astra K 1.6 CDTi	2015	5	1598	11	1285
+Astra K 1.6 CDTi EcoFLEX Start&stop	2015	5	1598	11	1285
+Calibra A 2.0i 4x4	1990	4	1998	11	1285
+Commodore B Coupe 2.8 GS/E	1973	5	2784	11	1240
+Commodore C 2.5 E	1981	5	2490	11	1240
+Corsa A (facelift 1990) 1.4i	1990	5	1389	11	803
+Corsa B 1.4i 16V	1994	5	1389	11	950
+Corsa B (facelift 1997) 1.4i 16V	1997	5	1389	11	950
+Corsa E 3-door 1.4 Turbo ECOTEC Start/stop	2014	5	1364	11	1124
+Corsa E 5-door 1.4 Turbo ECOTEC Start/stop	2014	5	1364	11	1162
+Insignia Sports Tourer 1.4 Turbo EcoFLEX	2011	5	1364	11	1560
+Insignia Country Tourer 2.0 CDTI Ecotec EcoFLEX Start/stop	2013	5	1956	11	0
+Insignia Sports Tourer (facelift 2013) 2.0 CDTI Ecotec EcoFLEX Start/stop	2013	5	1956	11	0
+Kadett E 1.6 S	1984	5	1598	11	950
+Kadett E CC 1.6 S	1984	5	1598	11	950
+Kadett E Caravan 1.8 E	1985	5	1796	11	965
+Manta B 2.0 S	1977	4	1979	11	1020
+Manta B CC 2.0 S	1977	4	1979	11	1030
+Manta B CC (facelift 1982) 2.0 S	1982	4	1979	11	1050
+Monza A1 2.5 E	1981	4	2490	11	1370
+Monza A2 2.5 E	1983	4	2490	11	1370
+Omega A Caravan 2.0i	1986	5	1998	11	1307
+Omega B Caravan 2.5i V6 Automatic	1994	5	2498	11	1645
+Omega B Caravan (facelift 1999) 2.2i	1999	5	2198	11	1595
+Omega B Caravan (facelift 1999) 2.5i V6 Automatic	1999	5	2498	11	1645
+Omega B 2.5 V6 TDI Automatic	2001	5	2497	11	1610
+Omega B Caravan (facelift 1999) 2.5 V6 TDI	2001	5	2497	11	1660
+Rekord E Caravan (facelift 1982) 2.2i	1984	5	2197	11	1205
+Senator A (facelift 1982) 3.0 E V6 Automatic	1982	5	2969	11	1385
+Senator A (facelift 1982) 2.5 E	1984	5	2490	11	1370
+Senator A (facelift 1982) 3.0i V6 CAT Automatic	1985	5	2969	11	1405
+Signum 2.2i 16V ECOTEC Automatic	2003	5	2198	11	1535
+Tigra A 1.4 16V	1994	2	1389	11	980
+Vectra A 2.0i 4x4	1988	5	1998	11	0
+Vectra A CC 2.0i CAT 4×4	1988	5	1998	11	1159
+Vectra A CC (facelift 1992) 2.0i CAT 4×4	1992	5	1998	11	1159
+Vectra B 1.8i 16V	1995	5	1796	11	1265
+Vectra B 1.8i 16V Automatic	1995	5	1796	11	1265
+Vectra B 2.0i 16V Automatic	1995	5	1998	11	1345
+Vectra B CC 1.8i 16V	1995	5	1799	11	1279
+Vectra B CC 1.8i 16V Automatic	1995	5	1799	11	1279
+Vectra B (facelift 1999) 2.0i 16V Automatic	1999	5	1998	11	1345
+Vectra B (facelift 1999) 1.8i 16V	2000	5	1796	11	1265
+Vectra B Caravan (facelift 1999) 1.8 16V	2000	5	1796	11	1390
+Vectra B Caravan (facelift 1999) 1.8i 16V	2000	5	1796	11	1310
+Vectra B Caravan (facelift 1999) 1.8 16V	2000	5	1796	11	1390
+Vectra B CC (facelift 1999) 1.8i 16V	2000	5	1799	11	1279
+Vectra C Caravan 2.2i 16V DIRECT Automatic	2003	5	2198	11	1550
+Vita B 1.4i 16V	1994	5	1389	11	965
+Zafira A (T3000) 2.2 16V Automatic	2000	7	2198	11	1495
+Zafira A (facelift 2003) 2.2 16V Automatic	2003	7	2198	11	1495
+Astra H TwinTop 1.8i 16V ECOTEC	2006	4	1796	11,4	1400
+Astra H Sedan 1.8i 16V Automatic	2007	5	1796	11,4	1230
+Astra J Sports Tourer (facelift 2012) 1.7 CDTI Ecotec EcoFLEX Start/stop	2012	5	1686	11,4	1400
+Astra K Sports Tourer 1.6 CDTi EcoFLEX Start&stop	2015	5	1598	11,4	1328
+Astra K Sports Tourer 1.6 CDTi	2015	5	1598	11,4	1328
+Insignia Country Tourer 2.0 CDTI AWD Ecotec Automatic	2013	5	1956	11,4	0
+Insignia Sports Tourer (facelift 2013) 1.6 CDTI Automatic	2015	5	1598	11,4	1626
+Zafira B (facelift 2008) 1.6 CNG Turbo EcoFlex	2008	5	1598	11,4	1503
+Zafira Tourer C 2.0 CDTI Ecotec	2011	5	1956	11,4	0
+Zafira Tourer C 2.0 CDTI Ecotec Start/stop	2012	5	1956	11,4	0
+Adam 1.4	2012	4	1398	11,5	1065
+Adam 1.4 ECOFLEX	2012	4	1398	11,5	1065
+Adam Rocks 1.4	2012	4	1398	11,5	1065
+Adam Rocks 1.4 ECOFLEX	2012	4	1398	11,5	1065
+Ascona B 1.9 S	1975	5	1897	11,5	980
+Ascona B 2.0 S	1977	5	1979	11,5	1000
+Astra F 1.6i 16V	1994	5	1598	11,5	1100
+Astra F 1.6i 16V Automatic	1994	5	1598	11,5	1075
+Astra G 1.6 16V	1998	5	1598	11,5	1075
+Astra G Caravan 1.8 16V Automatic	1998	5	1796	11,5	1270
+Astra G CC 1.6 16V	1998	5	1598	11,5	1085
+Astra G Caravan 1.8 16V Automatic	2002	5	1796	11,5	1178
+Astra J 1.7 CDTI	2009	5	1686	11,5	1515
+Calibra A 2.0i 16V 4x4 Automatic	1994	4	1998	11,5	0
+Calibra A 2.0i 16V Automatic	1994	4	1998	11,5	1255
+Commodore B Coupe 2.8 GS	1972	5	2784	11,5	1195
+Commodore B 2.8 GS	1973	5	2784	11,5	1215
+Commodore B Coupe 2.8 SC	1973	5	2784	11,5	1190
+Commodore B Coupe 2.8 SC	1975	5	2784	11,5	1210
+Commodore C 2.5 S	1978	5	2490	11,5	1200
+Corsa C 1.4 16V	2000	5	1389	11,5	953
+Corsa C (facelift 2003) 1.4 16V	2003	5	1389	11,5	953
+Corsa C (facelift 2003) 1.7 CDTI	2004	5	1686	11,5	1080
+Insignia Country Tourer 1.4 Turbo Ecotec Start/stop	2013	5	1364	11,5	0
+Insignia Hatchback (facelift 2013) 1.8 Ecotec	2013	5	1796	11,5	0
+Insignia Sedan (facelift 2013) 1.8 Ecotec	2013	5	1796	11,5	0
+Insignia Sports Tourer (facelift 2013) 1.4 Turbo Ecotec Start/stop	2013	5	1364	11,5	0
+Kadett D 1.6 S	1981	5	1598	11,5	890
+Kadett E CC 1.8i	1985	5	1796	11,5	945
+Kadett E 1.8 S	1987	5	1796	11,5	970
+Kadett E CC 1.8 S	1987	5	1796	11,5	950
+Kadett E 1.8i	1990	5	1796	11,5	955
+Manta A 1.9 GT/E	1974	4	1897	11,5	980
+Manta B 1.9 S	1975	4	1897	11,5	1000
+Manta B 1.8 S	1981	4	1796	11,5	1000
+Manta B CC (facelift 1982) 1.8 S	1982	4	1796	11,5	1025
+Manta B CC (facelift 1982) 2.0 S	1982	4	1979	11,5	1030
+Manta B (facelift 1982) 1.8 S	1983	4	1796	11,5	1000
+Meriva B 1.4 Turbo	2010	5	1364	11,5	1286
+Meriva B 1.4 LPG Turbo	2011	5	1364	11,5	1286
+Meriva B 1.4 Turbo Start/stop	2011	5	1364	11,5	1286
+Meriva B (facelift 2014) 1.4 Turbo Ecotec	2014	5	1364	11,5	0
+Meriva B (facelift 2014) 1.4 Turbo Ecotec MT	2014	5	1364	11,5	0
+Meriva B (facelift 2014) 1.4 LPG Turbo Ecotec	2014	5	1364	11,5	0
+Monterey A RS 3.2i V6 24V 4x4	1992	5	3165	11,5	1795
+Monterey A LTD 3.2i V6 24V 4x4	1992	5	3165	11,5	1880
+Monterey A LTD 3.2i V6 24V 4x4 Automatic	1992	5	3165	11,5	1880
+Monterey A RS 3.2i V6 24V 4x4 Automatic	1992	5	3165	11,5	1795
+Omega A 2.0i	1986	5	1998	11,5	1295
+Omega A 2.4i Automatic	1988	5	2410	11,5	1330
+Omega A Caravan 2.6 I Automatic	1990	5	2594	11,5	1460
+Omega B Caravan 2.0i 16V	1994	5	1998	11,5	1515
+Omega B (facelift 1999) 2.2i Automatic	1999	5	2198	11,5	1535
+Omega B Caravan (facelift 1999) 2.5 V6 TDI Automatic	2001	5	2497	11,5	1660
+Rekord E (facelift 1982) 2.2 E Automatic	1984	5	2197	11,5	1200
+Senator A 3.0 V6 Automatic	1978	5	2969	11,5	1370
+Senator A (facelift 1982) 2.5 E	1981	5	2490	11,5	1370
+Senator A (facelift 1982) 2.2i	1984	5	2197	11,5	1320
+Vectra A (facelift 1992) 2.0i 16V Automatic	1994	5	1998	11,5	1230
+Vectra A CC (facelift 1992) 2.0i 16V Automatic	1994	5	1998	11,5	1245
+Vectra B Caravan 2.0i 16V Automatic	1996	5	1998	11,5	1378
+Vectra B Caravan (facelift 1999) 2.0i 16V Automatic	1999	5	1998	11,5	1378
+Vectra C CC 1.9 CDTI	2003	5	1910	11,5	1523
+Vectra C 1.9 CDTI	2004	5	1910	11,5	1523
+Vita C 1.4 16V	2000	5	1389	11,5	1200
+Zafira A (T3000) 1.8 16V	1999	7	1796	11,5	1445
+Zafira A (T3000) 1.8 16V Automatic	1999	7	1796	11,5	1445
+Zafira A (T3000) 2.2 DTI	2000	7	2171	11,5	1485
+Zafira A (facelift 2003) 1.8 16V	2003	7	1796	11,5	1445
+Zafira A (facelift 2003) 2.2 DTI	2003	7	2171	11,5	1485
+Zafira B 1.8i 16V	2005	7	1796	11,5	1503
+Zafira B (facelift 2008) 1.8 XER	2008	5	1796	11,5	1503
+Zafira B (facelift 2008) 1.8 LPG EcoFLEX	2009	5	1796	11,5	1503
+Zafira B (facelift 2008) 1.8 XER EcoFLEX	2009	5	1796	11,5	1503
+Zafira Tourer C 1.6 CNG Turbo Ecotec	2012	5	1598	11,5	0
+Zafira Tourer C (facelift 2016) 1.6 CNG EcoFLEX	2016	5	1598	11,5	1641
+Astra J (facelift 2012) 1.6 CDTI Ecotec Start/stop	2012	5	1598	11,6	1313
+Crossland X 1.6	2017	5	1560	11,6	1203
+Insignia Sports Tourer 2.0 CDTI DPF	2009	5	1956	11,6	1610
+Insignia Country Tourer 2.0 CDTI Ecotec	2013	5	1956	11,6	0
+Insignia Sports Tourer (facelift 2013) 2.0 CDTI Ecotec	2013	5	1956	11,6	0
+Insignia Grand Sport 1.6 CDTI EcoTEC	2017	5	1598	11,6	1428
+Zafira B 2.2i 16V Automatic	2006	7	2198	11,6	1570
+Zafira B (facelift 2008) 2.2i 16V Automatic	2008	5	2198	11,6	1570
+Astra H GTC 1.8i 16V Automatic	2005	5	1796	11,7	1210
+Astra H Caravan 1.8i 16V Automatic	2006	5	1796	11,7	1325
+Astra H Sedan 1.6i 16V	2007	5	1598	11,7	1231
+Astra J 1.6	2009	5	1598	11,7	1298
+Astra J 1.6 EcoFLEX Start/stop	2009	5	1598	11,7	1298
+Astra J Sports Tourer 1.7 CDTI	2010	5	1686	11,7	1393
+Astra J (facelift 2012) 1.6 Ecotec	2012	5	1598	11,7	1313
+Astra J (facelift 2012) 1.6 Ecotec Start/stop	2012	5	1598	11,7	1313
+Astra K Sports Tourer 1.0 ECOTEC EcoFLEX Start&stop	2015	5	999	11,7	1213
+Insignia Sports Tourer 2.0 CDTI DPF Automatic	2009	5	1956	11,7	1633
+Insignia Country Tourer 2.0 CDTI Ecotec Automatic	2013	5	1956	11,7	0
+Insignia Sports Tourer (facelift 2013) 2.0 CDTI Ecotec Automatic	2013	5	1956	11,7	0
+Zafira Tourer C 1.8 Ecotec	2011	5	1796	11,7	0
+Ascona C 1.8 E	1985	5	1796	11,8	1065
+Ascona C CC 1.8 E	1985	5	1796	11,8	1095
+Meriva B 1.7 DTC	2010	5	1686	11,8	1428
+Monterey B LTD 3.5 V6 24V 4x4	1998	5	3494	11,8	1945
+Vectra C 2.2 DTI Automatic	2002	5	2171	11,8	1503
+Vectra C CC 2.2 DTI ECOTEC Automatic	2003	5	2171	11,8	1430
+Zafira Tourer C 1.4 LPG Turbo Ecotec	2011	5	1362	11,8	0
+Zafira Tourer C 1.4 Turbo Ecotec Start/stop	2011	5	1364	11,8	0
+Zafira Tourer C (facelift 2016) 1.4 EcoFLEX Turbo EcoFLEX	2016	5	1364	11,8	1553
+Zafira Tourer C (facelift 2016) 1.4 LPG EcoFLEX	2016	5	1364	11,8	1604
+Adam 1.0 ECOTEC	2014	4	999	11,9	1081
+Adam Rocks 1.0 ECOTEC	2014	4	999	11,9	1081
+Antara 2.0 CDTI ECOTEC	2006	5	1991	11,9	1805
+Antara 2.4 I 16V ECOTEC	2006	5	2405	11,9	0
+Antara 2.4 I 16V ECOTEC Automatic	2006	5	2405	11,9	0
+Astra H 1.8i 16V Automatic	2004	5	1796	11,9	1278
+Astra H 1.8i Automatic	2006	5	1796	11,9	1278
+Astra J GTC 1.7 CDTI Ecotec Start/stop	2011	5	1686	11,9	1430
+Astra J Sedan 1.6 Ecotec	2012	5	1598	11,9	1405
+Cascada 1.4 Turbo Ecotec	2013	4	1362	11,9	1701
+Corsa D (Facelift 2011) 3-door 1.4 XER Automatic	2011	5	1398	11,9	1130
+Corsa D (Facelift 2011) 5-door 1.4 XER	2011	5	1398	11,9	1160
+Corsa E 3-door 1.0 Turbo ECOTEC Start&stop	2014	5	999	11,9	1088
+Corsa E 3-door 1.3 CDTI ECOTEC Start/stop	2014	5	1248	11,9	1124
+Corsa E 5-door 1.0 Turbo ECOTEC Start&stop	2014	5	999	11,9	1124
+Corsa E 5-door 1.3 CDTI ECOTEC Start/stop	2014	5	1248	11,9	1162
+Insignia Hatchback 1.8i	2008	5	1796	11,9	1470
+Insignia Sedan 1.8i	2008	5	1796	11,9	1503
+Insignia Hatchback (facelift 2013) 1.4 LPG Turbo Ecotec	2013	5	1364	11,9	0
+Insignia Hatchback (facelift 2013) 2.0 CDTI Ecotec EcoFLEX Start/stop	2013	5	1956	11,9	0
+Insignia Sedan (facelift 2013) 1.4 LPG Turbo Ecotec	2013	5	1364	11,9	0
+Insignia Sedan (facelift 2013) 2.0 CDTI Ecotec EcoFLEX Start/stop	2013	5	1956	11,9	0
+Insignia Hatchback (facelift 2013) 1.6 CDTI	2015	5	1598	11,9	1521
+Insignia Sedan (facelift 2013) 1.6 CDTI	2015	5	1598	11,9	1521
+Meriva B 1.4 Turbo Automatic	2010	5	1364	11,9	1286
+Meriva B (facelift 2014) 1.4 Turbo Ecotec Automatic	2014	5	1364	11,9	0
+Mokka X 1.6 CDTI EcoFLEX Start/Stop	2016	5	1598	11,9	1374
+Senator B 2.5i	1987	5	2490	11,9	1405
+Zafira Tourer C 1.4 Turbo Ecotec	2011	5	1364	11,9	0
+Zafira Tourer C (facelift 2016) 1.4 Turbo	2016	5	1364	11,9	1553
+Ascona B 2.0 N	1977	5	1979	12	1000
+Astra F Caravan 1.6 Si	1992	5	1598	12	1110
+Astra F Caravan 1.6 Si Automatic	1992	5	1598	12	1110
+Astra F Caravan 1.6i 16V	1994	5	1598	12	1110
+Astra F Caravan 1.8i 16V Automatic	1994	5	1799	12	1245
+Astra F Caravan 2.0i 16V Automatic	1995	5	1998	12	1220
+Astra G Caravan 1.6 16V	1998	5	1598	12	1110
+Astra G 2.0 DTI 16V	1999	5	1995	12	1245
+Astra G CC 2.0 DTI 16V	1999	5	1995	12	1245
+Astra G Cabrio 1.6 16V	2000	4	1598	12	1250
+Astra J Sports Tourer (facelift 2012) 1.6 CDTI Ecotec Start/stop	2012	5	1598	12	0
+Calibra A 2.0i Automatic	1990	4	1998	12	1190
+Commodore B 2.5 GS	1972	5	2490	12	1220
+Commodore B 2.8 GS	1972	5	2784	12	1265
+Commodore C Caravan 2.5 E	1980	5	2490	12	1312
+Corsa A (facelift 1987) 1.6 GSi	1988	5	1598	12	820
+Insignia Country Tourer 1.8 Ecotec	2013	5	1796	12	0
+Insignia Sports Tourer (facelift 2013) 1.8 Ecotec	2013	5	1796	12	0
+Kadett D Caravan 1.6 S	1981	5	1598	12	945
+Kadett E Caravan 1.6 S	1984	5	1598	12	965
+Kadett E Caravan 1.8i	1985	5	1796	12	985
+Kadett E 1.6 S	1986	5	1598	12	920
+Kadett E CC 1.6 S	1986	5	1598	12	890
+Manta B 2.0	1977	4	1979	12	1020
+Manta B CC 2.0	1977	4	1979	12	1030
+Omega A Caravan 2.4i	1988	5	2410	12	1320
+Omega B 2.5 TD	1994	5	2497	12	1605
+Omega B (facelift 1999) 2.5 TD	1999	5	2497	12	1605
+Rekord E 2.0 E	1977	5	1979	12	1100
+Rekord E (facelift 1982) 2.0 E	1982	5	1979	12	1135
+Rekord E Caravan (facelift 1982) 2.2i Automatic	1984	5	2197	12	1230
+Senator A (facelift 1982) 2.5 E Automatic	1984	5	2490	12	1385
+Senator B 2.5i Automatic	1987	5	2490	12	1425
+Signum (facelift 2005) 1.9 CDTI	2005	5	1910	12	1545
+Vectra A 2.0i Automatic	1988	5	1998	12	1130
+Vectra A 2.0i CAT Automatic	1988	5	1998	12	1144
+Vectra A CC 2.0i CAT Automatic	1988	5	1998	12	1159
+Vectra A CC 2.0i Automatic	1988	5	1998	12	1130
+Vectra A (facelift 1992) 2.0i Automatic	1992	5	1998	12	1130
+Vectra A CC (facelift 1992) 2.0i CAT Automatic	1992	5	1998	12	1159
+Vectra B Caravan 1.8i 16V	1996	5	1796	12	1310
+Vectra B Caravan (facelift 1999) 1.8i 16V Automatic	2000	5	1796	12	1310
+Zafira A (T3000) 1.8 16V	1999	7	1796	12	1320
+Astra J Sedan 1.7 CDTI Ecotec	2012	5	1686	12,4	1405
+Astra J Sedan 1.7 CDTI Ecotec Start/stop	2012	5	1686	12,4	1405
+Astra J Sedan 1.7 CDTI Ecotec	2012	5	1686	12,4	0
+Astra J Sedan 1.6 CDTI Ecotec Start/stop	2014	5	1598	12,4	1405
+Corsa D 3-door 1.4i 16V ECOTEC	2006	5	1389	12,4	1163
+Corsa D 5-door 1.4i 16V ECOTEC	2006	5	1364	12,4	1163
+Corsa D 3-door 1.4i 16V LPG EcoFLEX (90/87 Hp)	2009	5	1389	12,4	1163
+Corsa D 5-door 1.4i 16V LPG EcoFLEX (90/87 Hp)	2009	5	1389	12,4	1163
+Corsa D (Facelift 2011) 3-door 1.4 XER	2011	5	1398	12,4	1040
+Insignia Sedan 1.4 Turbo LPG EcoFLEX	2012	5	1364	12,4	1503
+Insignia Country Tourer 1.4 LPG Turbo Ecotec	2013	5	1364	12,4	0
+Insignia Country Tourer 2.0 CDTI Ecotec EcoFLEX Start/stop	2013	5	1956	12,4	0
+Insignia Sports Tourer (facelift 2013) 1.4 LPG Turbo Ecotec	2013	5	1364	12,4	0
+Insignia Sports Tourer (facelift 2013) 2.0 CDTI Ecotec EcoFLEX Start/stop	2013	5	1956	12,4	0
+Insignia Sports Tourer (facelift 2013) 1.6 CDTI	2015	5	1598	12,4	1589
+Insignia Sports Tourer (facelift 2013) 1.6 CDTI	2015	5	1598	12,4	1589
+Tigra B TwinTop 1.4i 16V ECOTEC	2004	2	1364	12,4	1235
+Adam 1.4	2012	4	1398	12,5	1065
+Adam 1.4 ECOFLEX	2012	4	1398	12,5	1065
+Adam Rocks 1.4	2012	4	1398	12,5	1065
+Adam Rocks 1.4 ECOFLEX	2012	4	1398	12,5	1065
+Ascona C 1.6 S	1981	5	1598	12,5	1015
+Ascona C CC 1.6 S	1981	5	1598	12,5	1015
+Ascona C 1.8	1987	5	1796	12,5	1015
+Ascona C CC 1.8	1987	5	1796	12,5	1035
+Astra F Caravan 1.8i	1991	5	1796	12,5	1090
+Astra F CC 1.8i	1991	5	1796	12,5	1045
+Astra F 1.8i	1992	5	1796	12,5	1055
+Astra F CC 1.6i 16V Automatic	1994	5	1598	12,5	1065
+Astra F 1.4i 16V	1996	5	1389	12,5	985
+Astra F Cabrio 1.4i 16V	1996	4	1364	12,5	1140
+Astra F CC 1.4i 16V	1996	5	1389	12,5	1060
+Astra G 1.4 16V	1998	5	1364	12,5	1120
+Astra G CC 1.4 16V	1998	5	1389	12,5	1060
+Astra G Caravan 2.0 DTI 16V	1999	5	1995	12,5	1285
+Astra H Caravan 1.7 CDTI	2004	5	1686	12,5	1293
+Astra J (facelift 2012) 1.7 CDTI Ecotec EcoFLEX Start/stop	2012	5	1686	12,5	1370
+Astra J Sports Tourer (facelift 2012) 1.7 CDTI Ecotec	2012	5	1686	12,5	1393
+Combo Tour C (facelift 2003) 1.7 CDTI	2004	5	1686	12,5	1295
+Commodore C Caravan 2.5 S	1980	5	2490	12,5	1287
+Commodore C 2.5 E Automatic	1981	5	2490	12,5	1260
+Corsa B 1.4 Si	1993	5	1389	12,5	895
+Corsa B Kasten 1.4	1999	5	1389	12,5	1000
+Kadett E Caravan 1.8 S	1987	5	1796	12,5	975
+Meriva B 1.4 Turbo Automatic	2010	5	1364	12,5	1286
+Meriva B (facelift 2014) 1.6 CDTI Ecotec Start/stop	2014	5	1598	12,5	0
+Mokka 1.6 CDTI EcoFLEX	2015	5	1598	12,5	1374
+Mokka X 1.6 EcoFLEX Start/Stop	2016	5	1598	12,5	1280
+Omega A 2.0i Automatic	1986	5	1998	12,5	1295
+Omega A Caravan 2.4i Automatic	1988	5	2410	12,5	1320
+Omega A Caravan 2.0i	1990	5	1998	12,5	1265
+Omega B 2.5 TD Automatic	1994	5	2497	12,5	1605
+Omega B (facelift 1999) 2.5 TD Automatic	1999	5	2497	12,5	1605
+Omega B Caravan (facelift 1999) 2.2i Automatic	1999	5	2198	12,5	1595
+Omega B (facelift 1999) 2.2 DTI	2000	5	2171	12,5	1670
+Rekord E 2.0 S	1977	5	1979	12,5	1100
+Rekord E (facelift 1982) 2.0 S	1982	5	1979	12,5	1135
+Rekord E (facelift 1982) 2.0 S	1982	5	1979	12,5	1135
+Senator A 2.8 S Automatic	1978	5	2784	12,5	1370
+Vectra A 1.8 S	1988	5	1796	12,5	1109
+Vectra A CC 1.8i	1988	5	1796	12,5	1075
+Vectra A CC 1.8i CAT	1988	5	1796	12,5	1124
+Vectra A 1.8i CAT	1990	5	1796	12,5	1060
+Vectra A (facelift 1992) 1.8i CAT	1992	5	1796	12,5	1060
+Vectra A (facelift 1992) 1.8 S	1992	5	1796	12,5	1109
+Vectra A CC (facelift 1992) 1.8i CAT	1992	5	1796	12,5	1124
+Vectra B 1.6i 16V	1995	5	1598	12,5	1275
+Vectra B 1.6i 16V Automatic	1995	5	1598	12,5	1275
+Vectra B CC 1.6i 16V	1995	5	1598	12,5	1215
+Vectra B (facelift 1999) 1.6i 16V	2000	5	1598	12,5	1275
+Vectra B CC (facelift 1999) 1.6i 16V	2000	5	1598	12,5	1215
+Vectra C 1.6i 16V Ecotec	2004	5	1598	12,5	1360
+Zafira B 1.9 CDTI Automatic	2007	7	1910	12,5	1613
+Zafira B (facelift 2008) 1.9 CDTI Automatic	2008	5	1910	12,5	0
+Zafira Tourer C 2.0 CDTI Ecotec	2011	5	1956	12,5	0
+Astra J 1.7 CDTI	2009	5	1686	12,6	1515
+Astra J Sedan 1.7 CDTI Ecotec EcoFLEX Start/stop	2012	5	1686	12,6	1405
+Insignia Country Tourer 2.0 CDTI Ecotec	2013	5	1956	12,6	0
+Insignia Sports Tourer (facelift 2013) 2.0 CDTI Ecotec	2013	5	1956	12,6	0
+Monza A2 2.0 E	1983	4	1979	12,6	1335
+Senator A (facelift 1982) 2.0 E	1983	5	1979	12,6	1335
+Vectra C (facelift 2005) 1.6i 16V	2005	5	1598	12,6	1325
+Vectra C CC (facelift 2005) 1.6i 16V	2005	5	1598	12,6	1325
+Astra H Caravan 1.6i 16V	2004	5	1598	12,7	1215
+Astra H TwinTop 1.8i 16V ECOTEC Automatic	2006	4	1796	12,7	1400
+Astra H Sedan 1.6i 16V Automatic	2007	5	1598	12,7	1231
+Astra J Sports Tourer (facelift 2012) 1.7 CDTI Ecotec	2012	5	1686	12,7	0
+Astra J Sports Tourer (facelift 2012) 1.7 CDTI Ecotec EcoFLEX Start/stop	2012	5	1686	12,7	0
+Astra J Sports Tourer (facelift 2012) 1.7 CDTI Ecotec Start/stop	2012	5	1686	12,7	0
+Astra K 1.0 EcoTec EcoFLEX Easytronic Start&stop	2015	5	999	12,7	1198
+Astra K 1.6 CDTi	2015	5	1598	12,7	1270
+Corsa D 3-door 1.3 CDTI	2006	5	1248	12,7	1170
+Corsa D 5-door 1.3 CDTI	2006	5	1248	12,7	1170
+Corsa D (Facelift 2011) 5-door 1.3 DTR	2011	5	1248	12,7	1170
+Sintra 2.2i 16V	1996	7	2198	12,7	1655
+Meriva A (facelift 2006) 1.7 CDTI	2006	5	1686	12,8	1455
+Insignia Sports Tourer 2.0 CDTI DPF	2009	5	1956	12,86	1610
+Adam 1.4 ECOFLEX LPG	2013	4	1398	12,9	1103
+Astra K Sports Tourer 1.0 ECOTEC EcoFLEX Easytronic Start&stop	2015	5	999	12,9	1213
+Astra K Sports Tourer 1.6 CDTi	2015	5	1598	12,9	1313
+Insignia Hatchback 1.6i	2008	5	1598	12,9	1470
+Meriva B 1.7 DTC Automatic	2013	5	1686	12,9	1428
+Meriva B (facelift 2014) 1.7 CDTI Ecotec Automatic	2014	5	1686	12,9	0
+Zafira B 1.8i 16V Automatic	2006	7	1796	12,9	1503
+Zafira B (facelift 2008) 1.8 XER Automatic	2008	5	1796	12,9	1503
+Zafira Tourer C 1.8 Ecotec	2012	5	1796	12,9	0
+Agila I 1.2 16V	2000	4	1199	13	960
+Agila I 1.2 I 16V	2003	4	1229	13	985
+Ascona A 1.9 SR	1971	5	1897	13	940
+Ascona A 1.9 SR	1975	5	1897	13	940
+Astra F 1.4 Si	1992	5	1389	13	985
+Astra F Caravan 1.4 Si	1992	5	1389	13	1030
+Astra F CC 1.4 Si	1992	5	1389	13	950
+Astra G Caravan 1.4 16V	1998	5	1389	13	1150
+Astra G Cabrio 1.6 16V	2000	4	1598	13	1350
+Astra G 1.6i	2001	5	1598	13	1063
+Astra G CC 1.6	2002	5	1598	13	1090
+Astra H GTC 1.6i 16V Automatic	2005	5	1598	13	1145
+Astra J Sports Tourer 1.7 CDTI EcoFLEX Start/stop	2010	5	1686	13	1393
+Astra J Sports Tourer 1.7 CDTI	2010	5	1686	13	1393
+Commodore B 2.5	1972	5	2490	13	1200
+Commodore B Coupe 2.5	1972	5	2490	13	1175
+Commodore C 2.5 S Automatic	1978	5	2490	13	1220
+Corsa A Sedan (facelift 1987) 1.3 S	1987	5	1297	13	775
+Corsa A (facelift 1987) 1.5 TD	1988	5	1488	13	855
+Corsa A Sedan (facelift 1987) 1.5 TD	1988	5	1488	13	870
+Corsa A (facelift 1990) 1.5 TD	1990	5	1488	13	855
+Corsa C 1.2 16V	2000	5	1199	13	910
+Corsa C 1.4 16V Automatic	2000	5	1389	13	1020
+Corsa C (facelift 2003) 1.2 16V	2003	5	1199	13	910
+Corsa C (facelift 2003) 1.4 16V Automatic	2003	5	1389	13	0
+Kadett C City 1.6 S	1973	5	1584	13	792
+Kadett C City 1.6 S Automatic	1973	5	1584	13	792
+Kadett C Coupe 1.6 S	1977	5	1584	13	890
+Kadett E 1.3 S	1984	5	1297	13	865
+Kadett E CC 1.3 S	1984	5	1297	13	880
+Kadett E 1.6i	1986	5	1598	13	920
+Kadett E 1.6i CAT	1986	5	1598	13	920
+Kadett E Caravan 1.6	1986	5	1598	13	920
+Kadett E CC 1.6i	1986	5	1598	13	890
+Kadett E CC 1.6i CAT	1986	5	1598	13	890
+Kadett E CC 1.4 S	1990	5	1598	13	905
+Kadett E Cabrio 1.6i	1992	5	1598	13	995
+Manta A 1.9 S	1970	4	1897	13	945
+Manta A 1.9 S	1970	4	1897	13	945
+Omega A 1.8i	1986	5	1796	13	1235
+Omega A Caravan 1.8i	1986	5	1796	13	1260
+Omega A Caravan 2.0i	1986	5	1998	13	1265
+Omega B 2.0i	1994	5	1998	13	1460
+Omega B 2.0i 16V Automatic	1994	5	1998	13	1551
+Omega B Caravan 2.5 TD	1994	5	2497	13	1665
+Omega B Caravan (facelift 1999) 2.5 TD	1999	5	2497	13	1665
+Omega B Caravan (facelift 1999) 2.2 DTI 16V	2000	5	2171	13	1730
+Rekord D 2.0	1975	5	1979	13	1095
+Rekord D Caravan 2.0 S	1975	5	1979	13	1140
+Rekord E Caravan 2.0 E	1977	5	1979	13	1145
+Rekord E Caravan (facelift 1982) 2.0 E	1982	5	1979	13	1150
+Rekord E (facelift 1982) 1.8i CAT	1985	5	1796	13	1120
+Senator A (facelift 1982) 2.5 E Automatic	1981	5	2490	13	1370
+Senator A (facelift 1982) 2.2i Automatic	1984	5	2197	13	1335
+Vectra B 2.0 DTI 16V	1997	5	1995	13	1312
+Vectra B CC 2.0 DTI 16V	1997	5	1995	13	1335
+Vectra B CC (facelift 1999) 2.0 DTI 16V	1999	5	1995	13	1335
+Vectra C 2.0 DTI	2002	5	1994	13	1503
+Vectra C CC 2.0 DTI	2002	5	1910	13	1435
+Vectra C (facelift 2005) 2.0 DTI	2005	5	1994	13	1503
+Vita C 1.4 16V Automatic	2000	5	1389	13	1200
+Zafira A (T3000) 1.6 16V	1999	7	1598	13	1300
+Zafira A (facelift 2003) 1.6 16V	2003	7	1598	13	1300
+Zafira A (facelift 2003) 1.8 16V Automatic	2003	7	1796	13	1370
+Astra G Caravan 1.6i	2001	5	1598	13,2	1235
+Astra G Caravan 1.6i Automatic	2001	5	1598	13,2	1235
+Corsa E 3-door 1.4 ECOTEC	2014	5	1398	13,2	1066
+Corsa E 3-door 1.4 ECOTEC Start/stop	2014	5	1398	13,2	1066
+Corsa E 5-door 1.4 ECOTEC	2014	5	1398	13,2	1088
+Corsa E 5-door 1.4 ECOTEC Start/stop	2014	5	1398	13,2	1088
+Astra H 1.6i 16V Automatic	2004	5	1598	13,3	1265
+Astra J 1.6 Automatic	2009	5	1598	13,3	1298
+Astra J (facelift 2012) 1.6 Ecotec Automatic	2012	5	1598	13,3	1313
+Astra J Sedan 1.6 Ecotec Automatic	2012	5	1598	13,3	1420
+Meriva A 1.6i 16V ECOTEC	2002	5	1598	13,3	1375
+Meriva A (facelift 2006) 1.6i	2005	5	1598	13,3	1375
+Astra K 1.4	2015	5	1399	13,4	1169
+Combo Tour D 1.6 CDTI Ecotec Start/stop	2011	5	1598	13,4	0
+Combo Tour D 1.6 CDTI Ecotec	2011	5	1598	13,4	0
+Frontera B 2.2 I 4x4	1998	5	2198	13,4	1722
+Frontera B Sport 2.2 16V	1998	5	2198	13,4	1660
+Insignia Sports Tourer 1.4 Turbo LPG EcoFLEX	2012	5	1364	13,4	1560
+Meriva A 1.7 CDTI	2002	5	1686	13,4	1455
+Tigra B TwinTop 1.4i 16V ECOTEC Automatic	2004	2	1364	13,4	1235
+Zafira B (facelift 2008) 1.6 XER EcoFLEX	2008	5	1598	13,4	1503
+Zafira B (facelift 2008) 1.7 DTR	2008	5	1686	13,4	1735
+Ascona C 1.6i CAT Automatic	1986	5	1796	13,5	1095
+Astra F CC 1.7 TDS	1991	5	1686	13,5	1090
+Astra F 1.7 TDS	1992	5	1686	13,5	1120
+Astra F Cabrio 1.4 Si	1993	4	1389	13,5	1140
+Astra G CC 1.6 16V Automatic	1998	5	1598	13,5	1085
+Commodore B Coupe 2.5 SC	1972	5	2490	13,5	0
+Commodore C Caravan 2.5 E Automatic	1980	5	2490	13,5	1332
+Corsa A 1.3 S	1982	5	1297	13,5	750
+Corsa A Sedan 1.3 S	1982	5	1297	13,5	750
+Corsa A (facelift 1987) 1.3 S	1987	5	1297	13,5	765
+Corsa B 1.4i 16V Automatic	1994	5	1389	13,5	985
+Corsa C 1.7 DTI 16V	2000	5	1686	13,5	1040
+Corsa E 3-door 1.3 CDTI ECOTEC Easytronic Start/stop	2014	5	1248	13,5	1124
+Corsa E 5-door 1.3 CDTI ECOTEC Easytronic Start/stop	2014	5	1248	13,5	1162
+Insignia Sedan 1.6i	2008	5	1598	13,5	1503
+Kadett D 1.3 S	1979	5	1297	13,5	835
+Kadett E Cabrio 1.6i CAT	1987	5	1598	13,5	980
+Kadett E 1.5 TD	1988	5	1488	13,5	1005
+Kadett E CC 1.5 TD	1988	5	1488	13,5	985
+Omega B Caravan 2.5 TD Automatic	1994	5	2497	13,5	1665
+Omega B Caravan (facelift 1999) 2.5 TD Automatic	1999	5	2497	13,5	1665
+Rekord E 2.0 E Automatic	1977	5	1979	13,5	1120
+Rekord E Caravan 2.0 S	1977	5	1979	13,5	1145
+Rekord E (facelift 1982) 2.0 E Automatic	1982	5	1979	13,5	1175
+Rekord E Caravan (facelift 1982) 2.0 S	1982	5	1979	13,5	1150
+Rekord E Caravan (facelift 1982) 2.0 S	1982	5	1979	13,5	1150
+Rekord E Caravan (facelift 1982) 2.0 S	1982	5	1979	13,5	1150
+Senator A (facelift 1982) 2.0 E	1982	4	1979	13,5	1335
+Vectra B Caravan 1.6i 16V	1996	5	1598	13,5	1266
+Vectra B Caravan 1.8i 16V Automatic	1996	5	1796	13,5	1310
+Vectra B Caravan (facelift 1999) 1.6i 16V	2000	5	1598	13,5	1266
+Vita B 1.4i 16V Automatic	1994	5	1389	13,5	965
+Astra H GTC 1.3 CDTI	2005	5	1248	13,6	1230
+Astra H GTC 1.4i 16V	2005	5	1364	13,6	1110
+Frontera A 2.2i 4x4	1995	5	2198	13,6	1803
+Frontera A 2.2i	1995	5	2198	13,6	1803
+Vectra C Caravan 1.8i 16V Automatic	2002	5	1796	13,6	1490
+Astra H 1.4i 16V	2004	5	1364	13,7	1130
+Astra H Caravan 1.6i 16V Automatic	2004	5	1598	13,7	1215
+Astra H 1.3 CDTI	2005	5	1248	13,7	1230
+Astra H Sedan 1.3 CDTI	2007	5	1248	13,7	0
+Astra J Sports Tourer 1.6 VVT Automatic	2010	5	1598	13,7	1360
+Astra J Sedan 1.6 Ecotec Start/stop	2012	5	1598	13,7	1405
+Vectra C Caravan (facelift 2005) 1.6i	2005	5	1598	13,7	1425
+Astra F Caravan 1.4i 16V	1996	5	1396	13,8	1020
+Insignia Sports Tourer 1.6i	2009	5	1598	13,8	1510
+Meriva A 1.4i 16V	2004	5	1364	13,8	1260
+Meriva A (facelift 2006) 1.4i 16V	2006	5	1364	13,8	1260
+Meriva A (facelift 2006) 1.4 LPG EcoFLEX	2006	5	1364	13,8	1260
+Meriva B 1.3 CDTI EcoFLEX	2010	5	1248	13,8	1428
+Meriva B 1.3 DTE Start/Stop	2010	5	1248	13,8	1428
+Meriva B (facelift 2014) 1.3 CDTI EcoFLEX Ecotec Start/stop	2014	5	1248	13,8	0
+Meriva B (facelift 2014) 1.6 CDTI Ecotec Start/stop	2014	5	1598	13,8	0
+Adam 1.4 Easytronic	2012	4	1398	13,9	1065
+Adam Rocks 1.4 ECOFLEX Easytronic	2012	4	1398	13,9	1065
+Adam Rocks 1.4 Easytronic	2012	4	1398	13,9	1065
+Adam 1.4 ECOFLEX Easytronic	2012	4	1398	13,9	1065
+Agila II 1.3 CDTI MT	2008	5	1248	13,9	1050
+Astra J (facelift 2012) 1.4 Ecotec	2012	5	1398	13,9	1373
+Astra J Sports Tourer (facelift 2012) 1.6 Ecotec Automatic	2012	5	1598	13,9	1333
+Astra K Sports Tourer 1.4	2015	5	1399	13,9	1198
+Corsa D 3-door 1.2i 16V ECOTEC	2006	5	1229	13,9	1145
+Corsa D 5-door 1.2i 16V ECOTEC	2006	5	1229	13,9	1145
+Corsa D (Facelift 2011) 3-door 1.2 XER	2011	5	1229	13,9	1130
+Corsa D (Facelift 2011) 3-door 1.2 LPG (85/83 Hp)	2011	5	1229	13,9	1130
+Corsa D (Facelift 2011) 5-door 1.2 XER	2011	5	1229	13,9	1060
+Corsa D (Facelift 2011) 5-door 1.2 XER Automatic	2011	5	1229	13,9	1160
+Corsa D (Facelift 2011) 5-door 1.2 LPG (85/83 Hp)	2011	5	1229	13,9	1130
+Corsa D (Facelift 2011) 5-door 1.4 XER Automatic	2011	5	1398	13,9	1100
+Corsa D 3-door 1.2 LPG (80/78 Hp) EcoFLEX	2011	5	1229	13,9	1130
+Corsa D 5-door 1.2 LPG (80/78 Hp) EcoFLEX	2011	5	1229	13,9	1130
+Corsa E 3-door 1.4 ECOTEC Automatic	2014	5	1398	13,9	1088
+Corsa E 3-door 1.4 ECOTEC Easytronic Start/stop	2014	5	1398	13,9	1066
+Corsa E 3-door 1.4 ECOTEC LPG	2014	5	1398	13,9	0
+Corsa E 5-door 1.4 ECOTEC LPG	2014	5	1398	13,9	1124
+Corsa E 5-door 1.4 ECOTEC Automatic	2014	5	1398	13,9	1124
+Corsa E 5-door 1.4 ECOTEC Easytronic Start/stop	2014	5	1398	13,9	1088
+Frontera B Sport 2.2 DTI 4x4	1998	5	2171	13,9	1720
+Karl 1.0	2015	5	999	13,9	864
+Karl 1.0 EcoFLEX Start/stop	2015	5	999	13,9	864
+Meriva B 1.4 XER	2010	5	1398	13,9	1286
+Meriva B 1.7 DT Automatic	2010	5	1686	13,9	1428
+Meriva B (facelift 2014) 1.4 Ecotec	2014	5	1398	13,9	0
+Meriva B (facelift 2014) 1.4 Ecotec Start/stop	2014	5	1398	13,9	0
+Vectra C Caravan 2.0 DTI	2002	5	1994	13,9	1600
+Ascona A Voyage 1.9 SR	1970	5	1897	14	1020
+Ascona A Voyage 1.9 SR	1975	5	1897	14	1020
+Ascona B 1.6 S	1975	5	1584	14	980
+Ascona B 1.9 N	1976	5	1897	14	980
+Ascona C CC 1.6	1986	5	1598	14	1000
+Ascona C CC 1.6i CAT	1986	5	1598	14	1015
+Astra F CC 1.4 Si Automatic	1992	5	1389	14	985
+Astra F 1.6i Eco	1994	5	1598	14	1020
+Astra F CC 1.6i	1996	5	1598	14	985
+Astra G Caravan 1.6 16V Automatic	1998	5	1598	14	1130
+Astra G 1.7 CDTI	2002	5	1686	14	1205
+Astra G CC 1.7 CDTI	2002	5	1686	14	1185
+Combo Tour C 1.6i	2001	5	1598	14	1210
+Combo Tour C (facelift 2003) 1.6i	2003	5	1598	14	1295
+Combo Tour C (facelift 2003) 1.4i 16V	2004	5	1364	14	1235
+Combo Tour C (facelift 2003) 1.6i	2004	5	1598	14	1210
+Commodore C Caravan 2.5 S Automatic	1980	5	2490	14	1307
+Corsa B 1.5 TD	1993	5	1488	14	950
+Corsa B (facelift 1997) 1.5 TD	1997	5	1488	14	937
+Corsa B (facelift 1997) 1.2i 16V	1998	5	1199	14	870
+Corsa E 3-door 1.4 ECOTEC	2014	5	1398	14	0
+Corsa E 5-door 1.4 ECOTEC	2014	5	1398	14	0
+Frontera B 2.2 DTI 4x4	1998	5	2171	14	1780
+Frontera B 2.2 DTI 4x4	2000	5	2171	14	1780
+Kadett E Caravan 1.3 S	1984	5	1297	14	905
+Kadett E Caravan 1.6i	1986	5	1598	14	920
+Kadett E Caravan 1.6i CAT	1986	5	1598	14	920
+Kadett E Caravan 1.5 TD	1988	5	1488	14	1040
+Manta A 1.6 S	1970	4	1584	14	945
+Manta B 1.6 S	1975	4	1584	14	1010
+Manta B 1.9 N	1976	4	1897	14	1000
+Manta B CC 1.9 N	1978	4	1897	14	1030
+Omega A 1.8 S	1986	5	1796	14	1230
+Omega A 1.8i N	1986	5	1796	14	1215
+Omega A Caravan 1.8 N	1986	5	1796	14	1230
+Omega A Caravan 2.0i Automatic	1986	5	1998	14	1265
+Omega A 1.8	1987	5	1796	14	1215
+Omega A 2.3 TD Interc.	1988	5	2260	14	1375
+Omega B 2.0i Automatic	1994	5	1998	14	1460
+Omega B Caravan 2.0i	1994	5	1998	14	1515
+Omega B Caravan 2.0i 16V Automatic	1994	5	1998	14	1515
+Rekord D 1.9 S	1972	5	1897	14	1065
+Rekord D Coupe 1.9 S	1972	5	1897	14	1080
+Rekord D 1.9	1975	5	1897	14	1095
+Rekord D Coupe 1.9	1975	5	1897	14	1110
+Rekord E 2.0	1977	5	1979	14	1100
+Rekord E 2.0 S Automatic	1977	5	1979	14	1120
+Rekord E (facelift 1982) 1.8 S	1982	5	1796	14	1115
+Rekord E (facelift 1982) 2.0 S Automatic	1982	5	1979	14	1160
+Rekord E (facelift 1982) 2.0 S Automatic	1982	5	1979	14	1135
+Rekord E Caravan (facelift 1982) 1.8 E	1985	5	1796	14	1155
+Senator B 2.3 TD Interc.	1988	5	2260	14	1380
+Signum 2.0 DTI ECOTEC	2003	5	1994	14	1595
+Signum (facelift 2005) 1.9 CDTI	2005	5	1910	14	1545
+Tigra A 1.4 16V Automatic	1994	2	1389	14	980
+Vectra A 1.6 S	1988	5	1598	14	1020
+Vectra A 1.6i	1988	5	1598	14	1005
+Vectra A 1.6i CAT	1988	5	1598	14	1115
+Vectra A CC 1.6i	1988	5	1598	14	1020
+Vectra A CC 1.6 S	1988	5	1598	14	1035
+Vectra A CC 1.4	1989	5	1389	14	1005
+Vectra A (facelift 1992) 1.6 S	1992	5	1598	14	1020
+Vectra A (facelift 1992) 1.6i CAT	1993	5	1598	14	1115
+Vectra A CC (facelift 1992) 1.6i	1993	5	1597	14	1020
+Vectra B Caravan 2.0 DTI 16V	1997	5	1995	14	1350
+Vectra B Caravan (facelift 1999) 2.0 DTI 16V	1999	5	1995	14	1350
+Zafira A (T3000) 1.8 16V Automatic	1999	7	1796	14	1320
+Zafira A (T3000) 2.0 16V DTI	2000	7	1995	14	1495
+Zafira A (facelift 2003) 2.0 16V DTI	2003	7	1995	14	1495
+Astra J 1.4 EcoFLEX	2009	5	1398	14,2	1298
+Astra J Sedan 1.4 Ecotec	2012	5	1398	14,2	1393
+Combo Tour D 1.6 CDTI EcoFLEX	2015	5	1598	14,3	0
+Combo Tour D 1.6 CDTI	2015	5	1598	14,3	0
+Meriva A 1.6i 16V Automatic	2002	5	1598	14,3	1375
+Meriva A (facelift 2006) 1.6i Automatic	2005	5	1598	14,3	1375
+Zafira B 1.6i 16V	2006	7	1598	14,3	1505
+Ascona A 1.6 S	1970	5	1584	14,5	940
+Ascona C CC 1.6	1981	5	1598	14,5	1005
+Ascona C 1.6i	1987	5	1598	14,5	960
+Astra F Caravan 1.7 TDS	1991	5	1686	14,5	1140
+Astra F Caravan 1.8i Automatic	1991	5	1796	14,5	1090
+Astra F 1.4 Si Automatic	1992	5	1389	14,5	990
+Astra F 1.8i Automatic	1992	5	1796	14,5	1055
+Astra F Caravan 1.4 Si	1992	5	1389	14,5	1030
+Astra F Cabrio 1.6i Eco	1993	4	1598	14,5	1065
+Astra F Caravan 1.6i Eco	1994	5	1598	14,5	1020
+Astra F 1.6i	1996	5	1598	14,5	1010
+Astra G 1.4	1998	5	1398	14,5	1195
+Astra G 1.6	1998	5	1598	14,5	1055
+Astra G 2.0 DI	1998	5	1995	14,5	1195
+Astra G CC 1.6	1998	5	1598	14,5	1050
+Astra G CC 2.0 DI	1998	5	1995	14,5	1195
+Astra G 1.7 DTI 16V Eco4	2000	5	1686	14,5	1150
+Astra G 1.6i Automatic	2001	5	1598	14,5	1083
+Astra G Caravan 1.7 CDTI	2002	5	1686	14,5	1220
+Astra G CC 1.6 Automatic	2002	5	1598	14,5	1083
+Astra J Sports Tourer 1.4 VVT	2010	5	1398	14,5	1393
+Astra J GTC 1.4 Ecotec Start/stop	2011	5	1398	14,5	1437
+Astra J Sports Tourer (facelift 2012) 1.4 Ecotec	2012	5	1398	14,5	1393
+Corsa A (facelift 1987) 1.4i	1989	5	1389	14,5	770
+Corsa A (facelift 1990) 1.4i	1990	5	1389	14,5	785
+Corsa C 1.7 DTI 16V	2000	5	1686	14,5	1020
+Corsa C (facelift 2003) 1.3 CDTI	2004	5	1248	14,5	1035
+Corsa D 3-door 1.3 CDTI	2006	5	1248	14,5	1160
+Corsa D 5-door 1.3 CDTI	2006	5	1248	14,5	1160
+Corsa D (Facelift 2011) 3-door 1.3 DTC	2011	5	1248	14,5	1130
+Corsa D (Facelift 2011) 3-door 1.3 DTC Start/Stop	2011	5	1248	14,5	1130
+Corsa D (Facelift 2011) 5-door 1.3 DTC	2011	5	1248	14,5	1135
+Frontera B Sport 2.2 DTI 4x4	2002	5	2171	14,5	1720
+Kadett D Caravan 1.3 S	1979	5	1297	14,5	885
+Meriva A 1.6i	2002	5	1598	14,5	1350
+Omega A 1.8i Automatic	1986	5	1796	14,5	1235
+Omega A 2.3 TD	1986	5	2260	14,5	1304
+Rekord E Caravan 2.0 E Automatic	1977	5	1979	14,5	1165
+Rekord E Caravan 2.0 E Automatic	1977	5	1979	14,5	1165
+Rekord E Caravan (facelift 1982) 2.0 E Automatic	1982	5	1979	14,5	1190
+Senator B 2.3 TD	1987	5	2260	14,5	1380
+Senator B 2.3 TD Inerc.	1988	5	2260	14,5	1380
+Sintra 2.2 DTI	1997	7	2198	14,5	1735
+Vectra A CC 1.7 TD	1988	5	1686	14,5	1184
+Vectra A 1.4	1989	5	1389	14,5	990
+Vectra A 1.7 TD	1990	5	1686	14,5	1169
+Vectra A (facelift 1992) 1.7 TD	1992	5	1686	14,5	1169
+Vectra A CC (facelift 1992) 1.7 TD	1992	5	1686	14,5	1184
+Vectra A (facelift 1992) 1.6i	1993	5	1598	14,5	1080
+Vectra A CC (facelift 1992) 1.6i	1993	5	1598	14,5	1095
+Vectra B CC 1.6i 16V Automatic	1995	5	1598	14,5	1215
+Vectra B CC 2.0 DI 16V	1996	5	1995	14,5	1335
+Astra J (facelift 2012) 1.3 CDTI EcoFLEX	2012	5	1248	14,6	1313
+Astra J Sedan 1.3 CDTI Ecotec	2012	5	1248	14,6	1405
+Astra J Sedan 1.3 CDTI Ecotec Start/stop	2012	5	1248	14,6	1405
+Astra J Sports Tourer (facelift 2012) 1.3 CDTI Ecotec	2012	5	1248	14,6	1333
+Senator A 2.5 Automatic	1978	5	2490	14,6	1370
+Vivaro A Tour 2.0 16V	2001	9	1998	14,6	1920
+Vivaro A (facelift 2006) 2.0 Ecotec	2006	9	1998	14,6	1920
+Agila II 1.0i MT	2008	5	998	14,7	1050
+Astra J 1.3 CDTI EcoFLEX	2009	5	1248	14,7	1515
+Astra J 1.3 CDTI EcoFLEX Start/Stop	2009	5	1248	14,7	1515
+Astra J 1.4 EcoFLEX	2009	5	1398	14,7	1298
+Agila II 1.2i Automatic	2008	5	1229	14,8	1050
+Corsa D 3-door 1.4i 16V ECOTEC Automatic	2006	5	1389	14,8	1163
+Corsa D 5-door 1.4i 16V ECOTEC Automatic	2006	5	1364	14,8	1163
+Corsa E 3-door 1.3 CDTI ECOTEC Start/stop	2014	5	1248	14,8	1124
+Corsa E 5-door 1.3 CDTI ECOTEC Start/stop	2014	5	1248	14,8	1162
+Adam 1.2	2012	4	1229	14,9	1011
+Adam 1.2 ECOFLEX	2012	4	1229	14,9	1011
+Adam Rocks 1.2	2012	4	1229	14,9	1011
+Adam Rocks 1.2 ECOFLEX	2012	4	1229	14,9	1011
+Astra J Sports Tourer 1.3 CDTI	2010	5	1248	14,9	1393
+Combo Tour D 1.6 CDTI Ecotec	2011	5	1598	14,9	0
+Combo Tour D 1.6 CDTI Ecotec Start/stop	2011	5	1598	14,9	0
+Corsa D (Facelift 2011) 5-door 1.3 DTC Start/Stop	2011	5	1248	14,9	1160
+Corsa van D (Facelift 2011) 1.2 Twinport Ecotec	2011	2	1229	14,9	0
+Corsa van D (Facelift 2011) 1.3 CDTI Ecotec	2011	2	1248	14,9	0
+Karl 1.0 Easytronic	2015	5	999	14,9	864
+Karl 1.0 LPG (75/73 Hp) EcoFLEX	2015	5	999	14,9	950
+Agila I 1.3 CDTI	2003	4	1248	15	1055
+Ascona A 1.6 S	1975	5	1584	15	940
+Ascona C 1.3 S	1981	5	1297	15	920
+Ascona C CC 1.3 S	1981	5	1297	15	965
+Astra F Cabrio 1.6i	1996	4	1598	15	1140
+Astra G Caravan 1.6	1998	5	1598	15	1184
+Astra G Caravan 2.0 DI	1998	5	1995	15	1230
+Astra G CC 1.4 16V Automatic	1998	5	1389	15	1090
+Astra G Caravan 1.7 DTI 16V	2000	5	1686	15	1255
+Astra H 1.7 CDTI	2005	5	1686	15	1265
+Combo Tour C (facelift 2003) 1.6 CNG EcoFLEX	2005	5	1598	15	1295
+Corsa A 1.3	1985	5	1297	15	775
+Corsa A Sedan 1.3	1985	5	1297	15	775
+Corsa A (facelift 1987) 1.3i	1987	5	1297	15	757
+Corsa A Sedan (facelift 1987) 1.3i	1987	5	1297	15	775
+Corsa B 1.4i	1993	5	1388	15	875
+Corsa B (facelift 1997) 1.4i	1997	5	1388	15	892
+Frontera B Sport 2.2 DTI 4x4 Automatic	1998	5	2171	15	1565
+Kadett E 1.3 N	1984	5	1297	15	875
+Kadett E CC 1.3 N	1984	5	1297	15	845
+Kadett E CC 1.3i CAT	1985	5	1297	15	845
+Kadett E 1.4i	1990	5	1389	15	875
+Kadett E CC 1.4i	1990	5	1297	15	865
+Manta A 1.6	1975	4	1584	15	945
+Monza A2 2.2 E Automatic	1984	4	1979	15	1350
+Omega A Caravan 1.8 S	1984	5	1796	15	1240
+Omega A Caravan 1.8	1987	5	1796	15	1240
+Omega A Caravan 2.3 TD Interc.	1988	5	2260	15	1355
+Omega B Caravan 2.0i Automatic	1994	5	1998	15	1515
+Omega B 2.0 DTI 16V	1997	5	1995	15	1540
+Omega B (facelift 1999) 2.0 DTI 16V	1999	5	1995	15	1540
+Rekord D Caravan 1.9 S	1972	5	1897	15	1110
+Rekord D Caravan 1.9	1975	5	1897	15	1140
+Rekord E Caravan 2.0	1977	5	1979	15	1145
+Rekord E Caravan 2.0 S Automatic	1977	5	1979	15	1165
+Rekord E Caravan 2.0 S Automatic	1977	5	1979	15	1165
+Rekord E Caravan (facelift 1982) 1.8 S	1982	5	1796	15	1125
+Rekord E Caravan (facelift 1982) 2.0 S Automatic	1982	5	1979	15	1180
+Rekord E Caravan (facelift 1982) 2.0 S Automatic	1982	5	1979	15	1180
+Rekord E (facelift 1982) 2.3 TD	1984	5	2260	15	1245
+Rekord E (facelift 1982) 1.8i CAT Automatic	1985	5	1796	15	1145
+Senator A (facelift 1982) 2.0 E Automatic	1983	5	1979	15	1350
+Senator A (facelift 1982) 2.3 Comprex D	1985	5	2260	15	1430
+Vectra A 1.8 S Automatic	1988	5	1796	15	1109
+Vectra A CC 1.8i CAT Automatic	1988	5	1796	15	1124
+Vectra A CC 1.8i Automatic	1988	5	1796	15	1075
+Vectra A 1.8i CAT Automatic	1990	5	1796	15	1060
+Vectra A 1.8i CAT Automatic	1992	5	1796	15	1060
+Vectra A (facelift 1992) 1.8 S Automatic	1992	5	1796	15	1109
+Vectra A CC (facelift 1992) 1.8i CAT Automatic	1992	5	1796	15	1124
+Vivaro A (facelift 2006) 2.0 CDTI DPF Automatic	2006	9	1995	15	2120
+Astra H 1.4i 16V Automatic	2004	5	1364	15,2	1130
+Astra H 1.3 CDTI Automatic	2005	5	1248	15,3	1230
+Campo Double Cab 3.1 TD 4x4	1992	5	3059	15,3	0
+Campo Half Cab 3.1 TD 4x4	1992	4	3059	15,3	0
+Campo Single Cab 3.1 TD 4x4	1992	2	3059	15,3	0
+Astra H Caravan 1.7 CDTI	2004	5	1686	15,4	1280
+Combo Tour D 1.4 Twinport Ecotec	2011	5	1368	15,4	0
+Combo Tour D 1.4 Twinport Ecotec Start/stop	2011	5	1368	15,4	0
+Corsa D 3-door 1.2i 16V ECOTEC Automatic	2006	5	1229	15,4	1145
+Corsa D 5-door 1.2i 16V ECOTEC Automatic	2006	5	1229	15,4	1145
+Ascona A Voyage 1.6 S	1970	5	1584	15,5	1020
+Ascona B 1.3 S	1979	5	1297	15,5	925
+Astra G Caravan 1.4 16V Automatic	1998	5	1389	15,5	1150
+Astra G CC 2.0 DI Automatic	1998	5	1995	15,5	1180
+Astra G 2.0 DI Automatic	1999	5	1998	15,5	1225
+Astra G CC 1.7 DTI 16V Eco4	2000	5	1686	15,5	1180
+Combo Tour C 1.7 DTI 16V ECOTEC	2001	5	1686	15,5	1260
+Combo Tour C (facelift 2003) 1.7 CDTI	2004	5	1686	15,5	1205
+Kadett D 1.3 N	1979	5	1297	15,5	890
+Kadett E 1.3 S Automatic	1984	5	1297	15,5	865
+Manta B (facelift 1982) 1.3 S	1983	4	1297	15,5	965
+Omega A Caravan 2.3 TD	1986	5	2260	15,5	1375
+Omega A 1.8 Automatic	1987	5	1796	15,5	1215
+Omega A 2.3 TD Interc. Automatic	1988	5	2260	15,5	1375
+Rekord E 2.0 Automatic	1977	5	1979	15,5	1120
+Rekord E (facelift 1982) 1.8 S Automatic	1982	5	1796	15,5	1140
+Rekord E Caravan (facelift 1982) 1.8 E Automatic	1985	5	1796	15,5	1180
+Senator B 2.3 TD Interc. Automatic	1988	5	2260	15,5	1400
+Senator B 2.3 TD Inerc. Automatic	1988	5	2260	15,5	1400
+Tigra B TwinTop 1.3 CDTI	2005	2	1248	15,5	1210
+Vectra B 1.6i	1995	5	1598	15,5	1170
+Vectra B 1.7 TD	1995	5	1686	15,5	1260
+Vectra B CC 1.6i	1995	5	1598	15,5	1185
+Vectra B CC 1.7 TD	1995	5	1686	15,5	1275
+Vectra B 2.0 DI 16V	1996	5	1995	15,5	1335
+Vectra B Caravan 1.6i 16V Automatic	1996	5	1598	15,5	1266
+Vectra B (facelift 1999) 1.6i	1999	5	1598	15,5	1170
+Vectra B (facelift 1999) 2.0 DI 16V	1999	5	1995	15,5	1335
+Vectra B CC (facelift 1999) 1.6i	1999	5	1598	15,5	1185
+Vectra B CC (facelift 1999) 2.0 DI 16V	1999	5	1995	15,5	1335
+Vectra B Caravan (facelift 1999) 1.6i 16V Automatic	2000	5	1598	15,5	1266
+Zafira A (T3000) 1.6 CNG EcoFLEX	2001	7	1598	15,5	1485
+Zafira A (facelift 2003) 1.6 CNG EcoFLEX	2003	7	1598	15,5	1485
+Zafira A (facelift 2003) 1.6 CNG EcoFLEX	2003	7	1598	15,5	1485
+Frontera B 2.2 DTI 4x4 Automatic	1998	5	2171	15,8	1755
+Monterey B RS 3.0 DTI 4x4	1998	5	2999	15,8	1965
+Ascona A Voyage 1.6 S	1975	5	1584	16	1020
+Astra F CC 1.4i	1992	5	1388	16	955
+Astra F 1.7 TD	1994	5	1700	16	1080
+Astra F CC 1.7 TD	1994	5	1700	16	1050
+Astra G 1.2 16V	1998	5	1199	16	1135
+Astra G Caravan 1.2 16V	1998	5	1199	16	1063
+Astra G Caravan 2.0 DI Automatic	1998	5	1995	16	1260
+Astra G CC 1.2 16V	1998	5	1199	16	1065
+Astra G CC 1.2 16V	1998	5	1199	16	1065
+Astra G 1.2 16V	2000	5	1199	16	1135
+Corsa A 1.2 S	1982	5	1196	16	740
+Corsa A Sedan 1.2 S	1982	5	1196	16	740
+Corsa A (facelift 1987) 1.2 S	1987	5	1196	16	755
+Corsa C 1.0 12V	1998	5	973	16	880
+Corsa C (facelift 2003) 1.0 12V	2003	5	998	16	905
+Corsa C (facelift 2003) 1.3 CDTi Automatic	2004	5	1248	16	1035
+Corsa E 3-door 1.2 ECOTEC TWINPORT	2014	5	1229	16	1045
+Corsa E 5-door 1.2 ECOTEC TWINPORT	2014	5	1229	16	1088
+Frontera A Sport 2.5 TDS 4x4	1996	5	2499	16	1828
+Kadett D 1.2 S	1979	5	1196	16	815
+Kadett E Caravan 1.3 N	1984	5	1297	16	905
+Kadett E Caravan 1.4i	1990	5	1389	16	944
+Manta B CC (facelift 1982) 1.3 S	1982	4	1297	16	980
+Omega B Caravan 2.0 DTI 16V	1997	5	1995	16	1660
+Omega B Caravan (facelift 1999) 2.0 DTI 16V	1999	5	1995	16	1660
+Omega B Caravan (facelift 1999) 2.0 DTI 16V	1999	5	1995	16	1660
+Rekord E 1.9	1977	5	1897	16	1100
+Rekord E Caravan (facelift 1982) 2.2 TD	1984	5	2260	16	1270
+Senator A (facelift 1982) 2.0 E Automatic	1982	4	1979	16	1350
+Senator B 2.3 TD Automatic	1987	5	2260	16	1400
+Ascona C CC 1.6i Automatic	1987	5	1598	16,5	1080
+Astra F 1.4i	1991	5	1388	16,5	985
+Astra F CC 1.6i Automatic	1991	5	1598	16,5	1020
+Astra F 1.6i Automatic	1992	5	1598	16,5	1030
+Astra F Caravan 1.7 TD	1994	5	1700	16,5	1115
+Astra G CC 1.6 Automatic	1998	5	1598	16,5	1085
+Corsa A Sedan (facelift 1987) 1.2 S	1987	5	1196	16,5	780
+Corsa A (facelift 1990) 1.2 S	1990	5	1195	16,5	740
+Corsa B 1.7 D	1996	5	1686	16,5	945
+Corsa B (facelift 1997) 1.7 D	1997	5	1686	16,5	927
+Kadett C Caravan 1.6 S	1973	5	1584	16,5	820
+Kadett C Caravan 1.6 S Automatic	1977	5	1584	16,5	820
+Kadett D Caravan 1.3 N	1979	5	1297	16,5	885
+Kadett E 1.3i CAT	1985	5	1297	16,5	875
+Monterey B LTD 3.0 DTI 4x4	1998	7	2999	16,5	2035
+Omega A Caravan 2.3 TD Interc. Automatic	1988	5	2260	16,5	1355
+Rekord D 1.7 S	1972	5	1698	16,5	1065
+Rekord D Coupe 1.7 S	1972	5	1698	16,5	1080
+Rekord D 1.9	1975	5	1897	16,5	1095
+Rekord D Coupe 1.9	1975	5	1897	16,5	1110
+Rekord E Caravan 2.0 Automatic	1977	5	1979	16,5	1165
+Rekord E Caravan 2.0 Automatic	1977	5	1979	16,5	1165
+Rekord E (facelift 1982) 1.8	1982	5	1796	16,5	1115
+Rekord E Caravan (facelift 1982) 1.8 S Automatic	1982	5	1796	16,5	1150
+Senator A (facelift 1982) 2.3 TD	1984	5	2260	16,5	1410
+Vivaro A Tour 1.9 DI	2001	9	1870	16,5	1927
+Vivaro A Tour 1.9 DTI	2001	9	1870	16,5	1927
+Vivaro A Tour 1.9 DI	2001	9	1870	16,5	1927
+Monterey A RS 3.1 TD 4x4	1991	5	3059	16,6	1900
+Monterey A LTD 3.1 TD 4x4	1991	5	3059	16,6	1985
+Frontera A 2.8 TDi 4x4	1995	5	2771	16,8	1828
+Frontera A Sport 2.8 TD 4x4	1995	5	2771	16,8	1828
+Frontera A 2.5 TDS 4x4	1996	5	2499	16,8	1920
+Vectra B Caravan (facelift 1999) 2.0 DI 16V	1999	5	1995	16,8	1390
+Campo Double Cab 3.1 TD	1992	5	3059	16,9	0
+Campo Half Cab 3.1 TD	1992	4	3059	16,9	0
+Campo Single Cab 3.1 TD	1992	2	3059	16,9	0
+Meriva B 1.3 CDTI	2010	5	1248	16,9	1428
+Meriva B (facelift 2014) 1.3 CDTI EcoFLEX	2014	5	1248	16,9	1393
+Astra F Caravan 1.4i	1991	5	1388	17	1020
+Astra F Caravan 1.6i Automatic	1991	5	1598	17	1065
+Astra F Caravan 1.7 D	1991	5	1700	17	1020
+Astra F Caravan 1.7 D	1992	5	1686	17	1020
+Astra F 1.6i Eco Automatic	1994	5	1598	17	1020
+Astra F Caravan 1.6i Eco Automatic	1994	5	1598	17	1055
+Astra G 1.7 TD	1996	5	1700	17	1115
+Astra G Caravan 1.6 Automatic	1998	5	1598	17	1184
+Astra G CC 1.7 TD	1998	5	1686	17	1115
+Combo Tour C (facelift 2003) 1.3 CDTI	2006	5	1248	17	1325
+Combo Tour C (facelift 2003) 1.3 CDTI	2006	5	1248	17	1278
+Corsa A 1.2 S	1983	5	1196	17	740
+Corsa B 1.2i 16V Automatic	1998	5	1199	17	875
+Kadett C Coupe 1.2 S	1973	5	1196	17	835
+Kadett D Caravan 1.2 S	1979	5	1196	17	875
+Kadett E 1.2 S	1984	5	1196	17	868
+Kadett E CC 1.2	1984	5	1196	17	840
+Manta A 1.6	1970	4	1584	17	930
+Meriva A 1.7 CDTI	2002	5	1686	17	1393
+Vectra B Caravan 1.6i	1996	5	1598	17	1255
+Vectra B Caravan 2.0 DI 16V	1996	5	1995	17	1390
+Vectra B Caravan (facelift 1999) 1.6i	1999	5	1598	17	1255
+Zafira A (T3000) 2.0 DI 16V	1999	7	1995	17	1430
+Zafira B 1.6i 16V CNG	2006	7	1598	17	1405
+Zafira B (facelift 2008) 1.6i 16V CNG	2008	5	1598	17	1405
+Zafira B 1.6i 16V CNG	2005	7	1598	17,4	1405
+Ascona B 1.6 N	1975	5	1584	17,5	950
+Ascona C 1.3 N	1981	5	1297	17,5	920
+Ascona C CC 1.3 N	1981	5	1297	17,5	965
+Astra F Cabrio 1.6i Eco Automatic	1993	4	1598	17,5	1140
+Astra G Caravan 1.7 TD	1998	5	1700	17,5	1150
+Corsa A (facelift 1987) 1.5 D	1987	5	1488	17,5	840
+Corsa A Sedan (facelift 1987) 1.5 D	1987	5	1488	17,5	855
+Corsa A (facelift 1990) 1.2i	1990	5	1196	17,5	775
+Corsa A (facelift 1990) 1.5 D	1990	5	1488	17,5	840
+Kadett C 1.2 S	1973	5	1196	17,5	785
+Kadett C 1.2 S Automatic	1973	5	1196	17,5	785
+Kadett C 1.6 S	1973	5	1584	17,5	0
+Kadett E Caravan 1.2	1984	5	1196	17,5	890
+Kadett E Caravan 1.3i CAT	1985	5	1297	17,5	905
+Manta B 1.6 N	1975	4	1584	17,5	980
+Manta B CC 1.6 N	1978	4	1584	17,5	985
+Rekord E 1.9 Automatic	1977	5	1897	17,5	1120
+Rekord E Caravan (facelift 1982) 1.8	1982	5	1796	17,5	1125
+Meriva A 1.3 CDTI ECOTEC	2003	5	1248	17,8	1320
+Meriva A (facelift 2006) 1.3 CDTI	2006	5	1248	17,8	1320
+Frontera A Sport 2.0i 4x4	1991	5	1998	17,9	1696
+Frontera A Sport 2.0i	1991	5	1998	17,9	1696
+Agila I 1.0 12V	2000	4	973	18	940
+Ascona A 1.6 N	1970	5	1584	18	910
+Ascona B 1.3 N	1979	5	1297	18	905
+Corsa A 1.2i	1985	5	1196	18	740
+Corsa A Sedan 1.2i	1985	5	1196	18	740
+Corsa A (facelift 1987) 1.2i	1987	5	1196	18	740
+Corsa B (facelift 1997) 1.0i 12V	1997	5	973	18	872
+Corsa C 1.0 12V Automatic	1998	5	973	18	880
+Corsa B Kasten 1.7 D	1999	5	1686	18	1010
+Kadett C City 1.2 S	1973	5	1196	18	795
+Kadett D 1.2	1982	5	1196	18	840
+Kadett D 1.6 D	1982	5	1598	18	935
+Kadett E 1.7 D	1989	5	1700	18	950
+Kadett E CC 1.7 D	1989	5	1700	18	940
+Kadett E CC 1.4i Automatic	1990	5	1297	18	880
+Manta A 1.2	1972	4	1196	18	865
+Manta B 1.3 N	1979	4	1297	18	925
+Manta B CC 1.3 N	1979	4	1297	18	930
+Rekord D Caravan 1.9	1975	5	1897	18	1140
+Corsa D 3-door 1.0i 12V ECOTEC	2006	5	998	18,2	1145
+Corsa D 5-door 1.0i 12V ECOTEC	2006	5	998	18,2	1145
+Corsa D (Facelift 2011) 3-door 1.0 XEP	2011	5	998	18,2	1130
+Corsa D (Facelift 2011) 5-door 1.0 XEP	2011	5	998	18,2	1045
+Campo Double Cab 2.5 DTI	1991	5	2499	18,3	0
+Campo Half Cab 2.5 DTI	1991	4	2499	18,3	0
+Campo Single Cab 2.5 DTI	1991	2	2499	18,3	0
+Astra F CC 1.7 D	1991	5	1700	18,5	1045
+Astra F 1.7 D	1992	5	1686	18,5	1050
+Astra F 1.7 D	1992	5	1700	18,5	1095
+Astra F CC 1.7 D	1992	5	1686	18,5	1030
+Combo Tour C 1.7 DI 16V ECOTEC	2001	5	1686	18,5	1260
+Combo Tour C (facelift 2003) 1.7 CDTI	2004	5	1686	18,5	1205
+Kadett D 1.2	1979	5	1196	18,5	815
+Manta A 1.6	1975	4	1584	18,5	930
+Rekord E Caravan 1.9	1977	5	1897	18,5	1145
+Senator A (facelift 1982) 2.3 TD Automatic	1984	5	2260	18,5	1425
+Frontera A 2.4i 4x4	1992	5	2410	18,6	1725
+Frontera A 2.4i	1992	5	2410	18,6	0
+Ascona A 1.2 S	1972	5	1196	19	845
+Ascona A 1.6 N	1975	5	1584	19	910
+Ascona B 1.2 S	1975	5	1196	19	895
+Kadett C City 1.2	1973	5	1196	19	795
+Kadett C Coupe 1.2	1973	5	1196	19	805
+Kadett E 1.6 D	1984	5	1598	19	955
+Manta B 1.2 S	1975	4	1196	19	925
+Manta B CC 1.2 S	1978	4	1196	19	930
+Vivaro A (facelift 2006) 2.0 CDTI DPF	2006	9	1995	19	1960
+Frontera A 2.3 TD 4x4	1991	5	2260	19,3	1785
+Corsa A 1.0	1982	5	993	19,5	760
+Corsa A Sedan 1.0	1982	5	993	19,5	740
+Corsa A (facelift 1987) 1.0	1987	5	993	19,5	740
+Corsa A Sedan (facelift 1987) 1.0	1987	5	993	19,5	755
+Corsa A (facelift 1990) 1.0	1990	5	993	19,5	750
+Corsa B 1.5 D	1993	5	1488	19,5	890
+Kadett D 1.0	1979	5	993	19,5	815
+Kadett D Caravan 1.2	1979	5	1196	19,5	875
+Kadett E CC 1.6 D	1984	5	1598	19,5	930
+Kadett E Caravan 1.7 D	1989	5	1700	19,5	1011
+Ascona A Voyage 1.6 N	1970	5	1584	20	990
+Ascona C 1.6 D	1982	5	1598	20	1015
+Ascona C CC 1.6 D	1982	5	1598	20	1040
+Corsa B 1.2i	1993	5	1196	20	845
+Corsa B (facelift 1997) 1.2i	1997	5	1196	20	867
+Kadett C Caravan 1.2	1973	5	1196	20	800
+Kadett D Caravan 1.6 D	1982	5	1598	20	1005
+Rekord D 1.7	1972	5	1698	20	1065
+Rekord E Caravan 1.9 Automatic	1977	5	1897	20	1165
+Rekord E Caravan 1.9 Automatic	1977	5	1897	20	1165
+Rekord E (facelift 1982) 2.2 D	1983	5	2260	20	1235
+Vectra A 1.7 D	1988	5	1700	20	1080
+Vectra A CC 1.7 D	1988	5	1700	20	1095
+Ascona B 1.2	1976	5	1196	20,5	895
+Manta B 1.2 N	1976	4	1196	20,5	925
+Manta B CC 1.2 N	1978	4	1196	20,5	930
+Omega A 2.3 D	1986	5	2260	20,5	1355
+Omega A Caravan 2.3 D	1986	5	2260	20,5	1370
+Rekord E 1.7	1977	5	1698	20,5	1100
+Vectra A (facelift 1992) 1.7 D	1992	5	1686	20,5	0
+Vectra A CC (facelift 1992) 1.7 D	1992	6	1686	20,5	0
+Ascona A Voyage 1.6 N	1975	5	1584	21	990
+Ascona B 2.0 D	1978	5	1998	21	1060
+Kadett C Coupe 1.2	1973	5	1196	21	805
+Kadett E Caravan 1.6 D	1984	5	1598	21	975
+Kadett C 1.2	1973	5	1196	21,5	785
+Kadett C 1.2 Automatic	1973	5	1196	21,5	785
+Kadett C City 1.2	1973	5	1196	21,5	795
+Rekord D 1.7	1975	5	1698	21,5	1095
+Rekord E Caravan 1.7	1977	5	1698	21,5	1145
+Rekord E Caravan (facelift 1982) 2.3 D	1982	5	2260	21,5	1260
+Kadett C Caravan 1.2 S	1973	5	1196	22	820
+Kadett C Caravan 1.2 S Automatic	1973	5	1196	22	820
+Rekord D Caravan 1.7	1972	5	1698	22	1110
+Rekord D Caravan 1.7 S	1972	5	1698	22	1110
+Rekord E 2.3 D	1978	5	2260	22	1235
+Kadett C 1.0	1973	5	993	22,5	785
+Kadett C Caravan 1.2	1973	5	1196	22,5	820
+Kadett C Caravan 1.2 Automatic	1973	5	1196	22,5	820
+Kadett C Coupe 1.0	1973	5	993	22,5	790
+Rekord E 2.3 D Automatic	1978	5	2260	22,5	1255
+Rekord E (facelift 1982) 2.3 D	1982	5	2260	22,5	1250
+Rekord E (facelift 1982) 2.2 D Automatic	1983	5	2260	22,5	1260
+Campo Double Cab 2.5 TD	1991	5	2499	23,4	0
+Campo Half Cab 2.5 TD	1991	4	2499	23,4	0
+Campo Single Cab 2.5 TD	1991	2	2499	23,4	0
+Rekord D 2.1 D	1972	5	2068	23,5	1210
+Rekord E 2.1 D	1977	5	2068	23,5	1235
+Rekord D Caravan 1.7	1975	5	1698	24	1140
+Kadett D 1.0	1979	5	993	25	815
+Rekord E Caravan 2.3 D	1978	5	2260	25	1270
+Rekord E (facelift 1982) 2.3 D Automatic	1982	5	2260	25	1270
+Rekord E Caravan (facelift 1982) 2.3 D Automatic	1982	5	2260	25	1280
+Rekord E Caravan (facelift 1982) 2.3 D	1982	5	2260	25	1275
+Kadett C 1.0	1973	5	993	26,5	785
+Kadett C Coupe 1.0	1973	5	993	26,5	790
+Kadett C City 1.0	1974	5	993	26,5	795
+Rekord D Caravan 2.1 D	1972	5	2068	27,5	1255
+Kadett C Caravan 1.0	1973	5	993	28	820
+Rekord E 2.1 D Automatic	1977	5	2068	28	1255
+Rekord E Caravan (facelift 1982) 2.3 D Automatic	1982	5	2260	28	1295
+Rekord E Caravan 2.3 D Automatic	1978	5	2260	29	1290
+Rekord E Caravan 2.3 D Automatic	1978	5	2260	29	1290
+Insignia Country Tourer OPC 2.8 V6 AWD Turbo Ecotec	2013	5	2792	6,3	0
+Insignia Hatchback 2.8 V6 Turbo 4x4 Automatic	2008	5	2792	7,1	1843
+Insignia Sedan 2.8 V6 Turbo 4x4 Automatic	2008	5	2792	7,1	1843
+Vectra C Caravan (facelift 2005) 2.8i V6 24V Turbo	2006	5	2792	7,1	1545
+Corsa D 3-door 1.6i 16V OPC	2007	5	1598	7,2	1203
+Corsa D (Facelift 2011) 3-door 1.6 LER	2011	5	1598	7,2	1130
+Corsa D (Facelift 2011) 3-door 1.6 LER Automatic	2011	5	1598	7,2	1203
+Insignia Sports Tourer 2.8 V6 Turbo 4x4	2009	5	2792	7,2	1840
+Signum (facelift 2005) 2.8i V6 24V Turbo	2006	5	2792	7,2	1580
+Insignia Sports Tourer 2.8 V6 Turbo 4x4 Automatic	2009	5	2792	7,3	1853
+Insignia Grand Sport 2.0 Turbo AWD Automatic	2017	5	1998	7,3	1574
+Vectra C (facelift 2005) 2.8i V6 24V Turbo	2005	5	2792	7,3	1495
+Vectra C CC (facelift 2005) 2.8i V6 24V Turbo	2005	5	2792	7,3	1495
+Vectra C CC (facelift 2005) 2.8i V6 24V Turbo Automatic	2005	5	2792	7,3	1495
+Vectra C (facelift 2005) 2.8i V6 24V Turbo Automatic	2006	5	2792	7,3	1495
+Vectra C CC (facelift 2005) 2.8i V6 24V Turbo Automatic	2006	5	2792	7,3	1495
+Corsa D 3-door 1.6i 16V OPC	2007	5	1598	8,1	1203
+Corsa D 5-door 1.6i 16V GSI	2007	5	1598	8,1	1203
+Insignia Sports Tourer 2.0 Turbo Automatic	2009	5	1998	8,1	1725
+Insignia Country Tourer 2.0 AWD Turbo Ecotec Automatic	2013	5	1998	8,1	0
+Vectra C Caravan 3.2i V6 24V	2002	5	3175	8,1	1625
+Astra G CC 2.0 16V OPC	1999	5	1998	8,2	1025
+Astra G Coupe 2.2 16V	2000	2	2198	8,2	1205
+Astra H 2.0i 16V Turbo	2004	5	1998	8,2	1385
+Insignia Sports Tourer 2.0 Turbo 4x4 Automatic	2009	5	1998	8,2	1743
+Meriva A (facelift 2006) OPC 1.6i 16V	2006	5	1598	8,2	1450
+Omega A 3.0 V6 24V 3000 Automatic	1989	5	2969	8,2	1450
+Omega A Caravan 3.0 3000 V6 24V	1989	5	2969	8,2	1490
+Vectra B 2.5i V6 24V	1998	5	2498	8,2	1415
+Vectra B Caravan 2.5 I500 V6 24V	1998	5	2498	8,2	1468
+Zafira A (T3000) OPC 2.0 16V	2001	7	1998	8,2	1540
+Astra J 1.6 Turbo	2009	5	1598	8,3	1298
+Astra J GTC 1.6 Turbo Ecotec	2011	5	1598	8,3	1503
+Astra J GTC 2.0 CDTI Ecotec Start/stop	2011	5	1956	8,3	1571
+Astra K 1.4 EcoTec	2015	5	1399	8,3	1203
+Crossland X 1.2 Turbo	2017	5	1199	9,1	1199
+Insignia Hatchback 2.0 CDTI 4x4 DPF Automatic	2008	5	1956	9,1	0
+Insignia Sedan 2.0 CDTI 4x4 DPF Automatic	2008	5	1956	9,1	0
+Vectra C 2.0i 16V Turbo	2003	5	1998	9,1	1395
+Vectra C CC 2.0i 16V Turbo	2003	5	1998	9,1	1455
+Vectra C (facelift 2005) 2.0i 16V Turbo	2005	5	1998	9,1	1395
+Vectra C Caravan (facelift 2005) 3.0 V6 CDTI	2005	5	2958	9,1	1615
+Vectra C CC (facelift 2005) 2.0i 16V Turbo	2005	5	1998	9,1	1455
+Astra H Caravan 1.9 CDTI	2004	5	1910	9,2	1350
+Astra J GTC 1.6 Turbo Ecotec Automatic	2011	5	1598	9,2	1503
+Astra J GTC 2.0 CDTI Ecotec Automatic	2011	5	1956	9,2	1550
+Astra J (facelift 2012) 1.6 Turbo Ecotec Automatic	2012	5	1598	9,2	0
+Astra J (facelift 2012) 2.0 CDTI Ecotec Automatic	2012	5	1956	9,2	0
+Astra J (facelift 2012) 2.0 CDTI Ecotec Start/stop	2012	5	1956	9,2	1373
+Astra J Sedan 1.6 Turbo Ecotec Automatic	2012	5	1598	9,2	0
+Astra J Sedan 2.0 CDTI Ecotec Automatic	2012	5	1956	9,2	0
+Astra K 1.4 EcoTec	2015	5	1399	9,2	1203
+Cascada 1.6 Turbo Ecotec Start/stop	2013	4	1598	9,2	1701
+Insignia Sports Tourer 1.6 Turbo	2009	5	1598	9,2	1560
+Insignia Hatchback (facelift 2013) 1.6 Turbo Ecotec Start/stop	2013	5	1598	9,2	0
+Insignia Sedan (facelift 2013) 1.6 Turbo Ecotec Start/stop	2013	5	1598	9,2	0
+Insignia Sports Tourer (facelift 2013) 2.0 CDTI AWD Ecotec Automatic	2013	5	1956	9,2	0
+Insignia Sports Tourer II 1.5 Turbo	2017	5	1490	9,2	1412
+Signum (facelift 2005) 3.0 V6 CDTI	2005	5	2958	9,2	1670
+Zafira Tourer C 1.6 Turbo Ecotec Start/stop	2012	5	1598	9,2	0
+Ascona C 2.0i GT	1987	5	1998	9,3	1030
+Ascona C CC 2.0i GT	1987	5	1998	9,3	1080
+Astra G Caravan 2.2 16 V	2002	5	2198	9,3	1178
+Astra J Sports Tourer (facelift 2012) 1.6 Turbo Ecotec Automatic	2012	5	1598	9,3	1550
+Commodore B 2.8 GS/E	1973	5	2784	9,3	1265
+Kadett E 1.8i	1984	5	1796	9,3	980
+Omega A Caravan 3.0i 3000 V6	1987	5	2969	9,3	1435
+Vectra C 3.0 CDTI	2003	5	2958	9,3	1613
+Vectra C CC 3.0 CDTI	2003	5	2958	9,3	1650
+Astra H GTC 1.8i	2005	5	1796	10,1	1210
+Astra J 1.4 Turbo	2009	5	1364	10,1	1298
+Astra J (facelift 2012) 1.4 Turbo Ecotec	2012	5	1364	10,1	1308
+Astra J Sedan 1.6 CDTI Ecotec Start/stop	2014	5	1598	10,1	1450
+Astra K Sports Tourer 1.6 CDTi EcoFLEX Start&stop	2015	5	1598	10,1	1328
+Astra K Sports Tourer 1.6 CDTi Automatic	2015	5	1598	10,1	1350
+Corsa D 3-door 1.7 CDTI	2006	5	1686	10,1	1170
+Corsa D (Facelift 2011) 3-door 1.7 DTS	2011	5	1686	10,1	1170
+Insignia Country Tourer 2.0 CDTI Ecotec Automatic	2013	5	1956	10,1	0
+Insignia Sports Tourer (facelift 2013) 2.0 CDTI Ecotec Automatic	2013	5	1956	10,1	0
+Meriva B (facelift 2014) 1.4 Turbo Ecotec	2014	5	1364	10,1	0
+Meriva B (facelift 2014) 1.4 Turbo Ecotec Start/stop	2014	5	1364	10,1	0
+Vectra C Caravan 2.2i 16V DIRECT	2003	5	2198	10,1	1550
+Vectra C Caravan 3.0i V6 24V CDTI Automatic	2003	5	2958	10,1	1705
+Vectra C Caravan (facelift 2005) 2.2i 16V DIRECT	2005	5	2198	10,1	1550
+Zafira Tourer C (facelift 2016) 2.0 CDTI Automatic	2016	5	1956	10,1	1728
+Vivaro A (facelift 2006) 2.5 CDTI	2006	9	2464	10,13	1927
+Astra H Caravan 1.4i 16V	2004	5	1364	10,14	1180
+Astra H Caravan 1.3 CDTI	2005	5	1248	10,14	1280
+Astra H TwinTop 1.6i 16V ECOTEC	2006	4	1598	10,14	1395
+Astra H TwinTop 1.6i 16V ECOTEC	2006	4	1598	10,14	1395
+Zafira B 1.9 CDTI	2006	7	1910	10,14	1613
+Astra J (facelift 2012) 1.4 Ecotec	2012	5	1398	10,15	1373
+Antara (facelift 2010) 2.4 AWD Ecotec	2010	5	2384	10,2	0
+Astra H TwinTop 1.9 CDTI	2006	4	1910	10,2	1513
+Astra H Sedan 1.8i 16V	2007	5	1796	10,2	1230
+Astra J 1.4 Turbo Automatic	2009	5	1364	10,2	1298
+Astra J (facelift 2012) 1.4 LPG Ecotec	2012	5	1362	10,2	0
+Astra J (facelift 2012) 1.4 Turbo Ecotec Automatic	2012	5	1364	10,2	1313
+Astra J Sedan 1.4 Turbo Ecotec	2012	5	1364	10,2	0
+Insignia Hatchback (facelift 2013) 2.0 CDTI AWD Ecotec Start/Stop	2013	5	1956	10,2	0
+Insignia Sedan (facelift 2013) 2.0 CDTI AWD Ecotec Start/Stop	2013	5	1956	10,2	0
+Insignia Sports Tourer II 1.5 EcoTEC Turbo	2017	5	1490	10,2	1412
+Insignia Sports Tourer II 1.5 Turbo	2017	5	1490	10,2	1412
+Mokka 1.4 LPG Turbo Ecotec	2012	5	1364	10,2	0
+Mokka X 1.4 EcoFLEX LPG	2016	5	1364	10,2	1375
+Vectra C 2.2 ECOTEC	2002	5	2198	10,2	1455
+Vectra C CC 2.2 ECOTEC	2003	5	2198	10,2	1375
+Campo Double Cab 2.3	1991	5	2255	10,23	0
+Campo Half Cab 2.3	1991	4	2255	10,23	0
+Campo Half Cab 2.3 Automatic	1991	4	2255	10,23	0
+Campo Single Cab 2.3	1991	2	2255	10,23	0
+Astra J GTC 1.4 Turbo Ecotec Automatic	2011	5	1362	10,3	1437
+Astra J (facelift 2012) 1.6 CDTI Ecotec Start/stop	2012	5	1598	10,3	1313
+Astra J Sedan 1.4 Turbo Ecotec Automatic	2012	5	1364	10,3	1430
+Astra J Sports Tourer (facelift 2012) 1.6 CDTI Ecotec Start/stop	2012	5	1598	10,3	0
+Cascada 2.0 CDTI Ecotec Start/stop	2013	4	1956	10,3	1701
+Cascada 2.0 CDTI (170 PS) Start/Stop	2015	4	1956	10,3	1701
+Corsa E 3-door 1.0 Turbo ECOTEC Start&stop	2014	5	999	10,3	1088
+Corsa E 5-door 1.0 Turbo ECOTEC Start&stop	2014	5	999	10,3	1124
+Frontera B 3.2i V6 4x4	1998	5	3165	10,3	1785
+Kadett E Caravan 1.8i	1984	5	1796	10,3	1000
+Manta B CC (facelift 1982) 2.0 GSi	1984	4	1979	10,3	1090
+Manta B (facelift 1982) 2.0 GSi	1987	4	1979	10,3	1065
+Meriva B 1.4 Turbo	2010	5	1364	10,3	1286
+Meriva B 1.4 Turbo Start/stop	2011	5	1364	10,3	1286
+Mokka 1.6 CDTI EcoFLEX AWD Start/stop	2014	5	1598	10,3	0
+Mokka X 1.6 CDTI EcoFLEX AWD Start/Stop	2016	5	1598	10,3	1429
+Omega B Caravan 3.0i V6 Automatic	1994	5	2962	10,3	1645
+Omega B Caravan (facelift 1999) 3.0i V6	1999	5	2962	10,3	1645
+Senator B 3.0i V6 CAT Automatic	1988	5	2969	10,3	1455
+Senator B 2.6i	1990	5	2594	10,3	1455
+Vectra C Caravan (facelift 2005) 1.9 CDTI	2005	5	1910	10,3	1625
+Insignia Hatchback 2.0 CDTI DPF	2008	5	1956	11,1	1613
+Insignia Sedan 2.0 CDTI DPF	2008	5	1956	11,1	1613
+Insignia Hatchback (facelift 2013) 2.0 CDTI Ecotec	2013	5	1956	11,1	0
+Insignia Sedan (facelift 2013) 2.0 CDTI Ecotec	2013	5	1956	11,1	0
+Meriva B (facelift 2014) 1.4 Turbo Ecotec Automatic	2014	5	1364	11,1	0
+Vectra C Caravan 2.2 DTI	2002	5	2171	11,1	1620
+Astra G 1.8 16V	1998	5	1796	11,2	1115
+Astra H GTC 1.8i Automatic	2005	5	1796	11,2	1210
+Astra H Caravan 1.9 CDTI Automatic	2006	5	1910	11,2	1350
+Astra J Sports Tourer 1.4 VVT	2010	5	1398	11,2	1393
+Astra J (facelift 2012) 1.7 CDTI Ecotec EcoFLEX Start/stop	2012	5	1686	11,2	1370
+Astra J Sports Tourer (facelift 2012) 1.4 Turbo Ecotec	2012	5	1362	11,2	1333
+Astra K 1.0 EcoTec EcoFLEX Start&stop	2015	5	999	11,2	1198
+Insignia Hatchback 2.0 CDTI DPF Automatic	2008	5	1956	11,2	1655
+Insignia Sedan 2.0 CDTI DPF Automatic	2008	5	1956	11,2	1655
+Insignia Hatchback (facelift 2013) 2.0 CDTI Ecotec Automatic	2013	5	1956	11,2	0
+Insignia Sedan (facelift 2013) 2.0 CDTI Ecotec Automatic	2013	5	1956	11,2	0
+Omega B 2.0i 16V	1994	5	1998	11,2	1551
+Signum 2.2 DTI ECOTEC	2003	5	2171	11,2	1610
+Vectra C CC 1.8 ECOTEC	2003	5	1796	11,2	1315
+Vectra C Caravan (facelift 2005) 1.8i 16V	2005	5	1796	11,2	1425
+Vectra C (facelift 2005) 1.8i 16V	2006	5	1796	11,2	1395
+Vectra C (facelift 2005) 1.8i 16V Automatic	2006	5	1796	11,2	1395
+Zafira Tourer C 1.6 CDTI Ecotec Start/stop	2013	5	1598	11,2	0
+Antara (facelift 2010) 2.2 CDTI AWD Ecotec Automatic	2010	5	2231	11,3	0
+Astra J Sedan 1.7 CDTI Ecotec EcoFLEX Start/stop	2012	5	1686	11,3	0
+Combo Tour D 2.0 CDTI Ecotec Start/stop	2011	5	1956	11,3	0
+Meriva A 1.8i 16V	2002	5	1796	11,3	1380
+Meriva A (facelift 2006) 1.8i 16V	2006	5	1796	11,3	1380
+Meriva B (facelift 2014) 1.4 Turbo Ecotec Start/stop	2014	5	1364	11,3	0
+Meriva B (facelift 2014) 1.4 Turbo Ecotec Start/stop MT	2014	5	1364	11,3	0
+Monterey B RS 3.5 V6 24V 4x4	1998	5	3494	11,3	1865
+Monterey B RS 3.5 V6 24V 4x4 Automatic	1998	5	3494	11,3	1865
+Senator B 2.6i Automatic	1990	5	2594	11,3	1475
+Signum (facelift 2005) 1.8i 16V	2006	5	1796	11,3	1425
+Insignia Hatchback 2.0 CDTI DPF	2008	5	1956	12,1	1613
+Insignia Sedan 2.0 CDTI DPF	2008	5	1956	12,1	1613
+Insignia Hatchback (facelift 2013) 2.0 CDTI Ecotec	2013	5	1956	12,1	0
+Insignia Sedan (facelift 2013) 2.0 CDTI Ecotec	2013	5	1956	12,1	0
+Vectra C Caravan 1.8i 16V	2002	5	1796	12,1	1490
+Astra H GTC 1.6i 16V	2005	5	1598	12,2	1145
+Astra H GTC 1.7 CDTI	2005	5	1686	12,2	1215
+Insignia Sports Tourer 1.8i	2009	5	1796	12,2	1513
+Signum 1.8i 16V ECOTEC	2003	5	1796	12,2	1480
+Signum 1.9 CDTI	2004	5	1910	12,2	1545
+Signum (facelift 2005) 2.2i 16V ECOTEC Automatic	2005	5	2198	12,2	1535
+Vectra C 1.8 ECOTEC Automatic	2002	5	1796	12,2	1395
+Vectra C Caravan 2.2 DTI Automatic	2002	5	2171	12,2	1620
+Vectra C Caravan 1.9 CDTI	2004	5	1910	12,2	1625
+Vectra C Caravan (facelift 2005) 1.9 CDTI	2005	5	1910	12,2	1625
+Zafira B 1.9 CDTI	2007	7	1910	12,2	1613
+Zafira B (facelift 2008) 1.9 CDTI	2008	5	1910	12,2	0
+Zafira Tourer C (facelift 2016) 2.0 CDTI Automatic	2016	5	1956	12,2	1713
+Agila II 1.2i MT	2008	5	1229	12,3	1050
+Astra H 1.6i 16V	2004	5	1598	12,3	1165
+Astra H 1.7 CDTI	2004	5	1686	12,3	1265
+Astra H Sedan 1.7 CDTI	2007	5	1686	12,3	0
+Astra H Sedan 1.7 CDTI	2009	5	1686	12,3	1231
+Astra J Sports Tourer 1.6 VVT	2010	5	1598	12,3	1340
+Astra J (facelift 2012) 1.7 CDTI Ecotec Start/stop	2012	5	1686	12,3	1370
+Astra J (facelift 2012) 1.7 CDTI Ecotec	2012	5	1686	12,3	1370
+Astra J Sports Tourer (facelift 2012) 1.6 Ecotec	2012	5	1598	12,3	1340
+Astra J Sports Tourer (facelift 2012) 1.6 Ecotec Start/stop	2012	5	1598	12,3	1340
+Combo Tour D 1.4 CNG Turbo Ecotec	2011	5	1368	12,3	0
+Corsa D (Facelift 2011) 3-door 1.3 DTE EcoFLEX Start/Stop	2011	5	1248	12,3	1130
+Corsa D (Facelift 2011) 3-door 1.3 DTR	2011	5	1248	12,3	1130
+Corsa van D (Facelift 2011) 1.3 CDTI Ecotec EcoFLEX Start/stop	2011	2	1248	12,3	0
+Corsa E 3-door 1.3 CDTI ECOTEC Start/stop 6M	2014	5	1248	12,3	1162
+Corsa E 5-door 1.3 CDTI ECOTEC Start/stop 6M	2014	5	1248	12,3	1162
+Meriva A 1.8i 16V Automatic	2002	5	1796	12,3	1380
+Meriva A (facelift 2006) 1.8i 16V Automatic	2006	5	1796	12,3	1380
+Mokka 1.6 Ecotec Start/stop	2012	5	1598	12,3	1490
+Zafira B 1.7 CDTI	2007	7	1686	12,3	1505
+Zafira B (facelift 2008) 1.7 DTR	2008	5	1686	12,3	1513
+Zafira B (facelift 2008) 1.7 DTR EcoFLEX	2010	5	1686	12,3	1513

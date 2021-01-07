@@ -1,0 +1,29 @@
+Durbincs;24000
+Szello;24000
+Tikk-takk;7500
+Vocsok II;25000
+Avar;13000
+HUN-163 ;7500
+HUN-113 ;7500
+HUN-110 ;7500
+HUN-115 ;7500
+HUN-17 ;7000
+HUN-20 ;7500
+HUN-328 ;7500
+HUN-14 ;6800
+HUN-11 ;7000
+HUN-181 ;7500
+Gyongyhalasz;24000
+Vihar;15000
+Sello;24000
+B�bic;13000
+Nemo;24000
+Willy;13000
+Zeusz;13000
+Serv;24000
+Esthajnal;24000
+Fortuna;7500
+Furia;13000
+Kishamis;24000
+Karcos;24000
+Szeltolo;24000

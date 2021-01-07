@@ -1,0 +1,49 @@
+C:\Users\Tanár\Downloads\Akasztófa játék 2.0\akasztofa\akasztofa\bin\Debug\akasztofa.exe.config
+C:\Users\Tanár\Downloads\Akasztófa játék 2.0\akasztofa\akasztofa\bin\Debug\akasztofa.exe
+C:\Users\Tanár\Downloads\Akasztófa játék 2.0\akasztofa\akasztofa\bin\Debug\akasztofa.pdb
+C:\Users\Tanár\Downloads\Akasztófa játék 2.0\akasztofa\akasztofa\obj\Debug\akasztofa.csprojResolveAssemblyReference.cache
+C:\Users\Tanár\Downloads\Akasztófa játék 2.0\akasztofa\akasztofa\obj\Debug\akasztofa.Form1.resources
+C:\Users\Tanár\Downloads\Akasztófa játék 2.0\akasztofa\akasztofa\obj\Debug\akasztofa.Properties.Resources.resources
+C:\Users\Tanár\Downloads\Akasztófa játék 2.0\akasztofa\akasztofa\obj\Debug\akasztofa.csproj.GenerateResource.Cache
+C:\Users\Tanár\Downloads\Akasztófa játék 2.0\akasztofa\akasztofa\obj\Debug\akasztofa.exe
+C:\Users\Tanár\Downloads\Akasztófa játék 2.0\akasztofa\akasztofa\obj\Debug\akasztofa.pdb
+c:\Users\Tanár\Downloads\Akasztófa játék 2.0\akasztofa másolata\akasztofa\bin\Debug\akasztofa.exe.config
+c:\Users\Tanár\Downloads\Akasztófa játék 2.0\akasztofa másolata\akasztofa\obj\Debug\akasztofa.exe
+c:\Users\Tanár\Downloads\Akasztófa játék 2.0\akasztofa másolata\akasztofa\obj\Debug\akasztofa.pdb
+c:\Users\Tanár\Downloads\Akasztófa játék 2.0\akasztofa másolata\akasztofa\bin\Debug\akasztofa.exe
+c:\Users\Tanár\Downloads\Akasztófa játék 2.0\akasztofa másolata\akasztofa\bin\Debug\akasztofa.pdb
+c:\Users\Tanár\Downloads\Akasztófa játék 2.0\akasztofa másolata\akasztofa\obj\Debug\akasztofa.csprojResolveAssemblyReference.cache
+c:\Users\Tanár\Downloads\Akasztófa játék 2.0\akasztofa másolata\akasztofa\obj\Debug\akasztofa.Form1.resources
+c:\Users\Tanár\Downloads\Akasztófa játék 2.0\akasztofa másolata\akasztofa\obj\Debug\akasztofa.Properties.Resources.resources
+c:\Users\Tanár\Downloads\Akasztófa játék 2.0\akasztofa másolata\akasztofa\obj\Debug\akasztofa.csproj.GenerateResource.Cache
+c:\Users\Tanár\Downloads\CSharp programozás\Akasztófa játék 2.0\akasztofa másolata\akasztofa\bin\Debug\akasztofa.exe.config
+c:\Users\Tanár\Downloads\CSharp programozás\Akasztófa játék 2.0\akasztofa másolata\akasztofa\obj\Debug\akasztofa.exe
+c:\Users\Tanár\Downloads\CSharp programozás\Akasztófa játék 2.0\akasztofa másolata\akasztofa\obj\Debug\akasztofa.pdb
+c:\Users\Tanár\Downloads\CSharp programozás\Akasztófa játék 2.0\akasztofa 3.0\akasztofa\bin\Debug\akasztofa.exe.config
+c:\Users\Tanár\Downloads\CSharp programozás\Akasztófa játék 2.0\akasztofa 3.0\akasztofa\obj\Debug\akasztofa.exe
+c:\Users\Tanár\Downloads\CSharp programozás\Akasztófa játék 2.0\akasztofa 3.0\akasztofa\obj\Debug\akasztofa.pdb
+c:\Users\Tanár\Downloads\CSharp programozás\Akasztófa játék 2.0\akasztofa 3.0\akasztofa\bin\Debug\akasztofa.exe
+c:\Users\Tanár\Downloads\CSharp programozás\Akasztófa játék 2.0\akasztofa 3.0\akasztofa\bin\Debug\akasztofa.pdb
+c:\Users\Tanár\Downloads\CSharp programozás\Akasztófa játék 2.0\akasztofa 3.0\akasztofa\obj\Debug\akasztofa.csprojResolveAssemblyReference.cache
+c:\Users\Tanár\Downloads\CSharp programozás\Akasztófa játék 2.0\akasztofa 3.0\akasztofa\obj\Debug\akasztofa.Form1.resources
+c:\Users\Tanár\Downloads\CSharp programozás\Akasztófa játék 2.0\akasztofa 3.0\akasztofa\obj\Debug\akasztofa.Properties.Resources.resources
+c:\Users\Tanár\Downloads\CSharp programozás\Akasztófa játék 2.0\akasztofa 3.0\akasztofa\obj\Debug\akasztofa.csproj.GenerateResource.Cache
+c:\Users\Tanár\Downloads\CSharp programozás\akasztofa 3.0\akasztofa\bin\Debug\akasztofa.exe.config
+c:\Users\Tanár\Downloads\CSharp programozás\akasztofa 3.0\akasztofa\bin\Debug\akasztofa.exe
+c:\Users\Tanár\Downloads\CSharp programozás\akasztofa 3.0\akasztofa\bin\Debug\akasztofa.pdb
+c:\Users\Tanár\Downloads\CSharp programozás\akasztofa 3.0\akasztofa\obj\Debug\akasztofa.csprojResolveAssemblyReference.cache
+c:\Users\Tanár\Downloads\CSharp programozás\akasztofa 3.0\akasztofa\obj\Debug\akasztofa.Form1.resources
+c:\Users\Tanár\Downloads\CSharp programozás\akasztofa 3.0\akasztofa\obj\Debug\akasztofa.Properties.Resources.resources
+c:\Users\Tanár\Downloads\CSharp programozás\akasztofa 3.0\akasztofa\obj\Debug\akasztofa.csproj.GenerateResource.Cache
+c:\Users\Tanár\Downloads\CSharp programozás\akasztofa 3.0\akasztofa\obj\Debug\akasztofa.exe
+c:\Users\Tanár\Downloads\CSharp programozás\akasztofa 3.0\akasztofa\obj\Debug\akasztofa.pdb
+c:\Users\Tanár\Downloads\csharp\CSharp programozás\akasztofa 3.0\akasztofa\bin\Debug\akasztofa.exe.config
+c:\Users\Tanár\Downloads\csharp\CSharp programozás\akasztofa 3.0\akasztofa\bin\Debug\akasztofa.exe
+c:\Users\Tanár\Downloads\csharp\CSharp programozás\akasztofa 3.0\akasztofa\bin\Debug\akasztofa.pdb
+c:\Users\Tanár\Downloads\csharp\CSharp programozás\akasztofa 3.0\akasztofa\obj\Debug\akasztofa.csprojAssemblyReference.cache
+c:\Users\Tanár\Downloads\csharp\CSharp programozás\akasztofa 3.0\akasztofa\obj\Debug\akasztofa.Form1.resources
+c:\Users\Tanár\Downloads\csharp\CSharp programozás\akasztofa 3.0\akasztofa\obj\Debug\akasztofa.Properties.Resources.resources
+c:\Users\Tanár\Downloads\csharp\CSharp programozás\akasztofa 3.0\akasztofa\obj\Debug\akasztofa.csproj.GenerateResource.cache
+c:\Users\Tanár\Downloads\csharp\CSharp programozás\akasztofa 3.0\akasztofa\obj\Debug\akasztofa.csproj.CoreCompileInputs.cache
+c:\Users\Tanár\Downloads\csharp\CSharp programozás\akasztofa 3.0\akasztofa\obj\Debug\akasztofa.exe
+c:\Users\Tanár\Downloads\csharp\CSharp programozás\akasztofa 3.0\akasztofa\obj\Debug\akasztofa.pdb

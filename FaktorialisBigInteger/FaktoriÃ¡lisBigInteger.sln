@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FaktoriálisBigInteger", "FaktoriálisBigInteger.csproj", "{05088D76-4D74-4EB8-8EEA-AF0D9044A5F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05088D76-4D74-4EB8-8EEA-AF0D9044A5F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05088D76-4D74-4EB8-8EEA-AF0D9044A5F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05088D76-4D74-4EB8-8EEA-AF0D9044A5F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05088D76-4D74-4EB8-8EEA-AF0D9044A5F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED6C0256-67B2-421B-9A53-D0C07553AC03}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+C:\Users\Eszti\source\Csempe\Csempe\bin\Debug\netcoreapp3.1\Csempe.exe
+C:\Users\Eszti\source\Csempe\Csempe\bin\Debug\netcoreapp3.1\Csempe.deps.json
+C:\Users\Eszti\source\Csempe\Csempe\bin\Debug\netcoreapp3.1\Csempe.runtimeconfig.json
+C:\Users\Eszti\source\Csempe\Csempe\bin\Debug\netcoreapp3.1\Csempe.runtimeconfig.dev.json
+C:\Users\Eszti\source\Csempe\Csempe\bin\Debug\netcoreapp3.1\Csempe.dll
+C:\Users\Eszti\source\Csempe\Csempe\bin\Debug\netcoreapp3.1\Csempe.pdb
+C:\Users\Eszti\source\Csempe\Csempe\obj\Debug\netcoreapp3.1\Csempe.csprojAssemblyReference.cache
+C:\Users\Eszti\source\Csempe\Csempe\obj\Debug\netcoreapp3.1\Csempe.AssemblyInfoInputs.cache
+C:\Users\Eszti\source\Csempe\Csempe\obj\Debug\netcoreapp3.1\Csempe.AssemblyInfo.cs
+C:\Users\Eszti\source\Csempe\Csempe\obj\Debug\netcoreapp3.1\Csempe.csproj.CoreCompileInputs.cache
+C:\Users\Eszti\source\Csempe\Csempe\obj\Debug\netcoreapp3.1\Csempe.dll
+C:\Users\Eszti\source\Csempe\Csempe\obj\Debug\netcoreapp3.1\Csempe.pdb
+C:\Users\Eszti\source\Csempe\Csempe\obj\Debug\netcoreapp3.1\Csempe.genruntimeconfig.cache

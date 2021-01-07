@@ -1,0 +1,42 @@
+﻿<Window x:Class="EUtazas2020GUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EUtazas2020GUI"
+        mc:Ignorable="d"
+        Title="eUtazás 2020 GUI - Új felszállás" Height="350" Width="400">
+    <Grid>
+        <Label Content="Megálló sorszáma:" HorizontalAlignment="Left" Margin="10,6,0,0" VerticalAlignment="Top"/>
+        <ComboBox x:Name="CbMegálló" HorizontalAlignment="Left" Margin="152,10,0,0" VerticalAlignment="Top" Width="150" />
+        <DatePicker x:Name="DpFelszállásNap" HorizontalAlignment="Left" Margin="154,36,0,0" VerticalAlignment="Top" />
+        <Label Content="Felszállás dátuma:" HorizontalAlignment="Left" Margin="10,36,0,0" VerticalAlignment="Top" Width="100"/>
+        <Label Content="Felszálás időpontja [óó:pp]: " HorizontalAlignment="Left" Margin="10,66,0,0" VerticalAlignment="Top" Width="139"/>
+        <TextBox x:Name="tbFelszállásIdő" HorizontalAlignment="Left" Height="23" Margin="154,68,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="50"/>
+        <Label Content="Kártya azonosítója:" HorizontalAlignment="Left" Margin="10,96,0,0" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="TbKártyaAzon" HorizontalAlignment="Left" Height="23" Margin="154,100,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="100" MaxLength="7" TextChanged="TbKártyaAzon_TextChanged"/>
+        <Label Name="LbSzámjegyDarab"  Content="0db" HorizontalAlignment="Left" Margin="266,96,0,0" VerticalAlignment="Top" Width="114"/>
+        <GroupBox Header="Bérlet további adatai" x:Name="GbBérlet" HorizontalAlignment="Left" Height="128" Margin="10,133,0,0" VerticalAlignment="Top" Width="208">
+            <StackPanel>
+                <Label Content="Bérlet típusa:"/>
+                <ComboBox x:Name="CbTípus" />
+                <Label Content="Bérlet érvényességi ideje:" />
+                <DatePicker x:Name="DpÉrvényes"/>
+            </StackPanel>
+        </GroupBox>
+        <GroupBox Header="Jegy további adatai" x:Name="GpJegy" HorizontalAlignment="Left" Height="91" Margin="10,133,0,0" VerticalAlignment="Top" Width="196">
+            <StackPanel>
+                <Label Content="Felhasználható jegy:" />
+                <Slider x:Name="SlFelhasználhatóJegy" TickFrequency="1" IsSnapToTickEnabled="True" ValueChanged="SlFelhasználhatóJegy_ValueChanged"/>
+                <Label x:Name="LbFelhasználhatóJegy" Content="0db"/>
+            </StackPanel>
+        </GroupBox>
+        <GroupBox Header="Bérlet vagy Jegy" HorizontalAlignment="Left" Height="53" Margin="244,171,0,0" VerticalAlignment="Top" Width="110">
+            <StackPanel>
+                <RadioButton x:Name="RbBérlet" Content="Bérlet" IsChecked="True" Checked="RbBérlet_Checked" />
+                <RadioButton x:Name="RbJegy" Content="Jegy" Checked="RbJegy_Checked"/>
+            </StackPanel>
+        </GroupBox>
+        <Button x:Name="btnRögzít" Content="Adatok ellenőrzése és rögzítése" HorizontalAlignment="Left" Margin="60,272,0,0" VerticalAlignment="Top" Width="283" Height="28" Click="BtnRögzít_Click"/>
+    </Grid>
+</Window>

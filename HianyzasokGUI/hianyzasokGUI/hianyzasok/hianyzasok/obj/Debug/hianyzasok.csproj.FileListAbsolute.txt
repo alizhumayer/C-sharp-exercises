@@ -1,0 +1,10 @@
+C:\Users\Tanár\Downloads\hianyzasokGUI\hianyzasok\hianyzasok\bin\Debug\hianyzasok.exe.config
+C:\Users\Tanár\Downloads\hianyzasokGUI\hianyzasok\hianyzasok\bin\Debug\hianyzasok.exe
+C:\Users\Tanár\Downloads\hianyzasokGUI\hianyzasok\hianyzasok\bin\Debug\hianyzasok.pdb
+C:\Users\Tanár\Downloads\hianyzasokGUI\hianyzasok\hianyzasok\obj\Debug\hianyzasok.csprojAssemblyReference.cache
+C:\Users\Tanár\Downloads\hianyzasokGUI\hianyzasok\hianyzasok\obj\Debug\hianyzasok.Form1.resources
+C:\Users\Tanár\Downloads\hianyzasokGUI\hianyzasok\hianyzasok\obj\Debug\hianyzasok.Properties.Resources.resources
+C:\Users\Tanár\Downloads\hianyzasokGUI\hianyzasok\hianyzasok\obj\Debug\hianyzasok.csproj.GenerateResource.cache
+C:\Users\Tanár\Downloads\hianyzasokGUI\hianyzasok\hianyzasok\obj\Debug\hianyzasok.csproj.CoreCompileInputs.cache
+C:\Users\Tanár\Downloads\hianyzasokGUI\hianyzasok\hianyzasok\obj\Debug\hianyzasok.exe
+C:\Users\Tanár\Downloads\hianyzasokGUI\hianyzasok\hianyzasok\obj\Debug\hianyzasok.pdb

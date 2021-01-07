@@ -1,0 +1,12 @@
+Miskolc
+700000
+Debrecen
+900000
+Nyíregyháza
+1345600
+Budapest
+2200000
+Nagyvárad
+108265
+Gyöngyös
+123542

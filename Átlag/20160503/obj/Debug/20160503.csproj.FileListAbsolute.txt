@@ -1,0 +1,13 @@
+H:\abszf\20160503\20160503\bin\Debug\20160503.exe.config
+H:\abszf\20160503\20160503\bin\Debug\20160503.exe
+H:\abszf\20160503\20160503\bin\Debug\20160503.pdb
+H:\abszf\20160503\20160503\obj\Debug\20160503.csprojResolveAssemblyReference.cache
+H:\abszf\20160503\20160503\obj\Debug\20160503.exe
+H:\abszf\20160503\20160503\obj\Debug\20160503.pdb
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20160503\20160503\bin\Debug\20160503.exe.config
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20160503\20160503\bin\Debug\20160503.exe
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20160503\20160503\bin\Debug\20160503.pdb
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20160503\20160503\obj\Debug\20160503.csprojAssemblyReference.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20160503\20160503\obj\Debug\20160503.csproj.CoreCompileInputs.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20160503\20160503\obj\Debug\20160503.exe
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20160503\20160503\obj\Debug\20160503.pdb

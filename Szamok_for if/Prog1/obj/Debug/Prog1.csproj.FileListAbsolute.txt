@@ -1,0 +1,6 @@
+D:\esti_szoftfejl\2_1\csharp\Prog1\Prog1\bin\Debug\Prog1.exe.config
+D:\esti_szoftfejl\2_1\csharp\Prog1\Prog1\bin\Debug\Prog1.exe
+D:\esti_szoftfejl\2_1\csharp\Prog1\Prog1\bin\Debug\Prog1.pdb
+D:\esti_szoftfejl\2_1\csharp\Prog1\Prog1\obj\Debug\Prog1.csprojResolveAssemblyReference.cache
+D:\esti_szoftfejl\2_1\csharp\Prog1\Prog1\obj\Debug\Prog1.exe
+D:\esti_szoftfejl\2_1\csharp\Prog1\Prog1\obj\Debug\Prog1.pdb

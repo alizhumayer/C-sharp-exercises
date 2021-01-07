@@ -1,0 +1,28 @@
+C:\Users\Tanár\Downloads\Informatikai_ismeretek_érettségi 2019\ultrabalaton\ultrabalaton\ultrabalaton\bin\Debug\ultrabalaton.exe.config
+C:\Users\Tanár\Downloads\Informatikai_ismeretek_érettségi 2019\ultrabalaton\ultrabalaton\ultrabalaton\bin\Debug\ultrabalaton.exe
+C:\Users\Tanár\Downloads\Informatikai_ismeretek_érettségi 2019\ultrabalaton\ultrabalaton\ultrabalaton\bin\Debug\ultrabalaton.pdb
+C:\Users\Tanár\Downloads\Informatikai_ismeretek_érettségi 2019\ultrabalaton\ultrabalaton\ultrabalaton\obj\Debug\ultrabalaton.csprojAssemblyReference.cache
+C:\Users\Tanár\Downloads\Informatikai_ismeretek_érettségi 2019\ultrabalaton\ultrabalaton\ultrabalaton\obj\Debug\ultrabalaton.csproj.CoreCompileInputs.cache
+C:\Users\Tanár\Downloads\Informatikai_ismeretek_érettségi 2019\ultrabalaton\ultrabalaton\ultrabalaton\obj\Debug\ultrabalaton.exe
+C:\Users\Tanár\Downloads\Informatikai_ismeretek_érettségi 2019\ultrabalaton\ultrabalaton\ultrabalaton\obj\Debug\ultrabalaton.pdb
+c:\Users\Tanár\Downloads\Informatikai_ismeretek_érettségi 2019\ultrabalaton másolata\ultrabalaton\ultrabalaton\bin\Debug\ultrabalaton.exe.config
+c:\Users\Tanár\Downloads\Informatikai_ismeretek_érettségi 2019\ultrabalaton másolata\ultrabalaton\ultrabalaton\bin\Debug\ultrabalaton.exe
+c:\Users\Tanár\Downloads\Informatikai_ismeretek_érettségi 2019\ultrabalaton másolata\ultrabalaton\ultrabalaton\bin\Debug\ultrabalaton.pdb
+c:\Users\Tanár\Downloads\Informatikai_ismeretek_érettségi 2019\ultrabalaton másolata\ultrabalaton\ultrabalaton\obj\Debug\ultrabalaton.csprojAssemblyReference.cache
+c:\Users\Tanár\Downloads\Informatikai_ismeretek_érettségi 2019\ultrabalaton másolata\ultrabalaton\ultrabalaton\obj\Debug\ultrabalaton.csproj.CoreCompileInputs.cache
+c:\Users\Tanár\Downloads\Informatikai_ismeretek_érettségi 2019\ultrabalaton másolata\ultrabalaton\ultrabalaton\obj\Debug\ultrabalaton.exe
+c:\Users\Tanár\Downloads\Informatikai_ismeretek_érettségi 2019\ultrabalaton másolata\ultrabalaton\ultrabalaton\obj\Debug\ultrabalaton.pdb
+c:\Users\Tanár\Downloads\Informatikai_ismeretek_érettségi 2019\ultrabalaton másolata másolata\ultrabalaton\ultrabalaton\bin\Debug\ultrabalaton.exe.config
+c:\Users\Tanár\Downloads\Informatikai_ismeretek_érettségi 2019\ultrabalaton másolata másolata\ultrabalaton\ultrabalaton\bin\Debug\ultrabalaton.exe
+c:\Users\Tanár\Downloads\Informatikai_ismeretek_érettségi 2019\ultrabalaton másolata másolata\ultrabalaton\ultrabalaton\bin\Debug\ultrabalaton.pdb
+c:\Users\Tanár\Downloads\Informatikai_ismeretek_érettségi 2019\ultrabalaton másolata másolata\ultrabalaton\ultrabalaton\obj\Debug\ultrabalaton.csprojAssemblyReference.cache
+c:\Users\Tanár\Downloads\Informatikai_ismeretek_érettségi 2019\ultrabalaton másolata másolata\ultrabalaton\ultrabalaton\obj\Debug\ultrabalaton.csproj.CoreCompileInputs.cache
+c:\Users\Tanár\Downloads\Informatikai_ismeretek_érettségi 2019\ultrabalaton másolata másolata\ultrabalaton\ultrabalaton\obj\Debug\ultrabalaton.exe
+c:\Users\Tanár\Downloads\Informatikai_ismeretek_érettségi 2019\ultrabalaton másolata másolata\ultrabalaton\ultrabalaton\obj\Debug\ultrabalaton.pdb
+c:\Users\Tanár\Downloads\Informatikai_ismeretek_érettségi 2019\ultrabalaton kész kommentekkel\ultrabalaton\ultrabalaton\bin\Debug\ultrabalaton.exe.config
+c:\Users\Tanár\Downloads\Informatikai_ismeretek_érettségi 2019\ultrabalaton kész kommentekkel\ultrabalaton\ultrabalaton\bin\Debug\ultrabalaton.exe
+c:\Users\Tanár\Downloads\Informatikai_ismeretek_érettségi 2019\ultrabalaton kész kommentekkel\ultrabalaton\ultrabalaton\bin\Debug\ultrabalaton.pdb
+c:\Users\Tanár\Downloads\Informatikai_ismeretek_érettségi 2019\ultrabalaton kész kommentekkel\ultrabalaton\ultrabalaton\obj\Debug\ultrabalaton.csprojAssemblyReference.cache
+c:\Users\Tanár\Downloads\Informatikai_ismeretek_érettségi 2019\ultrabalaton kész kommentekkel\ultrabalaton\ultrabalaton\obj\Debug\ultrabalaton.csproj.CoreCompileInputs.cache
+c:\Users\Tanár\Downloads\Informatikai_ismeretek_érettségi 2019\ultrabalaton kész kommentekkel\ultrabalaton\ultrabalaton\obj\Debug\ultrabalaton.exe
+c:\Users\Tanár\Downloads\Informatikai_ismeretek_érettségi 2019\ultrabalaton kész kommentekkel\ultrabalaton\ultrabalaton\obj\Debug\ultrabalaton.pdb

@@ -1,0 +1,19 @@
+h:\2016\13e_14_2_10_19\13e_14_2_10_19\bin\Debug\13e_14_2_10_19.exe.config
+h:\2016\13e_14_2_10_19\13e_14_2_10_19\bin\Debug\13e_14_2_10_19.exe
+h:\2016\13e_14_2_10_19\13e_14_2_10_19\bin\Debug\13e_14_2_10_19.pdb
+h:\2016\13e_14_2_10_19\13e_14_2_10_19\obj\Debug\13e_14_2_10_19.csprojResolveAssemblyReference.cache
+h:\2016\13e_14_2_10_19\13e_14_2_10_19\obj\Debug\_13e_14_2_10_19.Form1.resources
+h:\2016\13e_14_2_10_19\13e_14_2_10_19\obj\Debug\_13e_14_2_10_19.Properties.Resources.resources
+h:\2016\13e_14_2_10_19\13e_14_2_10_19\obj\Debug\13e_14_2_10_19.csproj.GenerateResource.Cache
+h:\2016\13e_14_2_10_19\13e_14_2_10_19\obj\Debug\13e_14_2_10_19.exe
+h:\2016\13e_14_2_10_19\13e_14_2_10_19\obj\Debug\13e_14_2_10_19.pdb
+C:\Users\AlizHumayer\Desktop\C sharp_mix\13e_14_2_10_19.2\13e_14_2_10_19.2\13e_14_2_10_19\bin\Debug\13e_14_2_10_19.exe.config
+C:\Users\AlizHumayer\Desktop\C sharp_mix\13e_14_2_10_19.2\13e_14_2_10_19.2\13e_14_2_10_19\bin\Debug\13e_14_2_10_19.exe
+C:\Users\AlizHumayer\Desktop\C sharp_mix\13e_14_2_10_19.2\13e_14_2_10_19.2\13e_14_2_10_19\bin\Debug\13e_14_2_10_19.pdb
+C:\Users\AlizHumayer\Desktop\C sharp_mix\13e_14_2_10_19.2\13e_14_2_10_19.2\13e_14_2_10_19\obj\Debug\13e_14_2_10_19.csprojAssemblyReference.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\13e_14_2_10_19.2\13e_14_2_10_19.2\13e_14_2_10_19\obj\Debug\_13e_14_2_10_19.Form1.resources
+C:\Users\AlizHumayer\Desktop\C sharp_mix\13e_14_2_10_19.2\13e_14_2_10_19.2\13e_14_2_10_19\obj\Debug\_13e_14_2_10_19.Properties.Resources.resources
+C:\Users\AlizHumayer\Desktop\C sharp_mix\13e_14_2_10_19.2\13e_14_2_10_19.2\13e_14_2_10_19\obj\Debug\13e_14_2_10_19.csproj.GenerateResource.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\13e_14_2_10_19.2\13e_14_2_10_19.2\13e_14_2_10_19\obj\Debug\13e_14_2_10_19.csproj.CoreCompileInputs.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\13e_14_2_10_19.2\13e_14_2_10_19.2\13e_14_2_10_19\obj\Debug\13e_14_2_10_19.exe
+C:\Users\AlizHumayer\Desktop\C sharp_mix\13e_14_2_10_19.2\13e_14_2_10_19.2\13e_14_2_10_19\obj\Debug\13e_14_2_10_19.pdb

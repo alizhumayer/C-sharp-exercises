@@ -1,0 +1,9 @@
+rajtszám;név;összpontszám
+198;CARANOBE Benoit;90,925;
+
+121;BOUHAIL Thomas;88,55;
+
+151;KARBANENKO Dimitri;88,5;
+
+148;SABOT Hamilton;87,75;
+

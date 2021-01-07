@@ -1,0 +1,6 @@
+C:\Users\Borsos Lajos\Downloads\_űrsikló\ursiklo\ursiklo\bin\Debug\ursiklo.exe.config
+C:\Users\Borsos Lajos\Downloads\_űrsikló\ursiklo\ursiklo\bin\Debug\ursiklo.exe
+C:\Users\Borsos Lajos\Downloads\_űrsikló\ursiklo\ursiklo\bin\Debug\ursiklo.pdb
+C:\Users\Borsos Lajos\Downloads\_űrsikló\ursiklo\ursiklo\obj\Debug\ursiklo.csprojResolveAssemblyReference.cache
+C:\Users\Borsos Lajos\Downloads\_űrsikló\ursiklo\ursiklo\obj\Debug\ursiklo.exe
+C:\Users\Borsos Lajos\Downloads\_űrsikló\ursiklo\ursiklo\obj\Debug\ursiklo.pdb

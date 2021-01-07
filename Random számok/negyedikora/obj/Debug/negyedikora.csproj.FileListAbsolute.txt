@@ -1,0 +1,6 @@
+H:\abszf\negyedikora\negyedikora\bin\Debug\negyedikora.exe.config
+H:\abszf\negyedikora\negyedikora\bin\Debug\negyedikora.exe
+H:\abszf\negyedikora\negyedikora\bin\Debug\negyedikora.pdb
+H:\abszf\negyedikora\negyedikora\obj\Debug\negyedikora.csprojResolveAssemblyReference.cache
+H:\abszf\negyedikora\negyedikora\obj\Debug\negyedikora.exe
+H:\abszf\negyedikora\negyedikora\obj\Debug\negyedikora.pdb

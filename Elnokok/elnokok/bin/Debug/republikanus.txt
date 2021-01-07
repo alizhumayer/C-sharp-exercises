@@ -1,0 +1,18 @@
+Abraham Lincoln;1861;1865;Republikánus;1809;1865
+Ulysses S. Grant;1869;1877;Republikánus;1822;1885
+Rutherford B. Hayes;1877;1881;Republikánus;1822;1893
+James A. Garfield;1881;1881;Republikánus;1831;1881
+Chester A. Arthur;1881;1885;Republikánus;1830;1886
+Benjamin Harrison;1889;1893;Republikánus;1833;1901
+William McKinley;1897;1901;Republikánus;1843;1901
+Theodore Roosevelt;1901;1909;Republikánus;1858;1919
+William H. Taft;1909;1913;Republikánus;1857;1930
+Warren Harding;1921;1923;Republikánus;1865;1923
+Calvin Coolidge;1923;1929;Republikánus;1872;1933
+Herbert Hoover;1929;1933;Republikánus;1874;1964
+Dwight Eisenhower;1953;1961;Republikánus;1890;1969
+Richard M. Nixon;1969;1974;Republikánus;1913;1994
+Gerald L. Ford;1974;1977;Republikánus;1913;2006
+Ronald W. Reagan;1981;1989;Republikánus;1911;2004
+George Bush;1989;1993;Republikánus;1924;0
+George 2 Bush;2001;2008;Republikánus;1946;0

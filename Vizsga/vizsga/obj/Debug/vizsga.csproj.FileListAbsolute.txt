@@ -1,0 +1,9 @@
+C:\Users\Tanár\Downloads\vizsgaGUI\vizsga\vizsga\bin\Debug\vizsga.exe.config
+C:\Users\Tanár\Downloads\vizsgaGUI\vizsga\vizsga\bin\Debug\vizsga.exe
+C:\Users\Tanár\Downloads\vizsgaGUI\vizsga\vizsga\bin\Debug\vizsga.pdb
+C:\Users\Tanár\Downloads\vizsgaGUI\vizsga\vizsga\obj\Debug\vizsga.csprojAssemblyReference.cache
+C:\Users\Tanár\Downloads\vizsgaGUI\vizsga\vizsga\obj\Debug\vizsga.Form1.resources
+C:\Users\Tanár\Downloads\vizsgaGUI\vizsga\vizsga\obj\Debug\vizsga.Properties.Resources.resources
+C:\Users\Tanár\Downloads\vizsgaGUI\vizsga\vizsga\obj\Debug\vizsga.csproj.GenerateResource.cache
+C:\Users\Tanár\Downloads\vizsgaGUI\vizsga\vizsga\obj\Debug\vizsga.exe
+C:\Users\Tanár\Downloads\vizsgaGUI\vizsga\vizsga\obj\Debug\vizsga.pdb

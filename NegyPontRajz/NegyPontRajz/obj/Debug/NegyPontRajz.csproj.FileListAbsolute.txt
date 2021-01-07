@@ -1,0 +1,19 @@
+D:\Szoftverfejlesztés\C win form gyak\_3. félév\NegyPontRajz\NegyPontRajz\bin\Debug\NegyPontRajz.exe.config
+D:\Szoftverfejlesztés\C win form gyak\_3. félév\NegyPontRajz\NegyPontRajz\bin\Debug\NegyPontRajz.exe
+D:\Szoftverfejlesztés\C win form gyak\_3. félév\NegyPontRajz\NegyPontRajz\bin\Debug\NegyPontRajz.pdb
+D:\Szoftverfejlesztés\C win form gyak\_3. félév\NegyPontRajz\NegyPontRajz\obj\Debug\NegyPontRajz.csprojResolveAssemblyReference.cache
+D:\Szoftverfejlesztés\C win form gyak\_3. félév\NegyPontRajz\NegyPontRajz\obj\Debug\NegyPontRajz.Form1.resources
+D:\Szoftverfejlesztés\C win form gyak\_3. félév\NegyPontRajz\NegyPontRajz\obj\Debug\NegyPontRajz.Properties.Resources.resources
+D:\Szoftverfejlesztés\C win form gyak\_3. félév\NegyPontRajz\NegyPontRajz\obj\Debug\NegyPontRajz.csproj.GenerateResource.Cache
+D:\Szoftverfejlesztés\C win form gyak\_3. félév\NegyPontRajz\NegyPontRajz\obj\Debug\NegyPontRajz.exe
+D:\Szoftverfejlesztés\C win form gyak\_3. félév\NegyPontRajz\NegyPontRajz\obj\Debug\NegyPontRajz.pdb
+C:\Users\AlizHumayer\Desktop\C sharp_mix\NegyPontRajz\NegyPontRajz\NegyPontRajz\bin\Debug\NegyPontRajz.exe.config
+C:\Users\AlizHumayer\Desktop\C sharp_mix\NegyPontRajz\NegyPontRajz\NegyPontRajz\bin\Debug\NegyPontRajz.exe
+C:\Users\AlizHumayer\Desktop\C sharp_mix\NegyPontRajz\NegyPontRajz\NegyPontRajz\bin\Debug\NegyPontRajz.pdb
+C:\Users\AlizHumayer\Desktop\C sharp_mix\NegyPontRajz\NegyPontRajz\NegyPontRajz\obj\Debug\NegyPontRajz.csprojAssemblyReference.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\NegyPontRajz\NegyPontRajz\NegyPontRajz\obj\Debug\NegyPontRajz.Form1.resources
+C:\Users\AlizHumayer\Desktop\C sharp_mix\NegyPontRajz\NegyPontRajz\NegyPontRajz\obj\Debug\NegyPontRajz.Properties.Resources.resources
+C:\Users\AlizHumayer\Desktop\C sharp_mix\NegyPontRajz\NegyPontRajz\NegyPontRajz\obj\Debug\NegyPontRajz.csproj.GenerateResource.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\NegyPontRajz\NegyPontRajz\NegyPontRajz\obj\Debug\NegyPontRajz.csproj.CoreCompileInputs.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\NegyPontRajz\NegyPontRajz\NegyPontRajz\obj\Debug\NegyPontRajz.exe
+C:\Users\AlizHumayer\Desktop\C sharp_mix\NegyPontRajz\NegyPontRajz\NegyPontRajz\obj\Debug\NegyPontRajz.pdb

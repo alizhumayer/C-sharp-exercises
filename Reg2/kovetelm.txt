@@ -1,0 +1,14 @@
+-belépés
+-kilépés
+-regisztráció
+-jelszó "titkosítása"
+-jogosultságok
+ -admin
+  -minden felhasználó felh.nevének modosítása
+  -minden felh. jelszavának modosítása
+  -admin adás/elvétel
+  -felhasználó törlése
+ -user
+  -saját jelszó módosítása
+  -saját felhasználó törlése
+   -léptessen ki

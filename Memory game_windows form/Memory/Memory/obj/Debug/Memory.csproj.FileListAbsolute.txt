@@ -1,0 +1,19 @@
+Z:\C#\2017_09_28\Memory\Memory\bin\Debug\Memory.exe.config
+Z:\C#\2017_09_28\Memory\Memory\obj\Debug\Memory.csprojResolveAssemblyReference.cache
+Z:\C#\2017_09_28\Memory\Memory\obj\Debug\Memory.Form1.resources
+Z:\C#\2017_09_28\Memory\Memory\obj\Debug\Memory.Properties.Resources.resources
+Z:\C#\2017_09_28\Memory\Memory\obj\Debug\Memory.csproj.GenerateResource.Cache
+Z:\C#\2017_09_28\Memory\Memory\bin\Debug\Memory.exe
+Z:\C#\2017_09_28\Memory\Memory\bin\Debug\Memory.pdb
+Z:\C#\2017_09_28\Memory\Memory\obj\Debug\Memory.exe
+Z:\C#\2017_09_28\Memory\Memory\obj\Debug\Memory.pdb
+C:\Users\AlizHumayer\Desktop\C sharp_mix\zoliCSharp\zoliCSharp\2017_09_28\Memory\Memory\bin\Debug\Memory.exe.config
+C:\Users\AlizHumayer\Desktop\C sharp_mix\zoliCSharp\zoliCSharp\2017_09_28\Memory\Memory\bin\Debug\Memory.exe
+C:\Users\AlizHumayer\Desktop\C sharp_mix\zoliCSharp\zoliCSharp\2017_09_28\Memory\Memory\bin\Debug\Memory.pdb
+C:\Users\AlizHumayer\Desktop\C sharp_mix\zoliCSharp\zoliCSharp\2017_09_28\Memory\Memory\obj\Debug\Memory.csprojAssemblyReference.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\zoliCSharp\zoliCSharp\2017_09_28\Memory\Memory\obj\Debug\Memory.Form1.resources
+C:\Users\AlizHumayer\Desktop\C sharp_mix\zoliCSharp\zoliCSharp\2017_09_28\Memory\Memory\obj\Debug\Memory.Properties.Resources.resources
+C:\Users\AlizHumayer\Desktop\C sharp_mix\zoliCSharp\zoliCSharp\2017_09_28\Memory\Memory\obj\Debug\Memory.csproj.GenerateResource.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\zoliCSharp\zoliCSharp\2017_09_28\Memory\Memory\obj\Debug\Memory.csproj.CoreCompileInputs.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\zoliCSharp\zoliCSharp\2017_09_28\Memory\Memory\obj\Debug\Memory.exe
+C:\Users\AlizHumayer\Desktop\C sharp_mix\zoliCSharp\zoliCSharp\2017_09_28\Memory\Memory\obj\Debug\Memory.pdb

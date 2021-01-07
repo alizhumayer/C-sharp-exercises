@@ -1,0 +1,12 @@
+C:\Users\Eszti\source\Nov26_primszamok\Nov26_primszamok\bin\Debug\netcoreapp3.1\Nov26_primszamok.exe
+C:\Users\Eszti\source\Nov26_primszamok\Nov26_primszamok\bin\Debug\netcoreapp3.1\Nov26_primszamok.deps.json
+C:\Users\Eszti\source\Nov26_primszamok\Nov26_primszamok\bin\Debug\netcoreapp3.1\Nov26_primszamok.runtimeconfig.json
+C:\Users\Eszti\source\Nov26_primszamok\Nov26_primszamok\bin\Debug\netcoreapp3.1\Nov26_primszamok.runtimeconfig.dev.json
+C:\Users\Eszti\source\Nov26_primszamok\Nov26_primszamok\bin\Debug\netcoreapp3.1\Nov26_primszamok.dll
+C:\Users\Eszti\source\Nov26_primszamok\Nov26_primszamok\bin\Debug\netcoreapp3.1\Nov26_primszamok.pdb
+C:\Users\Eszti\source\Nov26_primszamok\Nov26_primszamok\obj\Debug\netcoreapp3.1\Nov26_primszamok.AssemblyInfoInputs.cache
+C:\Users\Eszti\source\Nov26_primszamok\Nov26_primszamok\obj\Debug\netcoreapp3.1\Nov26_primszamok.AssemblyInfo.cs
+C:\Users\Eszti\source\Nov26_primszamok\Nov26_primszamok\obj\Debug\netcoreapp3.1\Nov26_primszamok.csproj.CoreCompileInputs.cache
+C:\Users\Eszti\source\Nov26_primszamok\Nov26_primszamok\obj\Debug\netcoreapp3.1\Nov26_primszamok.dll
+C:\Users\Eszti\source\Nov26_primszamok\Nov26_primszamok\obj\Debug\netcoreapp3.1\Nov26_primszamok.pdb
+C:\Users\Eszti\source\Nov26_primszamok\Nov26_primszamok\obj\Debug\netcoreapp3.1\Nov26_primszamok.genruntimeconfig.cache

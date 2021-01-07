@@ -1,0 +1,19 @@
+D:\Szoftverfejlesztés\C win form gyak\_3. félév\Benzinkut\Benzinkut\bin\Debug\Benzinkut.exe.config
+D:\Szoftverfejlesztés\C win form gyak\_3. félév\Benzinkut\Benzinkut\bin\Debug\Benzinkut.exe
+D:\Szoftverfejlesztés\C win form gyak\_3. félév\Benzinkut\Benzinkut\bin\Debug\Benzinkut.pdb
+D:\Szoftverfejlesztés\C win form gyak\_3. félév\Benzinkut\Benzinkut\obj\Debug\Benzinkut.csprojResolveAssemblyReference.cache
+D:\Szoftverfejlesztés\C win form gyak\_3. félév\Benzinkut\Benzinkut\obj\Debug\Benzinkut.Form1.resources
+D:\Szoftverfejlesztés\C win form gyak\_3. félév\Benzinkut\Benzinkut\obj\Debug\Benzinkut.Properties.Resources.resources
+D:\Szoftverfejlesztés\C win form gyak\_3. félév\Benzinkut\Benzinkut\obj\Debug\Benzinkut.csproj.GenerateResource.Cache
+D:\Szoftverfejlesztés\C win form gyak\_3. félév\Benzinkut\Benzinkut\obj\Debug\Benzinkut.exe
+D:\Szoftverfejlesztés\C win form gyak\_3. félév\Benzinkut\Benzinkut\obj\Debug\Benzinkut.pdb
+C:\Users\AlizHumayer\Desktop\C sharp_mix\Benzinkut\Benzinkut\Benzinkut\bin\Debug\Benzinkut.exe.config
+C:\Users\AlizHumayer\Desktop\C sharp_mix\Benzinkut\Benzinkut\Benzinkut\bin\Debug\Benzinkut.exe
+C:\Users\AlizHumayer\Desktop\C sharp_mix\Benzinkut\Benzinkut\Benzinkut\bin\Debug\Benzinkut.pdb
+C:\Users\AlizHumayer\Desktop\C sharp_mix\Benzinkut\Benzinkut\Benzinkut\obj\Debug\Benzinkut.csprojAssemblyReference.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\Benzinkut\Benzinkut\Benzinkut\obj\Debug\Benzinkut.Form1.resources
+C:\Users\AlizHumayer\Desktop\C sharp_mix\Benzinkut\Benzinkut\Benzinkut\obj\Debug\Benzinkut.Properties.Resources.resources
+C:\Users\AlizHumayer\Desktop\C sharp_mix\Benzinkut\Benzinkut\Benzinkut\obj\Debug\Benzinkut.csproj.GenerateResource.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\Benzinkut\Benzinkut\Benzinkut\obj\Debug\Benzinkut.csproj.CoreCompileInputs.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\Benzinkut\Benzinkut\Benzinkut\obj\Debug\Benzinkut.exe
+C:\Users\AlizHumayer\Desktop\C sharp_mix\Benzinkut\Benzinkut\Benzinkut\obj\Debug\Benzinkut.pdb

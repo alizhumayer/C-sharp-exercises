@@ -1,0 +1,18 @@
+C:\Users\Borsos Lajos\Downloads\szinkeverő program\szinkevero\szinkevero\bin\Debug\szinkevero.exe.config
+C:\Users\Borsos Lajos\Downloads\szinkeverő program\szinkevero\szinkevero\bin\Debug\szinkevero.exe
+C:\Users\Borsos Lajos\Downloads\szinkeverő program\szinkevero\szinkevero\bin\Debug\szinkevero.pdb
+C:\Users\Borsos Lajos\Downloads\szinkeverő program\szinkevero\szinkevero\obj\Debug\szinkevero.csprojResolveAssemblyReference.cache
+C:\Users\Borsos Lajos\Downloads\szinkeverő program\szinkevero\szinkevero\obj\Debug\szinkevero.Form1.resources
+C:\Users\Borsos Lajos\Downloads\szinkeverő program\szinkevero\szinkevero\obj\Debug\szinkevero.Properties.Resources.resources
+C:\Users\Borsos Lajos\Downloads\szinkeverő program\szinkevero\szinkevero\obj\Debug\szinkevero.csproj.GenerateResource.Cache
+C:\Users\Borsos Lajos\Downloads\szinkeverő program\szinkevero\szinkevero\obj\Debug\szinkevero.exe
+C:\Users\Borsos Lajos\Downloads\szinkeverő program\szinkevero\szinkevero\obj\Debug\szinkevero.pdb
+e:\_CSharp programok windows form\szinkeverő program\szinkevero\szinkevero\bin\Debug\szinkevero.exe.config
+e:\_CSharp programok windows form\szinkeverő program\szinkevero\szinkevero\obj\Debug\szinkevero.exe
+e:\_CSharp programok windows form\szinkeverő program\szinkevero\szinkevero\obj\Debug\szinkevero.pdb
+e:\_CSharp programok windows form\szinkeverő program\szinkevero\szinkevero\bin\Debug\szinkevero.exe
+e:\_CSharp programok windows form\szinkeverő program\szinkevero\szinkevero\bin\Debug\szinkevero.pdb
+e:\_CSharp programok windows form\szinkeverő program\szinkevero\szinkevero\obj\Debug\szinkevero.csprojResolveAssemblyReference.cache
+e:\_CSharp programok windows form\szinkeverő program\szinkevero\szinkevero\obj\Debug\szinkevero.Form1.resources
+e:\_CSharp programok windows form\szinkeverő program\szinkevero\szinkevero\obj\Debug\szinkevero.Properties.Resources.resources
+e:\_CSharp programok windows form\szinkeverő program\szinkevero\szinkevero\obj\Debug\szinkevero.csproj.GenerateResource.Cache

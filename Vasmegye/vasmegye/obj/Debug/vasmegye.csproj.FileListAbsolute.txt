@@ -1,0 +1,24 @@
+C:\Users\Borsos Lajos\Downloads\születések száma vas megyében\vasmegye\vasmegye\bin\Debug\vasmegye.exe.config
+C:\Users\Borsos Lajos\Downloads\születések száma vas megyében\vasmegye\vasmegye\bin\Debug\vasmegye.exe
+C:\Users\Borsos Lajos\Downloads\születések száma vas megyében\vasmegye\vasmegye\bin\Debug\vasmegye.pdb
+C:\Users\Borsos Lajos\Downloads\születések száma vas megyében\vasmegye\vasmegye\obj\Debug\vasmegye.csprojResolveAssemblyReference.cache
+C:\Users\Borsos Lajos\Downloads\születések száma vas megyében\vasmegye\vasmegye\obj\Debug\vasmegye.exe
+C:\Users\Borsos Lajos\Downloads\születések száma vas megyében\vasmegye\vasmegye\obj\Debug\vasmegye.pdb
+c:\Users\Borsos Lajos\Downloads\születések száma vas megyében 2\vasmegye\vasmegye\bin\Debug\vasmegye.exe.config
+c:\Users\Borsos Lajos\Downloads\születések száma vas megyében 2\vasmegye\vasmegye\obj\Debug\vasmegye.exe
+c:\Users\Borsos Lajos\Downloads\születések száma vas megyében 2\vasmegye\vasmegye\obj\Debug\vasmegye.pdb
+c:\Users\Borsos Lajos\Downloads\születések száma vas megyében 2\vasmegye\vasmegye\bin\Debug\vasmegye.exe
+c:\Users\Borsos Lajos\Downloads\születések száma vas megyében 2\vasmegye\vasmegye\bin\Debug\vasmegye.pdb
+c:\Users\Borsos Lajos\Downloads\születések száma vas megyében 2\vasmegye\vasmegye\obj\Debug\vasmegye.csprojResolveAssemblyReference.cache
+e:\Downloads\születések száma vas megyében 2\vasmegye\vasmegye\bin\Debug\vasmegye.exe.config
+e:\Downloads\születések száma vas megyében 2\vasmegye\vasmegye\obj\Debug\vasmegye.exe
+e:\Downloads\születések száma vas megyében 2\vasmegye\vasmegye\obj\Debug\vasmegye.pdb
+e:\Downloads\születések száma vas megyében 2\vasmegye\vasmegye\bin\Debug\vasmegye.exe
+e:\Downloads\születések száma vas megyében 2\vasmegye\vasmegye\bin\Debug\vasmegye.pdb
+e:\Downloads\születések száma vas megyében 2\vasmegye\vasmegye\obj\Debug\vasmegye.csprojResolveAssemblyReference.cache
+e:\Downloads\születések száma vas megyében 2 másolata\vasmegye\vasmegye\bin\Debug\vasmegye.exe.config
+e:\Downloads\születések száma vas megyében 2 másolata\vasmegye\vasmegye\obj\Debug\vasmegye.exe
+e:\Downloads\születések száma vas megyében 2 másolata\vasmegye\vasmegye\obj\Debug\vasmegye.pdb
+e:\Downloads\születések száma vas megyében 2 másolata\vasmegye\vasmegye\bin\Debug\vasmegye.exe
+e:\Downloads\születések száma vas megyében 2 másolata\vasmegye\vasmegye\bin\Debug\vasmegye.pdb
+e:\Downloads\születések száma vas megyében 2 másolata\vasmegye\vasmegye\obj\Debug\vasmegye.csprojResolveAssemblyReference.cache

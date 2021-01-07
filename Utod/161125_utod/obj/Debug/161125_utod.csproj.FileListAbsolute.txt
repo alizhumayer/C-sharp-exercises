@@ -1,0 +1,19 @@
+D:\Szoftverfejlesztés\C win form gyak\161125_utod\161125_utod\bin\Debug\161125_utod.exe.config
+D:\Szoftverfejlesztés\C win form gyak\161125_utod\161125_utod\bin\Debug\161125_utod.exe
+D:\Szoftverfejlesztés\C win form gyak\161125_utod\161125_utod\bin\Debug\161125_utod.pdb
+D:\Szoftverfejlesztés\C win form gyak\161125_utod\161125_utod\obj\Debug\161125_utod.csprojResolveAssemblyReference.cache
+D:\Szoftverfejlesztés\C win form gyak\161125_utod\161125_utod\obj\Debug\_161125_utod.Form1.resources
+D:\Szoftverfejlesztés\C win form gyak\161125_utod\161125_utod\obj\Debug\_161125_utod.Properties.Resources.resources
+D:\Szoftverfejlesztés\C win form gyak\161125_utod\161125_utod\obj\Debug\161125_utod.csproj.GenerateResource.Cache
+D:\Szoftverfejlesztés\C win form gyak\161125_utod\161125_utod\obj\Debug\161125_utod.exe
+D:\Szoftverfejlesztés\C win form gyak\161125_utod\161125_utod\obj\Debug\161125_utod.pdb
+C:\Users\AlizHumayer\Desktop\C sharp_mix\161125_utod\161125_utod\161125_utod\bin\Debug\161125_utod.exe.config
+C:\Users\AlizHumayer\Desktop\C sharp_mix\161125_utod\161125_utod\161125_utod\bin\Debug\161125_utod.exe
+C:\Users\AlizHumayer\Desktop\C sharp_mix\161125_utod\161125_utod\161125_utod\bin\Debug\161125_utod.pdb
+C:\Users\AlizHumayer\Desktop\C sharp_mix\161125_utod\161125_utod\161125_utod\obj\Debug\161125_utod.csprojAssemblyReference.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\161125_utod\161125_utod\161125_utod\obj\Debug\_161125_utod.Form1.resources
+C:\Users\AlizHumayer\Desktop\C sharp_mix\161125_utod\161125_utod\161125_utod\obj\Debug\_161125_utod.Properties.Resources.resources
+C:\Users\AlizHumayer\Desktop\C sharp_mix\161125_utod\161125_utod\161125_utod\obj\Debug\161125_utod.csproj.GenerateResource.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\161125_utod\161125_utod\161125_utod\obj\Debug\161125_utod.csproj.CoreCompileInputs.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\161125_utod\161125_utod\161125_utod\obj\Debug\161125_utod.exe
+C:\Users\AlizHumayer\Desktop\C sharp_mix\161125_utod\161125_utod\161125_utod\obj\Debug\161125_utod.pdb

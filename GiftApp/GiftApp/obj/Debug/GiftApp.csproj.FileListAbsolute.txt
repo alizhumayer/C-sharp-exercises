@@ -1,0 +1,20 @@
+D:\Private_munka\EstiSuli\C#\Beadando\GiftApp\GiftApp\bin\Debug\GiftApp.exe.config
+D:\Private_munka\EstiSuli\C#\Beadando\GiftApp\GiftApp\bin\Debug\GiftApp.exe
+D:\Private_munka\EstiSuli\C#\Beadando\GiftApp\GiftApp\bin\Debug\GiftApp.pdb
+D:\Private_munka\EstiSuli\C#\Beadando\GiftApp\GiftApp\obj\Debug\GiftApp.csprojAssemblyReference.cache
+D:\Private_munka\EstiSuli\C#\Beadando\GiftApp\GiftApp\obj\Debug\GiftApp.Form1.resources
+D:\Private_munka\EstiSuli\C#\Beadando\GiftApp\GiftApp\obj\Debug\GiftApp.Properties.Resources.resources
+D:\Private_munka\EstiSuli\C#\Beadando\GiftApp\GiftApp\obj\Debug\GiftApp.csproj.GenerateResource.cache
+D:\Private_munka\EstiSuli\C#\Beadando\GiftApp\GiftApp\obj\Debug\GiftApp.csproj.CoreCompileInputs.cache
+D:\Private_munka\EstiSuli\C#\Beadando\GiftApp\GiftApp\obj\Debug\GiftApp.exe
+D:\Private_munka\EstiSuli\C#\Beadando\GiftApp\GiftApp\obj\Debug\GiftApp.pdb
+C:\Users\AlizHumayer\Desktop\C Sharp_Vegyes\Zsolt programjai\Beadando\Beadando\GiftApp\GiftApp\bin\Debug\GiftApp.exe.config
+C:\Users\AlizHumayer\Desktop\C Sharp_Vegyes\Zsolt programjai\Beadando\Beadando\GiftApp\GiftApp\bin\Debug\GiftApp.exe
+C:\Users\AlizHumayer\Desktop\C Sharp_Vegyes\Zsolt programjai\Beadando\Beadando\GiftApp\GiftApp\bin\Debug\GiftApp.pdb
+C:\Users\AlizHumayer\Desktop\C Sharp_Vegyes\Zsolt programjai\Beadando\Beadando\GiftApp\GiftApp\obj\Debug\GiftApp.csprojAssemblyReference.cache
+C:\Users\AlizHumayer\Desktop\C Sharp_Vegyes\Zsolt programjai\Beadando\Beadando\GiftApp\GiftApp\obj\Debug\GiftApp.Form1.resources
+C:\Users\AlizHumayer\Desktop\C Sharp_Vegyes\Zsolt programjai\Beadando\Beadando\GiftApp\GiftApp\obj\Debug\GiftApp.Properties.Resources.resources
+C:\Users\AlizHumayer\Desktop\C Sharp_Vegyes\Zsolt programjai\Beadando\Beadando\GiftApp\GiftApp\obj\Debug\GiftApp.csproj.GenerateResource.cache
+C:\Users\AlizHumayer\Desktop\C Sharp_Vegyes\Zsolt programjai\Beadando\Beadando\GiftApp\GiftApp\obj\Debug\GiftApp.csproj.CoreCompileInputs.cache
+C:\Users\AlizHumayer\Desktop\C Sharp_Vegyes\Zsolt programjai\Beadando\Beadando\GiftApp\GiftApp\obj\Debug\GiftApp.exe
+C:\Users\AlizHumayer\Desktop\C Sharp_Vegyes\Zsolt programjai\Beadando\Beadando\GiftApp\GiftApp\obj\Debug\GiftApp.pdb

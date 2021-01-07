@@ -1,0 +1,33 @@
+E:\Tananyagfejlesztés\!!!elkészült\Tanegys_9_10\progik\Osztalypenz\Osztalypenz\bin\Debug\Osztalypenz.exe
+E:\Tananyagfejlesztés\!!!elkészült\Tanegys_9_10\progik\Osztalypenz\Osztalypenz\bin\Debug\Osztalypenz.pdb
+E:\Tananyagfejlesztés\!!!elkészült\Tanegys_9_10\progik\Osztalypenz\Osztalypenz\obj\Debug\ResolveAssemblyReference.cache
+E:\Tananyagfejlesztés\!!!elkészült\Tanegys_9_10\progik\Osztalypenz\Osztalypenz\obj\Debug\Osztalypenz.Form1.resources
+E:\Tananyagfejlesztés\!!!elkészült\Tanegys_9_10\progik\Osztalypenz\Osztalypenz\obj\Debug\Osztalypenz.Properties.Resources.resources
+E:\Tananyagfejlesztés\!!!elkészült\Tanegys_9_10\progik\Osztalypenz\Osztalypenz\obj\Debug\Osztalypenz.csproj.GenerateResource.Cache
+E:\Tananyagfejlesztés\!!!elkészült\Tanegys_9_10\progik\Osztalypenz\Osztalypenz\obj\Debug\Osztalypenz.exe
+E:\Tananyagfejlesztés\!!!elkészült\Tanegys_9_10\progik\Osztalypenz\Osztalypenz\obj\Debug\Osztalypenz.pdb
+c:\Users\Tanár\Downloads\CSharp programozás új feladatok\9_10_Osztalypenz\Osztalypenz\obj\Debug\Osztalypenz.exe
+c:\Users\Tanár\Downloads\CSharp programozás új feladatok\9_10_Osztalypenz\Osztalypenz\obj\Debug\Osztalypenz.pdb
+c:\Users\Tanár\Downloads\CSharp programozás új feladatok\9_10_Osztalypenz\Osztalypenz\bin\Debug\Osztalypenz.exe
+c:\Users\Tanár\Downloads\CSharp programozás új feladatok\9_10_Osztalypenz\Osztalypenz\bin\Debug\Osztalypenz.pdb
+c:\Users\Tanár\Downloads\CSharp programozás új feladatok\9_10_Osztalypenz\Osztalypenz\obj\Debug\Osztalypenz.csprojResolveAssemblyReference.cache
+c:\Users\Tanár\Downloads\CSharp programozás új feladatok\9_10_Osztalypenz\Osztalypenz\obj\Debug\Osztalypenz.Form1.resources
+c:\Users\Tanár\Downloads\CSharp programozás új feladatok\9_10_Osztalypenz\Osztalypenz\obj\Debug\Osztalypenz.Properties.Resources.resources
+c:\Users\Tanár\Downloads\CSharp programozás új feladatok\9_10_Osztalypenz\Osztalypenz\obj\Debug\Osztalypenz.csproj.GenerateResource.Cache
+c:\Users\Tanár\Downloads\CSharp programozás új feladatok\9_10_Osztalypenz másolata\Osztalypenz\obj\Debug\Osztalypenz.exe
+c:\Users\Tanár\Downloads\CSharp programozás új feladatok\9_10_Osztalypenz másolata\Osztalypenz\obj\Debug\Osztalypenz.pdb
+c:\Users\Tanár\Downloads\CSharp programozás új feladatok\9_10_Osztalypenz másolata\Osztalypenz\bin\Debug\Osztalypenz.exe
+c:\Users\Tanár\Downloads\CSharp programozás új feladatok\9_10_Osztalypenz másolata\Osztalypenz\bin\Debug\Osztalypenz.pdb
+c:\Users\Tanár\Downloads\CSharp programozás új feladatok\9_10_Osztalypenz másolata\Osztalypenz\obj\Debug\Osztalypenz.csprojResolveAssemblyReference.cache
+c:\Users\Tanár\Downloads\CSharp programozás új feladatok\9_10_Osztalypenz másolata\Osztalypenz\obj\Debug\Osztalypenz.Form1.resources
+c:\Users\Tanár\Downloads\CSharp programozás új feladatok\9_10_Osztalypenz másolata\Osztalypenz\obj\Debug\Osztalypenz.Properties.Resources.resources
+c:\Users\Tanár\Downloads\CSharp programozás új feladatok\9_10_Osztalypenz másolata\Osztalypenz\obj\Debug\Osztalypenz.csproj.GenerateResource.Cache
+c:\Users\Tanár\Downloads\csharp\CSharp programozás új feladatok\9_10_Osztalypenz másolata másolata\Osztalypenz\bin\Debug\Osztalypenz.exe
+c:\Users\Tanár\Downloads\csharp\CSharp programozás új feladatok\9_10_Osztalypenz másolata másolata\Osztalypenz\bin\Debug\Osztalypenz.pdb
+c:\Users\Tanár\Downloads\csharp\CSharp programozás új feladatok\9_10_Osztalypenz másolata másolata\Osztalypenz\obj\Debug\Osztalypenz.csprojAssemblyReference.cache
+c:\Users\Tanár\Downloads\csharp\CSharp programozás új feladatok\9_10_Osztalypenz másolata másolata\Osztalypenz\obj\Debug\Osztalypenz.Form1.resources
+c:\Users\Tanár\Downloads\csharp\CSharp programozás új feladatok\9_10_Osztalypenz másolata másolata\Osztalypenz\obj\Debug\Osztalypenz.Properties.Resources.resources
+c:\Users\Tanár\Downloads\csharp\CSharp programozás új feladatok\9_10_Osztalypenz másolata másolata\Osztalypenz\obj\Debug\Osztalypenz.csproj.GenerateResource.cache
+c:\Users\Tanár\Downloads\csharp\CSharp programozás új feladatok\9_10_Osztalypenz másolata másolata\Osztalypenz\obj\Debug\Osztalypenz.csproj.CoreCompileInputs.cache
+c:\Users\Tanár\Downloads\csharp\CSharp programozás új feladatok\9_10_Osztalypenz másolata másolata\Osztalypenz\obj\Debug\Osztalypenz.exe
+c:\Users\Tanár\Downloads\csharp\CSharp programozás új feladatok\9_10_Osztalypenz másolata másolata\Osztalypenz\obj\Debug\Osztalypenz.pdb

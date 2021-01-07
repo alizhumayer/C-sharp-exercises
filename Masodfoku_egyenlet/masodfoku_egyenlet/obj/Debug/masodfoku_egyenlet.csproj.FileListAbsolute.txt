@@ -1,0 +1,19 @@
+c:\users\acs.marcell\documents\visual studio 2015\Projects\masodfoku_egyenlet\masodfoku_egyenlet\bin\Debug\masodfoku_egyenlet.exe.config
+c:\users\acs.marcell\documents\visual studio 2015\Projects\masodfoku_egyenlet\masodfoku_egyenlet\bin\Debug\masodfoku_egyenlet.exe
+c:\users\acs.marcell\documents\visual studio 2015\Projects\masodfoku_egyenlet\masodfoku_egyenlet\bin\Debug\masodfoku_egyenlet.pdb
+c:\users\acs.marcell\documents\visual studio 2015\Projects\masodfoku_egyenlet\masodfoku_egyenlet\obj\Debug\masodfoku_egyenlet.csprojResolveAssemblyReference.cache
+c:\users\acs.marcell\documents\visual studio 2015\Projects\masodfoku_egyenlet\masodfoku_egyenlet\obj\Debug\masodfoku_egyenlet.Form1.resources
+c:\users\acs.marcell\documents\visual studio 2015\Projects\masodfoku_egyenlet\masodfoku_egyenlet\obj\Debug\masodfoku_egyenlet.Properties.Resources.resources
+c:\users\acs.marcell\documents\visual studio 2015\Projects\masodfoku_egyenlet\masodfoku_egyenlet\obj\Debug\masodfoku_egyenlet.csproj.GenerateResource.Cache
+c:\users\acs.marcell\documents\visual studio 2015\Projects\masodfoku_egyenlet\masodfoku_egyenlet\obj\Debug\masodfoku_egyenlet.exe
+c:\users\acs.marcell\documents\visual studio 2015\Projects\masodfoku_egyenlet\masodfoku_egyenlet\obj\Debug\masodfoku_egyenlet.pdb
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20161124_masodfoku_egyenlet\20161124_masodfoku_egyenlet\masodfoku_egyenlet\bin\Debug\masodfoku_egyenlet.exe.config
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20161124_masodfoku_egyenlet\20161124_masodfoku_egyenlet\masodfoku_egyenlet\bin\Debug\masodfoku_egyenlet.exe
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20161124_masodfoku_egyenlet\20161124_masodfoku_egyenlet\masodfoku_egyenlet\bin\Debug\masodfoku_egyenlet.pdb
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20161124_masodfoku_egyenlet\20161124_masodfoku_egyenlet\masodfoku_egyenlet\obj\Debug\masodfoku_egyenlet.csprojAssemblyReference.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20161124_masodfoku_egyenlet\20161124_masodfoku_egyenlet\masodfoku_egyenlet\obj\Debug\masodfoku_egyenlet.Form1.resources
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20161124_masodfoku_egyenlet\20161124_masodfoku_egyenlet\masodfoku_egyenlet\obj\Debug\masodfoku_egyenlet.Properties.Resources.resources
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20161124_masodfoku_egyenlet\20161124_masodfoku_egyenlet\masodfoku_egyenlet\obj\Debug\masodfoku_egyenlet.csproj.GenerateResource.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20161124_masodfoku_egyenlet\20161124_masodfoku_egyenlet\masodfoku_egyenlet\obj\Debug\masodfoku_egyenlet.csproj.CoreCompileInputs.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20161124_masodfoku_egyenlet\20161124_masodfoku_egyenlet\masodfoku_egyenlet\obj\Debug\masodfoku_egyenlet.exe
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20161124_masodfoku_egyenlet\20161124_masodfoku_egyenlet\masodfoku_egyenlet\obj\Debug\masodfoku_egyenlet.pdb

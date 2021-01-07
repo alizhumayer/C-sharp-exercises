@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Nov26_rendezes/1.0.0": {
+        "runtime": {
+          "Nov26_rendezes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Nov26_rendezes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,28 @@
+C:\Users\ACS.MARCELL\Desktop\csharp\MAVUtopia\MAVUtopia\bin\Debug\MAVUtopia.exe.config
+C:\Users\ACS.MARCELL\Desktop\csharp\MAVUtopia\MAVUtopia\bin\Debug\MAVUtopia.exe
+C:\Users\ACS.MARCELL\Desktop\csharp\MAVUtopia\MAVUtopia\bin\Debug\MAVUtopia.pdb
+C:\Users\ACS.MARCELL\Desktop\csharp\MAVUtopia\MAVUtopia\obj\Debug\MAVUtopia.csprojResolveAssemblyReference.cache
+C:\Users\ACS.MARCELL\Desktop\csharp\MAVUtopia\MAVUtopia\obj\Debug\MAVUtopia.Form1.resources
+C:\Users\ACS.MARCELL\Desktop\csharp\MAVUtopia\MAVUtopia\obj\Debug\MAVUtopia.Properties.Resources.resources
+C:\Users\ACS.MARCELL\Desktop\csharp\MAVUtopia\MAVUtopia\obj\Debug\MAVUtopia.csproj.GenerateResource.Cache
+C:\Users\ACS.MARCELL\Desktop\csharp\MAVUtopia\MAVUtopia\obj\Debug\MAVUtopia.exe
+C:\Users\ACS.MARCELL\Desktop\csharp\MAVUtopia\MAVUtopia\obj\Debug\MAVUtopia.pdb
+D:\Szoftverfejlesztés\_4. félév\C#\20171009MAVUtopia_beta\MAVUtopia\bin\Debug\MAVUtopia.exe.config
+D:\Szoftverfejlesztés\_4. félév\C#\20171009MAVUtopia_beta\MAVUtopia\obj\Debug\MAVUtopia.exe
+D:\Szoftverfejlesztés\_4. félév\C#\20171009MAVUtopia_beta\MAVUtopia\obj\Debug\MAVUtopia.pdb
+D:\Szoftverfejlesztés\_4. félév\C#\20171009MAVUtopia_beta\MAVUtopia\bin\Debug\MAVUtopia.exe
+D:\Szoftverfejlesztés\_4. félév\C#\20171009MAVUtopia_beta\MAVUtopia\bin\Debug\MAVUtopia.pdb
+D:\Szoftverfejlesztés\_4. félév\C#\20171009MAVUtopia_beta\MAVUtopia\obj\Debug\MAVUtopia.csprojResolveAssemblyReference.cache
+D:\Szoftverfejlesztés\_4. félév\C#\20171009MAVUtopia_beta\MAVUtopia\obj\Debug\MAVUtopia.Form1.resources
+D:\Szoftverfejlesztés\_4. félév\C#\20171009MAVUtopia_beta\MAVUtopia\obj\Debug\MAVUtopia.Properties.Resources.resources
+D:\Szoftverfejlesztés\_4. félév\C#\20171009MAVUtopia_beta\MAVUtopia\obj\Debug\MAVUtopia.csproj.GenerateResource.Cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20171009\20171009MAVUtopia\MAVUtopia\bin\Debug\MAVUtopia.exe.config
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20171009\20171009MAVUtopia\MAVUtopia\bin\Debug\MAVUtopia.exe
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20171009\20171009MAVUtopia\MAVUtopia\bin\Debug\MAVUtopia.pdb
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20171009\20171009MAVUtopia\MAVUtopia\obj\Debug\MAVUtopia.csprojAssemblyReference.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20171009\20171009MAVUtopia\MAVUtopia\obj\Debug\MAVUtopia.Form1.resources
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20171009\20171009MAVUtopia\MAVUtopia\obj\Debug\MAVUtopia.Properties.Resources.resources
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20171009\20171009MAVUtopia\MAVUtopia\obj\Debug\MAVUtopia.csproj.GenerateResource.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20171009\20171009MAVUtopia\MAVUtopia\obj\Debug\MAVUtopia.csproj.CoreCompileInputs.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20171009\20171009MAVUtopia\MAVUtopia\obj\Debug\MAVUtopia.exe
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20171009\20171009MAVUtopia\MAVUtopia\obj\Debug\MAVUtopia.pdb

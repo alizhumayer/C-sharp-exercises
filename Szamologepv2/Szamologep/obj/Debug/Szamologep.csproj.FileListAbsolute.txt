@@ -1,0 +1,19 @@
+H:\C#\Szamologep\Szamologep\bin\Debug\Szamologep.exe.config
+H:\C#\Szamologep\Szamologep\bin\Debug\Szamologep.exe
+H:\C#\Szamologep\Szamologep\bin\Debug\Szamologep.pdb
+H:\C#\Szamologep\Szamologep\obj\Debug\Szamologep.csprojResolveAssemblyReference.cache
+H:\C#\Szamologep\Szamologep\obj\Debug\Szamologep.Form1.resources
+H:\C#\Szamologep\Szamologep\obj\Debug\Szamologep.Properties.Resources.resources
+H:\C#\Szamologep\Szamologep\obj\Debug\Szamologep.csproj.GenerateResource.Cache
+H:\C#\Szamologep\Szamologep\obj\Debug\Szamologep.exe
+H:\C#\Szamologep\Szamologep\obj\Debug\Szamologep.pdb
+C:\Users\AlizHumayer\Desktop\C sharp_mix\Szamologepv4\Szamologepv4\Szamologep\bin\Debug\Szamologep.exe.config
+C:\Users\AlizHumayer\Desktop\C sharp_mix\Szamologepv4\Szamologepv4\Szamologep\bin\Debug\Szamologep.exe
+C:\Users\AlizHumayer\Desktop\C sharp_mix\Szamologepv4\Szamologepv4\Szamologep\bin\Debug\Szamologep.pdb
+C:\Users\AlizHumayer\Desktop\C sharp_mix\Szamologepv4\Szamologepv4\Szamologep\obj\Debug\Szamologep.csprojAssemblyReference.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\Szamologepv4\Szamologepv4\Szamologep\obj\Debug\Szamologep.Form1.resources
+C:\Users\AlizHumayer\Desktop\C sharp_mix\Szamologepv4\Szamologepv4\Szamologep\obj\Debug\Szamologep.Properties.Resources.resources
+C:\Users\AlizHumayer\Desktop\C sharp_mix\Szamologepv4\Szamologepv4\Szamologep\obj\Debug\Szamologep.csproj.GenerateResource.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\Szamologepv4\Szamologepv4\Szamologep\obj\Debug\Szamologep.csproj.CoreCompileInputs.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\Szamologepv4\Szamologepv4\Szamologep\obj\Debug\Szamologep.exe
+C:\Users\AlizHumayer\Desktop\C sharp_mix\Szamologepv4\Szamologepv4\Szamologep\obj\Debug\Szamologep.pdb

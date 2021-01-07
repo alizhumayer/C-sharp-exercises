@@ -1,0 +1,10 @@
+C:\Users\Eszti\source\logikai\logikai\bin\Debug\logikai.exe.config
+C:\Users\Eszti\source\logikai\logikai\bin\Debug\logikai.exe
+C:\Users\Eszti\source\logikai\logikai\bin\Debug\logikai.pdb
+C:\Users\Eszti\source\logikai\logikai\obj\Debug\logikai.csprojAssemblyReference.cache
+C:\Users\Eszti\source\logikai\logikai\obj\Debug\logikai.Form1.resources
+C:\Users\Eszti\source\logikai\logikai\obj\Debug\logikai.Properties.Resources.resources
+C:\Users\Eszti\source\logikai\logikai\obj\Debug\logikai.csproj.GenerateResource.cache
+C:\Users\Eszti\source\logikai\logikai\obj\Debug\logikai.csproj.CoreCompileInputs.cache
+C:\Users\Eszti\source\logikai\logikai\obj\Debug\logikai.exe
+C:\Users\Eszti\source\logikai\logikai\obj\Debug\logikai.pdb

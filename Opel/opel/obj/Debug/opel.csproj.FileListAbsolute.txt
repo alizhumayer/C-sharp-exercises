@@ -1,0 +1,6 @@
+C:\Users\Tanár\Downloads\opel-programozasfeladat-konzolos\opel\opel\bin\Debug\opel.exe.config
+C:\Users\Tanár\Downloads\opel-programozasfeladat-konzolos\opel\opel\bin\Debug\opel.exe
+C:\Users\Tanár\Downloads\opel-programozasfeladat-konzolos\opel\opel\bin\Debug\opel.pdb
+C:\Users\Tanár\Downloads\opel-programozasfeladat-konzolos\opel\opel\obj\Debug\opel.csprojAssemblyReference.cache
+C:\Users\Tanár\Downloads\opel-programozasfeladat-konzolos\opel\opel\obj\Debug\opel.exe
+C:\Users\Tanár\Downloads\opel-programozasfeladat-konzolos\opel\opel\obj\Debug\opel.pdb

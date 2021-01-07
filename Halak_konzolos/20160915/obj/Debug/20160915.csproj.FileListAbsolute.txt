@@ -1,0 +1,6 @@
+D:\esti_szoftfejl\2_1\csharp\20160915\20160915\bin\Debug\20160915.exe.config
+D:\esti_szoftfejl\2_1\csharp\20160915\20160915\obj\Debug\20160915.csprojResolveAssemblyReference.cache
+D:\esti_szoftfejl\2_1\csharp\20160915\20160915\bin\Debug\20160915.exe
+D:\esti_szoftfejl\2_1\csharp\20160915\20160915\bin\Debug\20160915.pdb
+D:\esti_szoftfejl\2_1\csharp\20160915\20160915\obj\Debug\20160915.exe
+D:\esti_szoftfejl\2_1\csharp\20160915\20160915\obj\Debug\20160915.pdb

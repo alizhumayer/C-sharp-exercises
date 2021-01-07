@@ -1,0 +1,6 @@
+C:\Users\borso\Downloads\vb2018\vb2018\vb2018\bin\Debug\vb2018.exe.config
+C:\Users\borso\Downloads\vb2018\vb2018\vb2018\bin\Debug\vb2018.exe
+C:\Users\borso\Downloads\vb2018\vb2018\vb2018\bin\Debug\vb2018.pdb
+C:\Users\borso\Downloads\vb2018\vb2018\vb2018\obj\Debug\vb2018.csprojResolveAssemblyReference.cache
+C:\Users\borso\Downloads\vb2018\vb2018\vb2018\obj\Debug\vb2018.exe
+C:\Users\borso\Downloads\vb2018\vb2018\vb2018\obj\Debug\vb2018.pdb

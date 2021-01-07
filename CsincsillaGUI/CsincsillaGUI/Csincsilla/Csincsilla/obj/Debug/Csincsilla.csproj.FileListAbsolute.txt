@@ -1,0 +1,9 @@
+C:\Users\Tanár\Downloads\CsincsillaGUI\Csincsilla\Csincsilla\bin\Debug\Csincsilla.exe.config
+C:\Users\Tanár\Downloads\CsincsillaGUI\Csincsilla\Csincsilla\bin\Debug\Csincsilla.exe
+C:\Users\Tanár\Downloads\CsincsillaGUI\Csincsilla\Csincsilla\bin\Debug\Csincsilla.pdb
+C:\Users\Tanár\Downloads\CsincsillaGUI\Csincsilla\Csincsilla\obj\Debug\Csincsilla.csprojAssemblyReference.cache
+C:\Users\Tanár\Downloads\CsincsillaGUI\Csincsilla\Csincsilla\obj\Debug\Csincsilla.Form1.resources
+C:\Users\Tanár\Downloads\CsincsillaGUI\Csincsilla\Csincsilla\obj\Debug\Csincsilla.Properties.Resources.resources
+C:\Users\Tanár\Downloads\CsincsillaGUI\Csincsilla\Csincsilla\obj\Debug\Csincsilla.csproj.GenerateResource.cache
+C:\Users\Tanár\Downloads\CsincsillaGUI\Csincsilla\Csincsilla\obj\Debug\Csincsilla.exe
+C:\Users\Tanár\Downloads\CsincsillaGUI\Csincsilla\Csincsilla\obj\Debug\Csincsilla.pdb

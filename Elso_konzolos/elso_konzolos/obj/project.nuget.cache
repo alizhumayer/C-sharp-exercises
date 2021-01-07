@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ktVEc1Fhk3/QMW9ibPt6Vyc0GTBfsyCk+gcVjZCZJE7E7lhyRHGEn+8xIre5t94TFXycALxhRICQVCLXw5nqMg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AlizHumayer\\Desktop\\C sharp órai programok\\elso_konzolos\\elso_konzolos\\elso_konzolos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AlizHumayer\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\AlizHumayer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,2 @@
+# calculator
+Egy egyszerű zsebszámológép

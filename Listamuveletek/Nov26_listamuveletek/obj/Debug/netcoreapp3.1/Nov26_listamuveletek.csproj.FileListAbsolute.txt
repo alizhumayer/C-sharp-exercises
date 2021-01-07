@@ -1,0 +1,12 @@
+C:\Users\Eszti\source\Nov26_listamuveletek\Nov26_listamuveletek\bin\Debug\netcoreapp3.1\Nov26_listamuveletek.exe
+C:\Users\Eszti\source\Nov26_listamuveletek\Nov26_listamuveletek\bin\Debug\netcoreapp3.1\Nov26_listamuveletek.deps.json
+C:\Users\Eszti\source\Nov26_listamuveletek\Nov26_listamuveletek\bin\Debug\netcoreapp3.1\Nov26_listamuveletek.runtimeconfig.json
+C:\Users\Eszti\source\Nov26_listamuveletek\Nov26_listamuveletek\bin\Debug\netcoreapp3.1\Nov26_listamuveletek.runtimeconfig.dev.json
+C:\Users\Eszti\source\Nov26_listamuveletek\Nov26_listamuveletek\bin\Debug\netcoreapp3.1\Nov26_listamuveletek.dll
+C:\Users\Eszti\source\Nov26_listamuveletek\Nov26_listamuveletek\bin\Debug\netcoreapp3.1\Nov26_listamuveletek.pdb
+C:\Users\Eszti\source\Nov26_listamuveletek\Nov26_listamuveletek\obj\Debug\netcoreapp3.1\Nov26_listamuveletek.AssemblyInfoInputs.cache
+C:\Users\Eszti\source\Nov26_listamuveletek\Nov26_listamuveletek\obj\Debug\netcoreapp3.1\Nov26_listamuveletek.AssemblyInfo.cs
+C:\Users\Eszti\source\Nov26_listamuveletek\Nov26_listamuveletek\obj\Debug\netcoreapp3.1\Nov26_listamuveletek.csproj.CoreCompileInputs.cache
+C:\Users\Eszti\source\Nov26_listamuveletek\Nov26_listamuveletek\obj\Debug\netcoreapp3.1\Nov26_listamuveletek.dll
+C:\Users\Eszti\source\Nov26_listamuveletek\Nov26_listamuveletek\obj\Debug\netcoreapp3.1\Nov26_listamuveletek.pdb
+C:\Users\Eszti\source\Nov26_listamuveletek\Nov26_listamuveletek\obj\Debug\netcoreapp3.1\Nov26_listamuveletek.genruntimeconfig.cache

@@ -1,0 +1,19 @@
+c:\users\acs.marcell\documents\visual studio 2015\Projects\iter_req keres\iter_req keres\bin\Debug\iter_req keres.exe.config
+c:\users\acs.marcell\documents\visual studio 2015\Projects\iter_req keres\iter_req keres\obj\Debug\iter_req keres.csprojResolveAssemblyReference.cache
+c:\users\acs.marcell\documents\visual studio 2015\Projects\iter_req keres\iter_req keres\obj\Debug\iter_req_keres.Form1.resources
+c:\users\acs.marcell\documents\visual studio 2015\Projects\iter_req keres\iter_req keres\obj\Debug\iter_req_keres.Properties.Resources.resources
+c:\users\acs.marcell\documents\visual studio 2015\Projects\iter_req keres\iter_req keres\obj\Debug\iter_req keres.csproj.GenerateResource.Cache
+c:\users\acs.marcell\documents\visual studio 2015\Projects\iter_req keres\iter_req keres\bin\Debug\iter_req keres.exe
+c:\users\acs.marcell\documents\visual studio 2015\Projects\iter_req keres\iter_req keres\bin\Debug\iter_req keres.pdb
+c:\users\acs.marcell\documents\visual studio 2015\Projects\iter_req keres\iter_req keres\obj\Debug\iter_req keres.exe
+c:\users\acs.marcell\documents\visual studio 2015\Projects\iter_req keres\iter_req keres\obj\Debug\iter_req keres.pdb
+C:\Users\AlizHumayer\Desktop\C sharp_mix\iter_req keres\iter_req keres\iter_req keres\bin\Debug\iter_req keres.exe.config
+C:\Users\AlizHumayer\Desktop\C sharp_mix\iter_req keres\iter_req keres\iter_req keres\bin\Debug\iter_req keres.exe
+C:\Users\AlizHumayer\Desktop\C sharp_mix\iter_req keres\iter_req keres\iter_req keres\bin\Debug\iter_req keres.pdb
+C:\Users\AlizHumayer\Desktop\C sharp_mix\iter_req keres\iter_req keres\iter_req keres\obj\Debug\iter_req keres.csprojAssemblyReference.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\iter_req keres\iter_req keres\iter_req keres\obj\Debug\iter_req_keres.Form1.resources
+C:\Users\AlizHumayer\Desktop\C sharp_mix\iter_req keres\iter_req keres\iter_req keres\obj\Debug\iter_req_keres.Properties.Resources.resources
+C:\Users\AlizHumayer\Desktop\C sharp_mix\iter_req keres\iter_req keres\iter_req keres\obj\Debug\iter_req keres.csproj.GenerateResource.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\iter_req keres\iter_req keres\iter_req keres\obj\Debug\iter_req keres.csproj.CoreCompileInputs.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\iter_req keres\iter_req keres\iter_req keres\obj\Debug\iter_req keres.exe
+C:\Users\AlizHumayer\Desktop\C sharp_mix\iter_req keres\iter_req keres\iter_req keres\obj\Debug\iter_req keres.pdb

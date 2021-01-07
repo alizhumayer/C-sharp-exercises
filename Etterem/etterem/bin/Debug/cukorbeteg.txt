@@ -1,0 +1,23 @@
+Almaleves;130;9,8;550;L
+Fehérboros gombakrémleves;120;4,8;550;L
+Fokhagymakrémleves;360;8,1;550;L
+Málnakrémleves;90;6,6;550;L
+Paradicsomleves;310;9,1;600;L
+Póréhagyma krémleves;360;8,6;550;L
+Szederkrémleves;110;5,9;550;L
+Tárkonyos csirkeraguleves;290;9,9;600;L
+Parajfőzelék vagdalttal;520;7,4;920;F
+Sóskafőzelék tükörtojással;290;6,9;840;F
+Csirkepaprikás galuskával;520;8,7;1210;F
+Joghurtos csirkecomb galuskával;600;9,9;1040;F
+Pirított pulykamell sopszka salátával;350;9,6;1210;F
+Pulykaragu pitában zöldsalátával és joghurtos öntettel;380;7,6;980;F
+Sült csirkecomb tejszínes gombamártással;590;5,4;970;F
+Sült csirkemell tojásos zöldsalátával;440;5,9;1080;F
+Vajban sült csirkemell paradicsomos gombasalátával;310;9,7;1210;F
+Tojásos lecsó virslivel és galuskával;630;8,5;1000;F
+Juhtúrós sztrapacska;790;8,2;1040;F
+Almás-fahéjas palacsinta vaníliaöntettel;130;9,8;470;D
+Barackos lepény;190;6,6;480;D
+Somlói galuska;380;9,5;470;D
+Túrós palacsinta eperöntettel;240;9,9;480;D

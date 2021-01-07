@@ -1,0 +1,6 @@
+C:\Users\ACS.MARCELL\Desktop\csharp\VillamosMegalloKihaygas\VillamosMegalloKihaygas\bin\Debug\VillamosMegalloKihaygas.exe.config
+C:\Users\ACS.MARCELL\Desktop\csharp\VillamosMegalloKihaygas\VillamosMegalloKihaygas\bin\Debug\VillamosMegalloKihaygas.exe
+C:\Users\ACS.MARCELL\Desktop\csharp\VillamosMegalloKihaygas\VillamosMegalloKihaygas\bin\Debug\VillamosMegalloKihaygas.pdb
+C:\Users\ACS.MARCELL\Desktop\csharp\VillamosMegalloKihaygas\VillamosMegalloKihaygas\obj\Debug\VillamosMegalloKihaygas.csprojResolveAssemblyReference.cache
+C:\Users\ACS.MARCELL\Desktop\csharp\VillamosMegalloKihaygas\VillamosMegalloKihaygas\obj\Debug\VillamosMegalloKihaygas.exe
+C:\Users\ACS.MARCELL\Desktop\csharp\VillamosMegalloKihaygas\VillamosMegalloKihaygas\obj\Debug\VillamosMegalloKihaygas.pdb

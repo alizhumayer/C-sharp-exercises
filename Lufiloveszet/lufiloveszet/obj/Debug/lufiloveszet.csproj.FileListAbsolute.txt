@@ -1,0 +1,31 @@
+C:\Users\Tanár\Downloads\lufiloveszet\lufiloveszet\lufiloveszet\bin\Debug\lufiloveszet.exe.config
+c:\Users\Tanár\Downloads\lufiloveszet\lufiloveszet\lufiloveszet\bin\Debug\lufiloveszet.exe
+c:\Users\Tanár\Downloads\lufiloveszet\lufiloveszet\lufiloveszet\bin\Debug\lufiloveszet.pdb
+c:\Users\Tanár\Downloads\lufiloveszet\lufiloveszet\lufiloveszet\obj\Debug\lufiloveszet.csprojResolveAssemblyReference.cache
+c:\Users\Tanár\Downloads\lufiloveszet\lufiloveszet\lufiloveszet\obj\Debug\lufiloveszet.Form1.resources
+c:\Users\Tanár\Downloads\lufiloveszet\lufiloveszet\lufiloveszet\obj\Debug\lufiloveszet.Properties.Resources.resources
+c:\Users\Tanár\Downloads\lufiloveszet\lufiloveszet\lufiloveszet\obj\Debug\lufiloveszet.csproj.GenerateResource.Cache
+c:\Users\Tanár\Downloads\lufiloveszet\lufiloveszet\lufiloveszet\obj\Debug\lufiloveszet.exe
+c:\Users\Tanár\Downloads\lufiloveszet\lufiloveszet\lufiloveszet\obj\Debug\lufiloveszet.pdb
+c:\Users\Tanár\Downloads\céllövölde játék készítése\lufiloveszet\lufiloveszet\lufiloveszet\bin\Debug\lufiloveszet.exe.config
+c:\Users\Tanár\Downloads\céllövölde játék készítése\lufiloveszet\lufiloveszet\lufiloveszet\obj\Debug\lufiloveszet.exe
+c:\Users\Tanár\Downloads\céllövölde játék készítése\lufiloveszet\lufiloveszet\lufiloveszet\obj\Debug\lufiloveszet.pdb
+c:\Users\Tanár\Downloads\CSharp programozás\céllövölde játék készítése\lufiloveszet\lufiloveszet\lufiloveszet\bin\Debug\lufiloveszet.exe.config
+c:\Users\Tanár\Downloads\CSharp programozás\céllövölde játék készítése\lufiloveszet\lufiloveszet\lufiloveszet\obj\Debug\lufiloveszet.exe
+c:\Users\Tanár\Downloads\CSharp programozás\céllövölde játék készítése\lufiloveszet\lufiloveszet\lufiloveszet\obj\Debug\lufiloveszet.pdb
+c:\Users\Tanár\Downloads\CSharp programozás\céllövölde játék készítése\lufiloveszet\lufiloveszet\lufiloveszet\bin\Debug\lufiloveszet.exe
+c:\Users\Tanár\Downloads\CSharp programozás\céllövölde játék készítése\lufiloveszet\lufiloveszet\lufiloveszet\bin\Debug\lufiloveszet.pdb
+c:\Users\Tanár\Downloads\CSharp programozás\céllövölde játék készítése\lufiloveszet\lufiloveszet\lufiloveszet\obj\Debug\lufiloveszet.csprojResolveAssemblyReference.cache
+c:\Users\Tanár\Downloads\CSharp programozás\céllövölde játék készítése\lufiloveszet\lufiloveszet\lufiloveszet\obj\Debug\lufiloveszet.Form1.resources
+c:\Users\Tanár\Downloads\CSharp programozás\céllövölde játék készítése\lufiloveszet\lufiloveszet\lufiloveszet\obj\Debug\lufiloveszet.Properties.Resources.resources
+c:\Users\Tanár\Downloads\CSharp programozás\céllövölde játék készítése\lufiloveszet\lufiloveszet\lufiloveszet\obj\Debug\lufiloveszet.csproj.GenerateResource.Cache
+c:\Users\Tanár\Downloads\csharp\CSharp programozás\céllövölde játék készítése\lufiloveszet\lufiloveszet\lufiloveszet\bin\Debug\lufiloveszet.exe.config
+c:\Users\Tanár\Downloads\csharp\CSharp programozás\céllövölde játék készítése\lufiloveszet\lufiloveszet\lufiloveszet\bin\Debug\lufiloveszet.exe
+c:\Users\Tanár\Downloads\csharp\CSharp programozás\céllövölde játék készítése\lufiloveszet\lufiloveszet\lufiloveszet\bin\Debug\lufiloveszet.pdb
+c:\Users\Tanár\Downloads\csharp\CSharp programozás\céllövölde játék készítése\lufiloveszet\lufiloveszet\lufiloveszet\obj\Debug\lufiloveszet.csprojAssemblyReference.cache
+c:\Users\Tanár\Downloads\csharp\CSharp programozás\céllövölde játék készítése\lufiloveszet\lufiloveszet\lufiloveszet\obj\Debug\lufiloveszet.Form1.resources
+c:\Users\Tanár\Downloads\csharp\CSharp programozás\céllövölde játék készítése\lufiloveszet\lufiloveszet\lufiloveszet\obj\Debug\lufiloveszet.Properties.Resources.resources
+c:\Users\Tanár\Downloads\csharp\CSharp programozás\céllövölde játék készítése\lufiloveszet\lufiloveszet\lufiloveszet\obj\Debug\lufiloveszet.csproj.GenerateResource.cache
+c:\Users\Tanár\Downloads\csharp\CSharp programozás\céllövölde játék készítése\lufiloveszet\lufiloveszet\lufiloveszet\obj\Debug\lufiloveszet.csproj.CoreCompileInputs.cache
+c:\Users\Tanár\Downloads\csharp\CSharp programozás\céllövölde játék készítése\lufiloveszet\lufiloveszet\lufiloveszet\obj\Debug\lufiloveszet.exe
+c:\Users\Tanár\Downloads\csharp\CSharp programozás\céllövölde játék készítése\lufiloveszet\lufiloveszet\lufiloveszet\obj\Debug\lufiloveszet.pdb

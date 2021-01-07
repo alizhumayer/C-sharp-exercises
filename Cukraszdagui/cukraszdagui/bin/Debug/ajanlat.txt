@@ -1,0 +1,107 @@
+Sajttorta (málnás);9000;12 szeletes
+Citrom;3900;8 szeletes
+Citrom;7400;16 szeletes
+Citrom;11400;24 szeletes
+Legényfogó;12100;24 szeletes
+Legényfogó;4300;8 szeletes
+Legényfogó;8200;16 szeletes
+Három kívánság;5700;8 szeletes
+Három kívánság;5700;8 szeletes
+Dobos;9000;16 szeletes
+Dobos;13200;24 szeletes
+Dobos;4700;8 szeletes
+Csokoládémousse;11400;24 szeletes
+Csokoládémousse;3900;8 szeletes
+Csokoládémousse;7400;16 szeletes
+Oroszkrém;8200;16 szeletes
+Oroszkrém;4300;8 szeletes
+Oroszkrém;12100;24 szeletes
+Trüffel;15400;24 szeletes
+Trüffel;10400;16 szeletes
+Trüffel;5400;8 szeletes
+Tejszínes gyümölcsös (meggy);8200;16 szeletes
+Tejszínes gyümölcsös (meggy);4300;8 szeletes
+Tejszínes gyümölcsös (meggy);12100;24 szeletes
+Sós karamella;4700;8 szeletes
+Sós karamella;13200;24 szeletes
+Sós karamella;9000;16 szeletes
+Rigó Jancsi;3900;8 szeletes
+Rigó Jancsi;7400;16 szeletes
+Rigó Jancsi;11400;24 szeletes
+Tejszínes gyümölcsös (erdei gyümölcs);4300;8 szeletes
+Tejszínes gyümölcsös (erdei gyümölcs);8200;16 szeletes
+Tejszínes gyümölcsös (erdei gyümölcs);12100;24 szeletes
+Ez+Az (csokoládé és gesztenye);13200;24 szeletes
+Ez+Az (csokoládé és gesztenye);9000;16 szeletes
+Ez+Az (csokoládé és gesztenye);4700;8 szeletes
+Málnás mascarpone;5700;8 szeletes
+Málnás mascarpone;16200;24 szeletes
+Málnás mascarpone;10900;16 szeletes
+Ferrero;16200;24 szeletes
+Ferrero;10900;16 szeletes
+Ferrero;5700;8 szeletes
+Csokoládémousse fényes csokoládéval;13400;24 szeletes
+Csokoládémousse fényes csokoládéval;9200;16 szeletes
+Csokoládémousse fényes csokoládéval;4900;8 szeletes
+Lúdláb;13200;24 szeletes
+Lúdláb;9000;16 szeletes
+Lúdláb;4700;8 szeletes
+Sacher;8200;16 szeletes
+Sacher;12100;24 szeletes
+Sacher;4300;8 szeletes
+Eszterházy;8400;16 szeletes
+Eszterházy;12200;24 szeletes
+Eszterházy;4500;8 szeletes
+Pisztáciás-málnás mascarpone;18400;24 szeletes
+Pisztáciás-málnás mascarpone;6400;8 szeletes
+Pisztáciás-málnás mascarpone;12400;16 szeletes
+Túrókrém gyümölccsel;7400;16 szeletes
+Túrókrém gyümölccsel;3900;8 szeletes
+Túrókrém gyümölccsel;11400;24 szeletes
+Somlói;5400;8 szeletes
+Palermo;7400;16 szeletes
+Palermo;3900;8 szeletes
+Palermo;11400;24 szeletes
+Ünnepi diótorta grillázzsal;10900;16 szeletes
+Ünnepi diótorta grillázzsal;5700;8 szeletes
+Ünnepi diótorta grillázzsal;16200;24 szeletes
+Tejszínes gyümölcsös (málna);8200;16 szeletes
+Tejszínes gyümölcsös (málna);4300;8 szeletes
+Tejszínes gyümölcsös (málna);12100;24 szeletes
+Marcipános csokoládé;5700;8 szeletes
+Marcipános csokoládé;16200;24 szeletes
+Marcipános csokoládé;10900;16 szeletes
+Szedres csokoládé;13200;24 szeletes
+Szedres csokoládé;9000;16 szeletes
+Szedres csokoládé;4700;8 szeletes
+Mézeskalács;16200;24 szeletes
+Mézeskalács;5700;8 szeletes
+Mézeskalács;10900;16 szeletes
+Tiramisu;10400;16 szeletes
+Tiramisu;15400;24 szeletes
+Tiramisu;5400;8 szeletes
+Zalavári gesztenye;10900;16 szeletes
+Zalavári gesztenye;5700;8 szeletes
+Danubius;4300;8 szeletes
+Danubius;12100;24 szeletes
+Danubius;8200;16 szeletes
+Alpesi karamell;12200;24 szeletes
+Alpesi karamell;8400;16 szeletes
+Alpesi karamell;4500;8 szeletes
+Puncs;11400;24 szeletes
+Puncs;3900;8 szeletes
+Puncs;7400;16 szeletes
+Oreo;16200;24 szeletes
+Oreo;5700;8 szeletes
+Oreo;10900;16 szeletes
+Vintage;9900;16 szeletes
+Feketeerdő;9000;16 szeletes
+Feketeerdő;13200;24 szeletes
+Feketeerdő;4700;8 szeletes
+Rákóczi-túrós;3900;8 szeletes
+Rákóczi-túrós;7400;16 szeletes
+Rákóczi-túrós;11400;24 szeletes
+Dió;4700;8 szeletes
+Dió;9000;16 szeletes
+Dió;13200;24 szeletes
+Mákos guba;4700;8 szeletes

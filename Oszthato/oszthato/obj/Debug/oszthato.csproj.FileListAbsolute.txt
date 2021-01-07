@@ -1,0 +1,19 @@
+Z:\C#\2017_09_25\oszthato\oszthato\bin\Debug\oszthato.exe.config
+Z:\C#\2017_09_25\oszthato\oszthato\bin\Debug\oszthato.exe
+Z:\C#\2017_09_25\oszthato\oszthato\bin\Debug\oszthato.pdb
+Z:\C#\2017_09_25\oszthato\oszthato\obj\Debug\oszthato.csprojResolveAssemblyReference.cache
+Z:\C#\2017_09_25\oszthato\oszthato\obj\Debug\oszthato.Form1.resources
+Z:\C#\2017_09_25\oszthato\oszthato\obj\Debug\oszthato.Properties.Resources.resources
+Z:\C#\2017_09_25\oszthato\oszthato\obj\Debug\oszthato.csproj.GenerateResource.Cache
+Z:\C#\2017_09_25\oszthato\oszthato\obj\Debug\oszthato.exe
+Z:\C#\2017_09_25\oszthato\oszthato\obj\Debug\oszthato.pdb
+C:\Users\AlizHumayer\Desktop\C sharp_mix\zoliCSharp\zoliCSharp\2017_09_25\oszthato\oszthato\bin\Debug\oszthato.exe.config
+C:\Users\AlizHumayer\Desktop\C sharp_mix\zoliCSharp\zoliCSharp\2017_09_25\oszthato\oszthato\bin\Debug\oszthato.exe
+C:\Users\AlizHumayer\Desktop\C sharp_mix\zoliCSharp\zoliCSharp\2017_09_25\oszthato\oszthato\bin\Debug\oszthato.pdb
+C:\Users\AlizHumayer\Desktop\C sharp_mix\zoliCSharp\zoliCSharp\2017_09_25\oszthato\oszthato\obj\Debug\oszthato.csprojAssemblyReference.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\zoliCSharp\zoliCSharp\2017_09_25\oszthato\oszthato\obj\Debug\oszthato.Form1.resources
+C:\Users\AlizHumayer\Desktop\C sharp_mix\zoliCSharp\zoliCSharp\2017_09_25\oszthato\oszthato\obj\Debug\oszthato.Properties.Resources.resources
+C:\Users\AlizHumayer\Desktop\C sharp_mix\zoliCSharp\zoliCSharp\2017_09_25\oszthato\oszthato\obj\Debug\oszthato.csproj.GenerateResource.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\zoliCSharp\zoliCSharp\2017_09_25\oszthato\oszthato\obj\Debug\oszthato.csproj.CoreCompileInputs.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\zoliCSharp\zoliCSharp\2017_09_25\oszthato\oszthato\obj\Debug\oszthato.exe
+C:\Users\AlizHumayer\Desktop\C sharp_mix\zoliCSharp\zoliCSharp\2017_09_25\oszthato\oszthato\obj\Debug\oszthato.pdb

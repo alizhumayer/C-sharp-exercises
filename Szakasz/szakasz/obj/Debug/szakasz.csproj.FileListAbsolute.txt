@@ -1,0 +1,36 @@
+C:\Users\Borsos Lajos\Downloads\szakasz\szakasz\szakasz\bin\Debug\szakasz.exe.config
+C:\Users\Borsos Lajos\Downloads\szakasz\szakasz\szakasz\bin\Debug\szakasz.exe
+C:\Users\Borsos Lajos\Downloads\szakasz\szakasz\szakasz\bin\Debug\szakasz.pdb
+C:\Users\Borsos Lajos\Downloads\szakasz\szakasz\szakasz\obj\Debug\szakasz.csprojResolveAssemblyReference.cache
+C:\Users\Borsos Lajos\Downloads\szakasz\szakasz\szakasz\obj\Debug\szakasz.Form1.resources
+C:\Users\Borsos Lajos\Downloads\szakasz\szakasz\szakasz\obj\Debug\szakasz.Properties.Resources.resources
+C:\Users\Borsos Lajos\Downloads\szakasz\szakasz\szakasz\obj\Debug\szakasz.csproj.GenerateResource.Cache
+C:\Users\Borsos Lajos\Downloads\szakasz\szakasz\szakasz\obj\Debug\szakasz.exe
+C:\Users\Borsos Lajos\Downloads\szakasz\szakasz\szakasz\obj\Debug\szakasz.pdb
+c:\Users\Borsos Lajos\Downloads\szakasz felezőpont\szakasz\szakasz\bin\Debug\szakasz.exe.config
+c:\Users\Borsos Lajos\Downloads\szakasz felezőpont\szakasz\szakasz\obj\Debug\szakasz.exe
+c:\Users\Borsos Lajos\Downloads\szakasz felezőpont\szakasz\szakasz\obj\Debug\szakasz.pdb
+c:\Users\Borsos Lajos\Downloads\szakasz felezőpont\szakasz\szakasz\bin\Debug\szakasz.exe
+c:\Users\Borsos Lajos\Downloads\szakasz felezőpont\szakasz\szakasz\bin\Debug\szakasz.pdb
+c:\Users\Borsos Lajos\Downloads\szakasz felezőpont\szakasz\szakasz\obj\Debug\szakasz.csprojResolveAssemblyReference.cache
+c:\Users\Borsos Lajos\Downloads\szakasz felezőpont\szakasz\szakasz\obj\Debug\szakasz.Form1.resources
+c:\Users\Borsos Lajos\Downloads\szakasz felezőpont\szakasz\szakasz\obj\Debug\szakasz.Properties.Resources.resources
+c:\Users\Borsos Lajos\Downloads\szakasz felezőpont\szakasz\szakasz\obj\Debug\szakasz.csproj.GenerateResource.Cache
+c:\Users\Borsos Lajos\Downloads\_háromszög oldalak\szakasz\szakasz\bin\Debug\szakasz.exe.config
+c:\Users\Borsos Lajos\Downloads\_háromszög oldalak\szakasz\szakasz\obj\Debug\szakasz.exe
+c:\Users\Borsos Lajos\Downloads\_háromszög oldalak\szakasz\szakasz\obj\Debug\szakasz.pdb
+c:\Users\Borsos Lajos\Downloads\_háromszög oldalak\szakasz\szakasz\bin\Debug\szakasz.exe
+c:\Users\Borsos Lajos\Downloads\_háromszög oldalak\szakasz\szakasz\bin\Debug\szakasz.pdb
+c:\Users\Borsos Lajos\Downloads\_háromszög oldalak\szakasz\szakasz\obj\Debug\szakasz.csprojResolveAssemblyReference.cache
+c:\Users\Borsos Lajos\Downloads\_háromszög oldalak\szakasz\szakasz\obj\Debug\szakasz.Form1.resources
+c:\Users\Borsos Lajos\Downloads\_háromszög oldalak\szakasz\szakasz\obj\Debug\szakasz.Properties.Resources.resources
+c:\Users\Borsos Lajos\Downloads\_háromszög oldalak\szakasz\szakasz\obj\Debug\szakasz.csproj.GenerateResource.Cache
+e:\_CSharp programok windows form\_háromszög oldalak\szakasz\szakasz\bin\Debug\szakasz.exe.config
+e:\_CSharp programok windows form\_háromszög oldalak\szakasz\szakasz\obj\Debug\szakasz.exe
+e:\_CSharp programok windows form\_háromszög oldalak\szakasz\szakasz\obj\Debug\szakasz.pdb
+e:\_CSharp programok windows form\_háromszög oldalak\szakasz\szakasz\obj\Debug\szakasz.csprojResolveAssemblyReference.cache
+e:\_CSharp programok windows form\_háromszög oldalak\szakasz\szakasz\obj\Debug\szakasz.Form1.resources
+e:\_CSharp programok windows form\_háromszög oldalak\szakasz\szakasz\obj\Debug\szakasz.Properties.Resources.resources
+e:\_CSharp programok windows form\_háromszög oldalak\szakasz\szakasz\obj\Debug\szakasz.csproj.GenerateResource.Cache
+e:\_CSharp programok windows form\_háromszög oldalak\szakasz\szakasz\bin\Debug\szakasz.exe
+e:\_CSharp programok windows form\_háromszög oldalak\szakasz\szakasz\bin\Debug\szakasz.pdb

@@ -1,0 +1,9 @@
+C:\Users\Borsos Lajos\Downloads\kalapácsvetés\kalapacsvetes2016\kalapacsvetes2016\bin\Debug\kalapacsvetes2016.exe.config
+C:\Users\Borsos Lajos\Downloads\kalapácsvetés\kalapacsvetes2016\kalapacsvetes2016\bin\Debug\kalapacsvetes2016.exe
+C:\Users\Borsos Lajos\Downloads\kalapácsvetés\kalapacsvetes2016\kalapacsvetes2016\bin\Debug\kalapacsvetes2016.pdb
+C:\Users\Borsos Lajos\Downloads\kalapácsvetés\kalapacsvetes2016\kalapacsvetes2016\obj\Debug\kalapacsvetes2016.csprojResolveAssemblyReference.cache
+C:\Users\Borsos Lajos\Downloads\kalapácsvetés\kalapacsvetes2016\kalapacsvetes2016\obj\Debug\kalapacsvetes2016.exe
+C:\Users\Borsos Lajos\Downloads\kalapácsvetés\kalapacsvetes2016\kalapacsvetes2016\obj\Debug\kalapacsvetes2016.pdb
+e:\Tananyag 2017-2018\órai megosztás 2\_12a\_kalapácsvetés\kalapácsvetés\kalapacsvetes2016\kalapacsvetes2016\bin\Debug\kalapacsvetes2016.exe.config
+e:\Tananyag 2017-2018\órai megosztás 2\_12a\_kalapácsvetés\kalapácsvetés\kalapacsvetes2016\kalapacsvetes2016\obj\Debug\kalapacsvetes2016.exe
+e:\Tananyag 2017-2018\órai megosztás 2\_12a\_kalapácsvetés\kalapácsvetés\kalapacsvetes2016\kalapacsvetes2016\obj\Debug\kalapacsvetes2016.pdb

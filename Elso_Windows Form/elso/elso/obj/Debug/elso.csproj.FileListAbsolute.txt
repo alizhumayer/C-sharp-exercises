@@ -1,0 +1,20 @@
+C:\Users\Eszti\source\elso\elso\bin\Debug\elso.exe.config
+C:\Users\Eszti\source\elso\elso\bin\Debug\elso.exe
+C:\Users\Eszti\source\elso\elso\bin\Debug\elso.pdb
+C:\Users\Eszti\source\elso\elso\obj\Debug\elso.csprojAssemblyReference.cache
+C:\Users\Eszti\source\elso\elso\obj\Debug\elso.Form1.resources
+C:\Users\Eszti\source\elso\elso\obj\Debug\elso.Properties.Resources.resources
+C:\Users\Eszti\source\elso\elso\obj\Debug\elso.csproj.GenerateResource.cache
+C:\Users\Eszti\source\elso\elso\obj\Debug\elso.csproj.CoreCompileInputs.cache
+C:\Users\Eszti\source\elso\elso\obj\Debug\elso.exe
+C:\Users\Eszti\source\elso\elso\obj\Debug\elso.pdb
+C:\Users\AlizHumayer\Desktop\C sharp órai programok\___ÓRAI_elso_Windows Form\elso\elso\bin\Debug\elso.exe.config
+C:\Users\AlizHumayer\Desktop\C sharp órai programok\___ÓRAI_elso_Windows Form\elso\elso\bin\Debug\elso.exe
+C:\Users\AlizHumayer\Desktop\C sharp órai programok\___ÓRAI_elso_Windows Form\elso\elso\bin\Debug\elso.pdb
+C:\Users\AlizHumayer\Desktop\C sharp órai programok\___ÓRAI_elso_Windows Form\elso\elso\obj\Debug\elso.csprojAssemblyReference.cache
+C:\Users\AlizHumayer\Desktop\C sharp órai programok\___ÓRAI_elso_Windows Form\elso\elso\obj\Debug\elso.Form1.resources
+C:\Users\AlizHumayer\Desktop\C sharp órai programok\___ÓRAI_elso_Windows Form\elso\elso\obj\Debug\elso.Properties.Resources.resources
+C:\Users\AlizHumayer\Desktop\C sharp órai programok\___ÓRAI_elso_Windows Form\elso\elso\obj\Debug\elso.csproj.GenerateResource.cache
+C:\Users\AlizHumayer\Desktop\C sharp órai programok\___ÓRAI_elso_Windows Form\elso\elso\obj\Debug\elso.csproj.CoreCompileInputs.cache
+C:\Users\AlizHumayer\Desktop\C sharp órai programok\___ÓRAI_elso_Windows Form\elso\elso\obj\Debug\elso.exe
+C:\Users\AlizHumayer\Desktop\C sharp órai programok\___ÓRAI_elso_Windows Form\elso\elso\obj\Debug\elso.pdb

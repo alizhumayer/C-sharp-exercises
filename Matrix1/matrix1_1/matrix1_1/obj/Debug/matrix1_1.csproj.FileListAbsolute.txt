@@ -1,0 +1,7 @@
+C:\Users\Eszti\source\matrix1_1\matrix1_1\bin\Debug\matrix1_1.exe.config
+C:\Users\Eszti\source\matrix1_1\matrix1_1\bin\Debug\matrix1_1.exe
+C:\Users\Eszti\source\matrix1_1\matrix1_1\bin\Debug\matrix1_1.pdb
+C:\Users\Eszti\source\matrix1_1\matrix1_1\obj\Debug\matrix1_1.csprojAssemblyReference.cache
+C:\Users\Eszti\source\matrix1_1\matrix1_1\obj\Debug\matrix1_1.csproj.CoreCompileInputs.cache
+C:\Users\Eszti\source\matrix1_1\matrix1_1\obj\Debug\matrix1_1.exe
+C:\Users\Eszti\source\matrix1_1\matrix1_1\obj\Debug\matrix1_1.pdb

@@ -1,0 +1,37 @@
+c:\users\acs.marcell\documents\visual studio 2015\Projects\beadando_v1\beadando_v1\bin\Debug\beadando_v1.exe.config
+c:\users\acs.marcell\documents\visual studio 2015\Projects\beadando_v1\beadando_v1\bin\Debug\beadando_v1.exe
+c:\users\acs.marcell\documents\visual studio 2015\Projects\beadando_v1\beadando_v1\bin\Debug\beadando_v1.pdb
+c:\users\acs.marcell\documents\visual studio 2015\Projects\beadando_v1\beadando_v1\obj\Debug\beadando_v1.csprojResolveAssemblyReference.cache
+c:\users\acs.marcell\documents\visual studio 2015\Projects\beadando_v1\beadando_v1\obj\Debug\beadando_v1.Form1.resources
+c:\users\acs.marcell\documents\visual studio 2015\Projects\beadando_v1\beadando_v1\obj\Debug\beadando_v1.Properties.Resources.resources
+c:\users\acs.marcell\documents\visual studio 2015\Projects\beadando_v1\beadando_v1\obj\Debug\beadando_v1.csproj.GenerateResource.Cache
+c:\users\acs.marcell\documents\visual studio 2015\Projects\beadando_v1\beadando_v1\obj\Debug\beadando_v1.exe
+c:\users\acs.marcell\documents\visual studio 2015\Projects\beadando_v1\beadando_v1\obj\Debug\beadando_v1.pdb
+D:\Szoftverfejlesztés\C win form gyak\_beadandó\beadando_v1\beadando_v1\bin\Debug\beadando_v1.exe.config
+D:\Szoftverfejlesztés\C win form gyak\_beadandó\beadando_v1\beadando_v1\obj\Debug\beadando_v1.exe
+D:\Szoftverfejlesztés\C win form gyak\_beadandó\beadando_v1\beadando_v1\obj\Debug\beadando_v1.pdb
+D:\Szoftverfejlesztés\C win form gyak\_beadandó\beadando_v1\beadando_v1\bin\Debug\beadando_v1.exe
+D:\Szoftverfejlesztés\C win form gyak\_beadandó\beadando_v1\beadando_v1\bin\Debug\beadando_v1.pdb
+D:\Szoftverfejlesztés\C win form gyak\_beadandó\beadando_v1\beadando_v1\obj\Debug\beadando_v1.csprojResolveAssemblyReference.cache
+D:\Szoftverfejlesztés\C win form gyak\_beadandó\beadando_v1\beadando_v1\obj\Debug\beadando_v1.Form1.resources
+D:\Szoftverfejlesztés\C win form gyak\_beadandó\beadando_v1\beadando_v1\obj\Debug\beadando_v1.Properties.Resources.resources
+D:\Szoftverfejlesztés\C win form gyak\_beadandó\beadando_v1\beadando_v1\obj\Debug\beadando_v1.csproj.GenerateResource.Cache
+C:\Users\ACS.MARCELL\Desktop\_beadandó\beadando_v1\beadando_v1\bin\Debug\beadando_v1.exe.config
+C:\Users\ACS.MARCELL\Desktop\_beadandó\beadando_v1\beadando_v1\obj\Debug\beadando_v1.exe
+C:\Users\ACS.MARCELL\Desktop\_beadandó\beadando_v1\beadando_v1\obj\Debug\beadando_v1.pdb
+C:\Users\ACS.MARCELL\Desktop\_beadandó\beadando_v1\beadando_v1\bin\Debug\beadando_v1.exe
+C:\Users\ACS.MARCELL\Desktop\_beadandó\beadando_v1\beadando_v1\bin\Debug\beadando_v1.pdb
+C:\Users\ACS.MARCELL\Desktop\_beadandó\beadando_v1\beadando_v1\obj\Debug\beadando_v1.csprojResolveAssemblyReference.cache
+C:\Users\ACS.MARCELL\Desktop\_beadandó\beadando_v1\beadando_v1\obj\Debug\beadando_v1.Form1.resources
+C:\Users\ACS.MARCELL\Desktop\_beadandó\beadando_v1\beadando_v1\obj\Debug\beadando_v1.Properties.Resources.resources
+C:\Users\ACS.MARCELL\Desktop\_beadandó\beadando_v1\beadando_v1\obj\Debug\beadando_v1.csproj.GenerateResource.Cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\e_beadando_v1\beadando_v1\beadando_v1\bin\Debug\beadando_v1.exe.config
+C:\Users\AlizHumayer\Desktop\C sharp_mix\e_beadando_v1\beadando_v1\beadando_v1\bin\Debug\beadando_v1.exe
+C:\Users\AlizHumayer\Desktop\C sharp_mix\e_beadando_v1\beadando_v1\beadando_v1\bin\Debug\beadando_v1.pdb
+C:\Users\AlizHumayer\Desktop\C sharp_mix\e_beadando_v1\beadando_v1\beadando_v1\obj\Debug\beadando_v1.csprojAssemblyReference.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\e_beadando_v1\beadando_v1\beadando_v1\obj\Debug\beadando_v1.Form1.resources
+C:\Users\AlizHumayer\Desktop\C sharp_mix\e_beadando_v1\beadando_v1\beadando_v1\obj\Debug\beadando_v1.Properties.Resources.resources
+C:\Users\AlizHumayer\Desktop\C sharp_mix\e_beadando_v1\beadando_v1\beadando_v1\obj\Debug\beadando_v1.csproj.GenerateResource.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\e_beadando_v1\beadando_v1\beadando_v1\obj\Debug\beadando_v1.csproj.CoreCompileInputs.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\e_beadando_v1\beadando_v1\beadando_v1\obj\Debug\beadando_v1.exe
+C:\Users\AlizHumayer\Desktop\C sharp_mix\e_beadando_v1\beadando_v1\beadando_v1\obj\Debug\beadando_v1.pdb

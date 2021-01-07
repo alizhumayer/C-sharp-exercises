@@ -1,0 +1,19 @@
+h:\2016\13e_11_30\13e_11_30\bin\Debug\13e_11_30.exe.config
+h:\2016\13e_11_30\13e_11_30\bin\Debug\13e_11_30.exe
+h:\2016\13e_11_30\13e_11_30\bin\Debug\13e_11_30.pdb
+h:\2016\13e_11_30\13e_11_30\obj\Debug\13e_11_30.csprojResolveAssemblyReference.cache
+h:\2016\13e_11_30\13e_11_30\obj\Debug\_13e_11_30.Form1.resources
+h:\2016\13e_11_30\13e_11_30\obj\Debug\_13e_11_30.Properties.Resources.resources
+h:\2016\13e_11_30\13e_11_30\obj\Debug\13e_11_30.csproj.GenerateResource.Cache
+h:\2016\13e_11_30\13e_11_30\obj\Debug\13e_11_30.exe
+h:\2016\13e_11_30\13e_11_30\obj\Debug\13e_11_30.pdb
+C:\Users\AlizHumayer\Desktop\C sharp_mix\161130szamrendszerek_tanari\161130szamrendszerek_tanari\13e_11_30\13e_11_30\bin\Debug\13e_11_30.exe.config
+C:\Users\AlizHumayer\Desktop\C sharp_mix\161130szamrendszerek_tanari\161130szamrendszerek_tanari\13e_11_30\13e_11_30\bin\Debug\13e_11_30.exe
+C:\Users\AlizHumayer\Desktop\C sharp_mix\161130szamrendszerek_tanari\161130szamrendszerek_tanari\13e_11_30\13e_11_30\bin\Debug\13e_11_30.pdb
+C:\Users\AlizHumayer\Desktop\C sharp_mix\161130szamrendszerek_tanari\161130szamrendszerek_tanari\13e_11_30\13e_11_30\obj\Debug\13e_11_30.csprojAssemblyReference.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\161130szamrendszerek_tanari\161130szamrendszerek_tanari\13e_11_30\13e_11_30\obj\Debug\_13e_11_30.Form1.resources
+C:\Users\AlizHumayer\Desktop\C sharp_mix\161130szamrendszerek_tanari\161130szamrendszerek_tanari\13e_11_30\13e_11_30\obj\Debug\_13e_11_30.Properties.Resources.resources
+C:\Users\AlizHumayer\Desktop\C sharp_mix\161130szamrendszerek_tanari\161130szamrendszerek_tanari\13e_11_30\13e_11_30\obj\Debug\13e_11_30.csproj.GenerateResource.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\161130szamrendszerek_tanari\161130szamrendszerek_tanari\13e_11_30\13e_11_30\obj\Debug\13e_11_30.csproj.CoreCompileInputs.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\161130szamrendszerek_tanari\161130szamrendszerek_tanari\13e_11_30\13e_11_30\obj\Debug\13e_11_30.exe
+C:\Users\AlizHumayer\Desktop\C sharp_mix\161130szamrendszerek_tanari\161130szamrendszerek_tanari\13e_11_30\13e_11_30\obj\Debug\13e_11_30.pdb

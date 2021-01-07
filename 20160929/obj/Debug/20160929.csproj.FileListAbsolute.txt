@@ -1,0 +1,29 @@
+D:\esti_szoftfejl\2_1\csharp\20160929\20160929\bin\Debug\20160929.exe.config
+D:\esti_szoftfejl\2_1\csharp\20160929\20160929\bin\Debug\20160929.exe
+D:\esti_szoftfejl\2_1\csharp\20160929\20160929\bin\Debug\20160929.pdb
+D:\esti_szoftfejl\2_1\csharp\20160929\20160929\obj\Debug\20160929.csprojResolveAssemblyReference.cache
+D:\esti_szoftfejl\2_1\csharp\20160929\20160929\obj\Debug\_20160929.Form1.resources
+D:\esti_szoftfejl\2_1\csharp\20160929\20160929\obj\Debug\_20160929.Properties.Resources.resources
+D:\esti_szoftfejl\2_1\csharp\20160929\20160929\obj\Debug\20160929.csproj.GenerateResource.Cache
+D:\esti_szoftfejl\2_1\csharp\20160929\20160929\obj\Debug\20160929.exe
+D:\esti_szoftfejl\2_1\csharp\20160929\20160929\obj\Debug\20160929.pdb
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20160929\20160929\bin\Debug\20160929.exe.config
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20160929\20160929\bin\Debug\20160929.exe
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20160929\20160929\bin\Debug\20160929.pdb
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20160929\20160929\obj\Debug\20160929.csprojAssemblyReference.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20160929\20160929\obj\Debug\_20160929.Form1.resources
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20160929\20160929\obj\Debug\_20160929.Properties.Resources.resources
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20160929\20160929\obj\Debug\20160929.csproj.GenerateResource.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20160929\20160929\obj\Debug\20160929.csproj.CoreCompileInputs.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20160929\20160929\obj\Debug\20160929.exe
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20160929\20160929\obj\Debug\20160929.pdb
+C:\Users\AlizHumayer\Desktop\PROGRAMOZÁS_VIZSGA FELADATOK\Halak és fogások_Windows form\20160929\bin\Debug\20160929.exe.config
+C:\Users\AlizHumayer\Desktop\PROGRAMOZÁS_VIZSGA FELADATOK\Halak és fogások_Windows form\20160929\bin\Debug\20160929.exe
+C:\Users\AlizHumayer\Desktop\PROGRAMOZÁS_VIZSGA FELADATOK\Halak és fogások_Windows form\20160929\bin\Debug\20160929.pdb
+C:\Users\AlizHumayer\Desktop\PROGRAMOZÁS_VIZSGA FELADATOK\Halak és fogások_Windows form\20160929\obj\Debug\20160929.csprojAssemblyReference.cache
+C:\Users\AlizHumayer\Desktop\PROGRAMOZÁS_VIZSGA FELADATOK\Halak és fogások_Windows form\20160929\obj\Debug\_20160929.Form1.resources
+C:\Users\AlizHumayer\Desktop\PROGRAMOZÁS_VIZSGA FELADATOK\Halak és fogások_Windows form\20160929\obj\Debug\_20160929.Properties.Resources.resources
+C:\Users\AlizHumayer\Desktop\PROGRAMOZÁS_VIZSGA FELADATOK\Halak és fogások_Windows form\20160929\obj\Debug\20160929.csproj.GenerateResource.cache
+C:\Users\AlizHumayer\Desktop\PROGRAMOZÁS_VIZSGA FELADATOK\Halak és fogások_Windows form\20160929\obj\Debug\20160929.csproj.CoreCompileInputs.cache
+C:\Users\AlizHumayer\Desktop\PROGRAMOZÁS_VIZSGA FELADATOK\Halak és fogások_Windows form\20160929\obj\Debug\20160929.exe
+C:\Users\AlizHumayer\Desktop\PROGRAMOZÁS_VIZSGA FELADATOK\Halak és fogások_Windows form\20160929\obj\Debug\20160929.pdb

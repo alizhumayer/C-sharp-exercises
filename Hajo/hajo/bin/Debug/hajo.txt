@@ -1,0 +1,40 @@
+7,Durbincs,WIN-22,5,24000
+2,Pille,B24,6,28000
+13,Szello,B16,4,24000
+32,Nana,B32,6,28000
+4,Hableany,B31,8,32000
+9,Tikk-takk,Kaloz,2,7500
+18,Szamuraj,Enter 36,11,56000
+28,Hullam,Malu 30,7,41000
+27,Vocsok II,Neptun,4,25000
+40,Avar,Cadet,3,13000
+15,HUN-163 ,Kaloz,2,7500
+33,HUN-113 ,Kaloz,2,7500
+39,HUN-110 ,Kaloz,2,7500
+20,HUN-115 ,Kaloz,2,7500
+5,HUN-17 ,Kaloz,2,7000
+1,HUN-20 ,Kaloz,2,7500
+29,HUN-328 ,Kaloz,2,7500
+34,HUN-14 ,Kaloz,2,6800
+38,HUN-11 ,Kaloz,2,7000
+31,HUN-181 ,Kaloz,2,7500
+16,Adria,B24,6,28000
+24,Gyongyhalasz,WIN-22,5,24000
+3,Vihar,Cadet,3,15000
+22,Sello,B16,4,24000
+12,Bíbic,Cadet,3,13000
+21,Neptun,Malu 30,7,39000
+23,Nemo,B16,4,24000
+26,Willy,Cadet,3,13000
+19,Zeusz,Cadet,3,13000
+10,Serv,WIN-22,5,24000
+35,Szaturnusz,B31,8,41000
+25,Dorgicse,B24,6,28000
+17,orias,Enter 36,11,56000
+14,Tunde,B31,8,41000
+37,Esthajnal,B16,4,24000
+11,Fortuna,Kaloz,2,7500
+8,Furia,Cadet,3,13000
+6,Kishamis,WIN-22,5,24000
+36,Karcos,B16,4,24000
+30,Szeltolo,B16,4,24000

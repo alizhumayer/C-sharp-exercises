@@ -1,0 +1,22 @@
+c:\users\acs.marcell\documents\visual studio 2015\Projects\160322WebBrowser\160322WebBrowser\bin\Debug\160322WebBrowser.exe.config
+c:\users\acs.marcell\documents\visual studio 2015\Projects\160322WebBrowser\160322WebBrowser\bin\Debug\160322WebBrowser.exe
+c:\users\acs.marcell\documents\visual studio 2015\Projects\160322WebBrowser\160322WebBrowser\bin\Debug\160322WebBrowser.pdb
+c:\users\acs.marcell\documents\visual studio 2015\Projects\160322WebBrowser\160322WebBrowser\obj\Debug\_160322WebBrowser.Form1.resources
+c:\users\acs.marcell\documents\visual studio 2015\Projects\160322WebBrowser\160322WebBrowser\obj\Debug\_160322WebBrowser.Properties.Resources.resources
+c:\users\acs.marcell\documents\visual studio 2015\Projects\160322WebBrowser\160322WebBrowser\obj\Debug\160322WebBrowser.csproj.GenerateResource.Cache
+c:\users\acs.marcell\documents\visual studio 2015\Projects\160322WebBrowser\160322WebBrowser\obj\Debug\160322WebBrowser.exe
+c:\users\acs.marcell\documents\visual studio 2015\Projects\160322WebBrowser\160322WebBrowser\obj\Debug\160322WebBrowser.pdb
+c:\users\acs.marcell\documents\visual studio 2015\Projects\160322WebBrowser\160322WebBrowser\obj\Debug\160322WebBrowser.csprojResolveAssemblyReference.cache
+D:\Szoftverfejlesztés\C win form gyak\_3. félév\20160322\160322WebBrowser\160322WebBrowser\bin\Debug\160322WebBrowser.exe.config
+D:\Szoftverfejlesztés\C win form gyak\_3. félév\20160322\160322WebBrowser\160322WebBrowser\obj\Debug\160322WebBrowser.exe
+D:\Szoftverfejlesztés\C win form gyak\_3. félév\20160322\160322WebBrowser\160322WebBrowser\obj\Debug\160322WebBrowser.pdb
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20160322\20160322\160322WebBrowser\160322WebBrowser\bin\Debug\160322WebBrowser.exe.config
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20160322\20160322\160322WebBrowser\160322WebBrowser\bin\Debug\160322WebBrowser.exe
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20160322\20160322\160322WebBrowser\160322WebBrowser\bin\Debug\160322WebBrowser.pdb
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20160322\20160322\160322WebBrowser\160322WebBrowser\obj\Debug\160322WebBrowser.csprojAssemblyReference.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20160322\20160322\160322WebBrowser\160322WebBrowser\obj\Debug\_160322WebBrowser.Form1.resources
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20160322\20160322\160322WebBrowser\160322WebBrowser\obj\Debug\_160322WebBrowser.Properties.Resources.resources
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20160322\20160322\160322WebBrowser\160322WebBrowser\obj\Debug\160322WebBrowser.csproj.GenerateResource.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20160322\20160322\160322WebBrowser\160322WebBrowser\obj\Debug\160322WebBrowser.csproj.CoreCompileInputs.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20160322\20160322\160322WebBrowser\160322WebBrowser\obj\Debug\160322WebBrowser.exe
+C:\Users\AlizHumayer\Desktop\C sharp_mix\20160322\20160322\160322WebBrowser\160322WebBrowser\obj\Debug\160322WebBrowser.pdb

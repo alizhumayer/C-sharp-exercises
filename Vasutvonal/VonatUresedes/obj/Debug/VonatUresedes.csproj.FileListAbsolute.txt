@@ -1,0 +1,6 @@
+C:\Users\ACS.MARCELL\Desktop\csharp\VonatUresedes\VonatUresedes\bin\Debug\VonatUresedes.exe.config
+C:\Users\ACS.MARCELL\Desktop\csharp\VonatUresedes\VonatUresedes\bin\Debug\VonatUresedes.exe
+C:\Users\ACS.MARCELL\Desktop\csharp\VonatUresedes\VonatUresedes\bin\Debug\VonatUresedes.pdb
+C:\Users\ACS.MARCELL\Desktop\csharp\VonatUresedes\VonatUresedes\obj\Debug\VonatUresedes.csprojResolveAssemblyReference.cache
+C:\Users\ACS.MARCELL\Desktop\csharp\VonatUresedes\VonatUresedes\obj\Debug\VonatUresedes.exe
+C:\Users\ACS.MARCELL\Desktop\csharp\VonatUresedes\VonatUresedes\obj\Debug\VonatUresedes.pdb

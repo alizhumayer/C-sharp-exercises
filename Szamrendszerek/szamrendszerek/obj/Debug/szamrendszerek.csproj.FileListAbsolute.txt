@@ -1,0 +1,19 @@
+c:\users\acs.marcell\documents\visual studio 2015\Projects\szamrendszerek\szamrendszerek\bin\Debug\szamrendszerek.exe.config
+c:\users\acs.marcell\documents\visual studio 2015\Projects\szamrendszerek\szamrendszerek\bin\Debug\szamrendszerek.exe
+c:\users\acs.marcell\documents\visual studio 2015\Projects\szamrendszerek\szamrendszerek\bin\Debug\szamrendszerek.pdb
+c:\users\acs.marcell\documents\visual studio 2015\Projects\szamrendszerek\szamrendszerek\obj\Debug\szamrendszerek.csprojResolveAssemblyReference.cache
+c:\users\acs.marcell\documents\visual studio 2015\Projects\szamrendszerek\szamrendszerek\obj\Debug\szamrendszerek.Form1.resources
+c:\users\acs.marcell\documents\visual studio 2015\Projects\szamrendszerek\szamrendszerek\obj\Debug\szamrendszerek.Properties.Resources.resources
+c:\users\acs.marcell\documents\visual studio 2015\Projects\szamrendszerek\szamrendszerek\obj\Debug\szamrendszerek.csproj.GenerateResource.Cache
+c:\users\acs.marcell\documents\visual studio 2015\Projects\szamrendszerek\szamrendszerek\obj\Debug\szamrendszerek.exe
+c:\users\acs.marcell\documents\visual studio 2015\Projects\szamrendszerek\szamrendszerek\obj\Debug\szamrendszerek.pdb
+C:\Users\AlizHumayer\Desktop\C sharp_mix\161130szamrendszerek\161130szamrendszerek\szamrendszerek\bin\Debug\szamrendszerek.exe.config
+C:\Users\AlizHumayer\Desktop\C sharp_mix\161130szamrendszerek\161130szamrendszerek\szamrendszerek\bin\Debug\szamrendszerek.exe
+C:\Users\AlizHumayer\Desktop\C sharp_mix\161130szamrendszerek\161130szamrendszerek\szamrendszerek\bin\Debug\szamrendszerek.pdb
+C:\Users\AlizHumayer\Desktop\C sharp_mix\161130szamrendszerek\161130szamrendszerek\szamrendszerek\obj\Debug\szamrendszerek.csprojAssemblyReference.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\161130szamrendszerek\161130szamrendszerek\szamrendszerek\obj\Debug\szamrendszerek.Form1.resources
+C:\Users\AlizHumayer\Desktop\C sharp_mix\161130szamrendszerek\161130szamrendszerek\szamrendszerek\obj\Debug\szamrendszerek.Properties.Resources.resources
+C:\Users\AlizHumayer\Desktop\C sharp_mix\161130szamrendszerek\161130szamrendszerek\szamrendszerek\obj\Debug\szamrendszerek.csproj.GenerateResource.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\161130szamrendszerek\161130szamrendszerek\szamrendszerek\obj\Debug\szamrendszerek.csproj.CoreCompileInputs.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\161130szamrendszerek\161130szamrendszerek\szamrendszerek\obj\Debug\szamrendszerek.exe
+C:\Users\AlizHumayer\Desktop\C sharp_mix\161130szamrendszerek\161130szamrendszerek\szamrendszerek\obj\Debug\szamrendszerek.pdb

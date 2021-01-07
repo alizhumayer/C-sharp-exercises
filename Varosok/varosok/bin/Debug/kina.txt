@@ -1,0 +1,13 @@
+város;népesség
+Shanghai;23,740778
+
+Beijing;20,383994
+
+Chongqing;13,331579
+
+Guangzhou;12,45813
+
+Tianjin;11,210329
+
+Shenzhen;10,749473
+

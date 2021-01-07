@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nov26_matrixmuvelet", "Nov26_matrixmuvelet\Nov26_matrixmuvelet.csproj", "{A01AB8F2-F5BD-4E72-8760-A47E3ADD301F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A01AB8F2-F5BD-4E72-8760-A47E3ADD301F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A01AB8F2-F5BD-4E72-8760-A47E3ADD301F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A01AB8F2-F5BD-4E72-8760-A47E3ADD301F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A01AB8F2-F5BD-4E72-8760-A47E3ADD301F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {207C0B80-C916-459C-88E5-AFE61F26DF70}
+	EndGlobalSection
+EndGlobal

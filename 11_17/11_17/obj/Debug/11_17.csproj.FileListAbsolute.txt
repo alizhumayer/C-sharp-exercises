@@ -1,0 +1,20 @@
+C:\Users\zaletnyik.peter\Desktop\11_17\11_17\bin\Debug\11_17.exe.config
+C:\Users\zaletnyik.peter\Desktop\11_17\11_17\bin\Debug\11_17.exe
+C:\Users\zaletnyik.peter\Desktop\11_17\11_17\bin\Debug\11_17.pdb
+C:\Users\zaletnyik.peter\Desktop\11_17\11_17\obj\Debug\11_17.csprojResolveAssemblyReference.cache
+C:\Users\zaletnyik.peter\Desktop\11_17\11_17\obj\Debug\11_17.exe
+C:\Users\zaletnyik.peter\Desktop\11_17\11_17\obj\Debug\11_17.pdb
+C:\Users\AlizHumayer\Desktop\C sharp_mix\11_17\11_17\11_17\bin\Debug\11_17.exe.config
+C:\Users\AlizHumayer\Desktop\C sharp_mix\11_17\11_17\11_17\bin\Debug\11_17.exe
+C:\Users\AlizHumayer\Desktop\C sharp_mix\11_17\11_17\11_17\bin\Debug\11_17.pdb
+C:\Users\AlizHumayer\Desktop\C sharp_mix\11_17\11_17\11_17\obj\Debug\11_17.csprojAssemblyReference.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\11_17\11_17\11_17\obj\Debug\11_17.csproj.CoreCompileInputs.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\11_17\11_17\11_17\obj\Debug\11_17.exe
+C:\Users\AlizHumayer\Desktop\C sharp_mix\11_17\11_17\11_17\obj\Debug\11_17.pdb
+C:\Users\AlizHumayer\Desktop\C sharp new programs Githubra\11_17\11_17\bin\Debug\11_17.exe.config
+C:\Users\AlizHumayer\Desktop\C sharp new programs Githubra\11_17\11_17\bin\Debug\11_17.exe
+C:\Users\AlizHumayer\Desktop\C sharp new programs Githubra\11_17\11_17\bin\Debug\11_17.pdb
+C:\Users\AlizHumayer\Desktop\C sharp new programs Githubra\11_17\11_17\obj\Debug\11_17.csprojAssemblyReference.cache
+C:\Users\AlizHumayer\Desktop\C sharp new programs Githubra\11_17\11_17\obj\Debug\11_17.csproj.CoreCompileInputs.cache
+C:\Users\AlizHumayer\Desktop\C sharp new programs Githubra\11_17\11_17\obj\Debug\11_17.exe
+C:\Users\AlizHumayer\Desktop\C sharp new programs Githubra\11_17\11_17\obj\Debug\11_17.pdb

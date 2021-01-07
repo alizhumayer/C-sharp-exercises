@@ -1,0 +1,6 @@
+C:\Users\Borsos Lajos\Downloads\telepulesek\telepulesek\telepulesek\bin\Debug\telepulesek.exe.config
+C:\Users\Borsos Lajos\Downloads\telepulesek\telepulesek\telepulesek\bin\Debug\telepulesek.exe
+C:\Users\Borsos Lajos\Downloads\telepulesek\telepulesek\telepulesek\bin\Debug\telepulesek.pdb
+C:\Users\Borsos Lajos\Downloads\telepulesek\telepulesek\telepulesek\obj\Debug\telepulesek.csprojResolveAssemblyReference.cache
+C:\Users\Borsos Lajos\Downloads\telepulesek\telepulesek\telepulesek\obj\Debug\telepulesek.exe
+C:\Users\Borsos Lajos\Downloads\telepulesek\telepulesek\telepulesek\obj\Debug\telepulesek.pdb

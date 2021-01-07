@@ -1,0 +1,28 @@
+c:\users\acs.marcell\documents\visual studio 2015\Projects\atlaghomerseklet\atlaghomerseklet\bin\Debug\atlaghomerseklet.exe.config
+c:\users\acs.marcell\documents\visual studio 2015\Projects\atlaghomerseklet\atlaghomerseklet\obj\Debug\atlaghomerseklet.csprojResolveAssemblyReference.cache
+c:\users\acs.marcell\documents\visual studio 2015\Projects\atlaghomerseklet\atlaghomerseklet\obj\Debug\atlaghomerseklet.Form1.resources
+c:\users\acs.marcell\documents\visual studio 2015\Projects\atlaghomerseklet\atlaghomerseklet\obj\Debug\atlaghomerseklet.Properties.Resources.resources
+c:\users\acs.marcell\documents\visual studio 2015\Projects\atlaghomerseklet\atlaghomerseklet\obj\Debug\atlaghomerseklet.csproj.GenerateResource.Cache
+c:\users\acs.marcell\documents\visual studio 2015\Projects\atlaghomerseklet\atlaghomerseklet\bin\Debug\atlaghomerseklet.exe
+c:\users\acs.marcell\documents\visual studio 2015\Projects\atlaghomerseklet\atlaghomerseklet\bin\Debug\atlaghomerseklet.pdb
+c:\users\acs.marcell\documents\visual studio 2015\Projects\atlaghomerseklet\atlaghomerseklet\obj\Debug\atlaghomerseklet.exe
+c:\users\acs.marcell\documents\visual studio 2015\Projects\atlaghomerseklet\atlaghomerseklet\obj\Debug\atlaghomerseklet.pdb
+C:\Users\marcusek\Desktop\CSharp 2. félév\atlaghomerseklet\atlaghomerseklet\bin\Debug\atlaghomerseklet.exe.config
+C:\Users\marcusek\Desktop\CSharp 2. félév\atlaghomerseklet\atlaghomerseklet\obj\Debug\atlaghomerseklet.exe
+C:\Users\marcusek\Desktop\CSharp 2. félév\atlaghomerseklet\atlaghomerseklet\obj\Debug\atlaghomerseklet.pdb
+C:\Users\marcusek\Desktop\CSharp 2. félév\atlaghomerseklet\atlaghomerseklet\bin\Debug\atlaghomerseklet.exe
+C:\Users\marcusek\Desktop\CSharp 2. félév\atlaghomerseklet\atlaghomerseklet\bin\Debug\atlaghomerseklet.pdb
+C:\Users\marcusek\Desktop\CSharp 2. félév\atlaghomerseklet\atlaghomerseklet\obj\Debug\atlaghomerseklet.csprojResolveAssemblyReference.cache
+C:\Users\marcusek\Desktop\CSharp 2. félév\atlaghomerseklet\atlaghomerseklet\obj\Debug\atlaghomerseklet.Form1.resources
+C:\Users\marcusek\Desktop\CSharp 2. félév\atlaghomerseklet\atlaghomerseklet\obj\Debug\atlaghomerseklet.Properties.Resources.resources
+C:\Users\marcusek\Desktop\CSharp 2. félév\atlaghomerseklet\atlaghomerseklet\obj\Debug\atlaghomerseklet.csproj.GenerateResource.Cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\atlaghomerseklet\atlaghomerseklet\atlaghomerseklet\bin\Debug\atlaghomerseklet.exe.config
+C:\Users\AlizHumayer\Desktop\C sharp_mix\atlaghomerseklet\atlaghomerseklet\atlaghomerseklet\bin\Debug\atlaghomerseklet.exe
+C:\Users\AlizHumayer\Desktop\C sharp_mix\atlaghomerseklet\atlaghomerseklet\atlaghomerseklet\bin\Debug\atlaghomerseklet.pdb
+C:\Users\AlizHumayer\Desktop\C sharp_mix\atlaghomerseklet\atlaghomerseklet\atlaghomerseklet\obj\Debug\atlaghomerseklet.csprojAssemblyReference.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\atlaghomerseklet\atlaghomerseklet\atlaghomerseklet\obj\Debug\atlaghomerseklet.Form1.resources
+C:\Users\AlizHumayer\Desktop\C sharp_mix\atlaghomerseklet\atlaghomerseklet\atlaghomerseklet\obj\Debug\atlaghomerseklet.Properties.Resources.resources
+C:\Users\AlizHumayer\Desktop\C sharp_mix\atlaghomerseklet\atlaghomerseklet\atlaghomerseklet\obj\Debug\atlaghomerseklet.csproj.GenerateResource.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\atlaghomerseklet\atlaghomerseklet\atlaghomerseklet\obj\Debug\atlaghomerseklet.csproj.CoreCompileInputs.cache
+C:\Users\AlizHumayer\Desktop\C sharp_mix\atlaghomerseklet\atlaghomerseklet\atlaghomerseklet\obj\Debug\atlaghomerseklet.exe
+C:\Users\AlizHumayer\Desktop\C sharp_mix\atlaghomerseklet\atlaghomerseklet\atlaghomerseklet\obj\Debug\atlaghomerseklet.pdb

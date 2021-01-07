@@ -1,0 +1,7 @@
+C:\Users\Tanár\Downloads\kemiai\kemia\kemia\bin\Debug\kemia.exe.config
+C:\Users\Tanár\Downloads\kemiai\kemia\kemia\bin\Debug\kemia.exe
+C:\Users\Tanár\Downloads\kemiai\kemia\kemia\bin\Debug\kemia.pdb
+C:\Users\Tanár\Downloads\kemiai\kemia\kemia\obj\Debug\kemia.csprojAssemblyReference.cache
+C:\Users\Tanár\Downloads\kemiai\kemia\kemia\obj\Debug\kemia.csproj.CoreCompileInputs.cache
+C:\Users\Tanár\Downloads\kemiai\kemia\kemia\obj\Debug\kemia.exe
+C:\Users\Tanár\Downloads\kemiai\kemia\kemia\obj\Debug\kemia.pdb
